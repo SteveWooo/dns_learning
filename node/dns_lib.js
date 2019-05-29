@@ -30,8 +30,10 @@ function buildHeader(options, bits){
 	*/
 	bits.push(0);
 	bits.push(0);
+
 	bits.push(0);
 	bits.push(0);
+	
 	bits.push(0);
 	bits.push(0);
 	return bits;
