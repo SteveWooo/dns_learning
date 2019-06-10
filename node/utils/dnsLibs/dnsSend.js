@@ -93,7 +93,7 @@ function convertBitsToBuffer(options, bits){
 	return buf;
 }
 
-exports.buildPackage = async function(options){
+exports.buildPackage = async function(swc, options){
 	/**
 	* 因为Buffer.write是要传一个字符串，然后他再转换成ascii码，然后再变成二进制码发出去
 	* 所以这里要把他们先弄成一个一个bit，放进bits
