@@ -6,4 +6,10 @@
 
 module.exports = async function(swc, options){
 	console.log(options);
+	/**
+	* 1、查询本地缓存
+	* 2、应答
+	* 或
+	* 1、发起向上递归查询请求
+	*/
 }
