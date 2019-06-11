@@ -1,7 +1,7 @@
 const dgram = require('dgram');
 const path = require('path');
 const client = dgram.createSocket('udp4');
-const dnsSendLib = require(`${path.resolve()}/dnsLibs/dnsSend`);
+const dnsSendLib = require(`${path.resolve()}/utils/dnsLibs/dnsSend`);
 
 async function initUdp(){
 	client.on('message', (msg, info)=>{
@@ -16,7 +16,7 @@ async function initUdp(){
 
 async function main(){
 	await initUdp();
-	var buf = await dnsSendLib.buildPackage({
+	var buf = await dnsSendLib.buildPackage({}, {
 		domain : "hongkong.com"
 		// domain : "deadfishcrypto.com"
 	});

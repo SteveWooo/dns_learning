@@ -3,14 +3,24 @@
 */
 function buildHeader(options, bits){
 	/**
-	* 1、创建序列id(2bit)
+	* 1、创建序列id(2位)
 	*/
 	bits.push(0);
 	bits.push(1);
 
 	/**
-	* 2、创建tag(2bit)
+	* 2、创建tag(2位)
 	* 这里转换很恶心,要弄成：|0 0000 0 0 1|0 000 0000|，因此，这两个bit的ascii码就是（1，0）
+	* 上面对应：
+	
+		QR（1bit）	查询/响应标志，0为查询，1为响应
+		opcode（4bit）	0表示标准查询，1表示反向查询，2表示服务器状态请求
+		AA（1bit）	表示授权回答
+		TC（1bit）	表示可截断的
+		RD（1bit）	表示期望递归
+		RA（1bit）	表示可用递归
+		rcode（4bit）	表示返回码，0表示没有差错，3表示名字差错，2表示服务器错误（Server Failure）
+
 	*/
 	bits.push(1);
 	bits.push(0);
@@ -26,7 +36,7 @@ function buildHeader(options, bits){
 	* 4:应答数目
 	* 5:授权数目
 	* 6:附加数目
-	* 这几个全是0，所以丢6个bit的0进去
+	* 这几个全是0，所以丢6个位的0进去
 	*/
 	bits.push(0);
 	bits.push(0);
