@@ -12,7 +12,12 @@ module.exports = async function(options){
 			/**
 			* 请求id排队，每次使用就要进行一次+1的原子操作，上限是255*255，255进制2位。
 			*/
-			queryId : [0, 0],
+			queryId : [0, 1],
+
+			/**
+			* 请求队列缓存哈希表
+			*/
+			cache : {}
 		}
 	};
 	var swc = {
@@ -57,8 +62,6 @@ module.exports = async function(options){
 			}
 		}
 	}
-
-	swc = await require(`${__dirname}/../services/dns/initService.js`)(swc, {});
 
 	return swc;
 }

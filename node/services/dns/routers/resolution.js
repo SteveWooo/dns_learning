@@ -11,5 +11,6 @@ module.exports = async function(swc, options){
 	* 2、应答
 	* 或
 	* 1、发起向上递归查询请求
+	* 2、保存向上递归请求信息
 	*/
 }

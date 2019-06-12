@@ -1,7 +1,7 @@
 /**
 * 创建头部信息
 */
-function buildHeader(options, bits){
+function buildHeader(swc, options, bits){
 	/**
 	* 1、创建序列id(2位)
 	*/
@@ -19,6 +19,7 @@ function buildHeader(options, bits){
 		TC（1bit）	表示可截断的
 		RD（1bit）	表示期望递归
 		RA（1bit）	表示可用递归
+		zero(3bit)	保留
 		rcode（4bit）	表示返回码，0表示没有差错，3表示名字差错，2表示服务器错误（Server Failure）
 
 	*/
@@ -52,7 +53,7 @@ function buildHeader(options, bits){
 /**
 * 塞域名进去
 */
-function buildQuestion(options, bits){
+function buildQuestion(swc, options, bits){
 	var domain = options.domain;
 
 	domain = domain.split('.');
@@ -69,13 +70,6 @@ function buildQuestion(options, bits){
 	//别忘了加个0结束；
 	bits.push(0);
 
-	return bits;
-}
-
-/**
-* 塞类型进去（两个1）
-*/
-function buildType(options, bits){
 	/**
 	* type 1代表A解析
 	*/
@@ -83,10 +77,12 @@ function buildType(options, bits){
 	bits.push(1);
 
 	/**
-	* classes
+	* class
 	*/
 	bits.push(0);
 	bits.push(1);
+
+	return bits;
 
 	return bits;
 }
@@ -94,7 +90,7 @@ function buildType(options, bits){
 /**
 * 把bits转换成ascii字符，一个一个传到buf中去
 */
-function convertBitsToBuffer(options, bits){
+function convertBitsToBuffer(swc, options, bits){
 	var buf = Buffer.alloc(bits.length);
 	for(var i=0;i<bits.length;i++){
 		var char = String.fromCharCode(bits[i]);
@@ -111,11 +107,10 @@ exports.buildPackage = async function(swc, options){
 	* 例如你想弄一位 | 0000 1000 | 进去buffer中，那么就 bits.push(8);
 	*/
 	var bits = [];
-	bits = buildHeader(options, bits);
-	bits = buildQuestion(options, bits);
-	bits = buildType(options, bits);
+	bits = buildHeader(swc, options, bits);
+	bits = buildQuestion(swc, options, bits);
 
-	var buf = convertBitsToBuffer(options, bits);
+	var buf = convertBitsToBuffer(swc, options, bits);
 
 	return buf;
 }

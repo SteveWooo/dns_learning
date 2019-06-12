@@ -10,7 +10,11 @@ async function main(){
 	/**
 	* 主程序控制器入口
 	*/
-	await require(`${__dirname}/controllers/access`)(swc, {});
+	try{
+		await require(`${__dirname}/controllers/access`)(swc, {});
+	}catch(e){
+		console.log(e);
+	}
 }
 
 try{
