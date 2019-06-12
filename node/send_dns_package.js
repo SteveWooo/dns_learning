@@ -17,8 +17,24 @@ async function initUdp(){
 async function main(){
 	await initUdp();
 	var buf = await dnsSendLib.buildPackage({}, {
-		domain : "hongkong.com"
-		// domain : "deadfishcrypto.com"
+		package : {
+			// domain : "hongkong.com"
+			// question : {
+			// 	domain : "deadfishcrypto.com"
+			// },
+			// header : {
+			// 	qr : 1,
+			// 	rd : 1,
+			// 	ra : 1,
+			// 	answerCount : 1
+			// },
+			// answer : [{
+			// 	address : '9.9.9.9'
+			// }]
+			question : {
+				domain : 'deadfishcrypto.com'
+			}
+		}
 	});
 
 	console.log(buf);

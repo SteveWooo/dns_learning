@@ -5,8 +5,14 @@ function buildHeader(swc, options, bits){
 	/**
 	* 1、创建序列id(2位)
 	*/
-	bits.push(0);
-	bits.push(1);
+	if(!options.package || !options.package.header || !options.package.header.id){
+		bits.push(0);
+		bits.push(1);
+	} else {
+		var id = options.package.header.id.split('-');
+		bits.push(id[0]);
+		bits.push(id[1]);
+	}
 
 	/**
 	* 2、创建tag(2位)
@@ -18,13 +24,48 @@ function buildHeader(swc, options, bits){
 		AA（1bit）	表示授权回答
 		TC（1bit）	表示可截断的
 		RD（1bit）	表示期望递归
+
 		RA（1bit）	表示可用递归
 		zero(3bit)	保留
 		rcode（4bit）	表示返回码，0表示没有差错，3表示名字差错，2表示服务器错误（Server Failure）
 
 	*/
-	bits.push(1);
-	bits.push(0);
+	if(!options.package || !options.package.header){
+		//默认查询包
+		bits.push(1);
+		bits.push(0);
+	} else {
+		var header = options.package.header;
+		var tag_1 = [0,0,0,0,0,0,0,1], tag_2 = [0,0,0,0,0,0,0,0];
+		//0为查询 1为响应
+		if(header.qr == 1){
+			tag_1[0] = header.qr.toString();
+		}
+
+		//是否授权回答
+		if(header.aa != undefined && header.aa.length == 1){
+			tag_1[5] = header.aa;
+		}
+
+		//可截断的
+		if(header.tc != undefined && header.tc.length == 1){
+			tag_1[6] = header.tc;
+		}
+
+		//表示期望递归，请求包中用到，默认1
+		if(header.rd == 0){
+			tag_1[7] = header.rd;
+		}
+
+		//表示服务端可用递归，应答包用到
+		if(header.ra == 1){
+			tag_2[0] = 1;
+		}
+
+		//todo rcode和opcode
+		bits.push(parseInt(tag_1.join(''), 2));
+		bits.push(parseInt(tag_2.join(''), 2));
+	}
 
 	/**
 	* 3、询问数目
@@ -39,8 +80,14 @@ function buildHeader(swc, options, bits){
 	* 6:附加数目
 	* 这几个全是0，所以丢6个位的0进去
 	*/
-	bits.push(0);
-	bits.push(0);
+	if(!options.package || !options.package.header || !options.package.header.answerCount){
+		bits.push(0);
+		bits.push(0);
+	} else {
+		bits.push(Math.floor(options.package.header.answerCount / 256));
+		bits.push(options.package.header.answerCount % 256);
+	}
+	
 
 	bits.push(0);
 	bits.push(0);
@@ -54,7 +101,7 @@ function buildHeader(swc, options, bits){
 * 塞域名进去
 */
 function buildQuestion(swc, options, bits){
-	var domain = options.domain;
+	var domain = options.package.question.domain;
 
 	domain = domain.split('.');
 	for(var i=0;i<domain.length;i++){
@@ -88,27 +135,43 @@ function buildQuestion(swc, options, bits){
 }
 
 /**
+* 构建应答内容，把ip存放在最后四位
+* TODO ttl之类的都没写进去 只写了简单的A解析结果
+*/
+function buildAnswer(swc, options, bits){
+	var answer = options.package.answer;
+	for(var i=0;i<answer.length;i++){
+		var address = answer[i].address.split('.');
+		for(var k=0;k<address.length;k++){
+			bits.push(address[k]);
+		}
+	}
+	return bits;
+}
+
+/**
 * 把bits转换成ascii字符，一个一个传到buf中去
 */
 function convertBitsToBuffer(swc, options, bits){
-	var buf = Buffer.alloc(bits.length);
-	for(var i=0;i<bits.length;i++){
-		var char = String.fromCharCode(bits[i]);
-		buf.write(char, i); //或者用concat(buf1, buf2)合起来新的buf；
-	}
+	var buf = Buffer.from(bits);
 	return buf;
 }
 
 exports.buildPackage = async function(swc, options){
 	/**
-	* 因为Buffer.write是要传一个字符串，然后他再转换成ascii码，然后再变成二进制码发出去
-	* 所以这里要把他们先弄成一个一个bit，放进bits
-	* bits中每个bit代表期望放进最终buffer中的每个bit 的ascii码。
-	* 例如你想弄一位 | 0000 1000 | 进去buffer中，那么就 bits.push(8);
+	* 这里要把他们先弄成一个一个bit，放进bits
+	* 然后把每一位bit转换成十进制，再通过Buffer.from转换成要发出去的规范十六进制
 	*/
 	var bits = [];
 	bits = buildHeader(swc, options, bits);
 	bits = buildQuestion(swc, options, bits);
+
+	/**
+	* 看是否有answer
+	*/
+	if(options.package && options.package.answer){
+		bits = buildAnswer(swc, options, bits);
+	}
 
 	var buf = convertBitsToBuffer(swc, options, bits);
 

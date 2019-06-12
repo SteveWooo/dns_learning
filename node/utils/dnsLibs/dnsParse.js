@@ -64,6 +64,15 @@ function parseQuestion(swc, options){
 	return question;
 }
 
+//todo：根据应答数目跟附加数目来构建answer，现在只是拿了最后一个应答回来。
+function parseAnswer(swc, options){
+	var answer = [];
+	answer.push({
+		address : `${options.msg[options.msg.length - 4]}.${options.msg[options.msg.length - 3]}.${options.msg[options.msg.length - 2]}.${options.msg[options.msg.length - 1]}`
+	})
+	return answer;
+}
+
 /**
 * 负责解析请求数据包
 * @param.msg DNS请求数据包
@@ -73,6 +82,9 @@ module.exports = async function(swc, options){
 
 	result.header = parseHeader(swc, options);
 	result.question = parseQuestion(swc, options);
+	if(result.header.answerCount > 0){
+		result.answer = parseAnswer(swc, options);
+	}
 
 	return result;
 }

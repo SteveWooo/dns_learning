@@ -62,15 +62,20 @@ module.exports = async function(swc, _options){
 		socket : await initSocket(swc, {}),
 	};
 
-
+	/**
+	* @param packageBuffer 发送包的数据
+	* @param address 目标dns服务器地址
+	* @param package 发送包的解析数据
+	*/
 	swc.dnsHandle.send = async function(swc, options){
 		/**
-		* 1、产生一个queryid
-		* 2、缓存这个query
-		* 3、发送包
+		* 1、缓存这个query
+		* 2、发送包
 		*/
-		swc.dnsHandle.socket.send(options.buf, 53, options.ip, (error)=>{
-			console.log(error);
+		swc.dnsHandle.socket.send(options.packageBuffer, 53, options.address, (error)=>{
+			if(error){
+				console.log(error);
+			}
 		});
 	}
 

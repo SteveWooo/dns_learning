@@ -5,4 +5,5 @@
 
 module.exports = async function(swc, options){
 	console.log(options);
+	console.log(options.package.answer)
 }

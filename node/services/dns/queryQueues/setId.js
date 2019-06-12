@@ -17,6 +17,6 @@ module.exports = async function(swc, options){
 	}
 
 	queryId = global.swc.queryQueue.queryId[0] + '-' + global.swc.queryQueue.queryId[1];
-
+	
 	return queryId;
 }
