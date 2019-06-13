@@ -10,8 +10,8 @@ function buildHeader(swc, options, bits){
 		bits.push(1);
 	} else {
 		var id = options.package.header.id.split('-');
-		bits.push(id[0]);
-		bits.push(id[1]);
+		bits.push(parseInt(id[0]));
+		bits.push(parseInt(id[1]));
 	}
 
 	/**
@@ -130,8 +130,6 @@ function buildQuestion(swc, options, bits){
 	bits.push(1);
 
 	return bits;
-
-	return bits;
 }
 
 /**
@@ -141,16 +139,60 @@ function buildQuestion(swc, options, bits){
 function buildAnswer(swc, options, bits){
 	var answer = options.package.answer;
 	for(var i=0;i<answer.length;i++){
+		if(answer[i].type != 1){
+			continue; //先补搞A解析以外的响应
+		}
+
+		//修正默认值：
+		if(!answer[i].offset){
+			answer[i].offset = 12;
+		}
+		if(!answer[i].type){
+			answer[i].type = 1;
+		}
+		if(!answer[i].class){
+			answer[i].class = 1;
+		}
+		if(!answer[i].ttl){
+			answer[i].ttl = 496;
+		}
+		if(!answer[i].length){
+			answer[i].length = 4;
+		}
+
+		//偏移量：
+		bits.push(192); //(这个指针量我没搞懂怎么回事)
+		bits.push(answer[i].offset);
+
+		//解析类型
+		bits.push(Math.floor(answer[i].type / 255));
+		bits.push(answer[i].type % 255);
+
+		//类型
+		bits.push(Math.floor(answer[i].class / 255));
+		bits.push(answer[i].class % 255);
+
+		//ttl
+		bits.push(Math.floor(answer[i].ttl / (255 * 255 * 255)));
+		bits.push(Math.floor(answer[i].ttl / (255 * 255)));
+		bits.push(Math.floor(answer[i].ttl / 255));
+		bits.push(Math.floor(answer[i].ttl % 255));
+
+		//length
+		bits.push(Math.floor(answer[i].length / 255));
+		bits.push(answer[i].length % 255);
+
+		//address
 		var address = answer[i].address.split('.');
 		for(var k=0;k<address.length;k++){
-			bits.push(address[k]);
+			bits.push(parseInt(address[k]));
 		}
 	}
 	return bits;
 }
 
 /**
-* 把bits转换成ascii字符，一个一个传到buf中去
+* 把bits一个一个传到buf中去
 */
 function convertBitsToBuffer(swc, options, bits){
 	var buf = Buffer.from(bits);

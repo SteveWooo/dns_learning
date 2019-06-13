@@ -55,7 +55,7 @@ async function initSocket(swc, options){
 }
 
 module.exports = async function(swc, _options){
-	swc.dnsHandle = {
+	swc.services.dnsHandle = {
 		/**
 		* udp socket
 		*/
@@ -63,16 +63,33 @@ module.exports = async function(swc, _options){
 	};
 
 	/**
-	* @param packageBuffer 发送包的数据
-	* @param address 目标dns服务器地址
+	* 用于递归
+	* @param request 发送递归请求的信息
+	* @param source 源信息
 	* @param package 发送包的解析数据
 	*/
-	swc.dnsHandle.send = async function(swc, options){
+	swc.services.dnsHandle.send = async function(swc, options){
 		/**
 		* 1、缓存这个query
 		* 2、发送包
 		*/
-		swc.dnsHandle.socket.send(options.packageBuffer, 53, options.address, (error)=>{
+		await swc.services.dns.queryQueue.set(swc, options);
+
+		swc.services.dnsHandle.socket.send(options.request.packageBuffer, 53, options.request.address, (error)=>{
+			if(error){
+				console.log(error);
+			}
+		});
+	}
+
+	/**
+	* 用于回调
+	* @param request 发送递归请求的信息
+	* @param source 源信息
+	* @param package 发送包的解析数据
+	*/
+	swc.services.dnsHandle.sendCallback = async function(swc, options){
+		swc.services.dnsHandle.socket.send(options.source.packageBuffer, options.source.info.port, options.source.info.address, (error)=>{
 			if(error){
 				console.log(error);
 			}
@@ -82,7 +99,7 @@ module.exports = async function(swc, _options){
 	/**
 	* 解析缓存
 	*/
-	swc.dnsHandle.cache = {
+	swc.services.dnsHandle.cache = {
 		set : async function(swc, options){
 
 		},

@@ -65,11 +65,52 @@ function parseQuestion(swc, options){
 }
 
 //todo：根据应答数目跟附加数目来构建answer，现在只是拿了最后一个应答回来。
-function parseAnswer(swc, options){
+function parseAnswer(swc, options, result){
 	var answer = [];
-	answer.push({
-		address : `${options.msg[options.msg.length - 4]}.${options.msg[options.msg.length - 3]}.${options.msg[options.msg.length - 2]}.${options.msg[options.msg.length - 1]}`
-	})
+
+	//响应结果偏移量
+	var resultOffset = 12  //头
+			+ result.question.domain.length + 2 //域名
+			+ 4 //2个类型;
+
+	for(var i=0;i<result.header.answerCount;i++){
+		var ans = {};
+		//当前响应结果偏移
+		var offset = 0 + resultOffset 
+
+		//偏移指针:C00C
+		ans.offset = options.msg[offset + 1];
+
+		//解析类型
+		ans.type = options.msg[offset + 2] * 255 + options.msg[offset + 3];
+		
+		//类型
+		ans.class = options.msg[offset + 4] * 255 + options.msg[offset + 5];
+
+		//ttl
+		ans.ttl = options.msg[offset + 6] * 255 * 255 * 255 +
+				options.msg[offset + 7] * 255 * 255 +
+				options.msg[offset + 8] * 255 +
+				options.msg[offset + 9];
+
+		//资源记录内容长度
+		ans.length = options.msg[offset + 10] * 255 + options.msg[offset + 11];
+
+		//对A解析特殊处理，其他todo
+		if(ans.type == 1){
+			var address = [];
+			for(var k=0;k<ans.length;k++){
+				address.push(parseInt(options.msg[offset + 12 + k]));
+			}
+
+			ans.address = address.join('.');
+		}
+		answer.push(ans);
+
+		//上面的所有加起来，再加一个length
+		resultOffset += 11 + ans.length;
+	}
+
 	return answer;
 }
 
@@ -80,10 +121,10 @@ function parseAnswer(swc, options){
 module.exports = async function(swc, options){
 	var result = {};
 
-	result.header = parseHeader(swc, options);
-	result.question = parseQuestion(swc, options);
+	result.header = parseHeader(swc, options, result);
+	result.question = parseQuestion(swc, options, result);
 	if(result.header.answerCount > 0){
-		result.answer = parseAnswer(swc, options);
+		result.answer = parseAnswer(swc, options, result);
 	}
 
 	return result;

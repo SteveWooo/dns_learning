@@ -1,23 +1,40 @@
 async function requestForword(swc, options){
-	/**
-	* 创建请求id
-	*/
+	//0、创建请求id
 	var queryId = await swc.services.dns.queryQueue.setId(swc, options);
-	var packageBuffer = await swc.utils.dns.sendLib.buildPackage(swc, {
-		package : {
-			header : {
-				id : queryId,
-			},
-			question : {
-				domain : options.package.question.domain
-			}
-		}
-	})
 
-	swc.dnsHandle.send(swc, {
-		packageBuffer : packageBuffer,
-		address : '114.114.114.114'
-	})
+	//1、添加一个请求包信息在这里
+	options.request = {
+		package : options.package,
+		packageBuffer : undefined,
+		address : '114.114.114.114',
+	}
+
+	//2、写id到请求包里面
+	if(!options.request.package.header){
+		options.request.package.header = {
+			id : queryId
+		}
+	} else {
+		options.request.package.header.id = queryId;
+	}
+
+	//3、构建请求包buffer
+	options.request.packageBuffer = await swc.utils.dns.sendLib.buildPackage(swc, options);
+
+	//4、添加一个源包信息在这里
+	options.source = {
+		info : options.info,
+		/**
+		* 防止和上方请求包指针共用，这里还是重新parse一次比较妥当
+		*/
+		package : await swc.utils.dns.parse(swc, {
+			msg : options.msg,
+			info : options.info
+		})
+	}
+	
+	//5、进入发送包流程
+	swc.services.dnsHandle.send(swc, options);
 }
 
 /**

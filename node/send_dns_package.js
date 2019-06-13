@@ -2,11 +2,16 @@ const dgram = require('dgram');
 const path = require('path');
 const client = dgram.createSocket('udp4');
 const dnsSendLib = require(`${path.resolve()}/utils/dnsLibs/dnsSend`);
+const dnsParse = require(`${path.resolve()}/utils/dnsLibs/dnsParse`);
 
 async function initUdp(){
-	client.on('message', (msg, info)=>{
+	client.on('message', async (msg, info)=>{
 		console.log(msg);
-		console.log(`result ip : ${msg[msg.length-4]}.${msg[msg.length-3]}.${msg[msg.length-2]}.${msg[msg.length-1]}`);
+		var package = await dnsParse({}, {
+			msg : msg,
+			info : info
+		})
+		console.log(package);
 	})
 
 	client.on('error', (err) => {
