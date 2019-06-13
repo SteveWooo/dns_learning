@@ -45,6 +45,7 @@ module.exports = async function(options){
 				/**
 				* 对请求进行识别匹配操作
 				* 配合使用global
+				* 又称udp service
 				*/
 				queryQueue : require(`${__dirname}/../services/dns/queryQueue.js`)
 			},

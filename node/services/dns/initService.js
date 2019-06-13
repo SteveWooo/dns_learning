@@ -20,6 +20,7 @@ async function initSocket(swc, options){
 				msg : msg,
 				info : info
 			})
+			// console.log(package);
 			/**
 			* 判断是否请求包 QR
 			*/
@@ -74,6 +75,7 @@ module.exports = async function(swc, _options){
 		* 2、发送包
 		*/
 		await swc.services.dns.queryQueue.set(swc, options);
+		// console.log(options.request);
 
 		swc.services.dnsHandle.socket.send(options.request.packageBuffer, 53, options.request.address, (error)=>{
 			if(error){
