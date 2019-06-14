@@ -6,8 +6,8 @@ async function requestForword(swc, options){
 	options.request = {
 		package : options.package,
 		packageBuffer : undefined,
-		// address : '114.114.114.114',
-		address : '199.7.91.13'
+		address : '114.114.114.114',
+		// address : '199.7.91.13'
 	}
 
 	//2、写id到请求包里面
