@@ -13,7 +13,7 @@ function parseHeader(swc, options){
 	var flag_2 = options.msg[3];
 	flag_1 = flag_1.toString(2);
 	flag_2 = flag_2.toString(2);
-	//补0
+	//补0 
 	for(var i = flag_1.length; i < 8; i++){
 		flag_1 = '0' + flag_1;
 	}
