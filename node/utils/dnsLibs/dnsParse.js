@@ -1,4 +1,4 @@
-function parseHeader(swc, options){
+function parseHeader(swc, options, result){
 	var header = {};
 
 	/**
@@ -37,10 +37,11 @@ function parseHeader(swc, options){
 	header.authorityCount = options.msg[8] * 16 + options.msg[9];
 	header.additionalCount = options.msg[10] * 16 + options.msg[11];
 
-	return header;
+	result.header = header;
+	return result;
 }
 
-function parseQuestion(swc, options){
+function parseQuestion(swc, options, result){
 	var question = {
 		domain : "",
 		type : "",
@@ -61,22 +62,20 @@ function parseQuestion(swc, options){
 	question.type = options.msg[typeBegin] * 16 + options.msg[typeBegin + 1];
 	question.class = options.msg[typeBegin + 2] * 16 + options.msg[typeBegin + 3];
 
-	return question;
+	result.question = question;
+	return result;
 }
 
-//todo：根据应答数目跟附加数目来构建answer，现在只是拿了最后一个应答回来。
 function parseAnswer(swc, options, result){
 	var answer = [];
 
 	//响应结果偏移量
-	var resultOffset = 12  //头
-			+ result.question.domain.length + 2 //域名
-			+ 4 //2个类型;
+	var resultOffset = result.resultOffset;
 
 	for(var i=0;i<result.header.answerCount;i++){
 		var ans = {};
 		//当前响应结果偏移
-		var offset = 0 + resultOffset 
+		var offset = 0 + resultOffset; 
 
 		//偏移指针:C00C
 		ans.offset = options.msg[offset + 1];
@@ -111,7 +110,20 @@ function parseAnswer(swc, options, result){
 		resultOffset += 11 + ans.length;
 	}
 
-	return answer;
+	result.answer = answer;
+	result.resultOffset = resultOffset;
+	return result;
+}
+
+function parseAuthority(swc, options, result){
+	var authority = [];
+	var resultOffset = result.resultOffset;
+
+	for(var i=0;i<options.msg.length;i++){
+		console.log(`${i} : ${options.msg[i]}, ${String.fromCharCode(options.msg[i])}`);
+	}
+
+	return result;
 }
 
 /**
@@ -119,13 +131,28 @@ function parseAnswer(swc, options, result){
 * @param.msg DNS请求数据包
 */
 module.exports = async function(swc, options){
-	var result = {};
+	var result = {
+		resultOffset : 12
+	};
 
-	result.header = parseHeader(swc, options, result);
-	result.question = parseQuestion(swc, options, result);
-	if(result.header.answerCount > 0){
-		result.answer = parseAnswer(swc, options, result);
+	try{
+		result = parseHeader(swc, options, result);
+		result = parseQuestion(swc, options, result);
+		result.resultOffset = 12  //头
+				+ result.question.domain.length + 2 //域名
+				+ 4 //2个类型;
+		console.log(`offset : ${result.resultOffset}`);
+		result = parseAnswer(swc, options, result);
+		result = parseAuthority(swc, options, result);
+	}catch(e){
+		console.log(e)
 	}
+
+	// for(var i=0;i<options.msg.length;i++){
+	// 	console.log(`${i} : ${options.msg[i]}, ${String.fromCharCode(options.msg[i])}`);
+	// }
+
+	console.log(result);
 
 	return result;
 }
