@@ -43,9 +43,9 @@ function parseHeader(swc, options, result){
 
 function parseQuestion(swc, options, result){
 	var question = {
-		domain : "",
-		type : "",
-		class : "",
+		domain : '',
+		type : '',
+		class : '',
 	}
 
 	for(var i = 12;options.msg[i] !== 0;i += options.msg[i] + 1){
@@ -66,19 +66,48 @@ function parseQuestion(swc, options, result){
 	return result;
 }
 
+var utils = {
+	/**
+	* 根据offset 获取响应中的域名
+	*/
+	getDomain : function(swc, options, result, offset){
+		var domain = '';
+		var i = offset;
+		console.log(`here : ${offset}`);
+		while(options.msg[i] != 0){
+			var tempDomain = [];
+			for(var k=i + 1;k<options.msg[i] + i + 1;k++){
+				tempDomain.push(String.fromCharCode(options.msg[k]));
+			}
+			domain += tempDomain.join('');
+			i = i + options.msg[i] + 1;
+			if(options.msg[i] != 0){
+				domain += '.';
+			}
+		}
+
+		console.log(domain);
+		return domain;
+	}
+}
+
 function parseAnswer(swc, options, result){
 	var answer = [];
 
 	//响应结果偏移量
 	var resultOffset = result.resultOffset;
-
 	for(var i=0;i<result.header.answerCount;i++){
 		var ans = {};
 		//当前响应结果偏移
-		var offset = 0 + resultOffset; 
-
+		var offset = 0 + resultOffset;
 		//偏移指针:C00C
-		ans.offset = options.msg[offset + 1];
+		if(options.msg[offset] == 192){
+			ans.offset = options.msg[offset + 1];
+			ans.domain = utils.getDomain(swc, options, result, ans.offset);
+		} else {
+			//没遇到过，我也不知道咋整，好像会把整个域名丢进这个位置。
+			console.log('没有offset的包出现了！赶紧加高offset');
+		}
 
 		//解析类型
 		ans.type = options.msg[offset + 2] * 255 + options.msg[offset + 3];
@@ -141,7 +170,7 @@ module.exports = async function(swc, options){
 		result.resultOffset = 12  //头
 				+ result.question.domain.length + 2 //域名
 				+ 4 //2个类型;
-		console.log(`offset : ${result.resultOffset}`);
+		// console.log(`offset : ${result.resultOffset}`);
 		result = parseAnswer(swc, options, result);
 		result = parseAuthority(swc, options, result);
 	}catch(e){

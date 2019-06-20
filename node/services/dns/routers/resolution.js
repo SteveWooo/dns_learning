@@ -6,8 +6,8 @@ async function requestForword(swc, options){
 	options.request = {
 		package : options.package,
 		packageBuffer : undefined,
-		address : '114.114.114.114',
-		// address : '198.41.0.4', //根服务器
+		// address : '114.114.114.114',
+		address : '198.41.0.4', //根服务器
 		// address : '199.7.91.13'
 	}
 

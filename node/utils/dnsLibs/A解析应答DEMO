@@ -1,0 +1,89 @@
+offset : 36
+0 : 0, 
+1 : 2, 
+2 : 129, 
+3 : 128, 
+4 : 0, 
+5 : 1, 
+6 : 0, 
+7 : 1, 
+8 : 0, 
+9 : 0, 
+10 : 0, 
+11 : 0, 
+12 : 14, 
+13 : 100, d
+14 : 101, e
+15 : 97, a
+16 : 100, d
+17 : 102, f
+18 : 105, i
+19 : 115, s
+20 : 104, h
+21 : 99, c
+22 : 114, r
+23 : 121, y
+24 : 112, p
+25 : 116, t
+26 : 111, o
+27 : 3, 
+28 : 99, c
+29 : 111, o
+30 : 109, m
+31 : 0, 
+
+32 : 0, 
+33 : 1, 
+34 : 0, 
+35 : 1, 
+
+offset
+36 : 192, À
+37 : 12, 
+
+type
+38 : 0, 
+39 : 1, 
+
+class
+40 : 0, 
+41 : 1,
+
+ttl
+42 : 0, 
+43 : 0, 
+44 : 0, 
+45 : 67, C
+
+length
+46 : 0, 
+47 : 4, 
+
+address:
+48 : 115, s
+49 : 28, 
+50 : 241, ñ
+51 : 66, B
+
+{ resultOffset: 51,
+  header:
+   { id: '0-2',
+     qr: '1',
+     opcode: '0000',
+     aa: '0',
+     tc: '0',
+     rd: '1',
+     ra: '1',
+     rcode: '0000',
+     questionCount: 1,
+     answerCount: 1,
+     authorityCount: 0,
+     additionalCount: 0 },
+  question: { domain: 'deadfishcrypto.com', type: 1, class: 1 },
+  answer:
+   [ { offset: 12,
+       type: 1,
+       class: 1,
+       ttl: 67,
+       length: 4,
+       address: '115.28.241.66' } ] }
