@@ -1,0 +1,6 @@
+
+twentytwowords.com.	86400	IN	SOA	ns.twentytwowords.com.	mail	2019061702 1800 900 604800 86400
+twentytwowords.com.	86400	IN	NS	ns.twentytwowords.com.
+ns.twentytwowords.com.	518400	IN	A	205.251.195.203
+
+twentytwowords.com.	518400	IN	A	104.18.220.65

@@ -1,0 +1,6 @@
+
+debenhams.com.	86400	IN	SOA	ns.debenhams.com.	mail	2019061702 1800 900 604800 86400
+debenhams.com.	86400	IN	NS	ns.debenhams.com.
+ns.debenhams.com.	518400	IN	A	216.58.200.238
+
+debenhams.com.	518400	IN	A	217.19.254.60

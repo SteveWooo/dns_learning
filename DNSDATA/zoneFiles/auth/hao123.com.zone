@@ -1,0 +1,6 @@
+
+hao123.com.	86400	IN	SOA	ns.hao123.com.	mail	2019061702 1800 900 604800 86400
+hao123.com.	86400	IN	NS	ns.hao123.com.
+ns.hao123.com.	518400	IN	A	216.239.32.106
+
+hao123.com.	518400	IN	A	106.120.159.68

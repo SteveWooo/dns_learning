@@ -1,0 +1,6 @@
+
+google.lk.	86400	IN	SOA	ns.google.lk.	mail	2019061702 1800 900 604800 86400
+google.lk.	86400	IN	NS	ns.google.lk.
+ns.google.lk.	518400	IN	A	202.56.230.5
+
+google.lk.	518400	IN	A	74.86.142.55

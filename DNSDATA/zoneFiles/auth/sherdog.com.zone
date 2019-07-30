@@ -1,0 +1,6 @@
+
+sherdog.com.	86400	IN	SOA	ns.sherdog.com.	mail	2019061702 1800 900 604800 86400
+sherdog.com.	86400	IN	NS	ns.sherdog.com.
+ns.sherdog.com.	518400	IN	A	204.69.234.1
+
+sherdog.com.	518400	IN	A	104.17.99.66

@@ -1,0 +1,6 @@
+
+tusfiles.net.	86400	IN	SOA	ns.tusfiles.net.	mail	2019061702 1800 900 604800 86400
+tusfiles.net.	86400	IN	NS	ns.tusfiles.net.
+ns.tusfiles.net.	518400	IN	A	203.153.43.65
+
+tusfiles.net.	518400	IN	A	185.163.108.58

@@ -1,0 +1,6 @@
+
+24option.com.	86400	IN	SOA	ns.24option.com.	mail	2019061702 1800 900 604800 86400
+24option.com.	86400	IN	NS	ns.24option.com.
+ns.24option.com.	518400	IN	A	183.3.226.207
+
+24option.com.	518400	IN	A	104.20.6.17

@@ -1,0 +1,6 @@
+
+tinydeal.com.	86400	IN	SOA	ns.tinydeal.com.	mail	2019061702 1800 900 604800 86400
+tinydeal.com.	86400	IN	NS	ns.tinydeal.com.
+ns.tinydeal.com.	518400	IN	A	205.251.194.1
+
+tinydeal.com.	518400	IN	A	47.254.145.42

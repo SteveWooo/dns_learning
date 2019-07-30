@@ -1,0 +1,6 @@
+
+crhoy.com.	86400	IN	SOA	ns.crhoy.com.	mail	2019061702 1800 900 604800 86400
+crhoy.com.	86400	IN	NS	ns.crhoy.com.
+ns.crhoy.com.	518400	IN	A	205.251.195.203
+
+crhoy.com.	518400	IN	A	104.24.11.111

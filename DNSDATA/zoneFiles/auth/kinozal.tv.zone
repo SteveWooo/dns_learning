@@ -1,0 +1,6 @@
+
+kinozal.tv.	86400	IN	SOA	ns.kinozal.tv.	mail	2019061702 1800 900 604800 86400
+kinozal.tv.	86400	IN	NS	ns.kinozal.tv.
+ns.kinozal.tv.	518400	IN	A	205.251.197.107
+
+kinozal.tv.	518400	IN	A	104.27.141.68

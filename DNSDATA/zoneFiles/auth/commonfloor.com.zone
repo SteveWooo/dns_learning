@@ -1,0 +1,6 @@
+
+commonfloor.com.	86400	IN	SOA	ns.commonfloor.com.	mail	2019061702 1800 900 604800 86400
+commonfloor.com.	86400	IN	NS	ns.commonfloor.com.
+ns.commonfloor.com.	518400	IN	A	187.18.60.242
+
+commonfloor.com.	518400	IN	A	54.230.59.83

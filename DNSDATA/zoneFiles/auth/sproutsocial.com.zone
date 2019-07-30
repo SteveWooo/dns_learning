@@ -1,0 +1,6 @@
+
+sproutsocial.com.	86400	IN	SOA	ns.sproutsocial.com.	mail	2019061702 1800 900 604800 86400
+sproutsocial.com.	86400	IN	NS	ns.sproutsocial.com.
+ns.sproutsocial.com.	518400	IN	A	203.153.43.65
+
+sproutsocial.com.	518400	IN	A	54.230.59.245

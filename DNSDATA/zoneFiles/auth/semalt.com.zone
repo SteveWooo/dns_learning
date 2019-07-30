@@ -1,0 +1,6 @@
+
+semalt.com.	86400	IN	SOA	ns.semalt.com.	mail	2019061702 1800 900 604800 86400
+semalt.com.	86400	IN	NS	ns.semalt.com.
+ns.semalt.com.	518400	IN	A	217.69.139.202
+
+semalt.com.	518400	IN	A	62.112.9.54

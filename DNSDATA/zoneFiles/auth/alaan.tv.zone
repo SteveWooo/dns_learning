@@ -1,0 +1,6 @@
+
+alaan.tv.	86400	IN	SOA	ns.alaan.tv.	mail	2019061702 1800 900 604800 86400
+alaan.tv.	86400	IN	NS	ns.alaan.tv.
+ns.alaan.tv.	518400	IN	A	198.11.138.249
+
+alaan.tv.	518400	IN	A	52.30.37.207

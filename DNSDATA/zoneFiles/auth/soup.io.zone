@@ -1,0 +1,6 @@
+
+soup.io.	86400	IN	SOA	ns.soup.io.	mail	2019061702 1800 900 604800 86400
+soup.io.	86400	IN	NS	ns.soup.io.
+ns.soup.io.	518400	IN	A	213.180.193.1
+
+soup.io.	518400	IN	A	77.244.254.19

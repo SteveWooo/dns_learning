@@ -1,0 +1,6 @@
+
+adamoads.com.	86400	IN	SOA	ns.adamoads.com.	mail	2019061702 1800 900 604800 86400
+adamoads.com.	86400	IN	NS	ns.adamoads.com.
+ns.adamoads.com.	518400	IN	A	205.251.195.203
+
+adamoads.com.	518400	IN	A	104.20.37.189

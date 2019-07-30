@@ -1,0 +1,6 @@
+
+3dnews.ru.	86400	IN	SOA	ns.3dnews.ru.	mail	2019061702 1800 900 604800 86400
+3dnews.ru.	86400	IN	NS	ns.3dnews.ru.
+ns.3dnews.ru.	518400	IN	A	208.78.70.47
+
+3dnews.ru.	518400	IN	A	91.210.107.31

@@ -1,0 +1,6 @@
+
+nazwa.pl.	86400	IN	SOA	ns.nazwa.pl.	mail	2019061702 1800 900 604800 86400
+nazwa.pl.	86400	IN	NS	ns.nazwa.pl.
+ns.nazwa.pl.	518400	IN	A	205.251.194.1
+
+nazwa.pl.	518400	IN	A	77.55.124.100

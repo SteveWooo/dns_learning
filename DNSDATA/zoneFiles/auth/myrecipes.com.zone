@@ -1,0 +1,6 @@
+
+myrecipes.com.	86400	IN	SOA	ns.myrecipes.com.	mail	2019061702 1800 900 604800 86400
+myrecipes.com.	86400	IN	NS	ns.myrecipes.com.
+ns.myrecipes.com.	518400	IN	A	205.251.195.203
+
+myrecipes.com.	518400	IN	A	216.146.46.11

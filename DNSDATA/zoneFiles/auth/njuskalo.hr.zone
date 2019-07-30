@@ -1,0 +1,6 @@
+
+njuskalo.hr.	86400	IN	SOA	ns.njuskalo.hr.	mail	2019061702 1800 900 604800 86400
+njuskalo.hr.	86400	IN	NS	ns.njuskalo.hr.
+ns.njuskalo.hr.	518400	IN	A	204.74.108.1
+
+njuskalo.hr.	518400	IN	A	193.25.220.113

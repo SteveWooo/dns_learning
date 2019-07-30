@@ -1,0 +1,6 @@
+
+shared.sx.	86400	IN	SOA	ns.shared.sx.	mail	2019061702 1800 900 604800 86400
+shared.sx.	86400	IN	NS	ns.shared.sx.
+ns.shared.sx.	518400	IN	A	205.251.194.1
+
+shared.sx.	518400	IN	A	104.31.87.24

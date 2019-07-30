@@ -1,0 +1,6 @@
+
+timesofisrael.com.	86400	IN	SOA	ns.timesofisrael.com.	mail	2019061702 1800 900 604800 86400
+timesofisrael.com.	86400	IN	NS	ns.timesofisrael.com.
+ns.timesofisrael.com.	518400	IN	A	205.251.194.1
+
+timesofisrael.com.	518400	IN	A	205.185.216.42

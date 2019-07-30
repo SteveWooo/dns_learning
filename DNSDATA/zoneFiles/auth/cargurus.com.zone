@@ -1,0 +1,6 @@
+
+cargurus.com.	86400	IN	SOA	ns.cargurus.com.	mail	2019061702 1800 900 604800 86400
+cargurus.com.	86400	IN	NS	ns.cargurus.com.
+ns.cargurus.com.	518400	IN	A	208.78.70.47
+
+cargurus.com.	518400	IN	A	151.101.2.55

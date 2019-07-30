@@ -1,0 +1,6 @@
+
+foreca.com.	86400	IN	SOA	ns.foreca.com.	mail	2019061702 1800 900 604800 86400
+foreca.com.	86400	IN	NS	ns.foreca.com.
+ns.foreca.com.	518400	IN	A	205.251.192.29
+
+foreca.com.	518400	IN	A	213.80.73.57

@@ -1,0 +1,6 @@
+
+emag.ro.	86400	IN	SOA	ns.emag.ro.	mail	2019061702 1800 900 604800 86400
+emag.ro.	86400	IN	NS	ns.emag.ro.
+ns.emag.ro.	518400	IN	A	205.251.194.1
+
+emag.ro.	518400	IN	A	188.215.38.42

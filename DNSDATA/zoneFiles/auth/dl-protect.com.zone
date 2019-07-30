@@ -1,0 +1,6 @@
+
+dl-protect.com.	86400	IN	SOA	ns.dl-protect.com.	mail	2019061702 1800 900 604800 86400
+dl-protect.com.	86400	IN	NS	ns.dl-protect.com.
+ns.dl-protect.com.	518400	IN	A	216.239.32.106
+
+dl-protect.com.	518400	IN	A	54.72.130.67

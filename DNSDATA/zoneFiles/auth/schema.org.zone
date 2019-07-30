@@ -1,0 +1,6 @@
+
+schema.org.	86400	IN	SOA	ns.schema.org.	mail	2019061702 1800 900 604800 86400
+schema.org.	86400	IN	NS	ns.schema.org.
+ns.schema.org.	518400	IN	A	206.128.173.109
+
+schema.org.	518400	IN	A	64.233.162.138

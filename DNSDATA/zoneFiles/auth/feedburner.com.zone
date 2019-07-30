@@ -1,0 +1,6 @@
+
+feedburner.com.	86400	IN	SOA	ns.feedburner.com.	mail	2019061702 1800 900 604800 86400
+feedburner.com.	86400	IN	NS	ns.feedburner.com.
+ns.feedburner.com.	518400	IN	A	205.251.199.254
+
+feedburner.com.	518400	IN	A	172.217.169.238

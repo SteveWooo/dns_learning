@@ -1,0 +1,6 @@
+
+concursolutions.com.	86400	IN	SOA	ns.concursolutions.com.	mail	2019061702 1800 900 604800 86400
+concursolutions.com.	86400	IN	NS	ns.concursolutions.com.
+ns.concursolutions.com.	518400	IN	A	52.164.230.183
+
+concursolutions.com.	518400	IN	A	118.215.60.251

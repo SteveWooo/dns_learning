@@ -1,0 +1,6 @@
+
+ebay.ca.	86400	IN	SOA	ns.ebay.ca.	mail	2019061702 1800 900 604800 86400
+ebay.ca.	86400	IN	NS	ns.ebay.ca.
+ns.ebay.ca.	518400	IN	A	216.239.32.10
+
+ebay.ca.	518400	IN	A	66.135.196.249

@@ -1,0 +1,6 @@
+
+fabfurnish.com.	86400	IN	SOA	ns.fabfurnish.com.	mail	2019061702 1800 900 604800 86400
+fabfurnish.com.	86400	IN	NS	ns.fabfurnish.com.
+ns.fabfurnish.com.	518400	IN	A	216.239.32.106
+
+fabfurnish.com.	518400	IN	A	13.232.207.241

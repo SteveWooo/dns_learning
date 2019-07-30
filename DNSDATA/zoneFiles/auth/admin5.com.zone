@@ -1,0 +1,6 @@
+
+admin5.com.	86400	IN	SOA	ns.admin5.com.	mail	2019061702 1800 900 604800 86400
+admin5.com.	86400	IN	NS	ns.admin5.com.
+ns.admin5.com.	518400	IN	A	206.128.173.109
+
+admin5.com.	518400	IN	A	116.62.151.69

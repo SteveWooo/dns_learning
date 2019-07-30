@@ -1,0 +1,6 @@
+
+tuttosport.com.	86400	IN	SOA	ns.tuttosport.com.	mail	2019061702 1800 900 604800 86400
+tuttosport.com.	86400	IN	NS	ns.tuttosport.com.
+ns.tuttosport.com.	518400	IN	A	213.180.204.242
+
+tuttosport.com.	518400	IN	A	52.50.84.238

@@ -1,0 +1,6 @@
+
+upworthy.com.	86400	IN	SOA	ns.upworthy.com.	mail	2019061702 1800 900 604800 86400
+upworthy.com.	86400	IN	NS	ns.upworthy.com.
+ns.upworthy.com.	518400	IN	A	217.69.139.112
+
+upworthy.com.	518400	IN	A	151.101.193.68

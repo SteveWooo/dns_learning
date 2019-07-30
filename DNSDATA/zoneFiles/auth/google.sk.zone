@@ -1,0 +1,6 @@
+
+google.sk.	86400	IN	SOA	ns.google.sk.	mail	2019061702 1800 900 604800 86400
+google.sk.	86400	IN	NS	ns.google.sk.
+ns.google.sk.	518400	IN	A	174.35.55.22
+
+google.sk.	518400	IN	A	75.126.215.88

@@ -1,0 +1,6 @@
+
+nulledphp.com.	86400	IN	SOA	ns.nulledphp.com.	mail	2019061702 1800 900 604800 86400
+nulledphp.com.	86400	IN	NS	ns.nulledphp.com.
+ns.nulledphp.com.	518400	IN	A	111.202.126.2
+
+nulledphp.com.	518400	IN	A	104.31.1.177

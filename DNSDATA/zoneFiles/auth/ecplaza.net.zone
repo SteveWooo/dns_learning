@@ -1,0 +1,6 @@
+
+ecplaza.net.	86400	IN	SOA	ns.ecplaza.net.	mail	2019061702 1800 900 604800 86400
+ecplaza.net.	86400	IN	NS	ns.ecplaza.net.
+ns.ecplaza.net.	518400	IN	A	205.251.197.107
+
+ecplaza.net.	518400	IN	A	203.242.210.223

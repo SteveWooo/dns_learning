@@ -1,0 +1,6 @@
+
+nukistream.com.	86400	IN	SOA	ns.nukistream.com.	mail	2019061702 1800 900 604800 86400
+nukistream.com.	86400	IN	NS	ns.nukistream.com.
+ns.nukistream.com.	518400	IN	A	213.180.193.1
+
+nukistream.com.	518400	IN	A	104.23.136.20

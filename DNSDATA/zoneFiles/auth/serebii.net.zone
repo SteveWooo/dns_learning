@@ -1,0 +1,6 @@
+
+serebii.net.	86400	IN	SOA	ns.serebii.net.	mail	2019061702 1800 900 604800 86400
+serebii.net.	86400	IN	NS	ns.serebii.net.
+ns.serebii.net.	518400	IN	A	206.128.173.109
+
+serebii.net.	518400	IN	A	69.65.41.131

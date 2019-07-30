@@ -1,0 +1,6 @@
+
+bibsonomy.org.	86400	IN	SOA	ns.bibsonomy.org.	mail	2019061702 1800 900 604800 86400
+bibsonomy.org.	86400	IN	NS	ns.bibsonomy.org.
+ns.bibsonomy.org.	518400	IN	A	216.239.32.29
+
+bibsonomy.org.	518400	IN	A	132.187.15.88

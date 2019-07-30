@@ -1,0 +1,6 @@
+
+codeplex.com.	86400	IN	SOA	ns.codeplex.com.	mail	2019061702 1800 900 604800 86400
+codeplex.com.	86400	IN	NS	ns.codeplex.com.
+ns.codeplex.com.	518400	IN	A	216.239.32.29
+
+codeplex.com.	518400	IN	A	52.183.82.125

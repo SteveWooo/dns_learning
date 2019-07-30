@@ -1,0 +1,6 @@
+
+24sata.hr.	86400	IN	SOA	ns.24sata.hr.	mail	2019061702 1800 900 604800 86400
+24sata.hr.	86400	IN	NS	ns.24sata.hr.
+ns.24sata.hr.	518400	IN	A	180.149.156.12
+
+24sata.hr.	518400	IN	A	91.207.22.61

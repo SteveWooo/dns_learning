@@ -1,0 +1,6 @@
+
+lacaixa.es.	86400	IN	SOA	ns.lacaixa.es.	mail	2019061702 1800 900 604800 86400
+lacaixa.es.	86400	IN	NS	ns.lacaixa.es.
+ns.lacaixa.es.	518400	IN	A	203.153.43.65
+
+lacaixa.es.	518400	IN	A	217.148.71.165

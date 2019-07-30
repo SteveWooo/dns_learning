@@ -1,0 +1,6 @@
+
+line.me.	86400	IN	SOA	ns.line.me.	mail	2019061702 1800 900 604800 86400
+line.me.	86400	IN	NS	ns.line.me.
+ns.line.me.	518400	IN	A	204.74.108.1
+
+line.me.	518400	IN	A	31.13.66.6

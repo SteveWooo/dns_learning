@@ -1,0 +1,4 @@
+
+xn--vuq861b.	86400	IN	SOA	ns.xn--vuq861b.	mail	2019061702 1800 900 604800 86400
+xn--vuq861b.	86400	IN	NS	ns.xn--vuq861b.
+ns.xn--vuq861b.	518400	IN	A	103.61.63.1

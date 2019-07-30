@@ -1,0 +1,6 @@
+
+youdao.com.	86400	IN	SOA	ns.youdao.com.	mail	2019061702 1800 900 604800 86400
+youdao.com.	86400	IN	NS	ns.youdao.com.
+ns.youdao.com.	518400	IN	A	205.251.197.107
+
+youdao.com.	518400	IN	A	61.135.218.27

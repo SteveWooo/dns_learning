@@ -1,0 +1,4 @@
+
+barclaycard.	86400	IN	SOA	ns.barclaycard.	mail	2019061702 1800 900 604800 86400
+barclaycard.	86400	IN	NS	ns.barclaycard.
+ns.barclaycard.	518400	IN	A	37.209.198.9

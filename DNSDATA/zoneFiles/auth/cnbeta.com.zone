@@ -1,0 +1,6 @@
+
+cnbeta.com.	86400	IN	SOA	ns.cnbeta.com.	mail	2019061702 1800 900 604800 86400
+cnbeta.com.	86400	IN	NS	ns.cnbeta.com.
+ns.cnbeta.com.	518400	IN	A	204.69.234.1
+
+cnbeta.com.	518400	IN	A	125.90.93.20

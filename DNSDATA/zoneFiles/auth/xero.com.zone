@@ -1,0 +1,6 @@
+
+xero.com.	86400	IN	SOA	ns.xero.com.	mail	2019061702 1800 900 604800 86400
+xero.com.	86400	IN	NS	ns.xero.com.
+ns.xero.com.	518400	IN	A	204.69.234.1
+
+xero.com.	518400	IN	A	23.52.4.83

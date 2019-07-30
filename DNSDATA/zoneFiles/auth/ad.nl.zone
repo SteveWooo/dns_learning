@@ -1,0 +1,6 @@
+
+ad.nl.	86400	IN	SOA	ns.ad.nl.	mail	2019061702 1800 900 604800 86400
+ad.nl.	86400	IN	NS	ns.ad.nl.
+ns.ad.nl.	518400	IN	A	125.208.45.1
+
+ad.nl.	518400	IN	A	88.221.216.27

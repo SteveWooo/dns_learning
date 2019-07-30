@@ -1,0 +1,6 @@
+
+mongodb.org.	86400	IN	SOA	ns.mongodb.org.	mail	2019061702 1800 900 604800 86400
+mongodb.org.	86400	IN	NS	ns.mongodb.org.
+ns.mongodb.org.	518400	IN	A	217.69.139.112
+
+mongodb.org.	518400	IN	A	54.173.82.137

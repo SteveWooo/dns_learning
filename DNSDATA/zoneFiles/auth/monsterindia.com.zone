@@ -1,0 +1,6 @@
+
+monsterindia.com.	86400	IN	SOA	ns.monsterindia.com.	mail	2019061702 1800 900 604800 86400
+monsterindia.com.	86400	IN	NS	ns.monsterindia.com.
+ns.monsterindia.com.	518400	IN	A	198.100.156.181
+
+monsterindia.com.	518400	IN	A	202.58.12.134

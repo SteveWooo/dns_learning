@@ -1,0 +1,6 @@
+
+klm.com.	86400	IN	SOA	ns.klm.com.	mail	2019061702 1800 900 604800 86400
+klm.com.	86400	IN	NS	ns.klm.com.
+ns.klm.com.	518400	IN	A	205.251.194.1
+
+klm.com.	518400	IN	A	23.43.5.79

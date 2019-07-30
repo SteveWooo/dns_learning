@@ -1,0 +1,6 @@
+
+paginebianche.it.	86400	IN	SOA	ns.paginebianche.it.	mail	2019061702 1800 900 604800 86400
+paginebianche.it.	86400	IN	NS	ns.paginebianche.it.
+ns.paginebianche.it.	518400	IN	A	213.180.193.1
+
+paginebianche.it.	518400	IN	A	213.209.19.225

@@ -1,0 +1,6 @@
+
+eurogamer.net.	86400	IN	SOA	ns.eurogamer.net.	mail	2019061702 1800 900 604800 86400
+eurogamer.net.	86400	IN	NS	ns.eurogamer.net.
+ns.eurogamer.net.	518400	IN	A	217.69.139.112
+
+eurogamer.net.	518400	IN	A	94.198.83.18

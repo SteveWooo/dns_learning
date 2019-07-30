@@ -1,0 +1,6 @@
+
+kickstarter.com.	86400	IN	SOA	ns.kickstarter.com.	mail	2019061702 1800 900 604800 86400
+kickstarter.com.	86400	IN	NS	ns.kickstarter.com.
+ns.kickstarter.com.	518400	IN	A	198.11.138.249
+
+kickstarter.com.	518400	IN	A	143.204.15.22

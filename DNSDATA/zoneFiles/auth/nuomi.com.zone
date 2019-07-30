@@ -1,0 +1,6 @@
+
+nuomi.com.	86400	IN	SOA	ns.nuomi.com.	mail	2019061702 1800 900 604800 86400
+nuomi.com.	86400	IN	NS	ns.nuomi.com.
+ns.nuomi.com.	518400	IN	A	173.245.58.159
+
+nuomi.com.	518400	IN	A	112.80.255.214

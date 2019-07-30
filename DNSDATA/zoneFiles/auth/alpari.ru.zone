@@ -1,0 +1,6 @@
+
+alpari.ru.	86400	IN	SOA	ns.alpari.ru.	mail	2019061702 1800 900 604800 86400
+alpari.ru.	86400	IN	NS	ns.alpari.ru.
+ns.alpari.ru.	518400	IN	A	200.221.11.98
+
+alpari.ru.	518400	IN	A	178.255.202.24

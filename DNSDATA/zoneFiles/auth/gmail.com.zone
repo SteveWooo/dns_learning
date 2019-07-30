@@ -1,0 +1,6 @@
+
+gmail.com.	86400	IN	SOA	ns.gmail.com.	mail	2019061702 1800 900 604800 86400
+gmail.com.	86400	IN	NS	ns.gmail.com.
+ns.gmail.com.	518400	IN	A	175.126.117.211
+
+gmail.com.	518400	IN	A	64.233.161.19

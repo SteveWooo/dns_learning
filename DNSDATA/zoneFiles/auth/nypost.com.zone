@@ -1,0 +1,6 @@
+
+nypost.com.	86400	IN	SOA	ns.nypost.com.	mail	2019061702 1800 900 604800 86400
+nypost.com.	86400	IN	NS	ns.nypost.com.
+ns.nypost.com.	518400	IN	A	216.239.32.106
+
+nypost.com.	518400	IN	A	192.0.79.33

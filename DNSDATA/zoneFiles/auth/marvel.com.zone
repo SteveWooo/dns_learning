@@ -1,0 +1,6 @@
+
+marvel.com.	86400	IN	SOA	ns.marvel.com.	mail	2019061702 1800 900 604800 86400
+marvel.com.	86400	IN	NS	ns.marvel.com.
+ns.marvel.com.	518400	IN	A	200.221.11.98
+
+marvel.com.	518400	IN	A	72.32.138.96

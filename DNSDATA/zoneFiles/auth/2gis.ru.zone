@@ -1,0 +1,6 @@
+
+2gis.ru.	86400	IN	SOA	ns.2gis.ru.	mail	2019061702 1800 900 604800 86400
+2gis.ru.	86400	IN	NS	ns.2gis.ru.
+ns.2gis.ru.	518400	IN	A	175.126.117.211
+
+2gis.ru.	518400	IN	A	91.236.51.100

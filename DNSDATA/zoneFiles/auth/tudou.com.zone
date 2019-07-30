@@ -1,0 +1,6 @@
+
+tudou.com.	86400	IN	SOA	ns.tudou.com.	mail	2019061702 1800 900 604800 86400
+tudou.com.	86400	IN	NS	ns.tudou.com.
+ns.tudou.com.	518400	IN	A	165.160.15.20
+
+tudou.com.	518400	IN	A	106.11.47.20

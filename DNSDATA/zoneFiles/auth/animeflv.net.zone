@@ -1,0 +1,6 @@
+
+animeflv.net.	86400	IN	SOA	ns.animeflv.net.	mail	2019061702 1800 900 604800 86400
+animeflv.net.	86400	IN	NS	ns.animeflv.net.
+ns.animeflv.net.	518400	IN	A	216.239.32.106
+
+animeflv.net.	518400	IN	A	104.24.28.35

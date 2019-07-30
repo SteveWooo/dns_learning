@@ -1,0 +1,6 @@
+
+eastmoney.com.	86400	IN	SOA	ns.eastmoney.com.	mail	2019061702 1800 900 604800 86400
+eastmoney.com.	86400	IN	NS	ns.eastmoney.com.
+ns.eastmoney.com.	518400	IN	A	205.251.194.1
+
+eastmoney.com.	518400	IN	A	61.152.229.228

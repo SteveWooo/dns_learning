@@ -1,0 +1,6 @@
+
+bomnegocio.com.	86400	IN	SOA	ns.bomnegocio.com.	mail	2019061702 1800 900 604800 86400
+bomnegocio.com.	86400	IN	NS	ns.bomnegocio.com.
+ns.bomnegocio.com.	518400	IN	A	204.69.234.1
+
+bomnegocio.com.	518400	IN	A	54.233.180.45

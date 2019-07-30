@@ -1,0 +1,6 @@
+
+easydriverpro.com.	86400	IN	SOA	ns.easydriverpro.com.	mail	2019061702 1800 900 604800 86400
+easydriverpro.com.	86400	IN	NS	ns.easydriverpro.com.
+ns.easydriverpro.com.	518400	IN	A	173.245.58.100
+
+easydriverpro.com.	518400	IN	A	23.23.172.47

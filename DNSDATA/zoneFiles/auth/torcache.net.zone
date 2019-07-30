@@ -1,0 +1,6 @@
+
+torcache.net.	86400	IN	SOA	ns.torcache.net.	mail	2019061702 1800 900 604800 86400
+torcache.net.	86400	IN	NS	ns.torcache.net.
+ns.torcache.net.	518400	IN	A	213.180.193.1
+
+torcache.net.	518400	IN	A	199.59.242.151

@@ -1,0 +1,6 @@
+
+ultipro.com.	86400	IN	SOA	ns.ultipro.com.	mail	2019061702 1800 900 604800 86400
+ultipro.com.	86400	IN	NS	ns.ultipro.com.
+ns.ultipro.com.	518400	IN	A	217.69.139.112
+
+ultipro.com.	518400	IN	A	72.35.67.191

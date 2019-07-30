@@ -1,0 +1,6 @@
+
+symplicity.com.	86400	IN	SOA	ns.symplicity.com.	mail	2019061702 1800 900 604800 86400
+symplicity.com.	86400	IN	NS	ns.symplicity.com.
+ns.symplicity.com.	518400	IN	A	202.56.230.5
+
+symplicity.com.	518400	IN	A	18.221.123.51

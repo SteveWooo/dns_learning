@@ -1,0 +1,6 @@
+
+blogspot.hk.	86400	IN	SOA	ns.blogspot.hk.	mail	2019061702 1800 900 604800 86400
+blogspot.hk.	86400	IN	NS	ns.blogspot.hk.
+ns.blogspot.hk.	518400	IN	A	213.180.193.1
+
+blogspot.hk.	518400	IN	A	173.194.222.191

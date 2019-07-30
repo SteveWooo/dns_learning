@@ -1,0 +1,6 @@
+
+lifenews.ru.	86400	IN	SOA	ns.lifenews.ru.	mail	2019061702 1800 900 604800 86400
+lifenews.ru.	86400	IN	NS	ns.lifenews.ru.
+ns.lifenews.ru.	518400	IN	A	208.78.70.47
+
+lifenews.ru.	518400	IN	A	131.117.217.70

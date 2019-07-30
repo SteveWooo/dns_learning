@@ -1,0 +1,6 @@
+
+ngacn.cc.	86400	IN	SOA	ns.ngacn.cc.	mail	2019061702 1800 900 604800 86400
+ngacn.cc.	86400	IN	NS	ns.ngacn.cc.
+ns.ngacn.cc.	518400	IN	A	216.239.32.29
+
+ngacn.cc.	518400	IN	A	47.74.224.40

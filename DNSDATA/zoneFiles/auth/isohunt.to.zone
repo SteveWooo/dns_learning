@@ -1,0 +1,6 @@
+
+isohunt.to.	86400	IN	SOA	ns.isohunt.to.	mail	2019061702 1800 900 604800 86400
+isohunt.to.	86400	IN	NS	ns.isohunt.to.
+ns.isohunt.to.	518400	IN	A	205.251.192.29
+
+isohunt.to.	518400	IN	A	185.225.16.154

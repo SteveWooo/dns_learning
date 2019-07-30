@@ -1,0 +1,6 @@
+
+adk2.com.	86400	IN	SOA	ns.adk2.com.	mail	2019061702 1800 900 604800 86400
+adk2.com.	86400	IN	NS	ns.adk2.com.
+ns.adk2.com.	518400	IN	A	200.221.11.98
+
+adk2.com.	518400	IN	A	104.196.162.74

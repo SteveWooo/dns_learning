@@ -1,0 +1,6 @@
+
+naij.com.	86400	IN	SOA	ns.naij.com.	mail	2019061702 1800 900 604800 86400
+naij.com.	86400	IN	NS	ns.naij.com.
+ns.naij.com.	518400	IN	A	216.239.32.106
+
+naij.com.	518400	IN	A	104.77.168.42

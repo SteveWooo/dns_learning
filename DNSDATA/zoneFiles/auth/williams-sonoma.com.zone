@@ -1,0 +1,6 @@
+
+williams-sonoma.com.	86400	IN	SOA	ns.williams-sonoma.com.	mail	2019061702 1800 900 604800 86400
+williams-sonoma.com.	86400	IN	NS	ns.williams-sonoma.com.
+ns.williams-sonoma.com.	518400	IN	A	216.58.200.238
+
+williams-sonoma.com.	518400	IN	A	23.2.16.99

@@ -1,0 +1,6 @@
+
+drom.ru.	86400	IN	SOA	ns.drom.ru.	mail	2019061702 1800 900 604800 86400
+drom.ru.	86400	IN	NS	ns.drom.ru.
+ns.drom.ru.	518400	IN	A	216.58.200.238
+
+drom.ru.	518400	IN	A	185.44.0.16

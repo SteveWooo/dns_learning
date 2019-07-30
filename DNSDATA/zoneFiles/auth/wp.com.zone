@@ -1,0 +1,6 @@
+
+wp.com.	86400	IN	SOA	ns.wp.com.	mail	2019061702 1800 900 604800 86400
+wp.com.	86400	IN	NS	ns.wp.com.
+ns.wp.com.	518400	IN	A	112.133.230.192
+
+wp.com.	518400	IN	A	192.0.78.25

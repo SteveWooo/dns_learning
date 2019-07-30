@@ -1,0 +1,6 @@
+
+bonanza.com.	86400	IN	SOA	ns.bonanza.com.	mail	2019061702 1800 900 604800 86400
+bonanza.com.	86400	IN	NS	ns.bonanza.com.
+ns.bonanza.com.	518400	IN	A	145.14.134.108
+
+bonanza.com.	518400	IN	A	216.168.59.151

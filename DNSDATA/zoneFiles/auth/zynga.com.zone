@@ -1,0 +1,6 @@
+
+zynga.com.	86400	IN	SOA	ns.zynga.com.	mail	2019061702 1800 900 604800 86400
+zynga.com.	86400	IN	NS	ns.zynga.com.
+ns.zynga.com.	518400	IN	A	203.153.43.65
+
+zynga.com.	518400	IN	A	99.84.41.8

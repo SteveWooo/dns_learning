@@ -1,0 +1,6 @@
+
+patch.com.	86400	IN	SOA	ns.patch.com.	mail	2019061702 1800 900 604800 86400
+patch.com.	86400	IN	NS	ns.patch.com.
+ns.patch.com.	518400	IN	A	173.245.59.115
+
+patch.com.	518400	IN	A	151.101.1.177

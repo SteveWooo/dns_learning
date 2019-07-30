@@ -1,0 +1,6 @@
+
+yellowpages.com.	86400	IN	SOA	ns.yellowpages.com.	mail	2019061702 1800 900 604800 86400
+yellowpages.com.	86400	IN	NS	ns.yellowpages.com.
+ns.yellowpages.com.	518400	IN	A	202.56.230.5
+
+yellowpages.com.	518400	IN	A	208.93.105.173

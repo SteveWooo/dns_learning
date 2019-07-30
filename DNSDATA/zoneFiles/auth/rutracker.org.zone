@@ -1,0 +1,6 @@
+
+rutracker.org.	86400	IN	SOA	ns.rutracker.org.	mail	2019061702 1800 900 604800 86400
+rutracker.org.	86400	IN	NS	ns.rutracker.org.
+ns.rutracker.org.	518400	IN	A	217.69.139.112
+
+rutracker.org.	518400	IN	A	195.82.146.214

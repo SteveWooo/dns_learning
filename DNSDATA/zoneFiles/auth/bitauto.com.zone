@@ -1,0 +1,6 @@
+
+bitauto.com.	86400	IN	SOA	ns.bitauto.com.	mail	2019061702 1800 900 604800 86400
+bitauto.com.	86400	IN	NS	ns.bitauto.com.
+ns.bitauto.com.	518400	IN	A	193.232.142.17
+
+bitauto.com.	518400	IN	A	59.151.116.98

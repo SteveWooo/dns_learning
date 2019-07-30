@@ -1,0 +1,6 @@
+
+hln.be.	86400	IN	SOA	ns.hln.be.	mail	2019061702 1800 900 604800 86400
+hln.be.	86400	IN	NS	ns.hln.be.
+ns.hln.be.	518400	IN	A	216.239.32.29
+
+hln.be.	518400	IN	A	23.77.11.191

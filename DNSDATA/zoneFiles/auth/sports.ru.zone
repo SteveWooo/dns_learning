@@ -1,0 +1,6 @@
+
+sports.ru.	86400	IN	SOA	ns.sports.ru.	mail	2019061702 1800 900 604800 86400
+sports.ru.	86400	IN	NS	ns.sports.ru.
+ns.sports.ru.	518400	IN	A	216.239.32.10
+
+sports.ru.	518400	IN	A	37.209.241.119

@@ -1,0 +1,6 @@
+
+wikimapia.org.	86400	IN	SOA	ns.wikimapia.org.	mail	2019061702 1800 900 604800 86400
+wikimapia.org.	86400	IN	NS	ns.wikimapia.org.
+ns.wikimapia.org.	518400	IN	A	213.180.193.1
+
+wikimapia.org.	518400	IN	A	69.171.228.74

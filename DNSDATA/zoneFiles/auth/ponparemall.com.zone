@@ -1,0 +1,6 @@
+
+ponparemall.com.	86400	IN	SOA	ns.ponparemall.com.	mail	2019061702 1800 900 604800 86400
+ponparemall.com.	86400	IN	NS	ns.ponparemall.com.
+ns.ponparemall.com.	518400	IN	A	217.69.139.112
+
+ponparemall.com.	518400	IN	A	160.17.4.253

@@ -1,0 +1,6 @@
+
+ilmessaggero.it.	86400	IN	SOA	ns.ilmessaggero.it.	mail	2019061702 1800 900 604800 86400
+ilmessaggero.it.	86400	IN	NS	ns.ilmessaggero.it.
+ns.ilmessaggero.it.	518400	IN	A	213.180.193.1
+
+ilmessaggero.it.	518400	IN	A	151.0.189.200

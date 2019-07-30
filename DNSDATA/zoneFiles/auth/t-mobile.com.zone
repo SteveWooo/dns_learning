@@ -1,0 +1,6 @@
+
+t-mobile.com.	86400	IN	SOA	ns.t-mobile.com.	mail	2019061702 1800 900 604800 86400
+t-mobile.com.	86400	IN	NS	ns.t-mobile.com.
+ns.t-mobile.com.	518400	IN	A	208.78.70.47
+
+t-mobile.com.	518400	IN	A	45.60.11.176

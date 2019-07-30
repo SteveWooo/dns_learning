@@ -1,0 +1,6 @@
+
+elconfidencial.com.	86400	IN	SOA	ns.elconfidencial.com.	mail	2019061702 1800 900 604800 86400
+elconfidencial.com.	86400	IN	NS	ns.elconfidencial.com.
+ns.elconfidencial.com.	518400	IN	A	204.74.108.1
+
+elconfidencial.com.	518400	IN	A	107.154.106.101

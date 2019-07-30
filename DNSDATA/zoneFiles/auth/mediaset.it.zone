@@ -1,0 +1,6 @@
+
+mediaset.it.	86400	IN	SOA	ns.mediaset.it.	mail	2019061702 1800 900 604800 86400
+mediaset.it.	86400	IN	NS	ns.mediaset.it.
+ns.mediaset.it.	518400	IN	A	213.180.193.1
+
+mediaset.it.	518400	IN	A	91.211.156.128

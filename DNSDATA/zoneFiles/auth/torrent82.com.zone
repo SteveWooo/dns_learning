@@ -1,0 +1,6 @@
+
+torrent82.com.	86400	IN	SOA	ns.torrent82.com.	mail	2019061702 1800 900 604800 86400
+torrent82.com.	86400	IN	NS	ns.torrent82.com.
+ns.torrent82.com.	518400	IN	A	213.180.204.242
+
+torrent82.com.	518400	IN	A	103.224.212.232

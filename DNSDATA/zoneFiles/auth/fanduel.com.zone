@@ -1,0 +1,6 @@
+
+fanduel.com.	86400	IN	SOA	ns.fanduel.com.	mail	2019061702 1800 900 604800 86400
+fanduel.com.	86400	IN	NS	ns.fanduel.com.
+ns.fanduel.com.	518400	IN	A	145.14.134.108
+
+fanduel.com.	518400	IN	A	13.226.15.71

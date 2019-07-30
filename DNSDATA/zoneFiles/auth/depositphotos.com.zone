@@ -1,0 +1,6 @@
+
+depositphotos.com.	86400	IN	SOA	ns.depositphotos.com.	mail	2019061702 1800 900 604800 86400
+depositphotos.com.	86400	IN	NS	ns.depositphotos.com.
+ns.depositphotos.com.	518400	IN	A	193.108.91.127
+
+depositphotos.com.	518400	IN	A	31.13.65.18

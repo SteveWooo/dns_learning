@@ -1,0 +1,6 @@
+
+gnc.com.	86400	IN	SOA	ns.gnc.com.	mail	2019061702 1800 900 604800 86400
+gnc.com.	86400	IN	NS	ns.gnc.com.
+ns.gnc.com.	518400	IN	A	204.69.234.1
+
+gnc.com.	518400	IN	A	216.146.46.10

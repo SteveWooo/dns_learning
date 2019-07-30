@@ -1,0 +1,6 @@
+
+nairaland.com.	86400	IN	SOA	ns.nairaland.com.	mail	2019061702 1800 900 604800 86400
+nairaland.com.	86400	IN	NS	ns.nairaland.com.
+ns.nairaland.com.	518400	IN	A	208.78.70.47
+
+nairaland.com.	518400	IN	A	104.20.238.22

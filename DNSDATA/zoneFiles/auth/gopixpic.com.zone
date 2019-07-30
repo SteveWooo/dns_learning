@@ -1,0 +1,6 @@
+
+gopixpic.com.	86400	IN	SOA	ns.gopixpic.com.	mail	2019061702 1800 900 604800 86400
+gopixpic.com.	86400	IN	NS	ns.gopixpic.com.
+ns.gopixpic.com.	518400	IN	A	112.133.230.192
+
+gopixpic.com.	518400	IN	A	198.54.117.198

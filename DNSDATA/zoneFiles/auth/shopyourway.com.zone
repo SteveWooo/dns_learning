@@ -1,0 +1,6 @@
+
+shopyourway.com.	86400	IN	SOA	ns.shopyourway.com.	mail	2019061702 1800 900 604800 86400
+shopyourway.com.	86400	IN	NS	ns.shopyourway.com.
+ns.shopyourway.com.	518400	IN	A	204.69.234.1
+
+shopyourway.com.	518400	IN	A	63.241.100.76

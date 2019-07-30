@@ -1,0 +1,4 @@
+
+chintai.	86400	IN	SOA	ns.chintai.	mail	2019061702 1800 900 604800 86400
+chintai.	86400	IN	NS	ns.chintai.
+ns.chintai.	518400	IN	A	156.154.157.40

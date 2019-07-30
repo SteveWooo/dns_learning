@@ -1,0 +1,6 @@
+
+fiducia.de.	86400	IN	SOA	ns.fiducia.de.	mail	2019061702 1800 900 604800 86400
+fiducia.de.	86400	IN	NS	ns.fiducia.de.
+ns.fiducia.de.	518400	IN	A	198.100.156.181
+
+fiducia.de.	518400	IN	A	195.200.45.10

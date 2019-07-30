@@ -1,0 +1,6 @@
+
+paytm.com.	86400	IN	SOA	ns.paytm.com.	mail	2019061702 1800 900 604800 86400
+paytm.com.	86400	IN	NS	ns.paytm.com.
+ns.paytm.com.	518400	IN	A	77.88.55.50
+
+paytm.com.	518400	IN	A	149.129.152.2

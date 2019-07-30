@@ -1,0 +1,6 @@
+
+kriesi.at.	86400	IN	SOA	ns.kriesi.at.	mail	2019061702 1800 900 604800 86400
+kriesi.at.	86400	IN	NS	ns.kriesi.at.
+ns.kriesi.at.	518400	IN	A	198.100.156.181
+
+kriesi.at.	518400	IN	A	85.13.149.161

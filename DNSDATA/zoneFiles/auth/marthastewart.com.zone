@@ -1,0 +1,6 @@
+
+marthastewart.com.	86400	IN	SOA	ns.marthastewart.com.	mail	2019061702 1800 900 604800 86400
+marthastewart.com.	86400	IN	NS	ns.marthastewart.com.
+ns.marthastewart.com.	518400	IN	A	205.251.194.1
+
+marthastewart.com.	518400	IN	A	52.3.145.23

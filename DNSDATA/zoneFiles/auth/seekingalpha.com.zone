@@ -1,0 +1,6 @@
+
+seekingalpha.com.	86400	IN	SOA	ns.seekingalpha.com.	mail	2019061702 1800 900 604800 86400
+seekingalpha.com.	86400	IN	NS	ns.seekingalpha.com.
+ns.seekingalpha.com.	518400	IN	A	111.206.53.6
+
+seekingalpha.com.	518400	IN	A	151.101.66.2

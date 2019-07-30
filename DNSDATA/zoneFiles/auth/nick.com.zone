@@ -1,0 +1,6 @@
+
+nick.com.	86400	IN	SOA	ns.nick.com.	mail	2019061702 1800 900 604800 86400
+nick.com.	86400	IN	NS	ns.nick.com.
+ns.nick.com.	518400	IN	A	205.251.197.107
+
+nick.com.	518400	IN	A	34.213.106.51

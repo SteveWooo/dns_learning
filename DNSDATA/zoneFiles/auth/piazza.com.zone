@@ -1,0 +1,6 @@
+
+piazza.com.	86400	IN	SOA	ns.piazza.com.	mail	2019061702 1800 900 604800 86400
+piazza.com.	86400	IN	NS	ns.piazza.com.
+ns.piazza.com.	518400	IN	A	175.126.117.211
+
+piazza.com.	518400	IN	A	3.215.209.172

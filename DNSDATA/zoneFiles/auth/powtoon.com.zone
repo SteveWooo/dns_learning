@@ -1,0 +1,6 @@
+
+powtoon.com.	86400	IN	SOA	ns.powtoon.com.	mail	2019061702 1800 900 604800 86400
+powtoon.com.	86400	IN	NS	ns.powtoon.com.
+ns.powtoon.com.	518400	IN	A	198.100.156.181
+
+powtoon.com.	518400	IN	A	107.22.25.1

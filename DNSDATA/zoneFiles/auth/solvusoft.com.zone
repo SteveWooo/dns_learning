@@ -1,0 +1,6 @@
+
+solvusoft.com.	86400	IN	SOA	ns.solvusoft.com.	mail	2019061702 1800 900 604800 86400
+solvusoft.com.	86400	IN	NS	ns.solvusoft.com.
+ns.solvusoft.com.	518400	IN	A	173.245.58.201
+
+solvusoft.com.	518400	IN	A	54.191.183.106

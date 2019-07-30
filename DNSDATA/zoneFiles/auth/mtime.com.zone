@@ -1,0 +1,6 @@
+
+mtime.com.	86400	IN	SOA	ns.mtime.com.	mail	2019061702 1800 900 604800 86400
+mtime.com.	86400	IN	NS	ns.mtime.com.
+ns.mtime.com.	518400	IN	A	173.245.59.160
+
+mtime.com.	518400	IN	A	203.107.40.108

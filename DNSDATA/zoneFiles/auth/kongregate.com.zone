@@ -1,0 +1,6 @@
+
+kongregate.com.	86400	IN	SOA	ns.kongregate.com.	mail	2019061702 1800 900 604800 86400
+kongregate.com.	86400	IN	NS	ns.kongregate.com.
+ns.kongregate.com.	518400	IN	A	213.180.193.1
+
+kongregate.com.	518400	IN	A	13.225.212.44

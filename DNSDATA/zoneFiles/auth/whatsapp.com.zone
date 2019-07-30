@@ -1,0 +1,6 @@
+
+whatsapp.com.	86400	IN	SOA	ns.whatsapp.com.	mail	2019061702 1800 900 604800 86400
+whatsapp.com.	86400	IN	NS	ns.whatsapp.com.
+ns.whatsapp.com.	518400	IN	A	198.11.138.245
+
+whatsapp.com.	518400	IN	A	31.13.76.8

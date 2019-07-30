@@ -1,0 +1,6 @@
+
+adultfriendfinder.com.	86400	IN	SOA	ns.adultfriendfinder.com.	mail	2019061702 1800 900 604800 86400
+adultfriendfinder.com.	86400	IN	NS	ns.adultfriendfinder.com.
+ns.adultfriendfinder.com.	518400	IN	A	213.180.204.242
+
+adultfriendfinder.com.	518400	IN	A	69.165.107.69

@@ -1,0 +1,6 @@
+
+fodors.com.	86400	IN	SOA	ns.fodors.com.	mail	2019061702 1800 900 604800 86400
+fodors.com.	86400	IN	NS	ns.fodors.com.
+ns.fodors.com.	518400	IN	A	213.180.193.1
+
+fodors.com.	518400	IN	A	104.31.82.252

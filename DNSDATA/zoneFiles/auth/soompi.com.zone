@@ -1,0 +1,6 @@
+
+soompi.com.	86400	IN	SOA	ns.soompi.com.	mail	2019061702 1800 900 604800 86400
+soompi.com.	86400	IN	NS	ns.soompi.com.
+ns.soompi.com.	518400	IN	A	173.245.59.115
+
+soompi.com.	518400	IN	A	104.20.18.19

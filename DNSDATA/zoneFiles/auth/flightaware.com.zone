@@ -1,0 +1,6 @@
+
+flightaware.com.	86400	IN	SOA	ns.flightaware.com.	mail	2019061702 1800 900 604800 86400
+flightaware.com.	86400	IN	NS	ns.flightaware.com.
+ns.flightaware.com.	518400	IN	A	193.232.156.17
+
+flightaware.com.	518400	IN	A	70.42.6.250

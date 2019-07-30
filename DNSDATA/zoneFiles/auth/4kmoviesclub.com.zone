@@ -1,0 +1,6 @@
+
+4kmoviesclub.com.	86400	IN	SOA	ns.4kmoviesclub.com.	mail	2019061702 1800 900 604800 86400
+4kmoviesclub.com.	86400	IN	NS	ns.4kmoviesclub.com.
+ns.4kmoviesclub.com.	518400	IN	A	216.239.32.29
+
+4kmoviesclub.com.	518400	IN	A	35.158.54.186

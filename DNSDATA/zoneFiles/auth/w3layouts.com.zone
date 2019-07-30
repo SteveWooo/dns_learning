@@ -1,0 +1,6 @@
+
+w3layouts.com.	86400	IN	SOA	ns.w3layouts.com.	mail	2019061702 1800 900 604800 86400
+w3layouts.com.	86400	IN	NS	ns.w3layouts.com.
+ns.w3layouts.com.	518400	IN	A	200.221.11.98
+
+w3layouts.com.	518400	IN	A	64.91.245.224

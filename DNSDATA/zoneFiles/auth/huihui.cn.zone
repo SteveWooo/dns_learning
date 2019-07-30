@@ -1,0 +1,6 @@
+
+huihui.cn.	86400	IN	SOA	ns.huihui.cn.	mail	2019061702 1800 900 604800 86400
+huihui.cn.	86400	IN	NS	ns.huihui.cn.
+ns.huihui.cn.	518400	IN	A	200.219.154.10
+
+huihui.cn.	518400	IN	A	61.135.218.38

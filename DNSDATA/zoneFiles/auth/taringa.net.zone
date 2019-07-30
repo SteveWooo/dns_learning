@@ -1,0 +1,6 @@
+
+taringa.net.	86400	IN	SOA	ns.taringa.net.	mail	2019061702 1800 900 604800 86400
+taringa.net.	86400	IN	NS	ns.taringa.net.
+ns.taringa.net.	518400	IN	A	203.153.43.65
+
+taringa.net.	518400	IN	A	104.16.250.39

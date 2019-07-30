@@ -1,0 +1,6 @@
+
+intesasanpaolo.com.	86400	IN	SOA	ns.intesasanpaolo.com.	mail	2019061702 1800 900 604800 86400
+intesasanpaolo.com.	86400	IN	NS	ns.intesasanpaolo.com.
+ns.intesasanpaolo.com.	518400	IN	A	205.251.197.107
+
+intesasanpaolo.com.	518400	IN	A	193.227.214.38

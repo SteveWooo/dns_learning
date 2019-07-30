@@ -1,0 +1,6 @@
+
+academia.edu.	86400	IN	SOA	ns.academia.edu.	mail	2019061702 1800 900 604800 86400
+academia.edu.	86400	IN	NS	ns.academia.edu.
+ns.academia.edu.	518400	IN	A	213.180.193.1
+
+academia.edu.	518400	IN	A	107.22.174.222

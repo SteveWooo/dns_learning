@@ -1,0 +1,6 @@
+
+howstuffworks.com.	86400	IN	SOA	ns.howstuffworks.com.	mail	2019061702 1800 900 604800 86400
+howstuffworks.com.	86400	IN	NS	ns.howstuffworks.com.
+ns.howstuffworks.com.	518400	IN	A	213.180.193.1
+
+howstuffworks.com.	518400	IN	A	13.225.105.59

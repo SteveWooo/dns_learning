@@ -1,0 +1,6 @@
+
+kp.ru.	86400	IN	SOA	ns.kp.ru.	mail	2019061702 1800 900 604800 86400
+kp.ru.	86400	IN	NS	ns.kp.ru.
+ns.kp.ru.	518400	IN	A	205.251.197.107
+
+kp.ru.	518400	IN	A	95.163.95.9

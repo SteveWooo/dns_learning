@@ -1,0 +1,6 @@
+
+bazos.sk.	86400	IN	SOA	ns.bazos.sk.	mail	2019061702 1800 900 604800 86400
+bazos.sk.	86400	IN	NS	ns.bazos.sk.
+ns.bazos.sk.	518400	IN	A	202.56.230.5
+
+bazos.sk.	518400	IN	A	88.86.119.241

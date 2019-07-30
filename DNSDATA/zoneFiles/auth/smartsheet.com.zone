@@ -1,0 +1,6 @@
+
+smartsheet.com.	86400	IN	SOA	ns.smartsheet.com.	mail	2019061702 1800 900 604800 86400
+smartsheet.com.	86400	IN	NS	ns.smartsheet.com.
+ns.smartsheet.com.	518400	IN	A	217.69.139.202
+
+smartsheet.com.	518400	IN	A	204.2.135.79

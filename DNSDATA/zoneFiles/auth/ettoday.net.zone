@@ -1,0 +1,6 @@
+
+ettoday.net.	86400	IN	SOA	ns.ettoday.net.	mail	2019061702 1800 900 604800 86400
+ettoday.net.	86400	IN	NS	ns.ettoday.net.
+ns.ettoday.net.	518400	IN	A	206.128.173.109
+
+ettoday.net.	518400	IN	A	219.85.79.131

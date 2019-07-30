@@ -1,0 +1,6 @@
+
+raspberrypi.org.	86400	IN	SOA	ns.raspberrypi.org.	mail	2019061702 1800 900 604800 86400
+raspberrypi.org.	86400	IN	NS	ns.raspberrypi.org.
+ns.raspberrypi.org.	518400	IN	A	216.239.32.106
+
+raspberrypi.org.	518400	IN	A	93.93.128.211

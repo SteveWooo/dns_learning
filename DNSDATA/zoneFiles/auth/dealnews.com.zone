@@ -1,0 +1,6 @@
+
+dealnews.com.	86400	IN	SOA	ns.dealnews.com.	mail	2019061702 1800 900 604800 86400
+dealnews.com.	86400	IN	NS	ns.dealnews.com.
+ns.dealnews.com.	518400	IN	A	217.69.139.202
+
+dealnews.com.	518400	IN	A	63.128.92.144

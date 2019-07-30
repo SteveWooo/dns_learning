@@ -1,0 +1,6 @@
+
+iol.pt.	86400	IN	SOA	ns.iol.pt.	mail	2019061702 1800 900 604800 86400
+iol.pt.	86400	IN	NS	ns.iol.pt.
+ns.iol.pt.	518400	IN	A	193.108.91.127
+
+iol.pt.	518400	IN	A	193.126.240.131

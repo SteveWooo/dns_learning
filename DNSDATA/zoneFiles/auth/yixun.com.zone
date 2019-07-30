@@ -1,0 +1,6 @@
+
+yixun.com.	86400	IN	SOA	ns.yixun.com.	mail	2019061702 1800 900 604800 86400
+yixun.com.	86400	IN	NS	ns.yixun.com.
+ns.yixun.com.	518400	IN	A	202.108.22.220
+
+yixun.com.	518400	IN	A	58.83.230.161

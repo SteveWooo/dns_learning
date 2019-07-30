@@ -1,0 +1,6 @@
+
+newgrounds.com.	86400	IN	SOA	ns.newgrounds.com.	mail	2019061702 1800 900 604800 86400
+newgrounds.com.	86400	IN	NS	ns.newgrounds.com.
+ns.newgrounds.com.	518400	IN	A	58.180.27.226
+
+newgrounds.com.	518400	IN	A	142.44.137.231

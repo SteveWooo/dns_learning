@@ -1,0 +1,6 @@
+
+lenskart.com.	86400	IN	SOA	ns.lenskart.com.	mail	2019061702 1800 900 604800 86400
+lenskart.com.	86400	IN	NS	ns.lenskart.com.
+ns.lenskart.com.	518400	IN	A	204.74.108.1
+
+lenskart.com.	518400	IN	A	104.16.34.62

@@ -1,0 +1,6 @@
+
+dailybasis.com.	86400	IN	SOA	ns.dailybasis.com.	mail	2019061702 1800 900 604800 86400
+dailybasis.com.	86400	IN	NS	ns.dailybasis.com.
+ns.dailybasis.com.	518400	IN	A	175.126.117.211
+
+dailybasis.com.	518400	IN	A	68.169.73.82

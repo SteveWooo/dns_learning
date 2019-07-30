@@ -1,0 +1,6 @@
+
+un.org.	86400	IN	SOA	ns.un.org.	mail	2019061702 1800 900 604800 86400
+un.org.	86400	IN	NS	ns.un.org.
+ns.un.org.	518400	IN	A	204.74.108.1
+
+un.org.	518400	IN	A	72.9.105.30

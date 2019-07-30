@@ -1,0 +1,6 @@
+
+mcnpks.com.	86400	IN	SOA	ns.mcnpks.com.	mail	2019061702 1800 900 604800 86400
+mcnpks.com.	86400	IN	NS	ns.mcnpks.com.
+ns.mcnpks.com.	518400	IN	A	216.58.200.238
+
+mcnpks.com.	518400	IN	A	154.194.99.7

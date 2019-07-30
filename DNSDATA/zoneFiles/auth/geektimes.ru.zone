@@ -1,0 +1,6 @@
+
+geektimes.ru.	86400	IN	SOA	ns.geektimes.ru.	mail	2019061702 1800 900 604800 86400
+geektimes.ru.	86400	IN	NS	ns.geektimes.ru.
+ns.geektimes.ru.	518400	IN	A	193.108.91.127
+
+geektimes.ru.	518400	IN	A	178.248.237.68

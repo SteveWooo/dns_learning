@@ -1,0 +1,6 @@
+
+rappler.com.	86400	IN	SOA	ns.rappler.com.	mail	2019061702 1800 900 604800 86400
+rappler.com.	86400	IN	NS	ns.rappler.com.
+ns.rappler.com.	518400	IN	A	216.239.32.106
+
+rappler.com.	518400	IN	A	52.85.241.64

@@ -1,0 +1,6 @@
+
+doctoroz.com.	86400	IN	SOA	ns.doctoroz.com.	mail	2019061702 1800 900 604800 86400
+doctoroz.com.	86400	IN	NS	ns.doctoroz.com.
+ns.doctoroz.com.	518400	IN	A	205.251.197.107
+
+doctoroz.com.	518400	IN	A	104.255.93.153

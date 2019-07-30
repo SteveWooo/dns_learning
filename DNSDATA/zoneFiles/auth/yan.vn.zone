@@ -1,0 +1,6 @@
+
+yan.vn.	86400	IN	SOA	ns.yan.vn.	mail	2019061702 1800 900 604800 86400
+yan.vn.	86400	IN	NS	ns.yan.vn.
+ns.yan.vn.	518400	IN	A	198.11.138.245
+
+yan.vn.	518400	IN	A	210.211.120.26

@@ -1,0 +1,6 @@
+
+nintendo.com.	86400	IN	SOA	ns.nintendo.com.	mail	2019061702 1800 900 604800 86400
+nintendo.com.	86400	IN	NS	ns.nintendo.com.
+ns.nintendo.com.	518400	IN	A	193.232.156.17
+
+nintendo.com.	518400	IN	A	199.227.51.53

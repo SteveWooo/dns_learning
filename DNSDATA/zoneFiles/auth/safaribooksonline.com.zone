@@ -1,0 +1,6 @@
+
+safaribooksonline.com.	86400	IN	SOA	ns.safaribooksonline.com.	mail	2019061702 1800 900 604800 86400
+safaribooksonline.com.	86400	IN	NS	ns.safaribooksonline.com.
+ns.safaribooksonline.com.	518400	IN	A	202.56.230.5
+
+safaribooksonline.com.	518400	IN	A	151.101.193.132

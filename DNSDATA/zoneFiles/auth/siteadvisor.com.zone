@@ -1,0 +1,6 @@
+
+siteadvisor.com.	86400	IN	SOA	ns.siteadvisor.com.	mail	2019061702 1800 900 604800 86400
+siteadvisor.com.	86400	IN	NS	ns.siteadvisor.com.
+ns.siteadvisor.com.	518400	IN	A	205.251.194.1
+
+siteadvisor.com.	518400	IN	A	161.69.17.94

@@ -1,0 +1,6 @@
+
+olx.ph.	86400	IN	SOA	ns.olx.ph.	mail	2019061702 1800 900 604800 86400
+olx.ph.	86400	IN	NS	ns.olx.ph.
+ns.olx.ph.	518400	IN	A	202.108.22.220
+
+olx.ph.	518400	IN	A	52.74.124.81

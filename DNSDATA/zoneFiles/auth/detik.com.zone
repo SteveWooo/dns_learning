@@ -1,0 +1,6 @@
+
+detik.com.	86400	IN	SOA	ns.detik.com.	mail	2019061702 1800 900 604800 86400
+detik.com.	86400	IN	NS	ns.detik.com.
+ns.detik.com.	518400	IN	A	204.69.234.1
+
+detik.com.	518400	IN	A	203.190.242.211

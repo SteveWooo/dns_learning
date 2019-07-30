@@ -1,0 +1,6 @@
+
+mywot.com.	86400	IN	SOA	ns.mywot.com.	mail	2019061702 1800 900 604800 86400
+mywot.com.	86400	IN	NS	ns.mywot.com.
+ns.mywot.com.	518400	IN	A	205.251.195.203
+
+mywot.com.	518400	IN	A	54.186.90.11

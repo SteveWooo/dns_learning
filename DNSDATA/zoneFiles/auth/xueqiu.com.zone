@@ -1,0 +1,6 @@
+
+xueqiu.com.	86400	IN	SOA	ns.xueqiu.com.	mail	2019061702 1800 900 604800 86400
+xueqiu.com.	86400	IN	NS	ns.xueqiu.com.
+ns.xueqiu.com.	518400	IN	A	213.180.193.1
+
+xueqiu.com.	518400	IN	A	47.89.2.206

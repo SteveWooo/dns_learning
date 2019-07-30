@@ -1,0 +1,6 @@
+
+eenadu.net.	86400	IN	SOA	ns.eenadu.net.	mail	2019061702 1800 900 604800 86400
+eenadu.net.	86400	IN	NS	ns.eenadu.net.
+ns.eenadu.net.	518400	IN	A	203.153.43.65
+
+eenadu.net.	518400	IN	A	13.33.231.100

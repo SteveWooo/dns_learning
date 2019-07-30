@@ -1,0 +1,6 @@
+
+omiga-plus.com.	86400	IN	SOA	ns.omiga-plus.com.	mail	2019061702 1800 900 604800 86400
+omiga-plus.com.	86400	IN	NS	ns.omiga-plus.com.
+ns.omiga-plus.com.	518400	IN	A	173.245.59.160
+
+omiga-plus.com.	518400	IN	A	50.22.218.160

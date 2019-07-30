@@ -1,0 +1,6 @@
+
+imgtiger.com.	86400	IN	SOA	ns.imgtiger.com.	mail	2019061702 1800 900 604800 86400
+imgtiger.com.	86400	IN	NS	ns.imgtiger.com.
+ns.imgtiger.com.	518400	IN	A	213.180.193.1
+
+imgtiger.com.	518400	IN	A	104.31.15.154

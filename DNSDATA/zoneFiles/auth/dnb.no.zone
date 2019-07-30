@@ -1,0 +1,6 @@
+
+dnb.no.	86400	IN	SOA	ns.dnb.no.	mail	2019061702 1800 900 604800 86400
+dnb.no.	86400	IN	NS	ns.dnb.no.
+ns.dnb.no.	518400	IN	A	206.128.173.109
+
+dnb.no.	518400	IN	A	104.76.30.155

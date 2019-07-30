@@ -1,0 +1,6 @@
+
+zougla.gr.	86400	IN	SOA	ns.zougla.gr.	mail	2019061702 1800 900 604800 86400
+zougla.gr.	86400	IN	NS	ns.zougla.gr.
+ns.zougla.gr.	518400	IN	A	203.153.43.65
+
+zougla.gr.	518400	IN	A	195.154.207.165

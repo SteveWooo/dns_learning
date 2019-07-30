@@ -1,0 +1,6 @@
+
+gamingwonderland.com.	86400	IN	SOA	ns.gamingwonderland.com.	mail	2019061702 1800 900 604800 86400
+gamingwonderland.com.	86400	IN	NS	ns.gamingwonderland.com.
+ns.gamingwonderland.com.	518400	IN	A	216.239.32.29
+
+gamingwonderland.com.	518400	IN	A	74.113.237.221

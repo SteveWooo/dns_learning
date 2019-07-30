@@ -1,0 +1,6 @@
+
+stirileprotv.ro.	86400	IN	SOA	ns.stirileprotv.ro.	mail	2019061702 1800 900 604800 86400
+stirileprotv.ro.	86400	IN	NS	ns.stirileprotv.ro.
+ns.stirileprotv.ro.	518400	IN	A	216.239.32.106
+
+stirileprotv.ro.	518400	IN	A	185.133.64.100

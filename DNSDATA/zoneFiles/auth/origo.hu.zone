@@ -1,0 +1,6 @@
+
+origo.hu.	86400	IN	SOA	ns.origo.hu.	mail	2019061702 1800 900 604800 86400
+origo.hu.	86400	IN	NS	ns.origo.hu.
+ns.origo.hu.	518400	IN	A	173.245.59.130
+
+origo.hu.	518400	IN	A	46.107.16.51

@@ -1,0 +1,6 @@
+
+duga.jp.	86400	IN	SOA	ns.duga.jp.	mail	2019061702 1800 900 604800 86400
+duga.jp.	86400	IN	NS	ns.duga.jp.
+ns.duga.jp.	518400	IN	A	216.239.32.29
+
+duga.jp.	518400	IN	A	199.59.149.244

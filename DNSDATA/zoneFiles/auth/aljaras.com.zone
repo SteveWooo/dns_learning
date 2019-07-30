@@ -1,0 +1,6 @@
+
+aljaras.com.	86400	IN	SOA	ns.aljaras.com.	mail	2019061702 1800 900 604800 86400
+aljaras.com.	86400	IN	NS	ns.aljaras.com.
+ns.aljaras.com.	518400	IN	A	205.251.195.203
+
+aljaras.com.	518400	IN	A	104.24.113.123

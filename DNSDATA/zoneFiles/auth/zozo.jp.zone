@@ -1,0 +1,6 @@
+
+zozo.jp.	86400	IN	SOA	ns.zozo.jp.	mail	2019061702 1800 900 604800 86400
+zozo.jp.	86400	IN	NS	ns.zozo.jp.
+ns.zozo.jp.	518400	IN	A	213.180.193.1
+
+zozo.jp.	518400	IN	A	175.111.83.1

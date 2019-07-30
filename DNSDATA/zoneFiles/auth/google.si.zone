@@ -1,0 +1,6 @@
+
+google.si.	86400	IN	SOA	ns.google.si.	mail	2019061702 1800 900 604800 86400
+google.si.	86400	IN	NS	ns.google.si.
+ns.google.si.	518400	IN	A	217.69.139.112
+
+google.si.	518400	IN	A	172.217.29.163

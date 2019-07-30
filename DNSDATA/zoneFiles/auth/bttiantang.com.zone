@@ -1,0 +1,6 @@
+
+bttiantang.com.	86400	IN	SOA	ns.bttiantang.com.	mail	2019061702 1800 900 604800 86400
+bttiantang.com.	86400	IN	NS	ns.bttiantang.com.
+ns.bttiantang.com.	518400	IN	A	208.78.70.47
+
+bttiantang.com.	518400	IN	A	66.175.217.34

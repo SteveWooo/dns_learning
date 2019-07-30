@@ -1,0 +1,6 @@
+
+hotelurbano.com.	86400	IN	SOA	ns.hotelurbano.com.	mail	2019061702 1800 900 604800 86400
+hotelurbano.com.	86400	IN	NS	ns.hotelurbano.com.
+ns.hotelurbano.com.	518400	IN	A	213.180.204.242
+
+hotelurbano.com.	518400	IN	A	35.201.116.75

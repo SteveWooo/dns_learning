@@ -1,0 +1,6 @@
+
+chexun.com.	86400	IN	SOA	ns.chexun.com.	mail	2019061702 1800 900 604800 86400
+chexun.com.	86400	IN	NS	ns.chexun.com.
+ns.chexun.com.	518400	IN	A	205.251.192.29
+
+chexun.com.	518400	IN	A	103.193.160.212

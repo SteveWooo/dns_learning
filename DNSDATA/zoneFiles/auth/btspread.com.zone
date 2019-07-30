@@ -1,0 +1,6 @@
+
+btspread.com.	86400	IN	SOA	ns.btspread.com.	mail	2019061702 1800 900 604800 86400
+btspread.com.	86400	IN	NS	ns.btspread.com.
+ns.btspread.com.	518400	IN	A	216.239.32.106
+
+btspread.com.	518400	IN	A	185.112.156.115

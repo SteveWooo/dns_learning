@@ -1,0 +1,6 @@
+
+emol.com.	86400	IN	SOA	ns.emol.com.	mail	2019061702 1800 900 604800 86400
+emol.com.	86400	IN	NS	ns.emol.com.
+ns.emol.com.	518400	IN	A	145.14.134.108
+
+emol.com.	518400	IN	A	200.12.20.60

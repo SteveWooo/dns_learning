@@ -1,0 +1,6 @@
+
+jeevansathi.com.	86400	IN	SOA	ns.jeevansathi.com.	mail	2019061702 1800 900 604800 86400
+jeevansathi.com.	86400	IN	NS	ns.jeevansathi.com.
+ns.jeevansathi.com.	518400	IN	A	173.245.58.138
+
+jeevansathi.com.	518400	IN	A	54.251.103.25

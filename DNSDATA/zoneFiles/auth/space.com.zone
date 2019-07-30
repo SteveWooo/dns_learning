@@ -1,0 +1,6 @@
+
+space.com.	86400	IN	SOA	ns.space.com.	mail	2019061702 1800 900 604800 86400
+space.com.	86400	IN	NS	ns.space.com.
+ns.space.com.	518400	IN	A	206.128.173.109
+
+space.com.	518400	IN	A	185.113.25.55

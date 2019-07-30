@@ -1,0 +1,6 @@
+
+mydrivers.com.	86400	IN	SOA	ns.mydrivers.com.	mail	2019061702 1800 900 604800 86400
+mydrivers.com.	86400	IN	NS	ns.mydrivers.com.
+ns.mydrivers.com.	518400	IN	A	216.239.32.29
+
+mydrivers.com.	518400	IN	A	123.206.6.193

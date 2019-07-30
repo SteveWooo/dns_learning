@@ -1,0 +1,6 @@
+
+sapo.pt.	86400	IN	SOA	ns.sapo.pt.	mail	2019061702 1800 900 604800 86400
+sapo.pt.	86400	IN	NS	ns.sapo.pt.
+ns.sapo.pt.	518400	IN	A	205.251.199.254
+
+sapo.pt.	518400	IN	A	213.13.146.142

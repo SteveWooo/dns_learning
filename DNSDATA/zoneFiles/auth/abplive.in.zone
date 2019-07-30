@@ -1,0 +1,6 @@
+
+abplive.in.	86400	IN	SOA	ns.abplive.in.	mail	2019061702 1800 900 604800 86400
+abplive.in.	86400	IN	NS	ns.abplive.in.
+ns.abplive.in.	518400	IN	A	206.128.173.109
+
+abplive.in.	518400	IN	A	2.17.140.46

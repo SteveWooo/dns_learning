@@ -1,0 +1,6 @@
+
+stumbleupon.com.	86400	IN	SOA	ns.stumbleupon.com.	mail	2019061702 1800 900 604800 86400
+stumbleupon.com.	86400	IN	NS	ns.stumbleupon.com.
+ns.stumbleupon.com.	518400	IN	A	213.180.193.1
+
+stumbleupon.com.	518400	IN	A	99.86.163.89

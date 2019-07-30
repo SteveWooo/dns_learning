@@ -1,0 +1,6 @@
+
+thenewslens.com.	86400	IN	SOA	ns.thenewslens.com.	mail	2019061702 1800 900 604800 86400
+thenewslens.com.	86400	IN	NS	ns.thenewslens.com.
+ns.thenewslens.com.	518400	IN	A	216.239.32.10
+
+thenewslens.com.	518400	IN	A	31.13.71.23

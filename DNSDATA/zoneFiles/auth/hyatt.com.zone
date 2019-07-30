@@ -1,0 +1,6 @@
+
+hyatt.com.	86400	IN	SOA	ns.hyatt.com.	mail	2019061702 1800 900 604800 86400
+hyatt.com.	86400	IN	NS	ns.hyatt.com.
+ns.hyatt.com.	518400	IN	A	205.251.195.203
+
+hyatt.com.	518400	IN	A	140.95.207.100

@@ -1,0 +1,6 @@
+
+soku.com.	86400	IN	SOA	ns.soku.com.	mail	2019061702 1800 900 604800 86400
+soku.com.	86400	IN	NS	ns.soku.com.
+ns.soku.com.	518400	IN	A	205.251.199.254
+
+soku.com.	518400	IN	A	106.11.186.1

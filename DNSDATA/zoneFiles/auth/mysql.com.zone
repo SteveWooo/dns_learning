@@ -1,0 +1,6 @@
+
+mysql.com.	86400	IN	SOA	ns.mysql.com.	mail	2019061702 1800 900 604800 86400
+mysql.com.	86400	IN	NS	ns.mysql.com.
+ns.mysql.com.	518400	IN	A	200.219.154.10
+
+mysql.com.	518400	IN	A	137.254.60.6

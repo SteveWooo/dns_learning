@@ -1,0 +1,6 @@
+
+addurl.nu.	86400	IN	SOA	ns.addurl.nu.	mail	2019061702 1800 900 604800 86400
+addurl.nu.	86400	IN	NS	ns.addurl.nu.
+ns.addurl.nu.	518400	IN	A	81.19.82.2
+
+addurl.nu.	518400	IN	A	37.148.205.129

@@ -1,0 +1,6 @@
+
+1and1.com.	86400	IN	SOA	ns.1and1.com.	mail	2019061702 1800 900 604800 86400
+1and1.com.	86400	IN	NS	ns.1and1.com.
+ns.1and1.com.	518400	IN	A	200.201.161.22
+
+1and1.com.	518400	IN	A	74.208.255.134

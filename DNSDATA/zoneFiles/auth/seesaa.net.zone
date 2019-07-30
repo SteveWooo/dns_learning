@@ -1,0 +1,6 @@
+
+seesaa.net.	86400	IN	SOA	ns.seesaa.net.	mail	2019061702 1800 900 604800 86400
+seesaa.net.	86400	IN	NS	ns.seesaa.net.
+ns.seesaa.net.	518400	IN	A	198.11.138.249
+
+seesaa.net.	518400	IN	A	13.249.226.10

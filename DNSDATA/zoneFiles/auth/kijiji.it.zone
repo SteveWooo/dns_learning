@@ -1,0 +1,6 @@
+
+kijiji.it.	86400	IN	SOA	ns.kijiji.it.	mail	2019061702 1800 900 604800 86400
+kijiji.it.	86400	IN	NS	ns.kijiji.it.
+ns.kijiji.it.	518400	IN	A	203.153.43.65
+
+kijiji.it.	518400	IN	A	185.53.50.83

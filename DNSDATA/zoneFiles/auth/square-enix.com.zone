@@ -1,0 +1,6 @@
+
+square-enix.com.	86400	IN	SOA	ns.square-enix.com.	mail	2019061702 1800 900 604800 86400
+square-enix.com.	86400	IN	NS	ns.square-enix.com.
+ns.square-enix.com.	518400	IN	A	205.251.197.107
+
+square-enix.com.	518400	IN	A	202.67.63.140

@@ -1,0 +1,6 @@
+
+sanspo.com.	86400	IN	SOA	ns.sanspo.com.	mail	2019061702 1800 900 604800 86400
+sanspo.com.	86400	IN	NS	ns.sanspo.com.
+ns.sanspo.com.	518400	IN	A	206.128.173.109
+
+sanspo.com.	518400	IN	A	13.114.155.253

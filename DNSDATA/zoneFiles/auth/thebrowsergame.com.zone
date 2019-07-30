@@ -1,0 +1,6 @@
+
+thebrowsergame.com.	86400	IN	SOA	ns.thebrowsergame.com.	mail	2019061702 1800 900 604800 86400
+thebrowsergame.com.	86400	IN	NS	ns.thebrowsergame.com.
+ns.thebrowsergame.com.	518400	IN	A	216.58.200.238
+
+thebrowsergame.com.	518400	IN	A	204.155.159.33

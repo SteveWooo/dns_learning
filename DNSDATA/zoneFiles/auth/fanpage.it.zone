@@ -1,0 +1,6 @@
+
+fanpage.it.	86400	IN	SOA	ns.fanpage.it.	mail	2019061702 1800 900 604800 86400
+fanpage.it.	86400	IN	NS	ns.fanpage.it.
+ns.fanpage.it.	518400	IN	A	198.11.138.245
+
+fanpage.it.	518400	IN	A	54.76.9.66

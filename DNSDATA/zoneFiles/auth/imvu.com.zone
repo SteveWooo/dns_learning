@@ -1,0 +1,6 @@
+
+imvu.com.	86400	IN	SOA	ns.imvu.com.	mail	2019061702 1800 900 604800 86400
+imvu.com.	86400	IN	NS	ns.imvu.com.
+ns.imvu.com.	518400	IN	A	213.180.204.242
+
+imvu.com.	518400	IN	A	204.225.145.57

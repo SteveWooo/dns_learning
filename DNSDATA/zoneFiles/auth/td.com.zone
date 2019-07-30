@@ -1,0 +1,6 @@
+
+td.com.	86400	IN	SOA	ns.td.com.	mail	2019061702 1800 900 604800 86400
+td.com.	86400	IN	NS	ns.td.com.
+ns.td.com.	518400	IN	A	202.56.230.5
+
+td.com.	518400	IN	A	104.102.80.17

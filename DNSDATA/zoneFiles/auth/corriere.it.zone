@@ -1,0 +1,6 @@
+
+corriere.it.	86400	IN	SOA	ns.corriere.it.	mail	2019061702 1800 900 604800 86400
+corriere.it.	86400	IN	NS	ns.corriere.it.
+ns.corriere.it.	518400	IN	A	217.69.139.112
+
+corriere.it.	518400	IN	A	185.53.36.101

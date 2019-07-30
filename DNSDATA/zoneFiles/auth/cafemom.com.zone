@@ -1,0 +1,6 @@
+
+cafemom.com.	86400	IN	SOA	ns.cafemom.com.	mail	2019061702 1800 900 604800 86400
+cafemom.com.	86400	IN	NS	ns.cafemom.com.
+ns.cafemom.com.	518400	IN	A	202.108.22.220
+
+cafemom.com.	518400	IN	A	23.23.22.135

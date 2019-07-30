@@ -1,0 +1,6 @@
+
+afpbb.com.	86400	IN	SOA	ns.afpbb.com.	mail	2019061702 1800 900 604800 86400
+afpbb.com.	86400	IN	NS	ns.afpbb.com.
+ns.afpbb.com.	518400	IN	A	93.186.225.193
+
+afpbb.com.	518400	IN	A	202.238.151.70

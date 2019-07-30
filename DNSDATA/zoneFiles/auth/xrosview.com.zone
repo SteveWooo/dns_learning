@@ -1,0 +1,6 @@
+
+xrosview.com.	86400	IN	SOA	ns.xrosview.com.	mail	2019061702 1800 900 604800 86400
+xrosview.com.	86400	IN	NS	ns.xrosview.com.
+ns.xrosview.com.	518400	IN	A	213.180.204.242
+
+xrosview.com.	518400	IN	A	67.227.226.240

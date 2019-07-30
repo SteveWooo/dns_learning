@@ -1,0 +1,6 @@
+
+bluedart.com.	86400	IN	SOA	ns.bluedart.com.	mail	2019061702 1800 900 604800 86400
+bluedart.com.	86400	IN	NS	ns.bluedart.com.
+ns.bluedart.com.	518400	IN	A	173.245.58.138
+
+bluedart.com.	518400	IN	A	14.142.125.212

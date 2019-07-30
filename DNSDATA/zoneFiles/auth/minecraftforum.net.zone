@@ -1,0 +1,6 @@
+
+minecraftforum.net.	86400	IN	SOA	ns.minecraftforum.net.	mail	2019061702 1800 900 604800 86400
+minecraftforum.net.	86400	IN	NS	ns.minecraftforum.net.
+ns.minecraftforum.net.	518400	IN	A	198.11.138.245
+
+minecraftforum.net.	518400	IN	A	104.28.19.202

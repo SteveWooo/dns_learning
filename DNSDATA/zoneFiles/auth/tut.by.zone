@@ -1,0 +1,6 @@
+
+tut.by.	86400	IN	SOA	ns.tut.by.	mail	2019061702 1800 900 604800 86400
+tut.by.	86400	IN	NS	ns.tut.by.
+ns.tut.by.	518400	IN	A	217.69.139.202
+
+tut.by.	518400	IN	A	178.172.160.3

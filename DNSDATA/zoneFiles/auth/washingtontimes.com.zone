@@ -1,0 +1,6 @@
+
+washingtontimes.com.	86400	IN	SOA	ns.washingtontimes.com.	mail	2019061702 1800 900 604800 86400
+washingtontimes.com.	86400	IN	NS	ns.washingtontimes.com.
+ns.washingtontimes.com.	518400	IN	A	203.153.43.65
+
+washingtontimes.com.	518400	IN	A	52.21.238.55

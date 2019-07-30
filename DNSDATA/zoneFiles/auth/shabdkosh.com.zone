@@ -1,0 +1,6 @@
+
+shabdkosh.com.	86400	IN	SOA	ns.shabdkosh.com.	mail	2019061702 1800 900 604800 86400
+shabdkosh.com.	86400	IN	NS	ns.shabdkosh.com.
+ns.shabdkosh.com.	518400	IN	A	173.245.58.100
+
+shabdkosh.com.	518400	IN	A	107.6.114.228

@@ -1,0 +1,6 @@
+
+unam.mx.	86400	IN	SOA	ns.unam.mx.	mail	2019061702 1800 900 604800 86400
+unam.mx.	86400	IN	NS	ns.unam.mx.
+ns.unam.mx.	518400	IN	A	216.239.32.29
+
+unam.mx.	518400	IN	A	132.247.190.21

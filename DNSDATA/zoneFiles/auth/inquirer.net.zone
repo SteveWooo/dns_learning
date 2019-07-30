@@ -1,0 +1,6 @@
+
+inquirer.net.	86400	IN	SOA	ns.inquirer.net.	mail	2019061702 1800 900 604800 86400
+inquirer.net.	86400	IN	NS	ns.inquirer.net.
+ns.inquirer.net.	518400	IN	A	77.88.55.50
+
+inquirer.net.	518400	IN	A	31.13.97.245

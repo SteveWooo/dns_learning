@@ -1,0 +1,6 @@
+
+shaparak.ir.	86400	IN	SOA	ns.shaparak.ir.	mail	2019061702 1800 900 604800 86400
+shaparak.ir.	86400	IN	NS	ns.shaparak.ir.
+ns.shaparak.ir.	518400	IN	A	216.58.200.238
+
+shaparak.ir.	518400	IN	A	185.167.72.20

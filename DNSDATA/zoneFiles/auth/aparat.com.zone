@@ -1,0 +1,6 @@
+
+aparat.com.	86400	IN	SOA	ns.aparat.com.	mail	2019061702 1800 900 604800 86400
+aparat.com.	86400	IN	NS	ns.aparat.com.
+ns.aparat.com.	518400	IN	A	216.58.200.238
+
+aparat.com.	518400	IN	A	185.147.178.12

@@ -1,0 +1,6 @@
+
+tvguide.com.	86400	IN	SOA	ns.tvguide.com.	mail	2019061702 1800 900 604800 86400
+tvguide.com.	86400	IN	NS	ns.tvguide.com.
+ns.tvguide.com.	518400	IN	A	200.201.161.22
+
+tvguide.com.	518400	IN	A	64.30.228.101

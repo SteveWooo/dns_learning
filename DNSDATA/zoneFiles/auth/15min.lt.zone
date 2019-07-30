@@ -1,0 +1,6 @@
+
+15min.lt.	86400	IN	SOA	ns.15min.lt.	mail	2019061702 1800 900 604800 86400
+15min.lt.	86400	IN	NS	ns.15min.lt.
+ns.15min.lt.	518400	IN	A	205.251.197.107
+
+15min.lt.	518400	IN	A	185.11.24.37

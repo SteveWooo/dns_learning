@@ -1,0 +1,6 @@
+
+google.cz.	86400	IN	SOA	ns.google.cz.	mail	2019061702 1800 900 604800 86400
+google.cz.	86400	IN	NS	ns.google.cz.
+ns.google.cz.	518400	IN	A	200.221.11.98
+
+google.cz.	518400	IN	A	172.217.17.67

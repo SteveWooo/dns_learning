@@ -1,0 +1,6 @@
+
+zhibo8.cc.	86400	IN	SOA	ns.zhibo8.cc.	mail	2019061702 1800 900 604800 86400
+zhibo8.cc.	86400	IN	NS	ns.zhibo8.cc.
+ns.zhibo8.cc.	518400	IN	A	204.74.108.1
+
+zhibo8.cc.	518400	IN	A	101.37.178.168

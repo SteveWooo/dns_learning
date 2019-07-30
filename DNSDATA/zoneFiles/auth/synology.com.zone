@@ -1,0 +1,6 @@
+
+synology.com.	86400	IN	SOA	ns.synology.com.	mail	2019061702 1800 900 604800 86400
+synology.com.	86400	IN	NS	ns.synology.com.
+ns.synology.com.	518400	IN	A	111.202.126.2
+
+synology.com.	518400	IN	A	210.61.203.200

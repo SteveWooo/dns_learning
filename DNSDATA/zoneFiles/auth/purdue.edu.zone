@@ -1,0 +1,6 @@
+
+purdue.edu.	86400	IN	SOA	ns.purdue.edu.	mail	2019061702 1800 900 604800 86400
+purdue.edu.	86400	IN	NS	ns.purdue.edu.
+ns.purdue.edu.	518400	IN	A	205.251.199.254
+
+purdue.edu.	518400	IN	A	128.210.7.200

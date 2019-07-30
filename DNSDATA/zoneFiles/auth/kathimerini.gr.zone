@@ -1,0 +1,6 @@
+
+kathimerini.gr.	86400	IN	SOA	ns.kathimerini.gr.	mail	2019061702 1800 900 604800 86400
+kathimerini.gr.	86400	IN	NS	ns.kathimerini.gr.
+ns.kathimerini.gr.	518400	IN	A	173.245.58.159
+
+kathimerini.gr.	518400	IN	A	94.130.12.3

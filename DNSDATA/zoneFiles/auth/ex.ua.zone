@@ -1,0 +1,6 @@
+
+ex.ua.	86400	IN	SOA	ns.ex.ua.	mail	2019061702 1800 900 604800 86400
+ex.ua.	86400	IN	NS	ns.ex.ua.
+ns.ex.ua.	518400	IN	A	204.74.108.1
+
+ex.ua.	518400	IN	A	213.133.162.131

@@ -1,0 +1,6 @@
+
+petfinder.com.	86400	IN	SOA	ns.petfinder.com.	mail	2019061702 1800 900 604800 86400
+petfinder.com.	86400	IN	NS	ns.petfinder.com.
+ns.petfinder.com.	518400	IN	A	203.153.43.65
+
+petfinder.com.	518400	IN	A	34.235.221.0

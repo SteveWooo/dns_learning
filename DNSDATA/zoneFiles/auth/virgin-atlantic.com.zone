@@ -1,0 +1,6 @@
+
+virgin-atlantic.com.	86400	IN	SOA	ns.virgin-atlantic.com.	mail	2019061702 1800 900 604800 86400
+virgin-atlantic.com.	86400	IN	NS	ns.virgin-atlantic.com.
+ns.virgin-atlantic.com.	518400	IN	A	217.69.139.112
+
+virgin-atlantic.com.	518400	IN	A	80.82.135.10

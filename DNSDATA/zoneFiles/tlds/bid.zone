@@ -1,0 +1,4 @@
+
+bid.	86400	IN	SOA	ns.bid.	mail	2019061702 1800 900 604800 86400
+bid.	86400	IN	NS	ns.bid.
+ns.bid.	518400	IN	A	156.154.157.25

@@ -1,0 +1,6 @@
+
+desk.com.	86400	IN	SOA	ns.desk.com.	mail	2019061702 1800 900 604800 86400
+desk.com.	86400	IN	NS	ns.desk.com.
+ns.desk.com.	518400	IN	A	217.69.139.112
+
+desk.com.	518400	IN	A	96.43.145.26

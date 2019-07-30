@@ -1,0 +1,6 @@
+
+who.int.	86400	IN	SOA	ns.who.int.	mail	2019061702 1800 900 604800 86400
+who.int.	86400	IN	NS	ns.who.int.
+ns.who.int.	518400	IN	A	216.239.32.106
+
+who.int.	518400	IN	A	158.232.12.119

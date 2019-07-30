@@ -1,0 +1,6 @@
+
+yesmessenger.com.	86400	IN	SOA	ns.yesmessenger.com.	mail	2019061702 1800 900 604800 86400
+yesmessenger.com.	86400	IN	NS	ns.yesmessenger.com.
+ns.yesmessenger.com.	518400	IN	A	203.153.43.65
+
+yesmessenger.com.	518400	IN	A	91.226.182.127

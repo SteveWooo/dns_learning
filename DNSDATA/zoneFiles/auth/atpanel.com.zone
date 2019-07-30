@@ -1,0 +1,6 @@
+
+atpanel.com.	86400	IN	SOA	ns.atpanel.com.	mail	2019061702 1800 900 604800 86400
+atpanel.com.	86400	IN	NS	ns.atpanel.com.
+ns.atpanel.com.	518400	IN	A	183.3.226.207
+
+atpanel.com.	518400	IN	A	110.75.12.1

@@ -1,0 +1,6 @@
+
+eventim.de.	86400	IN	SOA	ns.eventim.de.	mail	2019061702 1800 900 604800 86400
+eventim.de.	86400	IN	NS	ns.eventim.de.
+ns.eventim.de.	518400	IN	A	216.239.32.29
+
+eventim.de.	518400	IN	A	23.38.145.167

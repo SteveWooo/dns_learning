@@ -1,0 +1,6 @@
+
+citenkomedia.com.	86400	IN	SOA	ns.citenkomedia.com.	mail	2019061702 1800 900 604800 86400
+citenkomedia.com.	86400	IN	NS	ns.citenkomedia.com.
+ns.citenkomedia.com.	518400	IN	A	216.239.32.10
+
+citenkomedia.com.	518400	IN	A	164.132.53.81

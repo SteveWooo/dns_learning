@@ -1,0 +1,6 @@
+
+talk.tw.	86400	IN	SOA	ns.talk.tw.	mail	2019061702 1800 900 604800 86400
+talk.tw.	86400	IN	NS	ns.talk.tw.
+ns.talk.tw.	518400	IN	A	216.58.200.238
+
+talk.tw.	518400	IN	A	175.99.79.1

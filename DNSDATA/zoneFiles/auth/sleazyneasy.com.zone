@@ -1,0 +1,6 @@
+
+sleazyneasy.com.	86400	IN	SOA	ns.sleazyneasy.com.	mail	2019061702 1800 900 604800 86400
+sleazyneasy.com.	86400	IN	NS	ns.sleazyneasy.com.
+ns.sleazyneasy.com.	518400	IN	A	205.251.195.203
+
+sleazyneasy.com.	518400	IN	A	68.169.64.70

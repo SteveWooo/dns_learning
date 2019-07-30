@@ -1,0 +1,6 @@
+
+vulture.com.	86400	IN	SOA	ns.vulture.com.	mail	2019061702 1800 900 604800 86400
+vulture.com.	86400	IN	NS	ns.vulture.com.
+ns.vulture.com.	518400	IN	A	217.69.139.202
+
+vulture.com.	518400	IN	A	151.101.129.209

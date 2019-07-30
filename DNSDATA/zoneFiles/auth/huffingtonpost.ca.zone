@@ -1,0 +1,6 @@
+
+huffingtonpost.ca.	86400	IN	SOA	ns.huffingtonpost.ca.	mail	2019061702 1800 900 604800 86400
+huffingtonpost.ca.	86400	IN	NS	ns.huffingtonpost.ca.
+ns.huffingtonpost.ca.	518400	IN	A	204.74.108.1
+
+huffingtonpost.ca.	518400	IN	A	212.82.100.153

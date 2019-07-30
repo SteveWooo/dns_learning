@@ -1,0 +1,6 @@
+
+beeg.com.	86400	IN	SOA	ns.beeg.com.	mail	2019061702 1800 900 604800 86400
+beeg.com.	86400	IN	NS	ns.beeg.com.
+ns.beeg.com.	518400	IN	A	216.239.32.29
+
+beeg.com.	518400	IN	A	31.13.97.248

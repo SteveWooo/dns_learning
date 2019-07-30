@@ -1,0 +1,6 @@
+
+segundamano.mx.	86400	IN	SOA	ns.segundamano.mx.	mail	2019061702 1800 900 604800 86400
+segundamano.mx.	86400	IN	NS	ns.segundamano.mx.
+ns.segundamano.mx.	518400	IN	A	216.239.32.106
+
+segundamano.mx.	518400	IN	A	107.178.250.184

@@ -1,0 +1,6 @@
+
+n-tv.de.	86400	IN	SOA	ns.n-tv.de.	mail	2019061702 1800 900 604800 86400
+n-tv.de.	86400	IN	NS	ns.n-tv.de.
+ns.n-tv.de.	518400	IN	A	204.74.108.1
+
+n-tv.de.	518400	IN	A	69.171.233.24

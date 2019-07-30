@@ -1,0 +1,6 @@
+
+templatemonster.com.	86400	IN	SOA	ns.templatemonster.com.	mail	2019061702 1800 900 604800 86400
+templatemonster.com.	86400	IN	NS	ns.templatemonster.com.
+ns.templatemonster.com.	518400	IN	A	203.153.43.65
+
+templatemonster.com.	518400	IN	A	72.9.105.30

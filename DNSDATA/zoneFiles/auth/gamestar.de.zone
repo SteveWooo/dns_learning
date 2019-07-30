@@ -1,0 +1,6 @@
+
+gamestar.de.	86400	IN	SOA	ns.gamestar.de.	mail	2019061702 1800 900 604800 86400
+gamestar.de.	86400	IN	NS	ns.gamestar.de.
+ns.gamestar.de.	518400	IN	A	217.69.139.202
+
+gamestar.de.	518400	IN	A	185.12.50.67

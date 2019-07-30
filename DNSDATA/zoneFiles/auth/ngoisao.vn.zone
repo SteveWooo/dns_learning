@@ -1,0 +1,6 @@
+
+ngoisao.vn.	86400	IN	SOA	ns.ngoisao.vn.	mail	2019061702 1800 900 604800 86400
+ngoisao.vn.	86400	IN	NS	ns.ngoisao.vn.
+ns.ngoisao.vn.	518400	IN	A	203.153.43.65
+
+ngoisao.vn.	518400	IN	A	103.1.210.37

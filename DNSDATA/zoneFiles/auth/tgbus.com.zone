@@ -1,0 +1,6 @@
+
+tgbus.com.	86400	IN	SOA	ns.tgbus.com.	mail	2019061702 1800 900 604800 86400
+tgbus.com.	86400	IN	NS	ns.tgbus.com.
+ns.tgbus.com.	518400	IN	A	157.255.246.101
+
+tgbus.com.	518400	IN	A	120.31.70.181

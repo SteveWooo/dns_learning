@@ -1,0 +1,6 @@
+
+robokassa.ru.	86400	IN	SOA	ns.robokassa.ru.	mail	2019061702 1800 900 604800 86400
+robokassa.ru.	86400	IN	NS	ns.robokassa.ru.
+ns.robokassa.ru.	518400	IN	A	200.201.161.22
+
+robokassa.ru.	518400	IN	A	212.24.63.70

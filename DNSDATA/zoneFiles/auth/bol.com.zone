@@ -1,0 +1,6 @@
+
+bol.com.	86400	IN	SOA	ns.bol.com.	mail	2019061702 1800 900 604800 86400
+bol.com.	86400	IN	NS	ns.bol.com.
+ns.bol.com.	518400	IN	A	205.251.195.203
+
+bol.com.	518400	IN	A	185.14.169.113

@@ -1,0 +1,6 @@
+
+scoopwhoop.com.	86400	IN	SOA	ns.scoopwhoop.com.	mail	2019061702 1800 900 604800 86400
+scoopwhoop.com.	86400	IN	NS	ns.scoopwhoop.com.
+ns.scoopwhoop.com.	518400	IN	A	202.56.230.5
+
+scoopwhoop.com.	518400	IN	A	104.18.90.95

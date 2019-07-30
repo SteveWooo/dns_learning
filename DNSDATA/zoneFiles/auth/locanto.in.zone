@@ -1,0 +1,6 @@
+
+locanto.in.	86400	IN	SOA	ns.locanto.in.	mail	2019061702 1800 900 604800 86400
+locanto.in.	86400	IN	NS	ns.locanto.in.
+ns.locanto.in.	518400	IN	A	217.69.139.112
+
+locanto.in.	518400	IN	A	172.65.238.119

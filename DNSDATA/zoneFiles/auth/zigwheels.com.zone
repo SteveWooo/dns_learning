@@ -1,0 +1,6 @@
+
+zigwheels.com.	86400	IN	SOA	ns.zigwheels.com.	mail	2019061702 1800 900 604800 86400
+zigwheels.com.	86400	IN	NS	ns.zigwheels.com.
+ns.zigwheels.com.	518400	IN	A	205.251.197.107
+
+zigwheels.com.	518400	IN	A	52.66.185.241

@@ -1,0 +1,6 @@
+
+sarzamindownload.com.	86400	IN	SOA	ns.sarzamindownload.com.	mail	2019061702 1800 900 604800 86400
+sarzamindownload.com.	86400	IN	NS	ns.sarzamindownload.com.
+ns.sarzamindownload.com.	518400	IN	A	183.3.226.207
+
+sarzamindownload.com.	518400	IN	A	79.127.126.73

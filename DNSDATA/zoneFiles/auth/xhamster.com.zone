@@ -1,0 +1,6 @@
+
+xhamster.com.	86400	IN	SOA	ns.xhamster.com.	mail	2019061702 1800 900 604800 86400
+xhamster.com.	86400	IN	NS	ns.xhamster.com.
+ns.xhamster.com.	518400	IN	A	217.69.139.202
+
+xhamster.com.	518400	IN	A	74.86.151.162

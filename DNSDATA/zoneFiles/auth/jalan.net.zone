@@ -1,0 +1,6 @@
+
+jalan.net.	86400	IN	SOA	ns.jalan.net.	mail	2019061702 1800 900 604800 86400
+jalan.net.	86400	IN	NS	ns.jalan.net.
+ns.jalan.net.	518400	IN	A	205.251.192.29
+
+jalan.net.	518400	IN	A	160.17.5.13

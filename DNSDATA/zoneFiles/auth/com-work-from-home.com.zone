@@ -1,0 +1,6 @@
+
+com-work-from-home.com.	86400	IN	SOA	ns.com-work-from-home.com.	mail	2019061702 1800 900 604800 86400
+com-work-from-home.com.	86400	IN	NS	ns.com-work-from-home.com.
+ns.com-work-from-home.com.	518400	IN	A	204.74.108.1
+
+com-work-from-home.com.	518400	IN	A	160.153.137.210

@@ -1,0 +1,6 @@
+
+bankia.es.	86400	IN	SOA	ns.bankia.es.	mail	2019061702 1800 900 604800 86400
+bankia.es.	86400	IN	NS	ns.bankia.es.
+ns.bankia.es.	518400	IN	A	173.245.59.130
+
+bankia.es.	518400	IN	A	213.164.164.171

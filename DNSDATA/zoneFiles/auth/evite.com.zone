@@ -1,0 +1,6 @@
+
+evite.com.	86400	IN	SOA	ns.evite.com.	mail	2019061702 1800 900 604800 86400
+evite.com.	86400	IN	NS	ns.evite.com.
+ns.evite.com.	518400	IN	A	216.239.32.29
+
+evite.com.	518400	IN	A	23.236.54.33

@@ -1,0 +1,6 @@
+
+mymovies.it.	86400	IN	SOA	ns.mymovies.it.	mail	2019061702 1800 900 604800 86400
+mymovies.it.	86400	IN	NS	ns.mymovies.it.
+ns.mymovies.it.	518400	IN	A	213.180.193.1
+
+mymovies.it.	518400	IN	A	52.208.74.41

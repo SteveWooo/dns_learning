@@ -1,0 +1,6 @@
+
+idealo.de.	86400	IN	SOA	ns.idealo.de.	mail	2019061702 1800 900 604800 86400
+idealo.de.	86400	IN	NS	ns.idealo.de.
+ns.idealo.de.	518400	IN	A	58.180.27.226
+
+idealo.de.	518400	IN	A	62.146.17.71

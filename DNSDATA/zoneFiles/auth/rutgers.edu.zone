@@ -1,0 +1,6 @@
+
+rutgers.edu.	86400	IN	SOA	ns.rutgers.edu.	mail	2019061702 1800 900 604800 86400
+rutgers.edu.	86400	IN	NS	ns.rutgers.edu.
+ns.rutgers.edu.	518400	IN	A	216.239.32.10
+
+rutgers.edu.	518400	IN	A	128.6.68.140

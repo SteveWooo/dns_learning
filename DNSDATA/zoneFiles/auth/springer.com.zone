@@ -1,0 +1,6 @@
+
+springer.com.	86400	IN	SOA	ns.springer.com.	mail	2019061702 1800 900 604800 86400
+springer.com.	86400	IN	NS	ns.springer.com.
+ns.springer.com.	518400	IN	A	216.239.32.29
+
+springer.com.	518400	IN	A	195.128.8.134

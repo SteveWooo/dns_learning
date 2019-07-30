@@ -1,0 +1,6 @@
+
+web.de.	86400	IN	SOA	ns.web.de.	mail	2019061702 1800 900 604800 86400
+web.de.	86400	IN	NS	ns.web.de.
+ns.web.de.	518400	IN	A	216.58.200.238
+
+web.de.	518400	IN	A	82.165.229.138

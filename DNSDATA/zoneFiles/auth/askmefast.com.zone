@@ -1,0 +1,6 @@
+
+askmefast.com.	86400	IN	SOA	ns.askmefast.com.	mail	2019061702 1800 900 604800 86400
+askmefast.com.	86400	IN	NS	ns.askmefast.com.
+ns.askmefast.com.	518400	IN	A	216.239.32.10
+
+askmefast.com.	518400	IN	A	46.105.141.231

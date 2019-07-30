@@ -1,0 +1,6 @@
+
+thoughtcatalog.com.	86400	IN	SOA	ns.thoughtcatalog.com.	mail	2019061702 1800 900 604800 86400
+thoughtcatalog.com.	86400	IN	NS	ns.thoughtcatalog.com.
+ns.thoughtcatalog.com.	518400	IN	A	202.56.230.5
+
+thoughtcatalog.com.	518400	IN	A	192.33.31.66

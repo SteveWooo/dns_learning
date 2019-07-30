@@ -1,0 +1,6 @@
+
+columbia.edu.	86400	IN	SOA	ns.columbia.edu.	mail	2019061702 1800 900 604800 86400
+columbia.edu.	86400	IN	NS	ns.columbia.edu.
+ns.columbia.edu.	518400	IN	A	202.56.230.5
+
+columbia.edu.	518400	IN	A	128.59.105.24

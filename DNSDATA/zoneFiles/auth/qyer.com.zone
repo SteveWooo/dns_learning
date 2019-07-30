@@ -1,0 +1,6 @@
+
+qyer.com.	86400	IN	SOA	ns.qyer.com.	mail	2019061702 1800 900 604800 86400
+qyer.com.	86400	IN	NS	ns.qyer.com.
+ns.qyer.com.	518400	IN	A	200.201.161.22
+
+qyer.com.	518400	IN	A	211.155.80.56

@@ -1,0 +1,6 @@
+
+cathaypacific.com.	86400	IN	SOA	ns.cathaypacific.com.	mail	2019061702 1800 900 604800 86400
+cathaypacific.com.	86400	IN	NS	ns.cathaypacific.com.
+ns.cathaypacific.com.	518400	IN	A	205.251.197.107
+
+cathaypacific.com.	518400	IN	A	103.37.192.8

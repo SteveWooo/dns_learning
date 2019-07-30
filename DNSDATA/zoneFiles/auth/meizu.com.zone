@@ -1,0 +1,6 @@
+
+meizu.com.	86400	IN	SOA	ns.meizu.com.	mail	2019061702 1800 900 604800 86400
+meizu.com.	86400	IN	NS	ns.meizu.com.
+ns.meizu.com.	518400	IN	A	216.239.32.106
+
+meizu.com.	518400	IN	A	101.201.175.247

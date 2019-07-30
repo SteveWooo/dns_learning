@@ -1,0 +1,6 @@
+
+egloos.com.	86400	IN	SOA	ns.egloos.com.	mail	2019061702 1800 900 604800 86400
+egloos.com.	86400	IN	NS	ns.egloos.com.
+ns.egloos.com.	518400	IN	A	216.58.200.238
+
+egloos.com.	518400	IN	A	125.141.132.118

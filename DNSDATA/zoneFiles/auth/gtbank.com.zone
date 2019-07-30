@@ -1,0 +1,6 @@
+
+gtbank.com.	86400	IN	SOA	ns.gtbank.com.	mail	2019061702 1800 900 604800 86400
+gtbank.com.	86400	IN	NS	ns.gtbank.com.
+ns.gtbank.com.	518400	IN	A	217.69.139.202
+
+gtbank.com.	518400	IN	A	45.60.46.99

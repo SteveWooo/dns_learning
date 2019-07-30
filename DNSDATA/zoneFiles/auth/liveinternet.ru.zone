@@ -1,0 +1,6 @@
+
+liveinternet.ru.	86400	IN	SOA	ns.liveinternet.ru.	mail	2019061702 1800 900 604800 86400
+liveinternet.ru.	86400	IN	NS	ns.liveinternet.ru.
+ns.liveinternet.ru.	518400	IN	A	202.108.22.220
+
+liveinternet.ru.	518400	IN	A	88.212.202.35

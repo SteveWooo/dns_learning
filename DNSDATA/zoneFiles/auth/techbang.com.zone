@@ -1,0 +1,6 @@
+
+techbang.com.	86400	IN	SOA	ns.techbang.com.	mail	2019061702 1800 900 604800 86400
+techbang.com.	86400	IN	NS	ns.techbang.com.
+ns.techbang.com.	518400	IN	A	2.16.130.64
+
+techbang.com.	518400	IN	A	3.113.224.228

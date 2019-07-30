@@ -1,0 +1,6 @@
+
+usagc.org.	86400	IN	SOA	ns.usagc.org.	mail	2019061702 1800 900 604800 86400
+usagc.org.	86400	IN	NS	ns.usagc.org.
+ns.usagc.org.	518400	IN	A	217.69.139.112
+
+usagc.org.	518400	IN	A	104.17.131.233

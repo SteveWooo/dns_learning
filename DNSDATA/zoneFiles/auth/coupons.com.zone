@@ -1,0 +1,6 @@
+
+coupons.com.	86400	IN	SOA	ns.coupons.com.	mail	2019061702 1800 900 604800 86400
+coupons.com.	86400	IN	NS	ns.coupons.com.
+ns.coupons.com.	518400	IN	A	213.180.204.242
+
+coupons.com.	518400	IN	A	204.76.213.147

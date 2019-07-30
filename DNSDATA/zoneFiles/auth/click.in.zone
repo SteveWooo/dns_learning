@@ -1,0 +1,6 @@
+
+click.in.	86400	IN	SOA	ns.click.in.	mail	2019061702 1800 900 604800 86400
+click.in.	86400	IN	NS	ns.click.in.
+ns.click.in.	518400	IN	A	216.239.32.106
+
+click.in.	518400	IN	A	107.6.122.178

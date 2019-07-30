@@ -1,0 +1,6 @@
+
+blick.ch.	86400	IN	SOA	ns.blick.ch.	mail	2019061702 1800 900 604800 86400
+blick.ch.	86400	IN	NS	ns.blick.ch.
+ns.blick.ch.	518400	IN	A	200.201.165.253
+
+blick.ch.	518400	IN	A	52.28.240.210

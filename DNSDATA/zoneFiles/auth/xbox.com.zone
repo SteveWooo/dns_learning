@@ -1,0 +1,6 @@
+
+xbox.com.	86400	IN	SOA	ns.xbox.com.	mail	2019061702 1800 900 604800 86400
+xbox.com.	86400	IN	NS	ns.xbox.com.
+ns.xbox.com.	518400	IN	A	200.201.165.253
+
+xbox.com.	518400	IN	A	211.143.155.161

@@ -1,0 +1,6 @@
+
+rocketnews24.com.	86400	IN	SOA	ns.rocketnews24.com.	mail	2019061702 1800 900 604800 86400
+rocketnews24.com.	86400	IN	NS	ns.rocketnews24.com.
+ns.rocketnews24.com.	518400	IN	A	140.205.67.253
+
+rocketnews24.com.	518400	IN	A	72.9.105.30

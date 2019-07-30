@@ -1,0 +1,6 @@
+
+jetairways.com.	86400	IN	SOA	ns.jetairways.com.	mail	2019061702 1800 900 604800 86400
+jetairways.com.	86400	IN	NS	ns.jetairways.com.
+ns.jetairways.com.	518400	IN	A	180.149.156.12
+
+jetairways.com.	518400	IN	A	104.211.186.214

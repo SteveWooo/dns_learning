@@ -1,0 +1,6 @@
+
+footlocker.com.	86400	IN	SOA	ns.footlocker.com.	mail	2019061702 1800 900 604800 86400
+footlocker.com.	86400	IN	NS	ns.footlocker.com.
+ns.footlocker.com.	518400	IN	A	200.201.161.22
+
+footlocker.com.	518400	IN	A	118.215.61.174

@@ -1,0 +1,6 @@
+
+worldcat.org.	86400	IN	SOA	ns.worldcat.org.	mail	2019061702 1800 900 604800 86400
+worldcat.org.	86400	IN	NS	ns.worldcat.org.
+ns.worldcat.org.	518400	IN	A	213.180.193.1
+
+worldcat.org.	518400	IN	A	31.13.80.17

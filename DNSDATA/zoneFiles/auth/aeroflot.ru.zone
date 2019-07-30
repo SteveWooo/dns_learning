@@ -1,0 +1,6 @@
+
+aeroflot.ru.	86400	IN	SOA	ns.aeroflot.ru.	mail	2019061702 1800 900 604800 86400
+aeroflot.ru.	86400	IN	NS	ns.aeroflot.ru.
+ns.aeroflot.ru.	518400	IN	A	173.245.58.159
+
+aeroflot.ru.	518400	IN	A	185.69.80.8

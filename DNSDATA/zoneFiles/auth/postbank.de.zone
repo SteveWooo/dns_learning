@@ -1,0 +1,6 @@
+
+postbank.de.	86400	IN	SOA	ns.postbank.de.	mail	2019061702 1800 900 604800 86400
+postbank.de.	86400	IN	NS	ns.postbank.de.
+ns.postbank.de.	518400	IN	A	216.239.32.10
+
+postbank.de.	518400	IN	A	160.83.8.182

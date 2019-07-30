@@ -1,0 +1,6 @@
+
+car.gr.	86400	IN	SOA	ns.car.gr.	mail	2019061702 1800 900 604800 86400
+car.gr.	86400	IN	NS	ns.car.gr.
+ns.car.gr.	518400	IN	A	205.251.195.203
+
+car.gr.	518400	IN	A	104.20.92.28

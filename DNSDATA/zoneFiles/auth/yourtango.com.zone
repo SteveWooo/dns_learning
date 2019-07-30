@@ -1,0 +1,6 @@
+
+yourtango.com.	86400	IN	SOA	ns.yourtango.com.	mail	2019061702 1800 900 604800 86400
+yourtango.com.	86400	IN	NS	ns.yourtango.com.
+ns.yourtango.com.	518400	IN	A	205.251.195.203
+
+yourtango.com.	518400	IN	A	68.169.100.66

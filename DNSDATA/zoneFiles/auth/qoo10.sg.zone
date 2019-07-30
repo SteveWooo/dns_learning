@@ -1,0 +1,6 @@
+
+qoo10.sg.	86400	IN	SOA	ns.qoo10.sg.	mail	2019061702 1800 900 604800 86400
+qoo10.sg.	86400	IN	NS	ns.qoo10.sg.
+ns.qoo10.sg.	518400	IN	A	216.58.200.238
+
+qoo10.sg.	518400	IN	A	52.220.217.108

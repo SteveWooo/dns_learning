@@ -1,0 +1,6 @@
+
+berkeley.edu.	86400	IN	SOA	ns.berkeley.edu.	mail	2019061702 1800 900 604800 86400
+berkeley.edu.	86400	IN	NS	ns.berkeley.edu.
+ns.berkeley.edu.	518400	IN	A	205.251.195.203
+
+berkeley.edu.	518400	IN	A	35.163.72.93

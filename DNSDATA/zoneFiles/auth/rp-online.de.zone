@@ -1,0 +1,6 @@
+
+rp-online.de.	86400	IN	SOA	ns.rp-online.de.	mail	2019061702 1800 900 604800 86400
+rp-online.de.	86400	IN	NS	ns.rp-online.de.
+ns.rp-online.de.	518400	IN	A	213.180.193.1
+
+rp-online.de.	518400	IN	A	149.221.196.74

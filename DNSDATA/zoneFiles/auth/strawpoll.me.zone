@@ -1,0 +1,6 @@
+
+strawpoll.me.	86400	IN	SOA	ns.strawpoll.me.	mail	2019061702 1800 900 604800 86400
+strawpoll.me.	86400	IN	NS	ns.strawpoll.me.
+ns.strawpoll.me.	518400	IN	A	205.251.199.254
+
+strawpoll.me.	518400	IN	A	104.16.147.95

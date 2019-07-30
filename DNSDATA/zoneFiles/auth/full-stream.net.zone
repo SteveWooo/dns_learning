@@ -1,0 +1,6 @@
+
+full-stream.net.	86400	IN	SOA	ns.full-stream.net.	mail	2019061702 1800 900 604800 86400
+full-stream.net.	86400	IN	NS	ns.full-stream.net.
+ns.full-stream.net.	518400	IN	A	213.180.193.1
+
+full-stream.net.	518400	IN	A	208.91.197.238

@@ -1,0 +1,6 @@
+
+7po.com.	86400	IN	SOA	ns.7po.com.	mail	2019061702 1800 900 604800 86400
+7po.com.	86400	IN	NS	ns.7po.com.
+ns.7po.com.	518400	IN	A	216.239.32.10
+
+7po.com.	518400	IN	A	118.190.113.100

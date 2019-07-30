@@ -1,0 +1,6 @@
+
+freepeople.com.	86400	IN	SOA	ns.freepeople.com.	mail	2019061702 1800 900 604800 86400
+freepeople.com.	86400	IN	NS	ns.freepeople.com.
+ns.freepeople.com.	518400	IN	A	216.239.32.29
+
+freepeople.com.	518400	IN	A	104.122.11.82

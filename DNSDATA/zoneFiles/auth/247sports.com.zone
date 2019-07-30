@@ -1,0 +1,6 @@
+
+247sports.com.	86400	IN	SOA	ns.247sports.com.	mail	2019061702 1800 900 604800 86400
+247sports.com.	86400	IN	NS	ns.247sports.com.
+ns.247sports.com.	518400	IN	A	216.58.200.238
+
+247sports.com.	518400	IN	A	151.101.130.133

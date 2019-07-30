@@ -1,0 +1,6 @@
+
+vid.me.	86400	IN	SOA	ns.vid.me.	mail	2019061702 1800 900 604800 86400
+vid.me.	86400	IN	NS	ns.vid.me.
+ns.vid.me.	518400	IN	A	205.251.199.254
+
+vid.me.	518400	IN	A	59.24.3.173

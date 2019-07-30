@@ -1,0 +1,6 @@
+
+tass.ru.	86400	IN	SOA	ns.tass.ru.	mail	2019061702 1800 900 604800 86400
+tass.ru.	86400	IN	NS	ns.tass.ru.
+ns.tass.ru.	518400	IN	A	198.100.156.181
+
+tass.ru.	518400	IN	A	82.202.190.72

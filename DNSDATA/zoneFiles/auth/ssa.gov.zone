@@ -1,0 +1,6 @@
+
+ssa.gov.	86400	IN	SOA	ns.ssa.gov.	mail	2019061702 1800 900 604800 86400
+ssa.gov.	86400	IN	NS	ns.ssa.gov.
+ns.ssa.gov.	518400	IN	A	217.69.139.202
+
+ssa.gov.	518400	IN	A	137.200.39.19

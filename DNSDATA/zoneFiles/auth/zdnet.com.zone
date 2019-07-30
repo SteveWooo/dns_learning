@@ -1,0 +1,6 @@
+
+zdnet.com.	86400	IN	SOA	ns.zdnet.com.	mail	2019061702 1800 900 604800 86400
+zdnet.com.	86400	IN	NS	ns.zdnet.com.
+ns.zdnet.com.	518400	IN	A	200.221.11.98
+
+zdnet.com.	518400	IN	A	64.30.228.118

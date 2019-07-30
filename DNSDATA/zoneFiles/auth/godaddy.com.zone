@@ -1,0 +1,6 @@
+
+godaddy.com.	86400	IN	SOA	ns.godaddy.com.	mail	2019061702 1800 900 604800 86400
+godaddy.com.	86400	IN	NS	ns.godaddy.com.
+ns.godaddy.com.	518400	IN	A	193.108.91.127
+
+godaddy.com.	518400	IN	A	208.109.192.70

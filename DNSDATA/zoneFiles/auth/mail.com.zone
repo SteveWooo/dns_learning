@@ -1,0 +1,6 @@
+
+mail.com.	86400	IN	SOA	ns.mail.com.	mail	2019061702 1800 900 604800 86400
+mail.com.	86400	IN	NS	ns.mail.com.
+ns.mail.com.	518400	IN	A	217.69.139.202
+
+mail.com.	518400	IN	A	74.208.232.28

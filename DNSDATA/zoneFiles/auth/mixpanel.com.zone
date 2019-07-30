@@ -1,0 +1,6 @@
+
+mixpanel.com.	86400	IN	SOA	ns.mixpanel.com.	mail	2019061702 1800 900 604800 86400
+mixpanel.com.	86400	IN	NS	ns.mixpanel.com.
+ns.mixpanel.com.	518400	IN	A	205.251.197.107
+
+mixpanel.com.	518400	IN	A	104.198.236.1

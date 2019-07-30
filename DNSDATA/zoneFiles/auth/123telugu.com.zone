@@ -1,0 +1,6 @@
+
+123telugu.com.	86400	IN	SOA	ns.123telugu.com.	mail	2019061702 1800 900 604800 86400
+123telugu.com.	86400	IN	NS	ns.123telugu.com.
+ns.123telugu.com.	518400	IN	A	198.11.138.249
+
+123telugu.com.	518400	IN	A	54.210.126.87

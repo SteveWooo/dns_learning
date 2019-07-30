@@ -1,0 +1,6 @@
+
+elfagr.org.	86400	IN	SOA	ns.elfagr.org.	mail	2019061702 1800 900 604800 86400
+elfagr.org.	86400	IN	NS	ns.elfagr.org.
+ns.elfagr.org.	518400	IN	A	206.128.173.109
+
+elfagr.org.	518400	IN	A	104.27.160.160

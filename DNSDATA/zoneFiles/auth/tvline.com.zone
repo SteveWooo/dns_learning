@@ -1,0 +1,6 @@
+
+tvline.com.	86400	IN	SOA	ns.tvline.com.	mail	2019061702 1800 900 604800 86400
+tvline.com.	86400	IN	NS	ns.tvline.com.
+ns.tvline.com.	518400	IN	A	200.201.161.22
+
+tvline.com.	518400	IN	A	192.0.79.33

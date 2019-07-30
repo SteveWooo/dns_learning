@@ -1,0 +1,6 @@
+
+ofigenno.cc.	86400	IN	SOA	ns.ofigenno.cc.	mail	2019061702 1800 900 604800 86400
+ofigenno.cc.	86400	IN	NS	ns.ofigenno.cc.
+ns.ofigenno.cc.	518400	IN	A	213.180.193.1
+
+ofigenno.cc.	518400	IN	A	194.28.172.79

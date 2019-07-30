@@ -1,0 +1,6 @@
+
+autodesk.com.	86400	IN	SOA	ns.autodesk.com.	mail	2019061702 1800 900 604800 86400
+autodesk.com.	86400	IN	NS	ns.autodesk.com.
+ns.autodesk.com.	518400	IN	A	193.232.142.17
+
+autodesk.com.	518400	IN	A	50.19.149.4

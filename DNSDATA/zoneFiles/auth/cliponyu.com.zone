@@ -1,0 +1,6 @@
+
+cliponyu.com.	86400	IN	SOA	ns.cliponyu.com.	mail	2019061702 1800 900 604800 86400
+cliponyu.com.	86400	IN	NS	ns.cliponyu.com.
+ns.cliponyu.com.	518400	IN	A	200.219.154.10
+
+cliponyu.com.	518400	IN	A	54.254.210.135

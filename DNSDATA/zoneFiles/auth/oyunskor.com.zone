@@ -1,0 +1,6 @@
+
+oyunskor.com.	86400	IN	SOA	ns.oyunskor.com.	mail	2019061702 1800 900 604800 86400
+oyunskor.com.	86400	IN	NS	ns.oyunskor.com.
+ns.oyunskor.com.	518400	IN	A	200.201.161.22
+
+oyunskor.com.	518400	IN	A	35.201.104.236

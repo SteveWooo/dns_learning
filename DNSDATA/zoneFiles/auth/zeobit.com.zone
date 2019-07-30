@@ -1,0 +1,6 @@
+
+zeobit.com.	86400	IN	SOA	ns.zeobit.com.	mail	2019061702 1800 900 604800 86400
+zeobit.com.	86400	IN	NS	ns.zeobit.com.
+ns.zeobit.com.	518400	IN	A	204.69.234.1
+
+zeobit.com.	518400	IN	A	185.53.178.6

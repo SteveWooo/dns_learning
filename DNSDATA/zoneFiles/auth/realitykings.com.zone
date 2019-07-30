@@ -1,0 +1,6 @@
+
+realitykings.com.	86400	IN	SOA	ns.realitykings.com.	mail	2019061702 1800 900 604800 86400
+realitykings.com.	86400	IN	NS	ns.realitykings.com.
+ns.realitykings.com.	518400	IN	A	213.180.193.1
+
+realitykings.com.	518400	IN	A	216.18.168.81

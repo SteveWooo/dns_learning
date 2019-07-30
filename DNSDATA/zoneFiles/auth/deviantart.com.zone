@@ -1,0 +1,6 @@
+
+deviantart.com.	86400	IN	SOA	ns.deviantart.com.	mail	2019061702 1800 900 604800 86400
+deviantart.com.	86400	IN	NS	ns.deviantart.com.
+ns.deviantart.com.	518400	IN	A	203.153.43.65
+
+deviantart.com.	518400	IN	A	67.15.129.210

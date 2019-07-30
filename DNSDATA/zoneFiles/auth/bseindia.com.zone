@@ -1,0 +1,6 @@
+
+bseindia.com.	86400	IN	SOA	ns.bseindia.com.	mail	2019061702 1800 900 604800 86400
+bseindia.com.	86400	IN	NS	ns.bseindia.com.
+ns.bseindia.com.	518400	IN	A	165.160.15.20
+
+bseindia.com.	518400	IN	A	43.228.176.10

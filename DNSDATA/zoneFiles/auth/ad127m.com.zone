@@ -1,0 +1,6 @@
+
+ad127m.com.	86400	IN	SOA	ns.ad127m.com.	mail	2019061702 1800 900 604800 86400
+ad127m.com.	86400	IN	NS	ns.ad127m.com.
+ns.ad127m.com.	518400	IN	A	81.19.82.2
+
+ad127m.com.	518400	IN	A	69.16.230.43

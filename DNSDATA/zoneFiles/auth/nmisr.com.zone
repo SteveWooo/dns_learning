@@ -1,0 +1,6 @@
+
+nmisr.com.	86400	IN	SOA	ns.nmisr.com.	mail	2019061702 1800 900 604800 86400
+nmisr.com.	86400	IN	NS	ns.nmisr.com.
+ns.nmisr.com.	518400	IN	A	216.239.32.106
+
+nmisr.com.	518400	IN	A	104.27.156.29

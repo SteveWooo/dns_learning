@@ -1,0 +1,6 @@
+
+forexpf.ru.	86400	IN	SOA	ns.forexpf.ru.	mail	2019061702 1800 900 604800 86400
+forexpf.ru.	86400	IN	NS	ns.forexpf.ru.
+ns.forexpf.ru.	518400	IN	A	217.69.139.202
+
+forexpf.ru.	518400	IN	A	81.177.34.185

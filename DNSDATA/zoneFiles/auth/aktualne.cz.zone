@@ -1,0 +1,6 @@
+
+aktualne.cz.	86400	IN	SOA	ns.aktualne.cz.	mail	2019061702 1800 900 604800 86400
+aktualne.cz.	86400	IN	NS	ns.aktualne.cz.
+ns.aktualne.cz.	518400	IN	A	216.239.32.106
+
+aktualne.cz.	518400	IN	A	46.255.231.73

@@ -1,0 +1,6 @@
+
+forbes.com.	86400	IN	SOA	ns.forbes.com.	mail	2019061702 1800 900 604800 86400
+forbes.com.	86400	IN	NS	ns.forbes.com.
+ns.forbes.com.	518400	IN	A	203.153.43.65
+
+forbes.com.	518400	IN	A	151.101.194.49

@@ -1,0 +1,6 @@
+
+zhe800.com.	86400	IN	SOA	ns.zhe800.com.	mail	2019061702 1800 900 604800 86400
+zhe800.com.	86400	IN	NS	ns.zhe800.com.
+ns.zhe800.com.	518400	IN	A	198.100.156.181
+
+zhe800.com.	518400	IN	A	118.186.245.98

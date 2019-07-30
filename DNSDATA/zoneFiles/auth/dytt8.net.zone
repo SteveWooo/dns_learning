@@ -1,0 +1,6 @@
+
+dytt8.net.	86400	IN	SOA	ns.dytt8.net.	mail	2019061702 1800 900 604800 86400
+dytt8.net.	86400	IN	NS	ns.dytt8.net.
+ns.dytt8.net.	518400	IN	A	208.78.70.47
+
+dytt8.net.	518400	IN	A	198.44.248.135

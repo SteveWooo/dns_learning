@@ -1,0 +1,6 @@
+
+soso.com.	86400	IN	SOA	ns.soso.com.	mail	2019061702 1800 900 604800 86400
+soso.com.	86400	IN	NS	ns.soso.com.
+ns.soso.com.	518400	IN	A	216.58.200.238
+
+soso.com.	518400	IN	A	118.191.216.57

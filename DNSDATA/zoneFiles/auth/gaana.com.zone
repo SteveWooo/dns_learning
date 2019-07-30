@@ -1,0 +1,6 @@
+
+gaana.com.	86400	IN	SOA	ns.gaana.com.	mail	2019061702 1800 900 604800 86400
+gaana.com.	86400	IN	NS	ns.gaana.com.
+ns.gaana.com.	518400	IN	A	216.58.200.238
+
+gaana.com.	518400	IN	A	104.75.251.123

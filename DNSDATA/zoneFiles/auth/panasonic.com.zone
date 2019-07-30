@@ -1,0 +1,6 @@
+
+panasonic.com.	86400	IN	SOA	ns.panasonic.com.	mail	2019061702 1800 900 604800 86400
+panasonic.com.	86400	IN	NS	ns.panasonic.com.
+ns.panasonic.com.	518400	IN	A	205.251.199.254
+
+panasonic.com.	518400	IN	A	210.226.40.63

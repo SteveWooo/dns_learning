@@ -1,0 +1,6 @@
+
+ecollege.com.	86400	IN	SOA	ns.ecollege.com.	mail	2019061702 1800 900 604800 86400
+ecollege.com.	86400	IN	NS	ns.ecollege.com.
+ns.ecollege.com.	518400	IN	A	216.239.32.29
+
+ecollege.com.	518400	IN	A	54.209.16.180

@@ -1,0 +1,6 @@
+
+tgfcer.com.	86400	IN	SOA	ns.tgfcer.com.	mail	2019061702 1800 900 604800 86400
+tgfcer.com.	86400	IN	NS	ns.tgfcer.com.
+ns.tgfcer.com.	518400	IN	A	205.251.199.254
+
+tgfcer.com.	518400	IN	A	184.168.221.49

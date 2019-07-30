@@ -1,0 +1,6 @@
+
+motherless.com.	86400	IN	SOA	ns.motherless.com.	mail	2019061702 1800 900 604800 86400
+motherless.com.	86400	IN	NS	ns.motherless.com.
+ns.motherless.com.	518400	IN	A	216.239.32.10
+
+motherless.com.	518400	IN	A	46.166.188.37

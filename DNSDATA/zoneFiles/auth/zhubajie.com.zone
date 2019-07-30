@@ -1,0 +1,6 @@
+
+zhubajie.com.	86400	IN	SOA	ns.zhubajie.com.	mail	2019061702 1800 900 604800 86400
+zhubajie.com.	86400	IN	NS	ns.zhubajie.com.
+ns.zhubajie.com.	518400	IN	A	213.180.193.1
+
+zhubajie.com.	518400	IN	A	113.31.139.7

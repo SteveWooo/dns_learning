@@ -1,0 +1,6 @@
+
+hateblo.jp.	86400	IN	SOA	ns.hateblo.jp.	mail	2019061702 1800 900 604800 86400
+hateblo.jp.	86400	IN	NS	ns.hateblo.jp.
+ns.hateblo.jp.	518400	IN	A	205.251.195.203
+
+hateblo.jp.	518400	IN	A	13.112.159.226

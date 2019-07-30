@@ -1,0 +1,6 @@
+
+digg.com.	86400	IN	SOA	ns.digg.com.	mail	2019061702 1800 900 604800 86400
+digg.com.	86400	IN	NS	ns.digg.com.
+ns.digg.com.	518400	IN	A	205.251.199.254
+
+digg.com.	518400	IN	A	31.13.85.16

@@ -1,0 +1,6 @@
+
+nova.cz.	86400	IN	SOA	ns.nova.cz.	mail	2019061702 1800 900 604800 86400
+nova.cz.	86400	IN	NS	ns.nova.cz.
+ns.nova.cz.	518400	IN	A	200.219.154.10
+
+nova.cz.	518400	IN	A	176.122.40.171

@@ -1,0 +1,6 @@
+
+gosuslugi.ru.	86400	IN	SOA	ns.gosuslugi.ru.	mail	2019061702 1800 900 604800 86400
+gosuslugi.ru.	86400	IN	NS	ns.gosuslugi.ru.
+ns.gosuslugi.ru.	518400	IN	A	183.3.226.207
+
+gosuslugi.ru.	518400	IN	A	109.207.1.97

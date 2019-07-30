@@ -1,0 +1,6 @@
+
+bc.vc.	86400	IN	SOA	ns.bc.vc.	mail	2019061702 1800 900 604800 86400
+bc.vc.	86400	IN	NS	ns.bc.vc.
+ns.bc.vc.	518400	IN	A	200.201.165.253
+
+bc.vc.	518400	IN	A	104.27.146.178

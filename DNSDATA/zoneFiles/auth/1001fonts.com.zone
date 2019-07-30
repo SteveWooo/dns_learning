@@ -1,0 +1,6 @@
+
+1001fonts.com.	86400	IN	SOA	ns.1001fonts.com.	mail	2019061702 1800 900 604800 86400
+1001fonts.com.	86400	IN	NS	ns.1001fonts.com.
+ns.1001fonts.com.	518400	IN	A	216.239.32.29
+
+1001fonts.com.	518400	IN	A	5.35.250.80

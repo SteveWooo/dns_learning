@@ -1,0 +1,6 @@
+
+ovh.com.	86400	IN	SOA	ns.ovh.com.	mail	2019061702 1800 900 604800 86400
+ovh.com.	86400	IN	NS	ns.ovh.com.
+ns.ovh.com.	518400	IN	A	165.160.15.20
+
+ovh.com.	518400	IN	A	198.27.92.1

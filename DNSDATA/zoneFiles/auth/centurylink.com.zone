@@ -1,0 +1,6 @@
+
+centurylink.com.	86400	IN	SOA	ns.centurylink.com.	mail	2019061702 1800 900 604800 86400
+centurylink.com.	86400	IN	NS	ns.centurylink.com.
+ns.centurylink.com.	518400	IN	A	175.126.117.211
+
+centurylink.com.	518400	IN	A	155.70.44.25

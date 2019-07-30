@@ -1,0 +1,6 @@
+
+google.cn.	86400	IN	SOA	ns.google.cn.	mail	2019061702 1800 900 604800 86400
+google.cn.	86400	IN	NS	ns.google.cn.
+ns.google.cn.	518400	IN	A	204.69.234.1
+
+google.cn.	518400	IN	A	172.217.26.131

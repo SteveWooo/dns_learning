@@ -1,0 +1,6 @@
+
+vippers.jp.	86400	IN	SOA	ns.vippers.jp.	mail	2019061702 1800 900 604800 86400
+vippers.jp.	86400	IN	NS	ns.vippers.jp.
+ns.vippers.jp.	518400	IN	A	198.11.138.249
+
+vippers.jp.	518400	IN	A	203.104.130.159

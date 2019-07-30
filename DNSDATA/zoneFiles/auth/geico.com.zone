@@ -1,0 +1,6 @@
+
+geico.com.	86400	IN	SOA	ns.geico.com.	mail	2019061702 1800 900 604800 86400
+geico.com.	86400	IN	NS	ns.geico.com.
+ns.geico.com.	518400	IN	A	213.180.204.242
+
+geico.com.	518400	IN	A	45.60.45.141

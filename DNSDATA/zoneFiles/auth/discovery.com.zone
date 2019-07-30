@@ -1,0 +1,6 @@
+
+discovery.com.	86400	IN	SOA	ns.discovery.com.	mail	2019061702 1800 900 604800 86400
+discovery.com.	86400	IN	NS	ns.discovery.com.
+ns.discovery.com.	518400	IN	A	173.245.58.100
+
+discovery.com.	518400	IN	A	34.230.216.122

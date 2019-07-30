@@ -1,0 +1,6 @@
+
+rt.com.	86400	IN	SOA	ns.rt.com.	mail	2019061702 1800 900 604800 86400
+rt.com.	86400	IN	NS	ns.rt.com.
+ns.rt.com.	518400	IN	A	216.58.200.238
+
+rt.com.	518400	IN	A	82.202.190.91

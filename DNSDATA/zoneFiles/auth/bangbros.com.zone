@@ -1,0 +1,6 @@
+
+bangbros.com.	86400	IN	SOA	ns.bangbros.com.	mail	2019061702 1800 900 604800 86400
+bangbros.com.	86400	IN	NS	ns.bangbros.com.
+ns.bangbros.com.	518400	IN	A	216.58.200.238
+
+bangbros.com.	518400	IN	A	31.13.74.17

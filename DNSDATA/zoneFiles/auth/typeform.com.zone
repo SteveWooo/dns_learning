@@ -1,0 +1,6 @@
+
+typeform.com.	86400	IN	SOA	ns.typeform.com.	mail	2019061702 1800 900 604800 86400
+typeform.com.	86400	IN	NS	ns.typeform.com.
+ns.typeform.com.	518400	IN	A	217.69.139.202
+
+typeform.com.	518400	IN	A	34.231.191.93

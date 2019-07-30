@@ -1,0 +1,6 @@
+
+myfitnesspal.com.	86400	IN	SOA	ns.myfitnesspal.com.	mail	2019061702 1800 900 604800 86400
+myfitnesspal.com.	86400	IN	NS	ns.myfitnesspal.com.
+ns.myfitnesspal.com.	518400	IN	A	81.19.82.2
+
+myfitnesspal.com.	518400	IN	A	52.85.163.247

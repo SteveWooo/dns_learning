@@ -1,0 +1,6 @@
+
+rantsports.com.	86400	IN	SOA	ns.rantsports.com.	mail	2019061702 1800 900 604800 86400
+rantsports.com.	86400	IN	NS	ns.rantsports.com.
+ns.rantsports.com.	518400	IN	A	203.153.43.65
+
+rantsports.com.	518400	IN	A	192.124.249.10

@@ -1,0 +1,6 @@
+
+nwsource.com.	86400	IN	SOA	ns.nwsource.com.	mail	2019061702 1800 900 604800 86400
+nwsource.com.	86400	IN	NS	ns.nwsource.com.
+ns.nwsource.com.	518400	IN	A	204.74.108.1
+
+nwsource.com.	518400	IN	A	96.17.15.83

@@ -1,0 +1,6 @@
+
+backpage.com.	86400	IN	SOA	ns.backpage.com.	mail	2019061702 1800 900 604800 86400
+backpage.com.	86400	IN	NS	ns.backpage.com.
+ns.backpage.com.	518400	IN	A	165.160.15.20
+
+backpage.com.	518400	IN	A	66.212.148.117

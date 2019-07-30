@@ -1,0 +1,6 @@
+
+xossip.com.	86400	IN	SOA	ns.xossip.com.	mail	2019061702 1800 900 604800 86400
+xossip.com.	86400	IN	NS	ns.xossip.com.
+ns.xossip.com.	518400	IN	A	216.239.32.29
+
+xossip.com.	518400	IN	A	104.18.48.29

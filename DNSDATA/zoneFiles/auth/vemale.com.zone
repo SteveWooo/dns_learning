@@ -1,0 +1,6 @@
+
+vemale.com.	86400	IN	SOA	ns.vemale.com.	mail	2019061702 1800 900 604800 86400
+vemale.com.	86400	IN	NS	ns.vemale.com.
+ns.vemale.com.	518400	IN	A	205.251.199.254
+
+vemale.com.	518400	IN	A	203.12.21.5

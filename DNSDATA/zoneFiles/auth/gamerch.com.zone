@@ -1,0 +1,6 @@
+
+gamerch.com.	86400	IN	SOA	ns.gamerch.com.	mail	2019061702 1800 900 604800 86400
+gamerch.com.	86400	IN	NS	ns.gamerch.com.
+ns.gamerch.com.	518400	IN	A	213.180.204.242
+
+gamerch.com.	518400	IN	A	13.114.91.246

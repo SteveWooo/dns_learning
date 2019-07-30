@@ -1,0 +1,6 @@
+
+taobao.com.	86400	IN	SOA	ns.taobao.com.	mail	2019061702 1800 900 604800 86400
+taobao.com.	86400	IN	NS	ns.taobao.com.
+ns.taobao.com.	518400	IN	A	200.201.165.253
+
+taobao.com.	518400	IN	A	140.205.220.96

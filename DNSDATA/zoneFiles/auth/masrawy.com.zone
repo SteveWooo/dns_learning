@@ -1,0 +1,6 @@
+
+masrawy.com.	86400	IN	SOA	ns.masrawy.com.	mail	2019061702 1800 900 604800 86400
+masrawy.com.	86400	IN	NS	ns.masrawy.com.
+ns.masrawy.com.	518400	IN	A	205.251.192.29
+
+masrawy.com.	518400	IN	A	41.178.51.93

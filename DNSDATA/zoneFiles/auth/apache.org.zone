@@ -1,0 +1,6 @@
+
+apache.org.	86400	IN	SOA	ns.apache.org.	mail	2019061702 1800 900 604800 86400
+apache.org.	86400	IN	NS	ns.apache.org.
+ns.apache.org.	518400	IN	A	173.245.59.130
+
+apache.org.	518400	IN	A	40.79.78.1

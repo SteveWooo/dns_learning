@@ -1,0 +1,6 @@
+
+wallpaperswide.com.	86400	IN	SOA	ns.wallpaperswide.com.	mail	2019061702 1800 900 604800 86400
+wallpaperswide.com.	86400	IN	NS	ns.wallpaperswide.com.
+ns.wallpaperswide.com.	518400	IN	A	202.108.22.220
+
+wallpaperswide.com.	518400	IN	A	88.198.175.2

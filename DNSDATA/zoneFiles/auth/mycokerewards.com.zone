@@ -1,0 +1,6 @@
+
+mycokerewards.com.	86400	IN	SOA	ns.mycokerewards.com.	mail	2019061702 1800 900 604800 86400
+mycokerewards.com.	86400	IN	NS	ns.mycokerewards.com.
+ns.mycokerewards.com.	518400	IN	A	217.69.139.112
+
+mycokerewards.com.	518400	IN	A	13.225.146.43

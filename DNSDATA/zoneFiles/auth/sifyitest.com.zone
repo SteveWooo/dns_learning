@@ -1,0 +1,6 @@
+
+sifyitest.com.	86400	IN	SOA	ns.sifyitest.com.	mail	2019061702 1800 900 604800 86400
+sifyitest.com.	86400	IN	NS	ns.sifyitest.com.
+ns.sifyitest.com.	518400	IN	A	183.3.226.207
+
+sifyitest.com.	518400	IN	A	202.191.149.120

@@ -1,0 +1,6 @@
+
+persiangig.com.	86400	IN	SOA	ns.persiangig.com.	mail	2019061702 1800 900 604800 86400
+persiangig.com.	86400	IN	NS	ns.persiangig.com.
+ns.persiangig.com.	518400	IN	A	216.239.32.10
+
+persiangig.com.	518400	IN	A	198.143.177.68

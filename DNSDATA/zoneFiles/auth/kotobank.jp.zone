@@ -1,0 +1,6 @@
+
+kotobank.jp.	86400	IN	SOA	ns.kotobank.jp.	mail	2019061702 1800 900 604800 86400
+kotobank.jp.	86400	IN	NS	ns.kotobank.jp.
+ns.kotobank.jp.	518400	IN	A	173.245.58.100
+
+kotobank.jp.	518400	IN	A	14.0.44.218

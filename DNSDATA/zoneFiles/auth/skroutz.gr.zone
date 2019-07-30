@@ -1,0 +1,6 @@
+
+skroutz.gr.	86400	IN	SOA	ns.skroutz.gr.	mail	2019061702 1800 900 604800 86400
+skroutz.gr.	86400	IN	NS	ns.skroutz.gr.
+ns.skroutz.gr.	518400	IN	A	200.201.161.22
+
+skroutz.gr.	518400	IN	A	185.6.76.42

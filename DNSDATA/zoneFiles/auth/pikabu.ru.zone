@@ -1,0 +1,6 @@
+
+pikabu.ru.	86400	IN	SOA	ns.pikabu.ru.	mail	2019061702 1800 900 604800 86400
+pikabu.ru.	86400	IN	NS	ns.pikabu.ru.
+ns.pikabu.ru.	518400	IN	A	205.251.192.29
+
+pikabu.ru.	518400	IN	A	91.228.152.42

@@ -1,0 +1,6 @@
+
+pixiv.net.	86400	IN	SOA	ns.pixiv.net.	mail	2019061702 1800 900 604800 86400
+pixiv.net.	86400	IN	NS	ns.pixiv.net.
+ns.pixiv.net.	518400	IN	A	213.180.193.1
+
+pixiv.net.	518400	IN	A	31.13.79.1

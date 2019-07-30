@@ -1,0 +1,6 @@
+
+parapolitika.gr.	86400	IN	SOA	ns.parapolitika.gr.	mail	2019061702 1800 900 604800 86400
+parapolitika.gr.	86400	IN	NS	ns.parapolitika.gr.
+ns.parapolitika.gr.	518400	IN	A	216.239.32.106
+
+parapolitika.gr.	518400	IN	A	52.137.26.243

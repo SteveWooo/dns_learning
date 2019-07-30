@@ -1,0 +1,6 @@
+
+canon.jp.	86400	IN	SOA	ns.canon.jp.	mail	2019061702 1800 900 604800 86400
+canon.jp.	86400	IN	NS	ns.canon.jp.
+ns.canon.jp.	518400	IN	A	204.69.234.1
+
+canon.jp.	518400	IN	A	210.134.174.28

@@ -1,0 +1,6 @@
+
+izlesene.com.	86400	IN	SOA	ns.izlesene.com.	mail	2019061702 1800 900 604800 86400
+izlesene.com.	86400	IN	NS	ns.izlesene.com.
+ns.izlesene.com.	518400	IN	A	200.201.165.253
+
+izlesene.com.	518400	IN	A	74.86.228.110

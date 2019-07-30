@@ -1,0 +1,6 @@
+
+wikidot.com.	86400	IN	SOA	ns.wikidot.com.	mail	2019061702 1800 900 604800 86400
+wikidot.com.	86400	IN	NS	ns.wikidot.com.
+ns.wikidot.com.	518400	IN	A	205.251.197.107
+
+wikidot.com.	518400	IN	A	107.20.139.170

@@ -1,0 +1,6 @@
+
+weightwatchers.com.	86400	IN	SOA	ns.weightwatchers.com.	mail	2019061702 1800 900 604800 86400
+weightwatchers.com.	86400	IN	NS	ns.weightwatchers.com.
+ns.weightwatchers.com.	518400	IN	A	183.3.226.207
+
+weightwatchers.com.	518400	IN	A	208.44.221.62

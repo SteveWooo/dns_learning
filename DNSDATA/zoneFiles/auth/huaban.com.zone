@@ -1,0 +1,6 @@
+
+huaban.com.	86400	IN	SOA	ns.huaban.com.	mail	2019061702 1800 900 604800 86400
+huaban.com.	86400	IN	NS	ns.huaban.com.
+ns.huaban.com.	518400	IN	A	187.18.60.242
+
+huaban.com.	518400	IN	A	115.231.100.109

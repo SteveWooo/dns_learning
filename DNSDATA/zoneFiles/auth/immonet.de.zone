@@ -1,0 +1,6 @@
+
+immonet.de.	86400	IN	SOA	ns.immonet.de.	mail	2019061702 1800 900 604800 86400
+immonet.de.	86400	IN	NS	ns.immonet.de.
+ns.immonet.de.	518400	IN	A	216.58.200.238
+
+immonet.de.	518400	IN	A	85.199.64.38

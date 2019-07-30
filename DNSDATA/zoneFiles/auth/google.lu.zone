@@ -1,0 +1,6 @@
+
+google.lu.	86400	IN	SOA	ns.google.lu.	mail	2019061702 1800 900 604800 86400
+google.lu.	86400	IN	NS	ns.google.lu.
+ns.google.lu.	518400	IN	A	216.58.200.238
+
+google.lu.	518400	IN	A	69.171.234.18

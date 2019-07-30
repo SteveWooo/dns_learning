@@ -1,0 +1,6 @@
+
+heise.de.	86400	IN	SOA	ns.heise.de.	mail	2019061702 1800 900 604800 86400
+heise.de.	86400	IN	NS	ns.heise.de.
+ns.heise.de.	518400	IN	A	208.78.70.47
+
+heise.de.	518400	IN	A	193.99.144.80

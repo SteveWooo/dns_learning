@@ -1,0 +1,6 @@
+
+fetlife.com.	86400	IN	SOA	ns.fetlife.com.	mail	2019061702 1800 900 604800 86400
+fetlife.com.	86400	IN	NS	ns.fetlife.com.
+ns.fetlife.com.	518400	IN	A	213.180.204.242
+
+fetlife.com.	518400	IN	A	69.63.176.143

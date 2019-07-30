@@ -1,0 +1,6 @@
+
+lego.com.	86400	IN	SOA	ns.lego.com.	mail	2019061702 1800 900 604800 86400
+lego.com.	86400	IN	NS	ns.lego.com.
+ns.lego.com.	518400	IN	A	216.239.32.106
+
+lego.com.	518400	IN	A	62.199.219.133

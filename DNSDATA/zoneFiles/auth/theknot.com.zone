@@ -1,0 +1,6 @@
+
+theknot.com.	86400	IN	SOA	ns.theknot.com.	mail	2019061702 1800 900 604800 86400
+theknot.com.	86400	IN	NS	ns.theknot.com.
+ns.theknot.com.	518400	IN	A	216.239.32.106
+
+theknot.com.	518400	IN	A	104.16.208.249

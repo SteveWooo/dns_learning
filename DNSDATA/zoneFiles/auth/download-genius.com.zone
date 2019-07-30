@@ -1,0 +1,6 @@
+
+download-genius.com.	86400	IN	SOA	ns.download-genius.com.	mail	2019061702 1800 900 604800 86400
+download-genius.com.	86400	IN	NS	ns.download-genius.com.
+ns.download-genius.com.	518400	IN	A	213.180.204.242
+
+download-genius.com.	518400	IN	A	104.31.77.194

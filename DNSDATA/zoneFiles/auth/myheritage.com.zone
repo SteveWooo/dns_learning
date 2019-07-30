@@ -1,0 +1,6 @@
+
+myheritage.com.	86400	IN	SOA	ns.myheritage.com.	mail	2019061702 1800 900 604800 86400
+myheritage.com.	86400	IN	NS	ns.myheritage.com.
+ns.myheritage.com.	518400	IN	A	198.100.156.181
+
+myheritage.com.	518400	IN	A	45.60.11.42

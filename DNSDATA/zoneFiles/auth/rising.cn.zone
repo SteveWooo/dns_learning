@@ -1,0 +1,6 @@
+
+rising.cn.	86400	IN	SOA	ns.rising.cn.	mail	2019061702 1800 900 604800 86400
+rising.cn.	86400	IN	NS	ns.rising.cn.
+ns.rising.cn.	518400	IN	A	204.74.108.1
+
+rising.cn.	518400	IN	A	219.238.233.203

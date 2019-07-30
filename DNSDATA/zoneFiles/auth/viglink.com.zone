@@ -1,0 +1,6 @@
+
+viglink.com.	86400	IN	SOA	ns.viglink.com.	mail	2019061702 1800 900 604800 86400
+viglink.com.	86400	IN	NS	ns.viglink.com.
+ns.viglink.com.	518400	IN	A	125.209.248.6
+
+viglink.com.	518400	IN	A	52.20.132.179

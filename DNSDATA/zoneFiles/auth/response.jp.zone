@@ -1,0 +1,6 @@
+
+response.jp.	86400	IN	SOA	ns.response.jp.	mail	2019061702 1800 900 604800 86400
+response.jp.	86400	IN	NS	ns.response.jp.
+ns.response.jp.	518400	IN	A	217.69.139.202
+
+response.jp.	518400	IN	A	124.147.8.226

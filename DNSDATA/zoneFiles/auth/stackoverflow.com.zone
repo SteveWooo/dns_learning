@@ -1,0 +1,6 @@
+
+stackoverflow.com.	86400	IN	SOA	ns.stackoverflow.com.	mail	2019061702 1800 900 604800 86400
+stackoverflow.com.	86400	IN	NS	ns.stackoverflow.com.
+ns.stackoverflow.com.	518400	IN	A	187.18.60.242
+
+stackoverflow.com.	518400	IN	A	151.101.193.69

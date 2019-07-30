@@ -1,0 +1,6 @@
+
+commerzbank.de.	86400	IN	SOA	ns.commerzbank.de.	mail	2019061702 1800 900 604800 86400
+commerzbank.de.	86400	IN	NS	ns.commerzbank.de.
+ns.commerzbank.de.	518400	IN	A	205.251.194.1
+
+commerzbank.de.	518400	IN	A	212.149.50.185

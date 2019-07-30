@@ -1,0 +1,6 @@
+
+oreilly.com.	86400	IN	SOA	ns.oreilly.com.	mail	2019061702 1800 900 604800 86400
+oreilly.com.	86400	IN	NS	ns.oreilly.com.
+ns.oreilly.com.	518400	IN	A	216.239.32.106
+
+oreilly.com.	518400	IN	A	199.27.145.65

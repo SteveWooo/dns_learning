@@ -1,0 +1,6 @@
+
+levi.com.	86400	IN	SOA	ns.levi.com.	mail	2019061702 1800 900 604800 86400
+levi.com.	86400	IN	NS	ns.levi.com.
+ns.levi.com.	518400	IN	A	205.251.195.203
+
+levi.com.	518400	IN	A	104.88.6.80

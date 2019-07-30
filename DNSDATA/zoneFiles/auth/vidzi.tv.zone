@@ -1,0 +1,6 @@
+
+vidzi.tv.	86400	IN	SOA	ns.vidzi.tv.	mail	2019061702 1800 900 604800 86400
+vidzi.tv.	86400	IN	NS	ns.vidzi.tv.
+ns.vidzi.tv.	518400	IN	A	173.245.58.159
+
+vidzi.tv.	518400	IN	A	95.183.52.148

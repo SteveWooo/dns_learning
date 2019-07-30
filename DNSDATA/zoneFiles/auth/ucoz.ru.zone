@@ -1,0 +1,6 @@
+
+ucoz.ru.	86400	IN	SOA	ns.ucoz.ru.	mail	2019061702 1800 900 604800 86400
+ucoz.ru.	86400	IN	NS	ns.ucoz.ru.
+ns.ucoz.ru.	518400	IN	A	216.58.200.238
+
+ucoz.ru.	518400	IN	A	195.216.243.246

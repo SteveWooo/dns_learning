@@ -1,0 +1,6 @@
+
+cnn.com.	86400	IN	SOA	ns.cnn.com.	mail	2019061702 1800 900 604800 86400
+cnn.com.	86400	IN	NS	ns.cnn.com.
+ns.cnn.com.	518400	IN	A	213.180.204.242
+
+cnn.com.	518400	IN	A	151.101.193.67

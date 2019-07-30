@@ -1,0 +1,6 @@
+
+news-us.jp.	86400	IN	SOA	ns.news-us.jp.	mail	2019061702 1800 900 604800 86400
+news-us.jp.	86400	IN	NS	ns.news-us.jp.
+ns.news-us.jp.	518400	IN	A	193.232.156.17
+
+news-us.jp.	518400	IN	A	162.241.252.26

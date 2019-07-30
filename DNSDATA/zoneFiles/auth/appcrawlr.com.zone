@@ -1,0 +1,6 @@
+
+appcrawlr.com.	86400	IN	SOA	ns.appcrawlr.com.	mail	2019061702 1800 900 604800 86400
+appcrawlr.com.	86400	IN	NS	ns.appcrawlr.com.
+ns.appcrawlr.com.	518400	IN	A	205.251.199.254
+
+appcrawlr.com.	518400	IN	A	46.28.212.240

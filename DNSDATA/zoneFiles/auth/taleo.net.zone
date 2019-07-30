@@ -1,0 +1,6 @@
+
+taleo.net.	86400	IN	SOA	ns.taleo.net.	mail	2019061702 1800 900 604800 86400
+taleo.net.	86400	IN	NS	ns.taleo.net.
+ns.taleo.net.	518400	IN	A	216.239.32.29
+
+taleo.net.	518400	IN	A	68.233.77.233

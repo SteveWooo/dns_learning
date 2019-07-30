@@ -1,0 +1,6 @@
+
+goodreads.com.	86400	IN	SOA	ns.goodreads.com.	mail	2019061702 1800 900 604800 86400
+goodreads.com.	86400	IN	NS	ns.goodreads.com.
+ns.goodreads.com.	518400	IN	A	206.128.173.109
+
+goodreads.com.	518400	IN	A	69.171.244.12

@@ -1,0 +1,6 @@
+
+linkshrink.net.	86400	IN	SOA	ns.linkshrink.net.	mail	2019061702 1800 900 604800 86400
+linkshrink.net.	86400	IN	NS	ns.linkshrink.net.
+ns.linkshrink.net.	518400	IN	A	216.58.200.238
+
+linkshrink.net.	518400	IN	A	104.27.175.178

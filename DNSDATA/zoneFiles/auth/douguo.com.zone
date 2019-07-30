@@ -1,0 +1,6 @@
+
+douguo.com.	86400	IN	SOA	ns.douguo.com.	mail	2019061702 1800 900 604800 86400
+douguo.com.	86400	IN	NS	ns.douguo.com.
+ns.douguo.com.	518400	IN	A	204.74.108.1
+
+douguo.com.	518400	IN	A	119.254.81.85

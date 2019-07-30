@@ -1,0 +1,6 @@
+
+zurb.com.	86400	IN	SOA	ns.zurb.com.	mail	2019061702 1800 900 604800 86400
+zurb.com.	86400	IN	NS	ns.zurb.com.
+ns.zurb.com.	518400	IN	A	2.16.130.64
+
+zurb.com.	518400	IN	A	104.22.14.61

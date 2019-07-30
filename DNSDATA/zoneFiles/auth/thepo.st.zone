@@ -1,0 +1,6 @@
+
+thepo.st.	86400	IN	SOA	ns.thepo.st.	mail	2019061702 1800 900 604800 86400
+thepo.st.	86400	IN	NS	ns.thepo.st.
+ns.thepo.st.	518400	IN	A	202.56.230.5
+
+thepo.st.	518400	IN	A	199.59.242.151

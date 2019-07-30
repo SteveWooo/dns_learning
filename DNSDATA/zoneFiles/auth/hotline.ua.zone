@@ -1,0 +1,6 @@
+
+hotline.ua.	86400	IN	SOA	ns.hotline.ua.	mail	2019061702 1800 900 604800 86400
+hotline.ua.	86400	IN	NS	ns.hotline.ua.
+ns.hotline.ua.	518400	IN	A	202.56.230.5
+
+hotline.ua.	518400	IN	A	77.222.150.22

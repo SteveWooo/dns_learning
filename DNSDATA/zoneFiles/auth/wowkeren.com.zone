@@ -1,0 +1,6 @@
+
+wowkeren.com.	86400	IN	SOA	ns.wowkeren.com.	mail	2019061702 1800 900 604800 86400
+wowkeren.com.	86400	IN	NS	ns.wowkeren.com.
+ns.wowkeren.com.	518400	IN	A	208.78.70.47
+
+wowkeren.com.	518400	IN	A	104.25.92.115

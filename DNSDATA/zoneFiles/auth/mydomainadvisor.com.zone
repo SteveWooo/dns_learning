@@ -1,0 +1,6 @@
+
+mydomainadvisor.com.	86400	IN	SOA	ns.mydomainadvisor.com.	mail	2019061702 1800 900 604800 86400
+mydomainadvisor.com.	86400	IN	NS	ns.mydomainadvisor.com.
+ns.mydomainadvisor.com.	518400	IN	A	216.239.32.29
+
+mydomainadvisor.com.	518400	IN	A	108.163.129.124

@@ -1,0 +1,6 @@
+
+yadi.sk.	86400	IN	SOA	ns.yadi.sk.	mail	2019061702 1800 900 604800 86400
+yadi.sk.	86400	IN	NS	ns.yadi.sk.
+ns.yadi.sk.	518400	IN	A	174.35.55.22
+
+yadi.sk.	518400	IN	A	87.250.250.50

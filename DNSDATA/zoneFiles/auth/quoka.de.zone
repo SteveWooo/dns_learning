@@ -1,0 +1,6 @@
+
+quoka.de.	86400	IN	SOA	ns.quoka.de.	mail	2019061702 1800 900 604800 86400
+quoka.de.	86400	IN	NS	ns.quoka.de.
+ns.quoka.de.	518400	IN	A	216.239.32.29
+
+quoka.de.	518400	IN	A	99.84.41.12

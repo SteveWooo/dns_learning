@@ -1,0 +1,6 @@
+
+mixi.jp.	86400	IN	SOA	ns.mixi.jp.	mail	2019061702 1800 900 604800 86400
+mixi.jp.	86400	IN	NS	ns.mixi.jp.
+ns.mixi.jp.	518400	IN	A	216.239.32.106
+
+mixi.jp.	518400	IN	A	173.252.103.64

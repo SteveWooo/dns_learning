@@ -1,0 +1,6 @@
+
+tdameritrade.com.	86400	IN	SOA	ns.tdameritrade.com.	mail	2019061702 1800 900 604800 86400
+tdameritrade.com.	86400	IN	NS	ns.tdameritrade.com.
+ns.tdameritrade.com.	518400	IN	A	198.11.138.249
+
+tdameritrade.com.	518400	IN	A	198.200.171.204

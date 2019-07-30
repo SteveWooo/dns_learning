@@ -1,0 +1,6 @@
+
+neowin.net.	86400	IN	SOA	ns.neowin.net.	mail	2019061702 1800 900 604800 86400
+neowin.net.	86400	IN	NS	ns.neowin.net.
+ns.neowin.net.	518400	IN	A	205.251.197.107
+
+neowin.net.	518400	IN	A	69.171.246.9

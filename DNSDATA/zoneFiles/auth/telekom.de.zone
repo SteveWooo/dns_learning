@@ -1,0 +1,6 @@
+
+telekom.de.	86400	IN	SOA	ns.telekom.de.	mail	2019061702 1800 900 604800 86400
+telekom.de.	86400	IN	NS	ns.telekom.de.
+ns.telekom.de.	518400	IN	A	206.128.173.109
+
+telekom.de.	518400	IN	A	80.158.67.40

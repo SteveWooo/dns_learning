@@ -1,0 +1,6 @@
+
+huffingtonpost.fr.	86400	IN	SOA	ns.huffingtonpost.fr.	mail	2019061702 1800 900 604800 86400
+huffingtonpost.fr.	86400	IN	NS	ns.huffingtonpost.fr.
+ns.huffingtonpost.fr.	518400	IN	A	216.239.32.106
+
+huffingtonpost.fr.	518400	IN	A	124.108.115.103

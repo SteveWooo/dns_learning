@@ -1,0 +1,6 @@
+
+s0ftpedia.net.	86400	IN	SOA	ns.s0ftpedia.net.	mail	2019061702 1800 900 604800 86400
+s0ftpedia.net.	86400	IN	NS	ns.s0ftpedia.net.
+ns.s0ftpedia.net.	518400	IN	A	200.201.161.22
+
+s0ftpedia.net.	518400	IN	A	185.53.177.31

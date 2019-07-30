@@ -1,0 +1,6 @@
+
+nickjr.com.	86400	IN	SOA	ns.nickjr.com.	mail	2019061702 1800 900 604800 86400
+nickjr.com.	86400	IN	NS	ns.nickjr.com.
+ns.nickjr.com.	518400	IN	A	198.11.138.249
+
+nickjr.com.	518400	IN	A	54.68.182.72

@@ -1,0 +1,6 @@
+
+highrisehq.com.	86400	IN	SOA	ns.highrisehq.com.	mail	2019061702 1800 900 604800 86400
+highrisehq.com.	86400	IN	NS	ns.highrisehq.com.
+ns.highrisehq.com.	518400	IN	A	203.153.43.65
+
+highrisehq.com.	518400	IN	A	143.204.214.23

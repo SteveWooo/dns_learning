@@ -1,0 +1,6 @@
+
+ubuntuforums.org.	86400	IN	SOA	ns.ubuntuforums.org.	mail	2019061702 1800 900 604800 86400
+ubuntuforums.org.	86400	IN	NS	ns.ubuntuforums.org.
+ns.ubuntuforums.org.	518400	IN	A	216.239.32.106
+
+ubuntuforums.org.	518400	IN	A	91.189.94.12

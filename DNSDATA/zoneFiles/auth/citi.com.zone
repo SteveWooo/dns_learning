@@ -1,0 +1,6 @@
+
+citi.com.	86400	IN	SOA	ns.citi.com.	mail	2019061702 1800 900 604800 86400
+citi.com.	86400	IN	NS	ns.citi.com.
+ns.citi.com.	518400	IN	A	193.108.91.127
+
+citi.com.	518400	IN	A	192.193.218.80

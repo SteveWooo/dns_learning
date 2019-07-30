@@ -1,0 +1,6 @@
+
+theglobeandmail.com.	86400	IN	SOA	ns.theglobeandmail.com.	mail	2019061702 1800 900 604800 86400
+theglobeandmail.com.	86400	IN	NS	ns.theglobeandmail.com.
+ns.theglobeandmail.com.	518400	IN	A	216.58.200.238
+
+theglobeandmail.com.	518400	IN	A	69.63.181.11

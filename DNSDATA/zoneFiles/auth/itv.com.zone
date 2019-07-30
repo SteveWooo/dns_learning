@@ -1,0 +1,6 @@
+
+itv.com.	86400	IN	SOA	ns.itv.com.	mail	2019061702 1800 900 604800 86400
+itv.com.	86400	IN	NS	ns.itv.com.
+ns.itv.com.	518400	IN	A	204.74.108.1
+
+itv.com.	518400	IN	A	52.48.32.52

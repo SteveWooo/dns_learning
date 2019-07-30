@@ -1,0 +1,6 @@
+
+ads.id.	86400	IN	SOA	ns.ads.id.	mail	2019061702 1800 900 604800 86400
+ads.id.	86400	IN	NS	ns.ads.id.
+ns.ads.id.	518400	IN	A	205.251.199.254
+
+ads.id.	518400	IN	A	104.27.167.188

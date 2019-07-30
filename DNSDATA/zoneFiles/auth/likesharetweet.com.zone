@@ -1,0 +1,6 @@
+
+likesharetweet.com.	86400	IN	SOA	ns.likesharetweet.com.	mail	2019061702 1800 900 604800 86400
+likesharetweet.com.	86400	IN	NS	ns.likesharetweet.com.
+ns.likesharetweet.com.	518400	IN	A	204.69.234.1
+
+likesharetweet.com.	518400	IN	A	143.204.208.207

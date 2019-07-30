@@ -1,0 +1,6 @@
+
+huawei.com.	86400	IN	SOA	ns.huawei.com.	mail	2019061702 1800 900 604800 86400
+huawei.com.	86400	IN	NS	ns.huawei.com.
+ns.huawei.com.	518400	IN	A	216.239.32.106
+
+huawei.com.	518400	IN	A	45.249.212.124

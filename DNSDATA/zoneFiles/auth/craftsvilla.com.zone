@@ -1,0 +1,6 @@
+
+craftsvilla.com.	86400	IN	SOA	ns.craftsvilla.com.	mail	2019061702 1800 900 604800 86400
+craftsvilla.com.	86400	IN	NS	ns.craftsvilla.com.
+ns.craftsvilla.com.	518400	IN	A	193.232.156.17
+
+craftsvilla.com.	518400	IN	A	52.219.32.134

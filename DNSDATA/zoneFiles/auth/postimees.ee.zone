@@ -1,0 +1,6 @@
+
+postimees.ee.	86400	IN	SOA	ns.postimees.ee.	mail	2019061702 1800 900 604800 86400
+postimees.ee.	86400	IN	NS	ns.postimees.ee.
+ns.postimees.ee.	518400	IN	A	173.245.58.201
+
+postimees.ee.	518400	IN	A	185.154.220.180

@@ -1,0 +1,6 @@
+
+burning-seri.es.	86400	IN	SOA	ns.burning-seri.es.	mail	2019061702 1800 900 604800 86400
+burning-seri.es.	86400	IN	NS	ns.burning-seri.es.
+ns.burning-seri.es.	518400	IN	A	140.205.67.253
+
+burning-seri.es.	518400	IN	A	104.18.55.146

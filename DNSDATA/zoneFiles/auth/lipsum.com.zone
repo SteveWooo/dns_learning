@@ -1,0 +1,6 @@
+
+lipsum.com.	86400	IN	SOA	ns.lipsum.com.	mail	2019061702 1800 900 604800 86400
+lipsum.com.	86400	IN	NS	ns.lipsum.com.
+ns.lipsum.com.	518400	IN	A	216.58.200.238
+
+lipsum.com.	518400	IN	A	184.173.177.52

@@ -1,0 +1,6 @@
+
+go2cloud.org.	86400	IN	SOA	ns.go2cloud.org.	mail	2019061702 1800 900 604800 86400
+go2cloud.org.	86400	IN	NS	ns.go2cloud.org.
+ns.go2cloud.org.	518400	IN	A	165.160.15.20
+
+go2cloud.org.	518400	IN	A	54.72.199.154

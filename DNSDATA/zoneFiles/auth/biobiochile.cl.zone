@@ -1,0 +1,6 @@
+
+biobiochile.cl.	86400	IN	SOA	ns.biobiochile.cl.	mail	2019061702 1800 900 604800 86400
+biobiochile.cl.	86400	IN	NS	ns.biobiochile.cl.
+ns.biobiochile.cl.	518400	IN	A	216.239.32.106
+
+biobiochile.cl.	518400	IN	A	67.43.7.192

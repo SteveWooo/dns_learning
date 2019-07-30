@@ -1,0 +1,6 @@
+
+kinopoisk.ru.	86400	IN	SOA	ns.kinopoisk.ru.	mail	2019061702 1800 900 604800 86400
+kinopoisk.ru.	86400	IN	NS	ns.kinopoisk.ru.
+ns.kinopoisk.ru.	518400	IN	A	205.251.194.1
+
+kinopoisk.ru.	518400	IN	A	87.250.251.105

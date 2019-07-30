@@ -1,0 +1,6 @@
+
+tdbank.com.	86400	IN	SOA	ns.tdbank.com.	mail	2019061702 1800 900 604800 86400
+tdbank.com.	86400	IN	NS	ns.tdbank.com.
+ns.tdbank.com.	518400	IN	A	175.126.117.211
+
+tdbank.com.	518400	IN	A	104.75.4.162

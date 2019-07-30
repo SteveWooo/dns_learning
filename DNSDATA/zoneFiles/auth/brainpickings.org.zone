@@ -1,0 +1,6 @@
+
+brainpickings.org.	86400	IN	SOA	ns.brainpickings.org.	mail	2019061702 1800 900 604800 86400
+brainpickings.org.	86400	IN	NS	ns.brainpickings.org.
+ns.brainpickings.org.	518400	IN	A	203.153.43.65
+
+brainpickings.org.	518400	IN	A	70.32.96.210

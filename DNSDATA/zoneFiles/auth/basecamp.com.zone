@@ -1,0 +1,6 @@
+
+basecamp.com.	86400	IN	SOA	ns.basecamp.com.	mail	2019061702 1800 900 604800 86400
+basecamp.com.	86400	IN	NS	ns.basecamp.com.
+ns.basecamp.com.	518400	IN	A	217.69.139.202
+
+basecamp.com.	518400	IN	A	204.62.115.78

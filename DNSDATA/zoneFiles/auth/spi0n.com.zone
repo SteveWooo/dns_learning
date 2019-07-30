@@ -1,0 +1,6 @@
+
+spi0n.com.	86400	IN	SOA	ns.spi0n.com.	mail	2019061702 1800 900 604800 86400
+spi0n.com.	86400	IN	NS	ns.spi0n.com.
+ns.spi0n.com.	518400	IN	A	216.58.200.238
+
+spi0n.com.	518400	IN	A	104.31.13.187

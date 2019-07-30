@@ -1,0 +1,6 @@
+
+washingtonpost.com.	86400	IN	SOA	ns.washingtonpost.com.	mail	2019061702 1800 900 604800 86400
+washingtonpost.com.	86400	IN	NS	ns.washingtonpost.com.
+ns.washingtonpost.com.	518400	IN	A	198.11.138.249
+
+washingtonpost.com.	518400	IN	A	31.13.66.1

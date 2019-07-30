@@ -1,0 +1,6 @@
+
+budbi.com.	86400	IN	SOA	ns.budbi.com.	mail	2019061702 1800 900 604800 86400
+budbi.com.	86400	IN	NS	ns.budbi.com.
+ns.budbi.com.	518400	IN	A	203.153.43.65
+
+budbi.com.	518400	IN	A	35.186.201.175

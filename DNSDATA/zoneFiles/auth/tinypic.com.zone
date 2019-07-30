@@ -1,0 +1,6 @@
+
+tinypic.com.	86400	IN	SOA	ns.tinypic.com.	mail	2019061702 1800 900 604800 86400
+tinypic.com.	86400	IN	NS	ns.tinypic.com.
+ns.tinypic.com.	518400	IN	A	208.78.70.47
+
+tinypic.com.	518400	IN	A	209.17.68.209

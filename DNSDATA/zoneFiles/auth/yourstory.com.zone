@@ -1,0 +1,6 @@
+
+yourstory.com.	86400	IN	SOA	ns.yourstory.com.	mail	2019061702 1800 900 604800 86400
+yourstory.com.	86400	IN	NS	ns.yourstory.com.
+ns.yourstory.com.	518400	IN	A	203.153.43.65
+
+yourstory.com.	518400	IN	A	130.211.11.154

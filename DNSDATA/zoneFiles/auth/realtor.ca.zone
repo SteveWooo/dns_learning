@@ -1,0 +1,6 @@
+
+realtor.ca.	86400	IN	SOA	ns.realtor.ca.	mail	2019061702 1800 900 604800 86400
+realtor.ca.	86400	IN	NS	ns.realtor.ca.
+ns.realtor.ca.	518400	IN	A	217.69.139.112
+
+realtor.ca.	518400	IN	A	52.179.188.206

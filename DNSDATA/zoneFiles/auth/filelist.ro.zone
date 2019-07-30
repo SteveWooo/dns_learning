@@ -1,0 +1,6 @@
+
+filelist.ro.	86400	IN	SOA	ns.filelist.ro.	mail	2019061702 1800 900 604800 86400
+filelist.ro.	86400	IN	NS	ns.filelist.ro.
+ns.filelist.ro.	518400	IN	A	205.251.199.254
+
+filelist.ro.	518400	IN	A	104.28.25.106

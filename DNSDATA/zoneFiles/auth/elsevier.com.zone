@@ -1,0 +1,6 @@
+
+elsevier.com.	86400	IN	SOA	ns.elsevier.com.	mail	2019061702 1800 900 604800 86400
+elsevier.com.	86400	IN	NS	ns.elsevier.com.
+ns.elsevier.com.	518400	IN	A	203.153.43.65
+
+elsevier.com.	518400	IN	A	43.245.43.18

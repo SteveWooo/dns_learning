@@ -1,0 +1,6 @@
+
+flavorwire.com.	86400	IN	SOA	ns.flavorwire.com.	mail	2019061702 1800 900 604800 86400
+flavorwire.com.	86400	IN	NS	ns.flavorwire.com.
+ns.flavorwire.com.	518400	IN	A	200.201.161.22
+
+flavorwire.com.	518400	IN	A	192.0.79.33

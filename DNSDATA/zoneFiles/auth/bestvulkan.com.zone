@@ -1,0 +1,6 @@
+
+bestvulkan.com.	86400	IN	SOA	ns.bestvulkan.com.	mail	2019061702 1800 900 604800 86400
+bestvulkan.com.	86400	IN	NS	ns.bestvulkan.com.
+ns.bestvulkan.com.	518400	IN	A	112.133.230.192
+
+bestvulkan.com.	518400	IN	A	31.14.234.232

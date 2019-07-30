@@ -1,0 +1,6 @@
+
+filmibeat.com.	86400	IN	SOA	ns.filmibeat.com.	mail	2019061702 1800 900 604800 86400
+filmibeat.com.	86400	IN	NS	ns.filmibeat.com.
+ns.filmibeat.com.	518400	IN	A	145.14.134.108
+
+filmibeat.com.	518400	IN	A	107.6.122.178

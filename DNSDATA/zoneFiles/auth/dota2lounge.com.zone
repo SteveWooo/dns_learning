@@ -1,0 +1,6 @@
+
+dota2lounge.com.	86400	IN	SOA	ns.dota2lounge.com.	mail	2019061702 1800 900 604800 86400
+dota2lounge.com.	86400	IN	NS	ns.dota2lounge.com.
+ns.dota2lounge.com.	518400	IN	A	216.239.32.106
+
+dota2lounge.com.	518400	IN	A	188.93.59.221

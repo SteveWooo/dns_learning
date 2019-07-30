@@ -1,0 +1,6 @@
+
+cloob.com.	86400	IN	SOA	ns.cloob.com.	mail	2019061702 1800 900 604800 86400
+cloob.com.	86400	IN	NS	ns.cloob.com.
+ns.cloob.com.	518400	IN	A	213.180.193.1
+
+cloob.com.	518400	IN	A	185.147.176.29

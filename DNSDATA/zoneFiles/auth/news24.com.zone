@@ -1,0 +1,6 @@
+
+news24.com.	86400	IN	SOA	ns.news24.com.	mail	2019061702 1800 900 604800 86400
+news24.com.	86400	IN	NS	ns.news24.com.
+ns.news24.com.	518400	IN	A	202.108.22.220
+
+news24.com.	518400	IN	A	69.171.230.18

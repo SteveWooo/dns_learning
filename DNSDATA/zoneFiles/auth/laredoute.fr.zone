@@ -1,0 +1,6 @@
+
+laredoute.fr.	86400	IN	SOA	ns.laredoute.fr.	mail	2019061702 1800 900 604800 86400
+laredoute.fr.	86400	IN	NS	ns.laredoute.fr.
+ns.laredoute.fr.	518400	IN	A	217.69.139.202
+
+laredoute.fr.	518400	IN	A	193.104.231.199

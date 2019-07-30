@@ -1,0 +1,6 @@
+
+shopify.com.	86400	IN	SOA	ns.shopify.com.	mail	2019061702 1800 900 604800 86400
+shopify.com.	86400	IN	NS	ns.shopify.com.
+ns.shopify.com.	518400	IN	A	193.108.91.127
+
+shopify.com.	518400	IN	A	35.185.82.132

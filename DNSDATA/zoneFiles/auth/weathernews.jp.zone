@@ -1,0 +1,6 @@
+
+weathernews.jp.	86400	IN	SOA	ns.weathernews.jp.	mail	2019061702 1800 900 604800 86400
+weathernews.jp.	86400	IN	NS	ns.weathernews.jp.
+ns.weathernews.jp.	518400	IN	A	205.251.195.203
+
+weathernews.jp.	518400	IN	A	211.8.49.110

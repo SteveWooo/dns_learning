@@ -1,0 +1,6 @@
+
+himado.in.	86400	IN	SOA	ns.himado.in.	mail	2019061702 1800 900 604800 86400
+himado.in.	86400	IN	NS	ns.himado.in.
+ns.himado.in.	518400	IN	A	193.232.142.17
+
+himado.in.	518400	IN	A	104.244.99.66

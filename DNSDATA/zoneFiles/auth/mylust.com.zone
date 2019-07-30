@@ -1,0 +1,6 @@
+
+mylust.com.	86400	IN	SOA	ns.mylust.com.	mail	2019061702 1800 900 604800 86400
+mylust.com.	86400	IN	NS	ns.mylust.com.
+ns.mylust.com.	518400	IN	A	216.239.32.10
+
+mylust.com.	518400	IN	A	78.140.172.146

@@ -1,0 +1,6 @@
+
+manoramaonline.com.	86400	IN	SOA	ns.manoramaonline.com.	mail	2019061702 1800 900 604800 86400
+manoramaonline.com.	86400	IN	NS	ns.manoramaonline.com.
+ns.manoramaonline.com.	518400	IN	A	206.128.173.109
+
+manoramaonline.com.	518400	IN	A	23.9.196.183

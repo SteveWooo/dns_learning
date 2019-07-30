@@ -1,0 +1,6 @@
+
+blackhatworld.com.	86400	IN	SOA	ns.blackhatworld.com.	mail	2019061702 1800 900 604800 86400
+blackhatworld.com.	86400	IN	NS	ns.blackhatworld.com.
+ns.blackhatworld.com.	518400	IN	A	205.251.199.254
+
+blackhatworld.com.	518400	IN	A	104.20.86.108

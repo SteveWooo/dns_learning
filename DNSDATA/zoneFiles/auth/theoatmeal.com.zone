@@ -1,0 +1,6 @@
+
+theoatmeal.com.	86400	IN	SOA	ns.theoatmeal.com.	mail	2019061702 1800 900 604800 86400
+theoatmeal.com.	86400	IN	NS	ns.theoatmeal.com.
+ns.theoatmeal.com.	518400	IN	A	208.78.70.47
+
+theoatmeal.com.	518400	IN	A	208.70.160.53

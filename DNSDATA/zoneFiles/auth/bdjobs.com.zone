@@ -1,0 +1,6 @@
+
+bdjobs.com.	86400	IN	SOA	ns.bdjobs.com.	mail	2019061702 1800 900 604800 86400
+bdjobs.com.	86400	IN	NS	ns.bdjobs.com.
+ns.bdjobs.com.	518400	IN	A	173.245.58.89
+
+bdjobs.com.	518400	IN	A	50.28.39.31

@@ -1,0 +1,6 @@
+
+gravatar.com.	86400	IN	SOA	ns.gravatar.com.	mail	2019061702 1800 900 604800 86400
+gravatar.com.	86400	IN	NS	ns.gravatar.com.
+ns.gravatar.com.	518400	IN	A	173.245.59.115
+
+gravatar.com.	518400	IN	A	192.0.80.241

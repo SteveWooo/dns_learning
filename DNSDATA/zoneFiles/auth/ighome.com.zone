@@ -1,0 +1,6 @@
+
+ighome.com.	86400	IN	SOA	ns.ighome.com.	mail	2019061702 1800 900 604800 86400
+ighome.com.	86400	IN	NS	ns.ighome.com.
+ns.ighome.com.	518400	IN	A	203.153.43.65
+
+ighome.com.	518400	IN	A	67.202.79.167

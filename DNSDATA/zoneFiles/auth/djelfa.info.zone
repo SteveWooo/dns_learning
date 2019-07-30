@@ -1,0 +1,6 @@
+
+djelfa.info.	86400	IN	SOA	ns.djelfa.info.	mail	2019061702 1800 900 604800 86400
+djelfa.info.	86400	IN	NS	ns.djelfa.info.
+ns.djelfa.info.	518400	IN	A	213.180.193.1
+
+djelfa.info.	518400	IN	A	87.98.246.34

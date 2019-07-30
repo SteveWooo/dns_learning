@@ -1,0 +1,6 @@
+
+srv2trking.com.	86400	IN	SOA	ns.srv2trking.com.	mail	2019061702 1800 900 604800 86400
+srv2trking.com.	86400	IN	NS	ns.srv2trking.com.
+ns.srv2trking.com.	518400	IN	A	216.239.32.106
+
+srv2trking.com.	518400	IN	A	104.18.34.171

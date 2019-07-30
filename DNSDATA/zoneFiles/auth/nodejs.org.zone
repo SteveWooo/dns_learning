@@ -1,0 +1,6 @@
+
+nodejs.org.	86400	IN	SOA	ns.nodejs.org.	mail	2019061702 1800 900 604800 86400
+nodejs.org.	86400	IN	NS	ns.nodejs.org.
+ns.nodejs.org.	518400	IN	A	200.201.161.22
+
+nodejs.org.	518400	IN	A	104.20.22.46

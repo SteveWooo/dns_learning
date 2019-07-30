@@ -1,0 +1,6 @@
+
+toysrus.com.	86400	IN	SOA	ns.toysrus.com.	mail	2019061702 1800 900 604800 86400
+toysrus.com.	86400	IN	NS	ns.toysrus.com.
+ns.toysrus.com.	518400	IN	A	173.245.58.201
+
+toysrus.com.	518400	IN	A	13.224.166.81

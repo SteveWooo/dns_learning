@@ -1,0 +1,6 @@
+
+filmaffinity.com.	86400	IN	SOA	ns.filmaffinity.com.	mail	2019061702 1800 900 604800 86400
+filmaffinity.com.	86400	IN	NS	ns.filmaffinity.com.
+ns.filmaffinity.com.	518400	IN	A	198.100.156.181
+
+filmaffinity.com.	518400	IN	A	82.98.137.22

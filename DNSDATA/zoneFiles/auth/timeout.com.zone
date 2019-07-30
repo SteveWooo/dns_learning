@@ -1,0 +1,6 @@
+
+timeout.com.	86400	IN	SOA	ns.timeout.com.	mail	2019061702 1800 900 604800 86400
+timeout.com.	86400	IN	NS	ns.timeout.com.
+ns.timeout.com.	518400	IN	A	200.201.161.22
+
+timeout.com.	518400	IN	A	52.222.158.33

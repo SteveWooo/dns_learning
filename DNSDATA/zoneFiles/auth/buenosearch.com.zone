@@ -1,0 +1,6 @@
+
+buenosearch.com.	86400	IN	SOA	ns.buenosearch.com.	mail	2019061702 1800 900 604800 86400
+buenosearch.com.	86400	IN	NS	ns.buenosearch.com.
+ns.buenosearch.com.	518400	IN	A	216.239.32.10
+
+buenosearch.com.	518400	IN	A	66.96.131.12

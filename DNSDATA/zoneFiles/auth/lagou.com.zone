@@ -1,0 +1,6 @@
+
+lagou.com.	86400	IN	SOA	ns.lagou.com.	mail	2019061702 1800 900 604800 86400
+lagou.com.	86400	IN	NS	ns.lagou.com.
+ns.lagou.com.	518400	IN	A	216.239.32.106
+
+lagou.com.	518400	IN	A	106.75.118.232

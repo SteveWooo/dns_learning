@@ -1,0 +1,6 @@
+
+ed.gov.	86400	IN	SOA	ns.ed.gov.	mail	2019061702 1800 900 604800 86400
+ed.gov.	86400	IN	NS	ns.ed.gov.
+ns.ed.gov.	518400	IN	A	183.3.226.207
+
+ed.gov.	518400	IN	A	165.224.131.199

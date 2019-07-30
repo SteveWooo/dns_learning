@@ -1,0 +1,6 @@
+
+healthcare.gov.	86400	IN	SOA	ns.healthcare.gov.	mail	2019061702 1800 900 604800 86400
+healthcare.gov.	86400	IN	NS	ns.healthcare.gov.
+ns.healthcare.gov.	518400	IN	A	205.251.195.203
+
+healthcare.gov.	518400	IN	A	104.83.49.89

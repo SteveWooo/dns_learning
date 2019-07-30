@@ -1,0 +1,6 @@
+
+ml.com.	86400	IN	SOA	ns.ml.com.	mail	2019061702 1800 900 604800 86400
+ml.com.	86400	IN	NS	ns.ml.com.
+ns.ml.com.	518400	IN	A	217.69.139.112
+
+ml.com.	518400	IN	A	209.67.42.20

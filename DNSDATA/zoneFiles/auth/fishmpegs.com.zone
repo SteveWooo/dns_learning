@@ -1,0 +1,6 @@
+
+fishmpegs.com.	86400	IN	SOA	ns.fishmpegs.com.	mail	2019061702 1800 900 604800 86400
+fishmpegs.com.	86400	IN	NS	ns.fishmpegs.com.
+ns.fishmpegs.com.	518400	IN	A	125.208.45.1
+
+fishmpegs.com.	518400	IN	A	68.169.73.82

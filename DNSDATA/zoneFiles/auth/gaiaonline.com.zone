@@ -1,0 +1,6 @@
+
+gaiaonline.com.	86400	IN	SOA	ns.gaiaonline.com.	mail	2019061702 1800 900 604800 86400
+gaiaonline.com.	86400	IN	NS	ns.gaiaonline.com.
+ns.gaiaonline.com.	518400	IN	A	83.143.25.220
+
+gaiaonline.com.	518400	IN	A	54.148.104.155

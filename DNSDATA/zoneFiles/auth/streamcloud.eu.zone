@@ -1,0 +1,6 @@
+
+streamcloud.eu.	86400	IN	SOA	ns.streamcloud.eu.	mail	2019061702 1800 900 604800 86400
+streamcloud.eu.	86400	IN	NS	ns.streamcloud.eu.
+ns.streamcloud.eu.	518400	IN	A	213.180.204.242
+
+streamcloud.eu.	518400	IN	A	93.115.81.41

@@ -1,0 +1,6 @@
+
+mirtesen.ru.	86400	IN	SOA	ns.mirtesen.ru.	mail	2019061702 1800 900 604800 86400
+mirtesen.ru.	86400	IN	NS	ns.mirtesen.ru.
+ns.mirtesen.ru.	518400	IN	A	216.239.32.10
+
+mirtesen.ru.	518400	IN	A	95.131.27.118

@@ -1,0 +1,6 @@
+
+pcbeta.com.	86400	IN	SOA	ns.pcbeta.com.	mail	2019061702 1800 900 604800 86400
+pcbeta.com.	86400	IN	NS	ns.pcbeta.com.
+ns.pcbeta.com.	518400	IN	A	204.69.234.1
+
+pcbeta.com.	518400	IN	A	218.93.127.66

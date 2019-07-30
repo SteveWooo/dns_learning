@@ -1,0 +1,6 @@
+
+expedia.com.	86400	IN	SOA	ns.expedia.com.	mail	2019061702 1800 900 604800 86400
+expedia.com.	86400	IN	NS	ns.expedia.com.
+ns.expedia.com.	518400	IN	A	202.108.22.220
+
+expedia.com.	518400	IN	A	52.26.234.148

@@ -1,0 +1,6 @@
+
+bostonglobe.com.	86400	IN	SOA	ns.bostonglobe.com.	mail	2019061702 1800 900 604800 86400
+bostonglobe.com.	86400	IN	NS	ns.bostonglobe.com.
+ns.bostonglobe.com.	518400	IN	A	216.58.200.238
+
+bostonglobe.com.	518400	IN	A	198.115.82.77

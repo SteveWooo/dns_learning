@@ -1,0 +1,6 @@
+
+forumcommunity.net.	86400	IN	SOA	ns.forumcommunity.net.	mail	2019061702 1800 900 604800 86400
+forumcommunity.net.	86400	IN	NS	ns.forumcommunity.net.
+ns.forumcommunity.net.	518400	IN	A	202.108.22.220
+
+forumcommunity.net.	518400	IN	A	195.201.63.185

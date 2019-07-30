@@ -1,0 +1,6 @@
+
+geocaching.com.	86400	IN	SOA	ns.geocaching.com.	mail	2019061702 1800 900 604800 86400
+geocaching.com.	86400	IN	NS	ns.geocaching.com.
+ns.geocaching.com.	518400	IN	A	204.69.234.1
+
+geocaching.com.	518400	IN	A	63.251.163.200

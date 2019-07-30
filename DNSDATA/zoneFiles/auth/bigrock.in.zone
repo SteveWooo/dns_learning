@@ -1,0 +1,6 @@
+
+bigrock.in.	86400	IN	SOA	ns.bigrock.in.	mail	2019061702 1800 900 604800 86400
+bigrock.in.	86400	IN	NS	ns.bigrock.in.
+ns.bigrock.in.	518400	IN	A	217.69.139.202
+
+bigrock.in.	518400	IN	A	104.16.250.240

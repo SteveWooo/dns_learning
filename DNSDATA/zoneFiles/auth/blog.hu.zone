@@ -1,0 +1,6 @@
+
+blog.hu.	86400	IN	SOA	ns.blog.hu.	mail	2019061702 1800 900 604800 86400
+blog.hu.	86400	IN	NS	ns.blog.hu.
+ns.blog.hu.	518400	IN	A	216.58.200.238
+
+blog.hu.	518400	IN	A	217.20.131.8

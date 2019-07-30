@@ -1,0 +1,6 @@
+
+acunn.com.	86400	IN	SOA	ns.acunn.com.	mail	2019061702 1800 900 604800 86400
+acunn.com.	86400	IN	NS	ns.acunn.com.
+ns.acunn.com.	518400	IN	A	205.251.197.107
+
+acunn.com.	518400	IN	A	185.135.44.7

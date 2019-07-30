@@ -1,0 +1,6 @@
+
+theverge.com.	86400	IN	SOA	ns.theverge.com.	mail	2019061702 1800 900 604800 86400
+theverge.com.	86400	IN	NS	ns.theverge.com.
+ns.theverge.com.	518400	IN	A	198.11.138.245
+
+theverge.com.	518400	IN	A	151.101.65.52

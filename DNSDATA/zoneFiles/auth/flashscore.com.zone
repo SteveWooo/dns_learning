@@ -1,0 +1,6 @@
+
+flashscore.com.	86400	IN	SOA	ns.flashscore.com.	mail	2019061702 1800 900 604800 86400
+flashscore.com.	86400	IN	NS	ns.flashscore.com.
+ns.flashscore.com.	518400	IN	A	216.239.32.10
+
+flashscore.com.	518400	IN	A	188.92.40.78

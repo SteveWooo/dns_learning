@@ -1,0 +1,6 @@
+
+fnac.com.	86400	IN	SOA	ns.fnac.com.	mail	2019061702 1800 900 604800 86400
+fnac.com.	86400	IN	NS	ns.fnac.com.
+ns.fnac.com.	518400	IN	A	173.245.58.138
+
+fnac.com.	518400	IN	A	193.108.69.62

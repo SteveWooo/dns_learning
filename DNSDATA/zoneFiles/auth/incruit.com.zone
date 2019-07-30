@@ -1,0 +1,6 @@
+
+incruit.com.	86400	IN	SOA	ns.incruit.com.	mail	2019061702 1800 900 604800 86400
+incruit.com.	86400	IN	NS	ns.incruit.com.
+ns.incruit.com.	518400	IN	A	208.78.70.47
+
+incruit.com.	518400	IN	A	210.206.88.93

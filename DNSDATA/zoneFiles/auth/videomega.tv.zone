@@ -1,0 +1,6 @@
+
+videomega.tv.	86400	IN	SOA	ns.videomega.tv.	mail	2019061702 1800 900 604800 86400
+videomega.tv.	86400	IN	NS	ns.videomega.tv.
+ns.videomega.tv.	518400	IN	A	216.58.200.238
+
+videomega.tv.	518400	IN	A	103.224.182.208

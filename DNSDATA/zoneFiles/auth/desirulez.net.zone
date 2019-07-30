@@ -1,0 +1,6 @@
+
+desirulez.net.	86400	IN	SOA	ns.desirulez.net.	mail	2019061702 1800 900 604800 86400
+desirulez.net.	86400	IN	NS	ns.desirulez.net.
+ns.desirulez.net.	518400	IN	A	205.251.195.203
+
+desirulez.net.	518400	IN	A	104.31.66.168

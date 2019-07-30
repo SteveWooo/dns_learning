@@ -1,0 +1,6 @@
+
+brainyquote.com.	86400	IN	SOA	ns.brainyquote.com.	mail	2019061702 1800 900 604800 86400
+brainyquote.com.	86400	IN	NS	ns.brainyquote.com.
+ns.brainyquote.com.	518400	IN	A	180.149.156.12
+
+brainyquote.com.	518400	IN	A	104.20.0.186

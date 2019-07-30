@@ -1,0 +1,6 @@
+
+yoast.com.	86400	IN	SOA	ns.yoast.com.	mail	2019061702 1800 900 604800 86400
+yoast.com.	86400	IN	NS	ns.yoast.com.
+ns.yoast.com.	518400	IN	A	173.245.58.159
+
+yoast.com.	518400	IN	A	104.18.27.25

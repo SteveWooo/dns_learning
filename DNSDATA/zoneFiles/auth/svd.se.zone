@@ -1,0 +1,6 @@
+
+svd.se.	86400	IN	SOA	ns.svd.se.	mail	2019061702 1800 900 604800 86400
+svd.se.	86400	IN	NS	ns.svd.se.
+ns.svd.se.	518400	IN	A	216.239.32.10
+
+svd.se.	518400	IN	A	144.63.247.130

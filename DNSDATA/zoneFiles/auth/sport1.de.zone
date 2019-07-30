@@ -1,0 +1,6 @@
+
+sport1.de.	86400	IN	SOA	ns.sport1.de.	mail	2019061702 1800 900 604800 86400
+sport1.de.	86400	IN	NS	ns.sport1.de.
+ns.sport1.de.	518400	IN	A	198.100.156.181
+
+sport1.de.	518400	IN	A	78.47.120.85

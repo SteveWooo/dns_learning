@@ -1,0 +1,6 @@
+
+monova.org.	86400	IN	SOA	ns.monova.org.	mail	2019061702 1800 900 604800 86400
+monova.org.	86400	IN	NS	ns.monova.org.
+ns.monova.org.	518400	IN	A	205.251.199.254
+
+monova.org.	518400	IN	A	104.31.17.3

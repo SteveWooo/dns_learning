@@ -1,0 +1,6 @@
+
+uncrate.com.	86400	IN	SOA	ns.uncrate.com.	mail	2019061702 1800 900 604800 86400
+uncrate.com.	86400	IN	NS	ns.uncrate.com.
+ns.uncrate.com.	518400	IN	A	202.56.230.5
+
+uncrate.com.	518400	IN	A	169.53.28.85

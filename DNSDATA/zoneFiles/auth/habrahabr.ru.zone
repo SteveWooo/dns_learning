@@ -1,0 +1,6 @@
+
+habrahabr.ru.	86400	IN	SOA	ns.habrahabr.ru.	mail	2019061702 1800 900 604800 86400
+habrahabr.ru.	86400	IN	NS	ns.habrahabr.ru.
+ns.habrahabr.ru.	518400	IN	A	125.209.248.6
+
+habrahabr.ru.	518400	IN	A	178.248.237.68

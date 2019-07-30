@@ -1,0 +1,6 @@
+
+cuny.edu.	86400	IN	SOA	ns.cuny.edu.	mail	2019061702 1800 900 604800 86400
+cuny.edu.	86400	IN	NS	ns.cuny.edu.
+ns.cuny.edu.	518400	IN	A	198.100.156.181
+
+cuny.edu.	518400	IN	A	128.228.0.51

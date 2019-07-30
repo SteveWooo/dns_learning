@@ -1,0 +1,6 @@
+
+zara.com.	86400	IN	SOA	ns.zara.com.	mail	2019061702 1800 900 604800 86400
+zara.com.	86400	IN	NS	ns.zara.com.
+ns.zara.com.	518400	IN	A	213.180.193.1
+
+zara.com.	518400	IN	A	118.214.65.197

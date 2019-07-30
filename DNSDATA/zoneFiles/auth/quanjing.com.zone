@@ -1,0 +1,6 @@
+
+quanjing.com.	86400	IN	SOA	ns.quanjing.com.	mail	2019061702 1800 900 604800 86400
+quanjing.com.	86400	IN	NS	ns.quanjing.com.
+ns.quanjing.com.	518400	IN	A	193.232.156.17
+
+quanjing.com.	518400	IN	A	121.52.223.51

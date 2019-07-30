@@ -1,0 +1,6 @@
+
+digital-photography-school.com.	86400	IN	SOA	ns.digital-photography-school.com.	mail	2019061702 1800 900 604800 86400
+digital-photography-school.com.	86400	IN	NS	ns.digital-photography-school.com.
+ns.digital-photography-school.com.	518400	IN	A	205.251.192.29
+
+digital-photography-school.com.	518400	IN	A	104.18.41.62

@@ -1,0 +1,6 @@
+
+dasoertliche.de.	86400	IN	SOA	ns.dasoertliche.de.	mail	2019061702 1800 900 604800 86400
+dasoertliche.de.	86400	IN	NS	ns.dasoertliche.de.
+ns.dasoertliche.de.	518400	IN	A	193.108.91.127
+
+dasoertliche.de.	518400	IN	A	82.98.79.52

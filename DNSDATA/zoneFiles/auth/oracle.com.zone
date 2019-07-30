@@ -1,0 +1,6 @@
+
+oracle.com.	86400	IN	SOA	ns.oracle.com.	mail	2019061702 1800 900 604800 86400
+oracle.com.	86400	IN	NS	ns.oracle.com.
+ns.oracle.com.	518400	IN	A	205.251.197.107
+
+oracle.com.	518400	IN	A	137.254.120.50

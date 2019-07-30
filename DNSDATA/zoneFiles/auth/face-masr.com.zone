@@ -1,0 +1,6 @@
+
+face-masr.com.	86400	IN	SOA	ns.face-masr.com.	mail	2019061702 1800 900 604800 86400
+face-masr.com.	86400	IN	NS	ns.face-masr.com.
+ns.face-masr.com.	518400	IN	A	174.35.55.22
+
+face-masr.com.	518400	IN	A	67.227.226.240

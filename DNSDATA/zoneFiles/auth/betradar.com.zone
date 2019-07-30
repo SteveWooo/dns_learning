@@ -1,0 +1,6 @@
+
+betradar.com.	86400	IN	SOA	ns.betradar.com.	mail	2019061702 1800 900 604800 86400
+betradar.com.	86400	IN	NS	ns.betradar.com.
+ns.betradar.com.	518400	IN	A	205.251.195.203
+
+betradar.com.	518400	IN	A	18.195.120.92

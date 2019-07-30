@@ -1,0 +1,6 @@
+
+rojadirecta.me.	86400	IN	SOA	ns.rojadirecta.me.	mail	2019061702 1800 900 604800 86400
+rojadirecta.me.	86400	IN	NS	ns.rojadirecta.me.
+ns.rojadirecta.me.	518400	IN	A	111.206.53.6
+
+rojadirecta.me.	518400	IN	A	205.204.81.154

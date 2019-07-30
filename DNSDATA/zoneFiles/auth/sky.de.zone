@@ -1,0 +1,6 @@
+
+sky.de.	86400	IN	SOA	ns.sky.de.	mail	2019061702 1800 900 604800 86400
+sky.de.	86400	IN	NS	ns.sky.de.
+ns.sky.de.	518400	IN	A	213.180.193.1
+
+sky.de.	518400	IN	A	23.46.91.234

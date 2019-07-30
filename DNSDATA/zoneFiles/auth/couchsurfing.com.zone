@@ -1,0 +1,6 @@
+
+couchsurfing.com.	86400	IN	SOA	ns.couchsurfing.com.	mail	2019061702 1800 900 604800 86400
+couchsurfing.com.	86400	IN	NS	ns.couchsurfing.com.
+ns.couchsurfing.com.	518400	IN	A	216.239.32.10
+
+couchsurfing.com.	518400	IN	A	18.204.162.228

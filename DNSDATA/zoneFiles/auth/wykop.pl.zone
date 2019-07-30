@@ -1,0 +1,6 @@
+
+wykop.pl.	86400	IN	SOA	ns.wykop.pl.	mail	2019061702 1800 900 604800 86400
+wykop.pl.	86400	IN	NS	ns.wykop.pl.
+ns.wykop.pl.	518400	IN	A	213.180.193.1
+
+wykop.pl.	518400	IN	A	185.66.120.38

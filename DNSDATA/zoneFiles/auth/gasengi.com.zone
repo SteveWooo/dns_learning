@@ -1,0 +1,6 @@
+
+gasengi.com.	86400	IN	SOA	ns.gasengi.com.	mail	2019061702 1800 900 604800 86400
+gasengi.com.	86400	IN	NS	ns.gasengi.com.
+ns.gasengi.com.	518400	IN	A	202.56.230.5
+
+gasengi.com.	518400	IN	A	121.78.112.131

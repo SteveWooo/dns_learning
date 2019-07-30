@@ -1,0 +1,6 @@
+
+am15.net.	86400	IN	SOA	ns.am15.net.	mail	2019061702 1800 900 604800 86400
+am15.net.	86400	IN	NS	ns.am15.net.
+ns.am15.net.	518400	IN	A	200.221.11.98
+
+am15.net.	518400	IN	A	95.216.224.23

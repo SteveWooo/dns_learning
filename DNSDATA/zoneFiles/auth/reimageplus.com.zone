@@ -1,0 +1,6 @@
+
+reimageplus.com.	86400	IN	SOA	ns.reimageplus.com.	mail	2019061702 1800 900 604800 86400
+reimageplus.com.	86400	IN	NS	ns.reimageplus.com.
+ns.reimageplus.com.	518400	IN	A	217.69.139.112
+
+reimageplus.com.	518400	IN	A	161.47.7.14

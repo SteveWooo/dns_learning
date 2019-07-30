@@ -1,0 +1,6 @@
+
+filmesonlinegratis.net.	86400	IN	SOA	ns.filmesonlinegratis.net.	mail	2019061702 1800 900 604800 86400
+filmesonlinegratis.net.	86400	IN	NS	ns.filmesonlinegratis.net.
+ns.filmesonlinegratis.net.	518400	IN	A	206.128.173.109
+
+filmesonlinegratis.net.	518400	IN	A	52.218.192.107

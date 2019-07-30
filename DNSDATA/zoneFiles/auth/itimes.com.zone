@@ -1,0 +1,6 @@
+
+itimes.com.	86400	IN	SOA	ns.itimes.com.	mail	2019061702 1800 900 604800 86400
+itimes.com.	86400	IN	NS	ns.itimes.com.
+ns.itimes.com.	518400	IN	A	173.245.58.89
+
+itimes.com.	518400	IN	A	223.165.30.18

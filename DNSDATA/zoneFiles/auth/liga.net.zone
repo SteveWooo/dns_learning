@@ -1,0 +1,6 @@
+
+liga.net.	86400	IN	SOA	ns.liga.net.	mail	2019061702 1800 900 604800 86400
+liga.net.	86400	IN	NS	ns.liga.net.
+ns.liga.net.	518400	IN	A	198.11.138.245
+
+liga.net.	518400	IN	A	193.150.7.32

@@ -1,0 +1,6 @@
+
+deutsche-bank.de.	86400	IN	SOA	ns.deutsche-bank.de.	mail	2019061702 1800 900 604800 86400
+deutsche-bank.de.	86400	IN	NS	ns.deutsche-bank.de.
+ns.deutsche-bank.de.	518400	IN	A	213.180.193.1
+
+deutsche-bank.de.	518400	IN	A	160.83.8.144

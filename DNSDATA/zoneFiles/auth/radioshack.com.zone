@@ -1,0 +1,6 @@
+
+radioshack.com.	86400	IN	SOA	ns.radioshack.com.	mail	2019061702 1800 900 604800 86400
+radioshack.com.	86400	IN	NS	ns.radioshack.com.
+ns.radioshack.com.	518400	IN	A	205.251.197.107
+
+radioshack.com.	518400	IN	A	23.227.38.32

@@ -1,0 +1,6 @@
+
+decolar.com.	86400	IN	SOA	ns.decolar.com.	mail	2019061702 1800 900 604800 86400
+decolar.com.	86400	IN	NS	ns.decolar.com.
+ns.decolar.com.	518400	IN	A	217.69.139.112
+
+decolar.com.	518400	IN	A	192.169.5.22

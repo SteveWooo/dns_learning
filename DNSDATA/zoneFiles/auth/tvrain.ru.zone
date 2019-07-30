@@ -1,0 +1,6 @@
+
+tvrain.ru.	86400	IN	SOA	ns.tvrain.ru.	mail	2019061702 1800 900 604800 86400
+tvrain.ru.	86400	IN	NS	ns.tvrain.ru.
+ns.tvrain.ru.	518400	IN	A	216.239.32.29
+
+tvrain.ru.	518400	IN	A	178.248.236.23

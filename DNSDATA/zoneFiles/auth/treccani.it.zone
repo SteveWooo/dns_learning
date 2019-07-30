@@ -1,0 +1,6 @@
+
+treccani.it.	86400	IN	SOA	ns.treccani.it.	mail	2019061702 1800 900 604800 86400
+treccani.it.	86400	IN	NS	ns.treccani.it.
+ns.treccani.it.	518400	IN	A	193.232.156.17
+
+treccani.it.	518400	IN	A	212.31.249.104

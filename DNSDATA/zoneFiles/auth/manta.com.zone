@@ -1,0 +1,6 @@
+
+manta.com.	86400	IN	SOA	ns.manta.com.	mail	2019061702 1800 900 604800 86400
+manta.com.	86400	IN	NS	ns.manta.com.
+ns.manta.com.	518400	IN	A	180.149.156.12
+
+manta.com.	518400	IN	A	192.225.208.19

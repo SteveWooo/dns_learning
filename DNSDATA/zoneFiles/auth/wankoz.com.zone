@@ -1,0 +1,6 @@
+
+wankoz.com.	86400	IN	SOA	ns.wankoz.com.	mail	2019061702 1800 900 604800 86400
+wankoz.com.	86400	IN	NS	ns.wankoz.com.
+ns.wankoz.com.	518400	IN	A	213.180.193.1
+
+wankoz.com.	518400	IN	A	64.188.49.254

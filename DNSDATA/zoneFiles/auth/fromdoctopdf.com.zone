@@ -1,0 +1,6 @@
+
+fromdoctopdf.com.	86400	IN	SOA	ns.fromdoctopdf.com.	mail	2019061702 1800 900 604800 86400
+fromdoctopdf.com.	86400	IN	NS	ns.fromdoctopdf.com.
+ns.fromdoctopdf.com.	518400	IN	A	198.100.156.181
+
+fromdoctopdf.com.	518400	IN	A	35.244.218.203

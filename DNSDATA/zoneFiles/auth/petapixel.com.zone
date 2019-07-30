@@ -1,0 +1,6 @@
+
+petapixel.com.	86400	IN	SOA	ns.petapixel.com.	mail	2019061702 1800 900 604800 86400
+petapixel.com.	86400	IN	NS	ns.petapixel.com.
+ns.petapixel.com.	518400	IN	A	200.219.154.10
+
+petapixel.com.	518400	IN	A	104.25.177.117

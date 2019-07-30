@@ -1,0 +1,6 @@
+
+hjenglish.com.	86400	IN	SOA	ns.hjenglish.com.	mail	2019061702 1800 900 604800 86400
+hjenglish.com.	86400	IN	NS	ns.hjenglish.com.
+ns.hjenglish.com.	518400	IN	A	205.251.199.254
+
+hjenglish.com.	518400	IN	A	180.163.219.118

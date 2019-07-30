@@ -1,0 +1,6 @@
+
+google.se.	86400	IN	SOA	ns.google.se.	mail	2019061702 1800 900 604800 86400
+google.se.	86400	IN	NS	ns.google.se.
+ns.google.se.	518400	IN	A	200.201.161.22
+
+google.se.	518400	IN	A	174.36.196.242

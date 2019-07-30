@@ -1,0 +1,6 @@
+
+myfedloan.org.	86400	IN	SOA	ns.myfedloan.org.	mail	2019061702 1800 900 604800 86400
+myfedloan.org.	86400	IN	NS	ns.myfedloan.org.
+ns.myfedloan.org.	518400	IN	A	217.69.139.202
+
+myfedloan.org.	518400	IN	A	12.177.52.13

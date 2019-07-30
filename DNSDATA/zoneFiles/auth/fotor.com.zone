@@ -1,0 +1,6 @@
+
+fotor.com.	86400	IN	SOA	ns.fotor.com.	mail	2019061702 1800 900 604800 86400
+fotor.com.	86400	IN	NS	ns.fotor.com.
+ns.fotor.com.	518400	IN	A	217.69.139.112
+
+fotor.com.	518400	IN	A	139.129.161.167

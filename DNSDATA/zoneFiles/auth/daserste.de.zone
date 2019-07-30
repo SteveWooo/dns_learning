@@ -1,0 +1,6 @@
+
+daserste.de.	86400	IN	SOA	ns.daserste.de.	mail	2019061702 1800 900 604800 86400
+daserste.de.	86400	IN	NS	ns.daserste.de.
+ns.daserste.de.	518400	IN	A	205.251.199.254
+
+daserste.de.	518400	IN	A	84.16.227.127

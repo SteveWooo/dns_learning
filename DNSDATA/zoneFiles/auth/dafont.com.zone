@@ -1,0 +1,6 @@
+
+dafont.com.	86400	IN	SOA	ns.dafont.com.	mail	2019061702 1800 900 604800 86400
+dafont.com.	86400	IN	NS	ns.dafont.com.
+ns.dafont.com.	518400	IN	A	200.221.11.98
+
+dafont.com.	518400	IN	A	178.33.63.127

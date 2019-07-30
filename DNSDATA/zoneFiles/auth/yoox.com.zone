@@ -1,0 +1,6 @@
+
+yoox.com.	86400	IN	SOA	ns.yoox.com.	mail	2019061702 1800 900 604800 86400
+yoox.com.	86400	IN	NS	ns.yoox.com.
+ns.yoox.com.	518400	IN	A	216.239.32.10
+
+yoox.com.	518400	IN	A	23.64.181.50

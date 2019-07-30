@@ -1,0 +1,6 @@
+
+ulmart.ru.	86400	IN	SOA	ns.ulmart.ru.	mail	2019061702 1800 900 604800 86400
+ulmart.ru.	86400	IN	NS	ns.ulmart.ru.
+ns.ulmart.ru.	518400	IN	A	213.180.204.242
+
+ulmart.ru.	518400	IN	A	178.248.236.28

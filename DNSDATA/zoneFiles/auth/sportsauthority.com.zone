@@ -1,0 +1,6 @@
+
+sportsauthority.com.	86400	IN	SOA	ns.sportsauthority.com.	mail	2019061702 1800 900 604800 86400
+sportsauthority.com.	86400	IN	NS	ns.sportsauthority.com.
+ns.sportsauthority.com.	518400	IN	A	213.180.193.1
+
+sportsauthority.com.	518400	IN	A	165.160.15.20

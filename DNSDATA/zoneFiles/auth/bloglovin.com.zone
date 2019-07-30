@@ -1,0 +1,6 @@
+
+bloglovin.com.	86400	IN	SOA	ns.bloglovin.com.	mail	2019061702 1800 900 604800 86400
+bloglovin.com.	86400	IN	NS	ns.bloglovin.com.
+ns.bloglovin.com.	518400	IN	A	216.239.32.10
+
+bloglovin.com.	518400	IN	A	69.63.189.16

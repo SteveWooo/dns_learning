@@ -1,0 +1,6 @@
+
+exacttarget.com.	86400	IN	SOA	ns.exacttarget.com.	mail	2019061702 1800 900 604800 86400
+exacttarget.com.	86400	IN	NS	ns.exacttarget.com.
+ns.exacttarget.com.	518400	IN	A	173.245.58.201
+
+exacttarget.com.	518400	IN	A	68.232.203.119

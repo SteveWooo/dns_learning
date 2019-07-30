@@ -1,0 +1,6 @@
+
+fivethirtyeight.com.	86400	IN	SOA	ns.fivethirtyeight.com.	mail	2019061702 1800 900 604800 86400
+fivethirtyeight.com.	86400	IN	NS	ns.fivethirtyeight.com.
+ns.fivethirtyeight.com.	518400	IN	A	213.180.193.1
+
+fivethirtyeight.com.	518400	IN	A	192.0.66.2

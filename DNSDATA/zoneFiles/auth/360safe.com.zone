@@ -1,0 +1,6 @@
+
+360safe.com.	86400	IN	SOA	ns.360safe.com.	mail	2019061702 1800 900 604800 86400
+360safe.com.	86400	IN	NS	ns.360safe.com.
+ns.360safe.com.	518400	IN	A	193.232.142.17
+
+360safe.com.	518400	IN	A	52.76.156.248

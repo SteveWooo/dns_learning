@@ -1,0 +1,6 @@
+
+mysearchresults.com.	86400	IN	SOA	ns.mysearchresults.com.	mail	2019061702 1800 900 604800 86400
+mysearchresults.com.	86400	IN	NS	ns.mysearchresults.com.
+ns.mysearchresults.com.	518400	IN	A	213.180.204.242
+
+mysearchresults.com.	518400	IN	A	54.235.196.14

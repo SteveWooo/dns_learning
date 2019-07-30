@@ -1,0 +1,6 @@
+
+tineye.com.	86400	IN	SOA	ns.tineye.com.	mail	2019061702 1800 900 604800 86400
+tineye.com.	86400	IN	NS	ns.tineye.com.
+ns.tineye.com.	518400	IN	A	198.11.138.249
+
+tineye.com.	518400	IN	A	174.37.54.20

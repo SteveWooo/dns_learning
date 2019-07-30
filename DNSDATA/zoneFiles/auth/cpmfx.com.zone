@@ -1,0 +1,6 @@
+
+cpmfx.com.	86400	IN	SOA	ns.cpmfx.com.	mail	2019061702 1800 900 604800 86400
+cpmfx.com.	86400	IN	NS	ns.cpmfx.com.
+ns.cpmfx.com.	518400	IN	A	202.108.22.220
+
+cpmfx.com.	518400	IN	A	104.24.127.36

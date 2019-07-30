@@ -1,0 +1,6 @@
+
+dnevnik.hr.	86400	IN	SOA	ns.dnevnik.hr.	mail	2019061702 1800 900 604800 86400
+dnevnik.hr.	86400	IN	NS	ns.dnevnik.hr.
+ns.dnevnik.hr.	518400	IN	A	206.128.173.109
+
+dnevnik.hr.	518400	IN	A	104.20.51.207

@@ -1,0 +1,6 @@
+
+quizfreak.com.	86400	IN	SOA	ns.quizfreak.com.	mail	2019061702 1800 900 604800 86400
+quizfreak.com.	86400	IN	NS	ns.quizfreak.com.
+ns.quizfreak.com.	518400	IN	A	216.239.32.10
+
+quizfreak.com.	518400	IN	A	94.176.232.127

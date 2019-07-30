@@ -1,0 +1,6 @@
+
+virtualedge.com.	86400	IN	SOA	ns.virtualedge.com.	mail	2019061702 1800 900 604800 86400
+virtualedge.com.	86400	IN	NS	ns.virtualedge.com.
+ns.virtualedge.com.	518400	IN	A	193.108.91.127
+
+virtualedge.com.	518400	IN	A	74.205.242.20

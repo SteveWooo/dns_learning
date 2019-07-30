@@ -1,0 +1,6 @@
+
+freebitco.in.	86400	IN	SOA	ns.freebitco.in.	mail	2019061702 1800 900 604800 86400
+freebitco.in.	86400	IN	NS	ns.freebitco.in.
+ns.freebitco.in.	518400	IN	A	216.239.32.29
+
+freebitco.in.	518400	IN	A	104.20.14.146

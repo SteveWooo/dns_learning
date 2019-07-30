@@ -1,0 +1,6 @@
+
+sublimetext.com.	86400	IN	SOA	ns.sublimetext.com.	mail	2019061702 1800 900 604800 86400
+sublimetext.com.	86400	IN	NS	ns.sublimetext.com.
+ns.sublimetext.com.	518400	IN	A	202.108.22.220
+
+sublimetext.com.	518400	IN	A	45.55.41.223

@@ -1,0 +1,6 @@
+
+lrytas.lt.	86400	IN	SOA	ns.lrytas.lt.	mail	2019061702 1800 900 604800 86400
+lrytas.lt.	86400	IN	NS	ns.lrytas.lt.
+ns.lrytas.lt.	518400	IN	A	216.58.200.238
+
+lrytas.lt.	518400	IN	A	35.201.121.69

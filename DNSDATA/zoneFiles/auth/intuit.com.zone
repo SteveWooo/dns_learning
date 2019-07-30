@@ -1,0 +1,6 @@
+
+intuit.com.	86400	IN	SOA	ns.intuit.com.	mail	2019061702 1800 900 604800 86400
+intuit.com.	86400	IN	NS	ns.intuit.com.
+ns.intuit.com.	518400	IN	A	183.3.226.207
+
+intuit.com.	518400	IN	A	199.16.139.15

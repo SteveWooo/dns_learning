@@ -1,0 +1,6 @@
+
+worldstarhiphop.com.	86400	IN	SOA	ns.worldstarhiphop.com.	mail	2019061702 1800 900 604800 86400
+worldstarhiphop.com.	86400	IN	NS	ns.worldstarhiphop.com.
+ns.worldstarhiphop.com.	518400	IN	A	205.251.199.254
+
+worldstarhiphop.com.	518400	IN	A	34.220.183.110

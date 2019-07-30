@@ -1,0 +1,6 @@
+
+fdj.fr.	86400	IN	SOA	ns.fdj.fr.	mail	2019061702 1800 900 604800 86400
+fdj.fr.	86400	IN	NS	ns.fdj.fr.
+ns.fdj.fr.	518400	IN	A	213.180.204.242
+
+fdj.fr.	518400	IN	A	194.4.208.20

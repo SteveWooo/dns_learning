@@ -1,0 +1,6 @@
+
+searchengine.us.	86400	IN	SOA	ns.searchengine.us.	mail	2019061702 1800 900 604800 86400
+searchengine.us.	86400	IN	NS	ns.searchengine.us.
+ns.searchengine.us.	518400	IN	A	202.56.230.5
+
+searchengine.us.	518400	IN	A	69.172.201.153

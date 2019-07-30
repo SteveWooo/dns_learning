@@ -1,0 +1,6 @@
+
+comicvine.com.	86400	IN	SOA	ns.comicvine.com.	mail	2019061702 1800 900 604800 86400
+comicvine.com.	86400	IN	NS	ns.comicvine.com.
+ns.comicvine.com.	518400	IN	A	131.0.24.26
+
+comicvine.com.	518400	IN	A	64.30.228.83

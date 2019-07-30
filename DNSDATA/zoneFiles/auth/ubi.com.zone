@@ -1,0 +1,6 @@
+
+ubi.com.	86400	IN	SOA	ns.ubi.com.	mail	2019061702 1800 900 604800 86400
+ubi.com.	86400	IN	NS	ns.ubi.com.
+ns.ubi.com.	518400	IN	A	200.201.165.253
+
+ubi.com.	518400	IN	A	54.72.11.47

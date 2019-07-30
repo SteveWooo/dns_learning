@@ -1,0 +1,6 @@
+
+sears.com.	86400	IN	SOA	ns.sears.com.	mail	2019061702 1800 900 604800 86400
+sears.com.	86400	IN	NS	ns.sears.com.
+ns.sears.com.	518400	IN	A	111.202.126.2
+
+sears.com.	518400	IN	A	23.52.3.248

@@ -1,0 +1,6 @@
+
+dailydot.com.	86400	IN	SOA	ns.dailydot.com.	mail	2019061702 1800 900 604800 86400
+dailydot.com.	86400	IN	NS	ns.dailydot.com.
+ns.dailydot.com.	518400	IN	A	173.245.59.160
+
+dailydot.com.	518400	IN	A	104.16.17.60

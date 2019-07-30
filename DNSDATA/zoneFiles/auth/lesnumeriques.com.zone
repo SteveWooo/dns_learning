@@ -1,0 +1,6 @@
+
+lesnumeriques.com.	86400	IN	SOA	ns.lesnumeriques.com.	mail	2019061702 1800 900 604800 86400
+lesnumeriques.com.	86400	IN	NS	ns.lesnumeriques.com.
+ns.lesnumeriques.com.	518400	IN	A	216.239.32.10
+
+lesnumeriques.com.	518400	IN	A	95.131.141.51

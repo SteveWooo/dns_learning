@@ -1,0 +1,6 @@
+
+aastocks.com.	86400	IN	SOA	ns.aastocks.com.	mail	2019061702 1800 900 604800 86400
+aastocks.com.	86400	IN	NS	ns.aastocks.com.
+ns.aastocks.com.	518400	IN	A	217.69.139.202
+
+aastocks.com.	518400	IN	A	113.28.162.189

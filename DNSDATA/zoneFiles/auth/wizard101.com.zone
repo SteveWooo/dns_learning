@@ -1,0 +1,6 @@
+
+wizard101.com.	86400	IN	SOA	ns.wizard101.com.	mail	2019061702 1800 900 604800 86400
+wizard101.com.	86400	IN	NS	ns.wizard101.com.
+ns.wizard101.com.	518400	IN	A	208.78.70.47
+
+wizard101.com.	518400	IN	A	165.193.53.136

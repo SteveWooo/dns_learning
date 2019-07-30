@@ -1,0 +1,6 @@
+
+starsports.com.	86400	IN	SOA	ns.starsports.com.	mail	2019061702 1800 900 604800 86400
+starsports.com.	86400	IN	NS	ns.starsports.com.
+ns.starsports.com.	518400	IN	A	198.11.138.245
+
+starsports.com.	518400	IN	A	180.179.171.170

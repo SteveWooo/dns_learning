@@ -1,0 +1,6 @@
+
+islamweb.net.	86400	IN	SOA	ns.islamweb.net.	mail	2019061702 1800 900 604800 86400
+islamweb.net.	86400	IN	NS	ns.islamweb.net.
+ns.islamweb.net.	518400	IN	A	213.180.204.242
+
+islamweb.net.	518400	IN	A	184.154.143.236

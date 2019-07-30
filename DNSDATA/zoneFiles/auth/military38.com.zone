@@ -1,0 +1,6 @@
+
+military38.com.	86400	IN	SOA	ns.military38.com.	mail	2019061702 1800 900 604800 86400
+military38.com.	86400	IN	NS	ns.military38.com.
+ns.military38.com.	518400	IN	A	216.58.200.238
+
+military38.com.	518400	IN	A	203.104.130.159

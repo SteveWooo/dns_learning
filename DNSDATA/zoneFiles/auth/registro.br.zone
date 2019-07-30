@@ -1,0 +1,6 @@
+
+registro.br.	86400	IN	SOA	ns.registro.br.	mail	2019061702 1800 900 604800 86400
+registro.br.	86400	IN	NS	ns.registro.br.
+ns.registro.br.	518400	IN	A	200.201.161.22
+
+registro.br.	518400	IN	A	200.160.2.3

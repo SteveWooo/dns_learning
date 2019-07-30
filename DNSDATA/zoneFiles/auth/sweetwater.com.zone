@@ -1,0 +1,6 @@
+
+sweetwater.com.	86400	IN	SOA	ns.sweetwater.com.	mail	2019061702 1800 900 604800 86400
+sweetwater.com.	86400	IN	NS	ns.sweetwater.com.
+ns.sweetwater.com.	518400	IN	A	217.69.139.202
+
+sweetwater.com.	518400	IN	A	151.101.66.133

@@ -1,0 +1,6 @@
+
+tvp.pl.	86400	IN	SOA	ns.tvp.pl.	mail	2019061702 1800 900 604800 86400
+tvp.pl.	86400	IN	NS	ns.tvp.pl.
+ns.tvp.pl.	518400	IN	A	217.69.139.202
+
+tvp.pl.	518400	IN	A	195.245.213.250

@@ -1,0 +1,6 @@
+
+dailykos.com.	86400	IN	SOA	ns.dailykos.com.	mail	2019061702 1800 900 604800 86400
+dailykos.com.	86400	IN	NS	ns.dailykos.com.
+ns.dailykos.com.	518400	IN	A	198.11.138.249
+
+dailykos.com.	518400	IN	A	52.24.184.162

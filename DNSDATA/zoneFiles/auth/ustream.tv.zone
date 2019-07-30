@@ -1,0 +1,6 @@
+
+ustream.tv.	86400	IN	SOA	ns.ustream.tv.	mail	2019061702 1800 900 604800 86400
+ustream.tv.	86400	IN	NS	ns.ustream.tv.
+ns.ustream.tv.	518400	IN	A	216.239.32.29
+
+ustream.tv.	518400	IN	A	69.171.248.128

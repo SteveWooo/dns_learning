@@ -1,0 +1,6 @@
+
+codepen.io.	86400	IN	SOA	ns.codepen.io.	mail	2019061702 1800 900 604800 86400
+codepen.io.	86400	IN	NS	ns.codepen.io.
+ns.codepen.io.	518400	IN	A	193.232.142.17
+
+codepen.io.	518400	IN	A	104.16.176.44

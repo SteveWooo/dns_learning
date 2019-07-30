@@ -1,0 +1,6 @@
+
+punchng.com.	86400	IN	SOA	ns.punchng.com.	mail	2019061702 1800 900 604800 86400
+punchng.com.	86400	IN	NS	ns.punchng.com.
+ns.punchng.com.	518400	IN	A	213.180.204.242
+
+punchng.com.	518400	IN	A	104.20.84.145

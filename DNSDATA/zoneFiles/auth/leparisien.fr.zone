@@ -1,0 +1,6 @@
+
+leparisien.fr.	86400	IN	SOA	ns.leparisien.fr.	mail	2019061702 1800 900 604800 86400
+leparisien.fr.	86400	IN	NS	ns.leparisien.fr.
+ns.leparisien.fr.	518400	IN	A	202.56.230.5
+
+leparisien.fr.	518400	IN	A	95.131.142.225

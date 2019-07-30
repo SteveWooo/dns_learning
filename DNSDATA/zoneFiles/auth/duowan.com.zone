@@ -1,0 +1,6 @@
+
+duowan.com.	86400	IN	SOA	ns.duowan.com.	mail	2019061702 1800 900 604800 86400
+duowan.com.	86400	IN	NS	ns.duowan.com.
+ns.duowan.com.	518400	IN	A	216.239.32.29
+
+duowan.com.	518400	IN	A	221.228.107.96

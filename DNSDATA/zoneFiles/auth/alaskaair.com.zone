@@ -1,0 +1,6 @@
+
+alaskaair.com.	86400	IN	SOA	ns.alaskaair.com.	mail	2019061702 1800 900 604800 86400
+alaskaair.com.	86400	IN	NS	ns.alaskaair.com.
+ns.alaskaair.com.	518400	IN	A	200.201.161.22
+
+alaskaair.com.	518400	IN	A	159.49.253.16

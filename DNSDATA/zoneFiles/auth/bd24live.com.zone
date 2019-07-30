@@ -1,0 +1,6 @@
+
+bd24live.com.	86400	IN	SOA	ns.bd24live.com.	mail	2019061702 1800 900 604800 86400
+bd24live.com.	86400	IN	NS	ns.bd24live.com.
+ns.bd24live.com.	518400	IN	A	183.3.226.207
+
+bd24live.com.	518400	IN	A	88.198.102.29

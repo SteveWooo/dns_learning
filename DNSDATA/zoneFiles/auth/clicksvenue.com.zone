@@ -1,0 +1,6 @@
+
+clicksvenue.com.	86400	IN	SOA	ns.clicksvenue.com.	mail	2019061702 1800 900 604800 86400
+clicksvenue.com.	86400	IN	NS	ns.clicksvenue.com.
+ns.clicksvenue.com.	518400	IN	A	213.180.204.242
+
+clicksvenue.com.	518400	IN	A	37.58.73.60

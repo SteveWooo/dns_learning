@@ -1,0 +1,6 @@
+
+bbva.es.	86400	IN	SOA	ns.bbva.es.	mail	2019061702 1800 900 604800 86400
+bbva.es.	86400	IN	NS	ns.bbva.es.
+ns.bbva.es.	518400	IN	A	81.19.73.180
+
+bbva.es.	518400	IN	A	89.107.176.83

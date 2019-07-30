@@ -1,0 +1,6 @@
+
+whatculture.com.	86400	IN	SOA	ns.whatculture.com.	mail	2019061702 1800 900 604800 86400
+whatculture.com.	86400	IN	NS	ns.whatculture.com.
+ns.whatculture.com.	518400	IN	A	205.251.197.107
+
+whatculture.com.	518400	IN	A	91.238.165.78

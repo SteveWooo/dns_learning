@@ -1,0 +1,6 @@
+
+guru.com.	86400	IN	SOA	ns.guru.com.	mail	2019061702 1800 900 604800 86400
+guru.com.	86400	IN	NS	ns.guru.com.
+ns.guru.com.	518400	IN	A	217.69.139.112
+
+guru.com.	518400	IN	A	199.83.132.62

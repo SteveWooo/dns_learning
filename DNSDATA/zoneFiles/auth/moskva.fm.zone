@@ -1,0 +1,6 @@
+
+moskva.fm.	86400	IN	SOA	ns.moskva.fm.	mail	2019061702 1800 900 604800 86400
+moskva.fm.	86400	IN	NS	ns.moskva.fm.
+ns.moskva.fm.	518400	IN	A	216.239.32.29
+
+moskva.fm.	518400	IN	A	5.149.255.46

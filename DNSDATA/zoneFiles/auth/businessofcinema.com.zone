@@ -1,0 +1,6 @@
+
+businessofcinema.com.	86400	IN	SOA	ns.businessofcinema.com.	mail	2019061702 1800 900 604800 86400
+businessofcinema.com.	86400	IN	NS	ns.businessofcinema.com.
+ns.businessofcinema.com.	518400	IN	A	213.180.204.242
+
+businessofcinema.com.	518400	IN	A	68.183.88.9

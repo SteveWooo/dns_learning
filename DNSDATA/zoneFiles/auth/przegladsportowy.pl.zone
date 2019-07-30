@@ -1,0 +1,6 @@
+
+przegladsportowy.pl.	86400	IN	SOA	ns.przegladsportowy.pl.	mail	2019061702 1800 900 604800 86400
+przegladsportowy.pl.	86400	IN	NS	ns.przegladsportowy.pl.
+ns.przegladsportowy.pl.	518400	IN	A	78.40.125.184
+
+przegladsportowy.pl.	518400	IN	A	213.180.141.155

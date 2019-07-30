@@ -1,0 +1,6 @@
+
+with2.net.	86400	IN	SOA	ns.with2.net.	mail	2019061702 1800 900 604800 86400
+with2.net.	86400	IN	NS	ns.with2.net.
+ns.with2.net.	518400	IN	A	204.69.234.1
+
+with2.net.	518400	IN	A	153.120.49.85

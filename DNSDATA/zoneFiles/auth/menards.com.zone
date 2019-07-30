@@ -1,0 +1,6 @@
+
+menards.com.	86400	IN	SOA	ns.menards.com.	mail	2019061702 1800 900 604800 86400
+menards.com.	86400	IN	NS	ns.menards.com.
+ns.menards.com.	518400	IN	A	216.239.32.10
+
+menards.com.	518400	IN	A	199.83.134.135

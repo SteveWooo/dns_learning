@@ -1,0 +1,6 @@
+
+iu.edu.	86400	IN	SOA	ns.iu.edu.	mail	2019061702 1800 900 604800 86400
+iu.edu.	86400	IN	NS	ns.iu.edu.
+ns.iu.edu.	518400	IN	A	204.69.234.1
+
+iu.edu.	518400	IN	A	129.79.78.189

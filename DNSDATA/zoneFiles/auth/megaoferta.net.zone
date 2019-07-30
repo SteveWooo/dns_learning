@@ -1,0 +1,6 @@
+
+megaoferta.net.	86400	IN	SOA	ns.megaoferta.net.	mail	2019061702 1800 900 604800 86400
+megaoferta.net.	86400	IN	NS	ns.megaoferta.net.
+ns.megaoferta.net.	518400	IN	A	213.180.193.1
+
+megaoferta.net.	518400	IN	A	204.11.56.48

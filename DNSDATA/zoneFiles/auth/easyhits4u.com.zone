@@ -1,0 +1,6 @@
+
+easyhits4u.com.	86400	IN	SOA	ns.easyhits4u.com.	mail	2019061702 1800 900 604800 86400
+easyhits4u.com.	86400	IN	NS	ns.easyhits4u.com.
+ns.easyhits4u.com.	518400	IN	A	208.78.70.47
+
+easyhits4u.com.	518400	IN	A	173.192.33.225

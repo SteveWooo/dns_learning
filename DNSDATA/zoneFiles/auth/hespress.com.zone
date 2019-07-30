@@ -1,0 +1,6 @@
+
+hespress.com.	86400	IN	SOA	ns.hespress.com.	mail	2019061702 1800 900 604800 86400
+hespress.com.	86400	IN	NS	ns.hespress.com.
+ns.hespress.com.	518400	IN	A	173.245.59.115
+
+hespress.com.	518400	IN	A	104.20.114.3

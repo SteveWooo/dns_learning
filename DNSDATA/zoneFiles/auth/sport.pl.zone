@@ -1,0 +1,6 @@
+
+sport.pl.	86400	IN	SOA	ns.sport.pl.	mail	2019061702 1800 900 604800 86400
+sport.pl.	86400	IN	NS	ns.sport.pl.
+ns.sport.pl.	518400	IN	A	200.221.11.98
+
+sport.pl.	518400	IN	A	80.252.0.135

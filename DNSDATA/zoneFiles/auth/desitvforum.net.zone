@@ -1,0 +1,6 @@
+
+desitvforum.net.	86400	IN	SOA	ns.desitvforum.net.	mail	2019061702 1800 900 604800 86400
+desitvforum.net.	86400	IN	NS	ns.desitvforum.net.
+ns.desitvforum.net.	518400	IN	A	205.251.194.1
+
+desitvforum.net.	518400	IN	A	37.48.65.136

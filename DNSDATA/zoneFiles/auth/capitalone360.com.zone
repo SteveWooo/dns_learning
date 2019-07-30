@@ -1,0 +1,6 @@
+
+capitalone360.com.	86400	IN	SOA	ns.capitalone360.com.	mail	2019061702 1800 900 604800 86400
+capitalone360.com.	86400	IN	NS	ns.capitalone360.com.
+ns.capitalone360.com.	518400	IN	A	131.0.24.26
+
+capitalone360.com.	518400	IN	A	208.80.48.175

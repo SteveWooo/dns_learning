@@ -1,0 +1,6 @@
+
+ow.ly.	86400	IN	SOA	ns.ow.ly.	mail	2019061702 1800 900 604800 86400
+ow.ly.	86400	IN	NS	ns.ow.ly.
+ns.ow.ly.	518400	IN	A	213.180.204.242
+
+ow.ly.	518400	IN	A	54.183.131.91

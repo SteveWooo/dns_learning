@@ -1,0 +1,6 @@
+
+luxtarget.com.	86400	IN	SOA	ns.luxtarget.com.	mail	2019061702 1800 900 604800 86400
+luxtarget.com.	86400	IN	NS	ns.luxtarget.com.
+ns.luxtarget.com.	518400	IN	A	216.239.32.10
+
+luxtarget.com.	518400	IN	A	115.28.253.61

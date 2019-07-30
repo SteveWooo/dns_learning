@@ -1,0 +1,6 @@
+
+aol.de.	86400	IN	SOA	ns.aol.de.	mail	2019061702 1800 900 604800 86400
+aol.de.	86400	IN	NS	ns.aol.de.
+ns.aol.de.	518400	IN	A	204.69.234.1
+
+aol.de.	518400	IN	A	74.6.136.153

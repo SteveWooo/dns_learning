@@ -1,0 +1,6 @@
+
+bitrix24.ru.	86400	IN	SOA	ns.bitrix24.ru.	mail	2019061702 1800 900 604800 86400
+bitrix24.ru.	86400	IN	NS	ns.bitrix24.ru.
+ns.bitrix24.ru.	518400	IN	A	217.69.139.112
+
+bitrix24.ru.	518400	IN	A	195.208.187.29

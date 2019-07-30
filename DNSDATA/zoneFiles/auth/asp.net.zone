@@ -1,0 +1,6 @@
+
+asp.net.	86400	IN	SOA	ns.asp.net.	mail	2019061702 1800 900 604800 86400
+asp.net.	86400	IN	NS	ns.asp.net.
+ns.asp.net.	518400	IN	A	125.208.45.1
+
+asp.net.	518400	IN	A	40.118.185.161

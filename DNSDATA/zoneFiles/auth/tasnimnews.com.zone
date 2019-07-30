@@ -1,0 +1,6 @@
+
+tasnimnews.com.	86400	IN	SOA	ns.tasnimnews.com.	mail	2019061702 1800 900 604800 86400
+tasnimnews.com.	86400	IN	NS	ns.tasnimnews.com.
+ns.tasnimnews.com.	518400	IN	A	216.239.32.29
+
+tasnimnews.com.	518400	IN	A	192.99.239.193

@@ -1,0 +1,6 @@
+
+patheos.com.	86400	IN	SOA	ns.patheos.com.	mail	2019061702 1800 900 604800 86400
+patheos.com.	86400	IN	NS	ns.patheos.com.
+ns.patheos.com.	518400	IN	A	213.180.204.242
+
+patheos.com.	518400	IN	A	152.195.32.219

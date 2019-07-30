@@ -1,0 +1,6 @@
+
+helpscout.net.	86400	IN	SOA	ns.helpscout.net.	mail	2019061702 1800 900 604800 86400
+helpscout.net.	86400	IN	NS	ns.helpscout.net.
+ns.helpscout.net.	518400	IN	A	216.239.32.29
+
+helpscout.net.	518400	IN	A	13.225.78.104

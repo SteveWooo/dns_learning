@@ -1,0 +1,6 @@
+
+togetter.com.	86400	IN	SOA	ns.togetter.com.	mail	2019061702 1800 900 604800 86400
+togetter.com.	86400	IN	NS	ns.togetter.com.
+ns.togetter.com.	518400	IN	A	205.251.199.254
+
+togetter.com.	518400	IN	A	31.13.69.160

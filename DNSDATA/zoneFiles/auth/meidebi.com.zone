@@ -1,0 +1,6 @@
+
+meidebi.com.	86400	IN	SOA	ns.meidebi.com.	mail	2019061702 1800 900 604800 86400
+meidebi.com.	86400	IN	NS	ns.meidebi.com.
+ns.meidebi.com.	518400	IN	A	213.180.204.242
+
+meidebi.com.	518400	IN	A	114.55.181.67

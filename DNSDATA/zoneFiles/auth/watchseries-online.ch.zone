@@ -1,0 +1,6 @@
+
+watchseries-online.ch.	86400	IN	SOA	ns.watchseries-online.ch.	mail	2019061702 1800 900 604800 86400
+watchseries-online.ch.	86400	IN	NS	ns.watchseries-online.ch.
+ns.watchseries-online.ch.	518400	IN	A	175.126.117.211
+
+watchseries-online.ch.	518400	IN	A	185.53.179.8

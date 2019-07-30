@@ -1,0 +1,6 @@
+
+bayt.com.	86400	IN	SOA	ns.bayt.com.	mail	2019061702 1800 900 604800 86400
+bayt.com.	86400	IN	NS	ns.bayt.com.
+ns.bayt.com.	518400	IN	A	217.69.139.202
+
+bayt.com.	518400	IN	A	209.251.59.181

@@ -1,0 +1,6 @@
+
+jahannews.com.	86400	IN	SOA	ns.jahannews.com.	mail	2019061702 1800 900 604800 86400
+jahannews.com.	86400	IN	NS	ns.jahannews.com.
+ns.jahannews.com.	518400	IN	A	205.251.192.29
+
+jahannews.com.	518400	IN	A	94.182.184.61

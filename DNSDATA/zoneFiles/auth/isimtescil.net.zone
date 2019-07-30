@@ -1,0 +1,6 @@
+
+isimtescil.net.	86400	IN	SOA	ns.isimtescil.net.	mail	2019061702 1800 900 604800 86400
+isimtescil.net.	86400	IN	NS	ns.isimtescil.net.
+ns.isimtescil.net.	518400	IN	A	217.69.139.202
+
+isimtescil.net.	518400	IN	A	93.89.226.20

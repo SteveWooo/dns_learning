@@ -1,0 +1,6 @@
+
+pingan.com.	86400	IN	SOA	ns.pingan.com.	mail	2019061702 1800 900 604800 86400
+pingan.com.	86400	IN	NS	ns.pingan.com.
+ns.pingan.com.	518400	IN	A	198.100.156.181
+
+pingan.com.	518400	IN	A	202.69.26.11

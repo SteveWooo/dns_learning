@@ -1,0 +1,6 @@
+
+edmunds.com.	86400	IN	SOA	ns.edmunds.com.	mail	2019061702 1800 900 604800 86400
+edmunds.com.	86400	IN	NS	ns.edmunds.com.
+ns.edmunds.com.	518400	IN	A	216.58.200.238
+
+edmunds.com.	518400	IN	A	159.180.84.2

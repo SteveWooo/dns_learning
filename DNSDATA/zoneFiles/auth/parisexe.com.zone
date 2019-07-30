@@ -1,0 +1,6 @@
+
+parisexe.com.	86400	IN	SOA	ns.parisexe.com.	mail	2019061702 1800 900 604800 86400
+parisexe.com.	86400	IN	NS	ns.parisexe.com.
+ns.parisexe.com.	518400	IN	A	205.251.199.254
+
+parisexe.com.	518400	IN	A	66.96.147.203

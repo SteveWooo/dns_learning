@@ -1,0 +1,6 @@
+
+sciencenet.cn.	86400	IN	SOA	ns.sciencenet.cn.	mail	2019061702 1800 900 604800 86400
+sciencenet.cn.	86400	IN	NS	ns.sciencenet.cn.
+ns.sciencenet.cn.	518400	IN	A	205.251.199.254
+
+sciencenet.cn.	518400	IN	A	39.106.55.29

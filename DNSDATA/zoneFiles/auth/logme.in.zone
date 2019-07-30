@@ -1,0 +1,6 @@
+
+logme.in.	86400	IN	SOA	ns.logme.in.	mail	2019061702 1800 900 604800 86400
+logme.in.	86400	IN	NS	ns.logme.in.
+ns.logme.in.	518400	IN	A	216.239.32.10
+
+logme.in.	518400	IN	A	52.178.114.226

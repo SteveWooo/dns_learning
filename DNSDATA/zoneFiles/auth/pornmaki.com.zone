@@ -1,0 +1,6 @@
+
+pornmaki.com.	86400	IN	SOA	ns.pornmaki.com.	mail	2019061702 1800 900 604800 86400
+pornmaki.com.	86400	IN	NS	ns.pornmaki.com.
+ns.pornmaki.com.	518400	IN	A	198.11.138.245
+
+pornmaki.com.	518400	IN	A	66.254.109.96

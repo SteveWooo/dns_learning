@@ -1,0 +1,6 @@
+
+google.cl.	86400	IN	SOA	ns.google.cl.	mail	2019061702 1800 900 604800 86400
+google.cl.	86400	IN	NS	ns.google.cl.
+ns.google.cl.	518400	IN	A	213.180.204.242
+
+google.cl.	518400	IN	A	69.171.234.29

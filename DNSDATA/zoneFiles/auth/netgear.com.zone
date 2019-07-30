@@ -1,0 +1,6 @@
+
+netgear.com.	86400	IN	SOA	ns.netgear.com.	mail	2019061702 1800 900 604800 86400
+netgear.com.	86400	IN	NS	ns.netgear.com.
+ns.netgear.com.	518400	IN	A	206.128.173.109
+
+netgear.com.	518400	IN	A	76.223.14.31

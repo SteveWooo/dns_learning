@@ -1,0 +1,6 @@
+
+surrenderat20.net.	86400	IN	SOA	ns.surrenderat20.net.	mail	2019061702 1800 900 604800 86400
+surrenderat20.net.	86400	IN	NS	ns.surrenderat20.net.
+ns.surrenderat20.net.	518400	IN	A	213.180.193.1
+
+surrenderat20.net.	518400	IN	A	216.239.34.21

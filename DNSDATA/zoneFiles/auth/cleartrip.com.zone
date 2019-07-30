@@ -1,0 +1,6 @@
+
+cleartrip.com.	86400	IN	SOA	ns.cleartrip.com.	mail	2019061702 1800 900 604800 86400
+cleartrip.com.	86400	IN	NS	ns.cleartrip.com.
+ns.cleartrip.com.	518400	IN	A	206.128.173.109
+
+cleartrip.com.	518400	IN	A	35.154.241.130

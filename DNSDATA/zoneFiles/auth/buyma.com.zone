@@ -1,0 +1,6 @@
+
+buyma.com.	86400	IN	SOA	ns.buyma.com.	mail	2019061702 1800 900 604800 86400
+buyma.com.	86400	IN	NS	ns.buyma.com.
+ns.buyma.com.	518400	IN	A	205.251.192.29
+
+buyma.com.	518400	IN	A	210.152.134.247

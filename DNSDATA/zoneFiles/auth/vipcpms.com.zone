@@ -1,0 +1,6 @@
+
+vipcpms.com.	86400	IN	SOA	ns.vipcpms.com.	mail	2019061702 1800 900 604800 86400
+vipcpms.com.	86400	IN	NS	ns.vipcpms.com.
+ns.vipcpms.com.	518400	IN	A	205.251.195.203
+
+vipcpms.com.	518400	IN	A	103.224.182.251

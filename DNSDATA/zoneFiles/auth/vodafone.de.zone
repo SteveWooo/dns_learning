@@ -1,0 +1,6 @@
+
+vodafone.de.	86400	IN	SOA	ns.vodafone.de.	mail	2019061702 1800 900 604800 86400
+vodafone.de.	86400	IN	NS	ns.vodafone.de.
+ns.vodafone.de.	518400	IN	A	36.51.252.8
+
+vodafone.de.	518400	IN	A	139.7.147.49

@@ -1,0 +1,6 @@
+
+interfax.ru.	86400	IN	SOA	ns.interfax.ru.	mail	2019061702 1800 900 604800 86400
+interfax.ru.	86400	IN	NS	ns.interfax.ru.
+ns.interfax.ru.	518400	IN	A	203.153.43.65
+
+interfax.ru.	518400	IN	A	46.28.17.111

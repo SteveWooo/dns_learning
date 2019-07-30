@@ -1,0 +1,6 @@
+
+zapier.com.	86400	IN	SOA	ns.zapier.com.	mail	2019061702 1800 900 604800 86400
+zapier.com.	86400	IN	NS	ns.zapier.com.
+ns.zapier.com.	518400	IN	A	193.232.156.17
+
+zapier.com.	518400	IN	A	52.45.133.132

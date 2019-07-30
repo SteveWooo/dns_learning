@@ -1,0 +1,6 @@
+
+interpals.net.	86400	IN	SOA	ns.interpals.net.	mail	2019061702 1800 900 604800 86400
+interpals.net.	86400	IN	NS	ns.interpals.net.
+ns.interpals.net.	518400	IN	A	208.78.70.47
+
+interpals.net.	518400	IN	A	104.20.196.2

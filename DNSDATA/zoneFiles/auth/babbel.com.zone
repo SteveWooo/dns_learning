@@ -1,0 +1,6 @@
+
+babbel.com.	86400	IN	SOA	ns.babbel.com.	mail	2019061702 1800 900 604800 86400
+babbel.com.	86400	IN	NS	ns.babbel.com.
+ns.babbel.com.	518400	IN	A	205.251.197.107
+
+babbel.com.	518400	IN	A	52.222.176.38

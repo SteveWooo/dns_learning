@@ -1,0 +1,6 @@
+
+dmv.org.	86400	IN	SOA	ns.dmv.org.	mail	2019061702 1800 900 604800 86400
+dmv.org.	86400	IN	NS	ns.dmv.org.
+ns.dmv.org.	518400	IN	A	217.69.139.112
+
+dmv.org.	518400	IN	A	104.94.106.92

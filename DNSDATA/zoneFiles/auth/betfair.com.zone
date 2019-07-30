@@ -1,0 +1,6 @@
+
+betfair.com.	86400	IN	SOA	ns.betfair.com.	mail	2019061702 1800 900 604800 86400
+betfair.com.	86400	IN	NS	ns.betfair.com.
+ns.betfair.com.	518400	IN	A	198.100.156.181
+
+betfair.com.	518400	IN	A	84.20.200.28

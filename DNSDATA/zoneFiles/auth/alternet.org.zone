@@ -1,0 +1,6 @@
+
+alternet.org.	86400	IN	SOA	ns.alternet.org.	mail	2019061702 1800 900 604800 86400
+alternet.org.	86400	IN	NS	ns.alternet.org.
+ns.alternet.org.	518400	IN	A	213.180.204.242
+
+alternet.org.	518400	IN	A	104.25.150.5

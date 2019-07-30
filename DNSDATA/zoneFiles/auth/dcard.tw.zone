@@ -1,0 +1,6 @@
+
+dcard.tw.	86400	IN	SOA	ns.dcard.tw.	mail	2019061702 1800 900 604800 86400
+dcard.tw.	86400	IN	NS	ns.dcard.tw.
+ns.dcard.tw.	518400	IN	A	180.149.156.12
+
+dcard.tw.	518400	IN	A	31.13.65.17

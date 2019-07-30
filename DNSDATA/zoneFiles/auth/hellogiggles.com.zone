@@ -1,0 +1,6 @@
+
+hellogiggles.com.	86400	IN	SOA	ns.hellogiggles.com.	mail	2019061702 1800 900 604800 86400
+hellogiggles.com.	86400	IN	NS	ns.hellogiggles.com.
+ns.hellogiggles.com.	518400	IN	A	205.251.194.1
+
+hellogiggles.com.	518400	IN	A	13.35.78.77

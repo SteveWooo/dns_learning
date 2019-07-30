@@ -1,0 +1,6 @@
+
+breitbart.com.	86400	IN	SOA	ns.breitbart.com.	mail	2019061702 1800 900 604800 86400
+breitbart.com.	86400	IN	NS	ns.breitbart.com.
+ns.breitbart.com.	518400	IN	A	216.239.32.106
+
+breitbart.com.	518400	IN	A	74.86.235.236

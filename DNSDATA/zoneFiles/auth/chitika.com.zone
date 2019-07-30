@@ -1,0 +1,6 @@
+
+chitika.com.	86400	IN	SOA	ns.chitika.com.	mail	2019061702 1800 900 604800 86400
+chitika.com.	86400	IN	NS	ns.chitika.com.
+ns.chitika.com.	518400	IN	A	173.245.59.100
+
+chitika.com.	518400	IN	A	192.0.78.252

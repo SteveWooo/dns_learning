@@ -1,0 +1,6 @@
+
+westernjournalism.com.	86400	IN	SOA	ns.westernjournalism.com.	mail	2019061702 1800 900 604800 86400
+westernjournalism.com.	86400	IN	NS	ns.westernjournalism.com.
+ns.westernjournalism.com.	518400	IN	A	180.149.156.12
+
+westernjournalism.com.	518400	IN	A	104.31.69.99

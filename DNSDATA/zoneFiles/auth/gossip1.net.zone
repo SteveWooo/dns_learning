@@ -1,0 +1,6 @@
+
+gossip1.net.	86400	IN	SOA	ns.gossip1.net.	mail	2019061702 1800 900 604800 86400
+gossip1.net.	86400	IN	NS	ns.gossip1.net.
+ns.gossip1.net.	518400	IN	A	208.78.70.47
+
+gossip1.net.	518400	IN	A	59.106.28.131

@@ -1,0 +1,6 @@
+
+trovi.com.	86400	IN	SOA	ns.trovi.com.	mail	2019061702 1800 900 604800 86400
+trovi.com.	86400	IN	NS	ns.trovi.com.
+ns.trovi.com.	518400	IN	A	198.100.156.181
+
+trovi.com.	518400	IN	A	216.146.46.11

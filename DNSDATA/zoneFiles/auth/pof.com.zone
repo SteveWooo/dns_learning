@@ -1,0 +1,6 @@
+
+pof.com.	86400	IN	SOA	ns.pof.com.	mail	2019061702 1800 900 604800 86400
+pof.com.	86400	IN	NS	ns.pof.com.
+ns.pof.com.	518400	IN	A	213.180.193.1
+
+pof.com.	518400	IN	A	199.182.216.166

@@ -1,0 +1,6 @@
+
+yokamen.cn.	86400	IN	SOA	ns.yokamen.cn.	mail	2019061702 1800 900 604800 86400
+yokamen.cn.	86400	IN	NS	ns.yokamen.cn.
+ns.yokamen.cn.	518400	IN	A	200.221.11.98
+
+yokamen.cn.	518400	IN	A	59.151.9.70

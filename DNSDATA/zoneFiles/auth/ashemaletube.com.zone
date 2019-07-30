@@ -1,0 +1,6 @@
+
+ashemaletube.com.	86400	IN	SOA	ns.ashemaletube.com.	mail	2019061702 1800 900 604800 86400
+ashemaletube.com.	86400	IN	NS	ns.ashemaletube.com.
+ns.ashemaletube.com.	518400	IN	A	145.14.134.108
+
+ashemaletube.com.	518400	IN	A	88.208.34.29

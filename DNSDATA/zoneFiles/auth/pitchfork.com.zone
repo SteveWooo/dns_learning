@@ -1,0 +1,6 @@
+
+pitchfork.com.	86400	IN	SOA	ns.pitchfork.com.	mail	2019061702 1800 900 604800 86400
+pitchfork.com.	86400	IN	NS	ns.pitchfork.com.
+ns.pitchfork.com.	518400	IN	A	174.35.55.22
+
+pitchfork.com.	518400	IN	A	151.101.20.239

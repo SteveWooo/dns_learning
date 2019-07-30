@@ -1,0 +1,6 @@
+
+androidauthority.com.	86400	IN	SOA	ns.androidauthority.com.	mail	2019061702 1800 900 604800 86400
+androidauthority.com.	86400	IN	NS	ns.androidauthority.com.
+ns.androidauthority.com.	518400	IN	A	23.211.61.66
+
+androidauthority.com.	518400	IN	A	104.20.84.39

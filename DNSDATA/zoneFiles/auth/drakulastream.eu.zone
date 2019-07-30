@@ -1,0 +1,6 @@
+
+drakulastream.eu.	86400	IN	SOA	ns.drakulastream.eu.	mail	2019061702 1800 900 604800 86400
+drakulastream.eu.	86400	IN	NS	ns.drakulastream.eu.
+ns.drakulastream.eu.	518400	IN	A	205.251.199.254
+
+drakulastream.eu.	518400	IN	A	54.37.100.12

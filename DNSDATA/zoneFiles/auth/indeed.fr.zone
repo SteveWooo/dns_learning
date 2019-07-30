@@ -1,0 +1,6 @@
+
+indeed.fr.	86400	IN	SOA	ns.indeed.fr.	mail	2019061702 1800 900 604800 86400
+indeed.fr.	86400	IN	NS	ns.indeed.fr.
+ns.indeed.fr.	518400	IN	A	175.126.117.211
+
+indeed.fr.	518400	IN	A	216.146.46.10

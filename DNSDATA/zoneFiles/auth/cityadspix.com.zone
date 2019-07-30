@@ -1,0 +1,6 @@
+
+cityadspix.com.	86400	IN	SOA	ns.cityadspix.com.	mail	2019061702 1800 900 604800 86400
+cityadspix.com.	86400	IN	NS	ns.cityadspix.com.
+ns.cityadspix.com.	518400	IN	A	205.251.199.254
+
+cityadspix.com.	518400	IN	A	78.140.184.106

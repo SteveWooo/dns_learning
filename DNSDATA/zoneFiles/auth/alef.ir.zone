@@ -1,0 +1,6 @@
+
+alef.ir.	86400	IN	SOA	ns.alef.ir.	mail	2019061702 1800 900 604800 86400
+alef.ir.	86400	IN	NS	ns.alef.ir.
+ns.alef.ir.	518400	IN	A	203.153.43.65
+
+alef.ir.	518400	IN	A	185.143.232.5

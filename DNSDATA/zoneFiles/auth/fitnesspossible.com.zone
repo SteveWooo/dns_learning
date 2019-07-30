@@ -1,0 +1,6 @@
+
+fitnesspossible.com.	86400	IN	SOA	ns.fitnesspossible.com.	mail	2019061702 1800 900 604800 86400
+fitnesspossible.com.	86400	IN	NS	ns.fitnesspossible.com.
+ns.fitnesspossible.com.	518400	IN	A	216.239.32.10
+
+fitnesspossible.com.	518400	IN	A	23.20.239.12

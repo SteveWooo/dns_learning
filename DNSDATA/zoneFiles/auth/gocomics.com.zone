@@ -1,0 +1,6 @@
+
+gocomics.com.	86400	IN	SOA	ns.gocomics.com.	mail	2019061702 1800 900 604800 86400
+gocomics.com.	86400	IN	NS	ns.gocomics.com.
+ns.gocomics.com.	518400	IN	A	208.78.70.47
+
+gocomics.com.	518400	IN	A	66.6.101.183

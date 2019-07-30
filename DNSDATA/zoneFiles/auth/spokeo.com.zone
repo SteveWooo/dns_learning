@@ -1,0 +1,6 @@
+
+spokeo.com.	86400	IN	SOA	ns.spokeo.com.	mail	2019061702 1800 900 604800 86400
+spokeo.com.	86400	IN	NS	ns.spokeo.com.
+ns.spokeo.com.	518400	IN	A	132.207.144.12
+
+spokeo.com.	518400	IN	A	54.230.89.227

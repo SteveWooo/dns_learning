@@ -1,0 +1,6 @@
+
+2ch.net.	86400	IN	SOA	ns.2ch.net.	mail	2019061702 1800 900 604800 86400
+2ch.net.	86400	IN	NS	ns.2ch.net.
+ns.2ch.net.	518400	IN	A	202.108.22.220
+
+2ch.net.	518400	IN	A	104.20.44.197

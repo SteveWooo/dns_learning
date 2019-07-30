@@ -1,0 +1,6 @@
+
+ricardo.ch.	86400	IN	SOA	ns.ricardo.ch.	mail	2019061702 1800 900 604800 86400
+ricardo.ch.	86400	IN	NS	ns.ricardo.ch.
+ns.ricardo.ch.	518400	IN	A	198.11.138.249
+
+ricardo.ch.	518400	IN	A	35.190.13.193

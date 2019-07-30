@@ -1,0 +1,6 @@
+
+quickmeme.com.	86400	IN	SOA	ns.quickmeme.com.	mail	2019061702 1800 900 604800 86400
+quickmeme.com.	86400	IN	NS	ns.quickmeme.com.
+ns.quickmeme.com.	518400	IN	A	173.245.58.201
+
+quickmeme.com.	518400	IN	A	45.79.16.226

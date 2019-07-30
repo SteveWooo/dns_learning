@@ -1,0 +1,6 @@
+
+protothema.gr.	86400	IN	SOA	ns.protothema.gr.	mail	2019061702 1800 900 604800 86400
+protothema.gr.	86400	IN	NS	ns.protothema.gr.
+ns.protothema.gr.	518400	IN	A	202.56.230.5
+
+protothema.gr.	518400	IN	A	2.21.69.83

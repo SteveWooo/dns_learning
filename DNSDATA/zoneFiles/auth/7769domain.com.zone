@@ -1,0 +1,6 @@
+
+7769domain.com.	86400	IN	SOA	ns.7769domain.com.	mail	2019061702 1800 900 604800 86400
+7769domain.com.	86400	IN	NS	ns.7769domain.com.
+ns.7769domain.com.	518400	IN	A	216.239.32.10
+
+7769domain.com.	518400	IN	A	34.255.240.230

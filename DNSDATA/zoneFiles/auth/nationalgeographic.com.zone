@@ -1,0 +1,6 @@
+
+nationalgeographic.com.	86400	IN	SOA	ns.nationalgeographic.com.	mail	2019061702 1800 900 604800 86400
+nationalgeographic.com.	86400	IN	NS	ns.nationalgeographic.com.
+ns.nationalgeographic.com.	518400	IN	A	205.251.199.254
+
+nationalgeographic.com.	518400	IN	A	35.170.156.131

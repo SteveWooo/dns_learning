@@ -1,0 +1,6 @@
+
+th3professional.com.	86400	IN	SOA	ns.th3professional.com.	mail	2019061702 1800 900 604800 86400
+th3professional.com.	86400	IN	NS	ns.th3professional.com.
+ns.th3professional.com.	518400	IN	A	193.108.91.127
+
+th3professional.com.	518400	IN	A	216.239.36.21

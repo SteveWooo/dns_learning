@@ -1,0 +1,6 @@
+
+megafilmeshd.net.	86400	IN	SOA	ns.megafilmeshd.net.	mail	2019061702 1800 900 604800 86400
+megafilmeshd.net.	86400	IN	NS	ns.megafilmeshd.net.
+ns.megafilmeshd.net.	518400	IN	A	200.201.161.22
+
+megafilmeshd.net.	518400	IN	A	127.0.0.1

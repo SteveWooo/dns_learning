@@ -1,0 +1,6 @@
+
+awd.ru.	86400	IN	SOA	ns.awd.ru.	mail	2019061702 1800 900 604800 86400
+awd.ru.	86400	IN	NS	ns.awd.ru.
+ns.awd.ru.	518400	IN	A	217.69.139.112
+
+awd.ru.	518400	IN	A	136.243.53.189

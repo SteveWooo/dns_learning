@@ -1,0 +1,6 @@
+
+smashingmagazine.com.	86400	IN	SOA	ns.smashingmagazine.com.	mail	2019061702 1800 900 604800 86400
+smashingmagazine.com.	86400	IN	NS	ns.smashingmagazine.com.
+ns.smashingmagazine.com.	518400	IN	A	187.18.60.242
+
+smashingmagazine.com.	518400	IN	A	35.156.37.214

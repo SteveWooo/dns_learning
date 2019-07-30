@@ -1,0 +1,6 @@
+
+myflorida.com.	86400	IN	SOA	ns.myflorida.com.	mail	2019061702 1800 900 604800 86400
+myflorida.com.	86400	IN	NS	ns.myflorida.com.
+ns.myflorida.com.	518400	IN	A	205.251.194.1
+
+myflorida.com.	518400	IN	A	199.250.30.229

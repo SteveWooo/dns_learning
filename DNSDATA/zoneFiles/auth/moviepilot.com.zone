@@ -1,0 +1,6 @@
+
+moviepilot.com.	86400	IN	SOA	ns.moviepilot.com.	mail	2019061702 1800 900 604800 86400
+moviepilot.com.	86400	IN	NS	ns.moviepilot.com.
+ns.moviepilot.com.	518400	IN	A	205.251.197.107
+
+moviepilot.com.	518400	IN	A	151.101.2.49

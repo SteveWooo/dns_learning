@@ -1,0 +1,6 @@
+
+flirt4free.com.	86400	IN	SOA	ns.flirt4free.com.	mail	2019061702 1800 900 604800 86400
+flirt4free.com.	86400	IN	NS	ns.flirt4free.com.
+ns.flirt4free.com.	518400	IN	A	205.251.199.254
+
+flirt4free.com.	518400	IN	A	31.13.82.17

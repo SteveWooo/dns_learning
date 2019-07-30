@@ -1,0 +1,6 @@
+
+interstats.org.	86400	IN	SOA	ns.interstats.org.	mail	2019061702 1800 900 604800 86400
+interstats.org.	86400	IN	NS	ns.interstats.org.
+ns.interstats.org.	518400	IN	A	217.69.139.112
+
+interstats.org.	518400	IN	A	185.134.245.113

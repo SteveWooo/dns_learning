@@ -1,0 +1,6 @@
+
+pogo.com.	86400	IN	SOA	ns.pogo.com.	mail	2019061702 1800 900 604800 86400
+pogo.com.	86400	IN	NS	ns.pogo.com.
+ns.pogo.com.	518400	IN	A	216.239.32.10
+
+pogo.com.	518400	IN	A	159.153.113.136

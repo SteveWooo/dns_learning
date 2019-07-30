@@ -1,0 +1,6 @@
+
+popcorntime.io.	86400	IN	SOA	ns.popcorntime.io.	mail	2019061702 1800 900 604800 86400
+popcorntime.io.	86400	IN	NS	ns.popcorntime.io.
+ns.popcorntime.io.	518400	IN	A	202.108.22.220
+
+popcorntime.io.	518400	IN	A	72.52.10.14

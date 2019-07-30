@@ -1,0 +1,6 @@
+
+fuq.com.	86400	IN	SOA	ns.fuq.com.	mail	2019061702 1800 900 604800 86400
+fuq.com.	86400	IN	NS	ns.fuq.com.
+ns.fuq.com.	518400	IN	A	200.219.154.10
+
+fuq.com.	518400	IN	A	64.188.56.166

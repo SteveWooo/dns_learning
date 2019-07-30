@@ -1,0 +1,6 @@
+
+jiameng.com.	86400	IN	SOA	ns.jiameng.com.	mail	2019061702 1800 900 604800 86400
+jiameng.com.	86400	IN	NS	ns.jiameng.com.
+ns.jiameng.com.	518400	IN	A	205.251.195.203
+
+jiameng.com.	518400	IN	A	127.0.0.1

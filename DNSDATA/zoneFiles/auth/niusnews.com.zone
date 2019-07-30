@@ -1,0 +1,6 @@
+
+niusnews.com.	86400	IN	SOA	ns.niusnews.com.	mail	2019061702 1800 900 604800 86400
+niusnews.com.	86400	IN	NS	ns.niusnews.com.
+ns.niusnews.com.	518400	IN	A	216.58.200.238
+
+niusnews.com.	518400	IN	A	104.20.68.76

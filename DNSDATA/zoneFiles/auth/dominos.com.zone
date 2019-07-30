@@ -1,0 +1,6 @@
+
+dominos.com.	86400	IN	SOA	ns.dominos.com.	mail	2019061702 1800 900 604800 86400
+dominos.com.	86400	IN	NS	ns.dominos.com.
+ns.dominos.com.	518400	IN	A	200.221.11.98
+
+dominos.com.	518400	IN	A	23.64.213.69

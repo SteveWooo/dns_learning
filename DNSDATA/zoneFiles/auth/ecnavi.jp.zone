@@ -1,0 +1,6 @@
+
+ecnavi.jp.	86400	IN	SOA	ns.ecnavi.jp.	mail	2019061702 1800 900 604800 86400
+ecnavi.jp.	86400	IN	NS	ns.ecnavi.jp.
+ns.ecnavi.jp.	518400	IN	A	216.239.32.106
+
+ecnavi.jp.	518400	IN	A	13.33.166.202

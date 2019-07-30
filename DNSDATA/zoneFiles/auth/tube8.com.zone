@@ -1,0 +1,6 @@
+
+tube8.com.	86400	IN	SOA	ns.tube8.com.	mail	2019061702 1800 900 604800 86400
+tube8.com.	86400	IN	NS	ns.tube8.com.
+ns.tube8.com.	518400	IN	A	198.11.138.249
+
+tube8.com.	518400	IN	A	31.13.65.18

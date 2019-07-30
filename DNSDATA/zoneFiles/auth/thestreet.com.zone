@@ -1,0 +1,6 @@
+
+thestreet.com.	86400	IN	SOA	ns.thestreet.com.	mail	2019061702 1800 900 604800 86400
+thestreet.com.	86400	IN	NS	ns.thestreet.com.
+ns.thestreet.com.	518400	IN	A	213.180.204.242
+
+thestreet.com.	518400	IN	A	107.23.91.192

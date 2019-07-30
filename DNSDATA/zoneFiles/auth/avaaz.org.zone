@@ -1,0 +1,6 @@
+
+avaaz.org.	86400	IN	SOA	ns.avaaz.org.	mail	2019061702 1800 900 604800 86400
+avaaz.org.	86400	IN	NS	ns.avaaz.org.
+ns.avaaz.org.	518400	IN	A	205.251.197.107
+
+avaaz.org.	518400	IN	A	104.16.68.51

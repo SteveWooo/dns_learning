@@ -1,0 +1,6 @@
+
+hearthpwn.com.	86400	IN	SOA	ns.hearthpwn.com.	mail	2019061702 1800 900 604800 86400
+hearthpwn.com.	86400	IN	NS	ns.hearthpwn.com.
+ns.hearthpwn.com.	518400	IN	A	173.245.58.100
+
+hearthpwn.com.	518400	IN	A	72.9.105.30

@@ -1,0 +1,6 @@
+
+fluege.de.	86400	IN	SOA	ns.fluege.de.	mail	2019061702 1800 900 604800 86400
+fluege.de.	86400	IN	NS	ns.fluege.de.
+ns.fluege.de.	518400	IN	A	205.251.192.29
+
+fluege.de.	518400	IN	A	87.118.69.230

@@ -1,0 +1,6 @@
+
+about.me.	86400	IN	SOA	ns.about.me.	mail	2019061702 1800 900 604800 86400
+about.me.	86400	IN	NS	ns.about.me.
+ns.about.me.	518400	IN	A	216.58.200.238
+
+about.me.	518400	IN	A	54.165.177.247

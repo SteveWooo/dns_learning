@@ -1,0 +1,6 @@
+
+bluestacks.com.	86400	IN	SOA	ns.bluestacks.com.	mail	2019061702 1800 900 604800 86400
+bluestacks.com.	86400	IN	NS	ns.bluestacks.com.
+ns.bluestacks.com.	518400	IN	A	213.180.204.242
+
+bluestacks.com.	518400	IN	A	143.204.15.82

@@ -1,0 +1,6 @@
+
+cdstm.cn.	86400	IN	SOA	ns.cdstm.cn.	mail	2019061702 1800 900 604800 86400
+cdstm.cn.	86400	IN	NS	ns.cdstm.cn.
+ns.cdstm.cn.	518400	IN	A	217.69.139.112
+
+cdstm.cn.	518400	IN	A	180.76.135.89

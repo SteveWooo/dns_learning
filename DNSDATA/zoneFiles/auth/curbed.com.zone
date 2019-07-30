@@ -1,0 +1,6 @@
+
+curbed.com.	86400	IN	SOA	ns.curbed.com.	mail	2019061702 1800 900 604800 86400
+curbed.com.	86400	IN	NS	ns.curbed.com.
+ns.curbed.com.	518400	IN	A	175.126.117.211
+
+curbed.com.	518400	IN	A	151.101.129.52

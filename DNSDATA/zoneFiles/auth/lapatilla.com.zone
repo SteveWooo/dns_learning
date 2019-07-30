@@ -1,0 +1,6 @@
+
+lapatilla.com.	86400	IN	SOA	ns.lapatilla.com.	mail	2019061702 1800 900 604800 86400
+lapatilla.com.	86400	IN	NS	ns.lapatilla.com.
+ns.lapatilla.com.	518400	IN	A	205.251.192.29
+
+lapatilla.com.	518400	IN	A	104.27.135.69

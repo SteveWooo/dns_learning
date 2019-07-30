@@ -1,0 +1,6 @@
+
+siliconrus.com.	86400	IN	SOA	ns.siliconrus.com.	mail	2019061702 1800 900 604800 86400
+siliconrus.com.	86400	IN	NS	ns.siliconrus.com.
+ns.siliconrus.com.	518400	IN	A	205.251.195.203
+
+siliconrus.com.	518400	IN	A	85.119.149.83

@@ -1,0 +1,6 @@
+
+fonearena.com.	86400	IN	SOA	ns.fonearena.com.	mail	2019061702 1800 900 604800 86400
+fonearena.com.	86400	IN	NS	ns.fonearena.com.
+ns.fonearena.com.	518400	IN	A	213.180.204.242
+
+fonearena.com.	518400	IN	A	89.34.16.35

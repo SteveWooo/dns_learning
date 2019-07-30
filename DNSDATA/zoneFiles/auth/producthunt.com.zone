@@ -1,0 +1,6 @@
+
+producthunt.com.	86400	IN	SOA	ns.producthunt.com.	mail	2019061702 1800 900 604800 86400
+producthunt.com.	86400	IN	NS	ns.producthunt.com.
+ns.producthunt.com.	518400	IN	A	183.3.226.207
+
+producthunt.com.	518400	IN	A	104.18.231.83

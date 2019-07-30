@@ -1,0 +1,6 @@
+
+vgsgaming-ads.com.	86400	IN	SOA	ns.vgsgaming-ads.com.	mail	2019061702 1800 900 604800 86400
+vgsgaming-ads.com.	86400	IN	NS	ns.vgsgaming-ads.com.
+ns.vgsgaming-ads.com.	518400	IN	A	193.232.142.17
+
+vgsgaming-ads.com.	518400	IN	A	184.168.131.241

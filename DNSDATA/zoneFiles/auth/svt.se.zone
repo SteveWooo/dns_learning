@@ -1,0 +1,6 @@
+
+svt.se.	86400	IN	SOA	ns.svt.se.	mail	2019061702 1800 900 604800 86400
+svt.se.	86400	IN	NS	ns.svt.se.
+ns.svt.se.	518400	IN	A	198.11.138.249
+
+svt.se.	518400	IN	A	194.15.212.181

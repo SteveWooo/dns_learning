@@ -1,0 +1,6 @@
+
+wpengine.com.	86400	IN	SOA	ns.wpengine.com.	mail	2019061702 1800 900 604800 86400
+wpengine.com.	86400	IN	NS	ns.wpengine.com.
+ns.wpengine.com.	518400	IN	A	216.239.32.29
+
+wpengine.com.	518400	IN	A	104.16.0.252

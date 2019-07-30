@@ -1,0 +1,4 @@
+
+luxe.	86400	IN	SOA	ns.luxe.	mail	2019061702 1800 900 604800 86400
+luxe.	86400	IN	NS	ns.luxe.
+ns.luxe.	518400	IN	A	156.154.100.3

@@ -1,0 +1,6 @@
+
+elmundo.es.	86400	IN	SOA	ns.elmundo.es.	mail	2019061702 1800 900 604800 86400
+elmundo.es.	86400	IN	NS	ns.elmundo.es.
+ns.elmundo.es.	518400	IN	A	216.239.32.29
+
+elmundo.es.	518400	IN	A	168.63.31.52

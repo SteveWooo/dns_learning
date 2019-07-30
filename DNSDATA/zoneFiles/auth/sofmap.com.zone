@@ -1,0 +1,6 @@
+
+sofmap.com.	86400	IN	SOA	ns.sofmap.com.	mail	2019061702 1800 900 604800 86400
+sofmap.com.	86400	IN	NS	ns.sofmap.com.
+ns.sofmap.com.	518400	IN	A	204.69.234.1
+
+sofmap.com.	518400	IN	A	203.140.28.8

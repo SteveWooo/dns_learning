@@ -1,0 +1,6 @@
+
+amtrak.com.	86400	IN	SOA	ns.amtrak.com.	mail	2019061702 1800 900 604800 86400
+amtrak.com.	86400	IN	NS	ns.amtrak.com.
+ns.amtrak.com.	518400	IN	A	198.11.138.249
+
+amtrak.com.	518400	IN	A	104.96.134.110

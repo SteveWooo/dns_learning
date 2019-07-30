@@ -1,0 +1,6 @@
+
+refinery29.com.	86400	IN	SOA	ns.refinery29.com.	mail	2019061702 1800 900 604800 86400
+refinery29.com.	86400	IN	NS	ns.refinery29.com.
+ns.refinery29.com.	518400	IN	A	216.239.32.29
+
+refinery29.com.	518400	IN	A	151.101.230.217

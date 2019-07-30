@@ -1,0 +1,6 @@
+
+gigacircle.com.	86400	IN	SOA	ns.gigacircle.com.	mail	2019061702 1800 900 604800 86400
+gigacircle.com.	86400	IN	NS	ns.gigacircle.com.
+ns.gigacircle.com.	518400	IN	A	205.251.195.203
+
+gigacircle.com.	518400	IN	A	104.20.102.16

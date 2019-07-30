@@ -1,0 +1,6 @@
+
+odesk.com.	86400	IN	SOA	ns.odesk.com.	mail	2019061702 1800 900 604800 86400
+odesk.com.	86400	IN	NS	ns.odesk.com.
+ns.odesk.com.	518400	IN	A	216.239.32.106
+
+odesk.com.	518400	IN	A	104.16.7.18

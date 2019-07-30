@@ -1,0 +1,6 @@
+
+qunar.com.	86400	IN	SOA	ns.qunar.com.	mail	2019061702 1800 900 604800 86400
+qunar.com.	86400	IN	NS	ns.qunar.com.
+ns.qunar.com.	518400	IN	A	216.239.32.106
+
+qunar.com.	518400	IN	A	120.132.35.154

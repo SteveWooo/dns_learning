@@ -1,0 +1,6 @@
+
+bestones.net.	86400	IN	SOA	ns.bestones.net.	mail	2019061702 1800 900 604800 86400
+bestones.net.	86400	IN	NS	ns.bestones.net.
+ns.bestones.net.	518400	IN	A	173.245.59.115
+
+bestones.net.	518400	IN	A	207.244.67.216

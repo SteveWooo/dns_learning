@@ -1,0 +1,6 @@
+
+songspk.name.	86400	IN	SOA	ns.songspk.name.	mail	2019061702 1800 900 604800 86400
+songspk.name.	86400	IN	NS	ns.songspk.name.
+ns.songspk.name.	518400	IN	A	173.245.59.100
+
+songspk.name.	518400	IN	A	104.27.184.179

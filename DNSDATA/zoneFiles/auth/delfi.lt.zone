@@ -1,0 +1,6 @@
+
+delfi.lt.	86400	IN	SOA	ns.delfi.lt.	mail	2019061702 1800 900 604800 86400
+delfi.lt.	86400	IN	NS	ns.delfi.lt.
+ns.delfi.lt.	518400	IN	A	193.232.142.17
+
+delfi.lt.	518400	IN	A	91.234.200.112

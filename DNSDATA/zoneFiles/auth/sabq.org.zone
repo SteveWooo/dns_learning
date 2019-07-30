@@ -1,0 +1,6 @@
+
+sabq.org.	86400	IN	SOA	ns.sabq.org.	mail	2019061702 1800 900 604800 86400
+sabq.org.	86400	IN	NS	ns.sabq.org.
+ns.sabq.org.	518400	IN	A	203.153.43.65
+
+sabq.org.	518400	IN	A	104.16.43.64

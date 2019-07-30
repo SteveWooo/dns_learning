@@ -1,0 +1,6 @@
+
+kaiserpermanente.org.	86400	IN	SOA	ns.kaiserpermanente.org.	mail	2019061702 1800 900 604800 86400
+kaiserpermanente.org.	86400	IN	NS	ns.kaiserpermanente.org.
+ns.kaiserpermanente.org.	518400	IN	A	213.180.204.242
+
+kaiserpermanente.org.	518400	IN	A	162.119.192.164

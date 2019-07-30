@@ -1,0 +1,6 @@
+
+televisa.com.	86400	IN	SOA	ns.televisa.com.	mail	2019061702 1800 900 604800 86400
+televisa.com.	86400	IN	NS	ns.televisa.com.
+ns.televisa.com.	518400	IN	A	217.69.139.112
+
+televisa.com.	518400	IN	A	216.250.129.34

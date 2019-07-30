@@ -1,0 +1,6 @@
+
+adidas.com.	86400	IN	SOA	ns.adidas.com.	mail	2019061702 1800 900 604800 86400
+adidas.com.	86400	IN	NS	ns.adidas.com.
+ns.adidas.com.	518400	IN	A	173.245.58.138
+
+adidas.com.	518400	IN	A	213.95.138.236

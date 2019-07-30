@@ -1,0 +1,6 @@
+
+usmagazine.com.	86400	IN	SOA	ns.usmagazine.com.	mail	2019061702 1800 900 604800 86400
+usmagazine.com.	86400	IN	NS	ns.usmagazine.com.
+ns.usmagazine.com.	518400	IN	A	173.245.59.115
+
+usmagazine.com.	518400	IN	A	192.0.66.2

@@ -1,0 +1,6 @@
+
+naaptol.com.	86400	IN	SOA	ns.naaptol.com.	mail	2019061702 1800 900 604800 86400
+naaptol.com.	86400	IN	NS	ns.naaptol.com.
+ns.naaptol.com.	518400	IN	A	205.251.194.1
+
+naaptol.com.	518400	IN	A	154.83.3.248

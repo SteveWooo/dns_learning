@@ -1,0 +1,6 @@
+
+quora.com.	86400	IN	SOA	ns.quora.com.	mail	2019061702 1800 900 604800 86400
+quora.com.	86400	IN	NS	ns.quora.com.
+ns.quora.com.	518400	IN	A	204.69.234.1
+
+quora.com.	518400	IN	A	31.13.76.8

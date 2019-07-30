@@ -1,0 +1,6 @@
+
+canalrcn.com.	86400	IN	SOA	ns.canalrcn.com.	mail	2019061702 1800 900 604800 86400
+canalrcn.com.	86400	IN	NS	ns.canalrcn.com.
+ns.canalrcn.com.	518400	IN	A	216.239.32.106
+
+canalrcn.com.	518400	IN	A	52.0.140.79

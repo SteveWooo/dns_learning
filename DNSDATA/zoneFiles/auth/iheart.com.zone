@@ -1,0 +1,6 @@
+
+iheart.com.	86400	IN	SOA	ns.iheart.com.	mail	2019061702 1800 900 604800 86400
+iheart.com.	86400	IN	NS	ns.iheart.com.
+ns.iheart.com.	518400	IN	A	131.0.24.26
+
+iheart.com.	518400	IN	A	151.101.0.65

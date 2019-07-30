@@ -1,0 +1,6 @@
+
+easports.com.	86400	IN	SOA	ns.easports.com.	mail	2019061702 1800 900 604800 86400
+easports.com.	86400	IN	NS	ns.easports.com.
+ns.easports.com.	518400	IN	A	206.128.173.109
+
+easports.com.	518400	IN	A	104.91.49.82

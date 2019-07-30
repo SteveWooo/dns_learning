@@ -1,0 +1,6 @@
+
+brucelead.com.	86400	IN	SOA	ns.brucelead.com.	mail	2019061702 1800 900 604800 86400
+brucelead.com.	86400	IN	NS	ns.brucelead.com.
+ns.brucelead.com.	518400	IN	A	216.239.32.29
+
+brucelead.com.	518400	IN	A	88.202.181.92

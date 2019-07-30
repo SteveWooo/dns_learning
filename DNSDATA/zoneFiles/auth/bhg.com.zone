@@ -1,0 +1,6 @@
+
+bhg.com.	86400	IN	SOA	ns.bhg.com.	mail	2019061702 1800 900 604800 86400
+bhg.com.	86400	IN	NS	ns.bhg.com.
+ns.bhg.com.	518400	IN	A	216.239.32.106
+
+bhg.com.	518400	IN	A	198.186.175.108

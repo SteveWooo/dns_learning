@@ -1,0 +1,6 @@
+
+prezi.com.	86400	IN	SOA	ns.prezi.com.	mail	2019061702 1800 900 604800 86400
+prezi.com.	86400	IN	NS	ns.prezi.com.
+ns.prezi.com.	518400	IN	A	200.201.165.253
+
+prezi.com.	518400	IN	A	3.94.141.223

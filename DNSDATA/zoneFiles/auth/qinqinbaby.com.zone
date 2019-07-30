@@ -1,0 +1,6 @@
+
+qinqinbaby.com.	86400	IN	SOA	ns.qinqinbaby.com.	mail	2019061702 1800 900 604800 86400
+qinqinbaby.com.	86400	IN	NS	ns.qinqinbaby.com.
+ns.qinqinbaby.com.	518400	IN	A	193.232.156.17
+
+qinqinbaby.com.	518400	IN	A	101.251.195.220

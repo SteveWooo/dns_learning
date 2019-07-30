@@ -1,0 +1,6 @@
+
+metric-conversions.org.	86400	IN	SOA	ns.metric-conversions.org.	mail	2019061702 1800 900 604800 86400
+metric-conversions.org.	86400	IN	NS	ns.metric-conversions.org.
+ns.metric-conversions.org.	518400	IN	A	204.74.108.1
+
+metric-conversions.org.	518400	IN	A	52.85.230.6

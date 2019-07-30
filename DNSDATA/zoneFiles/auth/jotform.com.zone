@@ -1,0 +1,6 @@
+
+jotform.com.	86400	IN	SOA	ns.jotform.com.	mail	2019061702 1800 900 604800 86400
+jotform.com.	86400	IN	NS	ns.jotform.com.
+ns.jotform.com.	518400	IN	A	175.126.117.211
+
+jotform.com.	518400	IN	A	35.201.118.58

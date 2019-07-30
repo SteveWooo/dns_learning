@@ -1,0 +1,6 @@
+
+vporn.com.	86400	IN	SOA	ns.vporn.com.	mail	2019061702 1800 900 604800 86400
+vporn.com.	86400	IN	NS	ns.vporn.com.
+ns.vporn.com.	518400	IN	A	216.239.32.10
+
+vporn.com.	518400	IN	A	104.25.130.118

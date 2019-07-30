@@ -1,0 +1,6 @@
+
+e-estekhdam.com.	86400	IN	SOA	ns.e-estekhdam.com.	mail	2019061702 1800 900 604800 86400
+e-estekhdam.com.	86400	IN	NS	ns.e-estekhdam.com.
+ns.e-estekhdam.com.	518400	IN	A	202.108.22.220
+
+e-estekhdam.com.	518400	IN	A	130.185.73.247

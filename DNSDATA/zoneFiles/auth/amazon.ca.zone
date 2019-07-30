@@ -1,0 +1,6 @@
+
+amazon.ca.	86400	IN	SOA	ns.amazon.ca.	mail	2019061702 1800 900 604800 86400
+amazon.ca.	86400	IN	NS	ns.amazon.ca.
+ns.amazon.ca.	518400	IN	A	217.69.139.202
+
+amazon.ca.	518400	IN	A	52.94.225.242

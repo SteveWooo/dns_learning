@@ -1,0 +1,6 @@
+
+techsmith.com.	86400	IN	SOA	ns.techsmith.com.	mail	2019061702 1800 900 604800 86400
+techsmith.com.	86400	IN	NS	ns.techsmith.com.
+ns.techsmith.com.	518400	IN	A	216.239.32.10
+
+techsmith.com.	518400	IN	A	45.60.132.187

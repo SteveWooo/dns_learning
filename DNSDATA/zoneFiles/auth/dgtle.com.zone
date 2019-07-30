@@ -1,0 +1,6 @@
+
+dgtle.com.	86400	IN	SOA	ns.dgtle.com.	mail	2019061702 1800 900 604800 86400
+dgtle.com.	86400	IN	NS	ns.dgtle.com.
+ns.dgtle.com.	518400	IN	A	205.251.195.203
+
+dgtle.com.	518400	IN	A	203.195.146.235

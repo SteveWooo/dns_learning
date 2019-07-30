@@ -1,0 +1,6 @@
+
+builtwith.com.	86400	IN	SOA	ns.builtwith.com.	mail	2019061702 1800 900 604800 86400
+builtwith.com.	86400	IN	NS	ns.builtwith.com.
+ns.builtwith.com.	518400	IN	A	213.180.204.242
+
+builtwith.com.	518400	IN	A	149.56.238.60

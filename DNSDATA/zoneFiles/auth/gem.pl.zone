@@ -1,0 +1,6 @@
+
+gem.pl.	86400	IN	SOA	ns.gem.pl.	mail	2019061702 1800 900 604800 86400
+gem.pl.	86400	IN	NS	ns.gem.pl.
+ns.gem.pl.	518400	IN	A	205.251.197.107
+
+gem.pl.	518400	IN	A	85.232.225.226

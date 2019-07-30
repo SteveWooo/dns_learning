@@ -1,0 +1,6 @@
+
+bhphotovideo.com.	86400	IN	SOA	ns.bhphotovideo.com.	mail	2019061702 1800 900 604800 86400
+bhphotovideo.com.	86400	IN	NS	ns.bhphotovideo.com.
+ns.bhphotovideo.com.	518400	IN	A	198.100.156.181
+
+bhphotovideo.com.	518400	IN	A	74.113.188.100

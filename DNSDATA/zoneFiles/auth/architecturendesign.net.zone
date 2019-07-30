@@ -1,0 +1,6 @@
+
+architecturendesign.net.	86400	IN	SOA	ns.architecturendesign.net.	mail	2019061702 1800 900 604800 86400
+architecturendesign.net.	86400	IN	NS	ns.architecturendesign.net.
+ns.architecturendesign.net.	518400	IN	A	217.69.139.112
+
+architecturendesign.net.	518400	IN	A	209.58.135.68

@@ -1,0 +1,6 @@
+
+pearson.com.	86400	IN	SOA	ns.pearson.com.	mail	2019061702 1800 900 604800 86400
+pearson.com.	86400	IN	NS	ns.pearson.com.
+ns.pearson.com.	518400	IN	A	204.69.234.1
+
+pearson.com.	518400	IN	A	63.35.23.131

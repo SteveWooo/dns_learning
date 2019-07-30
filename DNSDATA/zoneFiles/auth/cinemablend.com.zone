@@ -1,0 +1,6 @@
+
+cinemablend.com.	86400	IN	SOA	ns.cinemablend.com.	mail	2019061702 1800 900 604800 86400
+cinemablend.com.	86400	IN	NS	ns.cinemablend.com.
+ns.cinemablend.com.	518400	IN	A	111.202.126.2
+
+cinemablend.com.	518400	IN	A	104.16.58.105

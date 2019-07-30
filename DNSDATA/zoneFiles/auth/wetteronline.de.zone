@@ -1,0 +1,6 @@
+
+wetteronline.de.	86400	IN	SOA	ns.wetteronline.de.	mail	2019061702 1800 900 604800 86400
+wetteronline.de.	86400	IN	NS	ns.wetteronline.de.
+ns.wetteronline.de.	518400	IN	A	213.180.193.1
+
+wetteronline.de.	518400	IN	A	81.20.81.60

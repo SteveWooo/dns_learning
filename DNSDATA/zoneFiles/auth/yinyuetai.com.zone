@@ -1,0 +1,6 @@
+
+yinyuetai.com.	86400	IN	SOA	ns.yinyuetai.com.	mail	2019061702 1800 900 604800 86400
+yinyuetai.com.	86400	IN	NS	ns.yinyuetai.com.
+ns.yinyuetai.com.	518400	IN	A	198.11.138.245
+
+yinyuetai.com.	518400	IN	A	117.79.131.138

@@ -1,0 +1,6 @@
+
+unroll.me.	86400	IN	SOA	ns.unroll.me.	mail	2019061702 1800 900 604800 86400
+unroll.me.	86400	IN	NS	ns.unroll.me.
+ns.unroll.me.	518400	IN	A	216.239.32.106
+
+unroll.me.	518400	IN	A	99.84.104.91

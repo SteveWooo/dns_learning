@@ -1,0 +1,6 @@
+
+61baobao.com.	86400	IN	SOA	ns.61baobao.com.	mail	2019061702 1800 900 604800 86400
+61baobao.com.	86400	IN	NS	ns.61baobao.com.
+ns.61baobao.com.	518400	IN	A	216.239.32.106
+
+61baobao.com.	518400	IN	A	49.51.11.89

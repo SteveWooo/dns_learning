@@ -1,0 +1,6 @@
+
+webdunia.com.	86400	IN	SOA	ns.webdunia.com.	mail	2019061702 1800 900 604800 86400
+webdunia.com.	86400	IN	NS	ns.webdunia.com.
+ns.webdunia.com.	518400	IN	A	180.149.156.12
+
+webdunia.com.	518400	IN	A	103.35.120.204

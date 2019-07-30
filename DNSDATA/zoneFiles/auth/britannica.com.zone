@@ -1,0 +1,6 @@
+
+britannica.com.	86400	IN	SOA	ns.britannica.com.	mail	2019061702 1800 900 604800 86400
+britannica.com.	86400	IN	NS	ns.britannica.com.
+ns.britannica.com.	518400	IN	A	217.69.139.202
+
+britannica.com.	518400	IN	A	208.185.238.80

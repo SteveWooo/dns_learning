@@ -1,0 +1,6 @@
+
+51credit.com.	86400	IN	SOA	ns.51credit.com.	mail	2019061702 1800 900 604800 86400
+51credit.com.	86400	IN	NS	ns.51credit.com.
+ns.51credit.com.	518400	IN	A	216.239.32.10
+
+51credit.com.	518400	IN	A	59.56.78.21

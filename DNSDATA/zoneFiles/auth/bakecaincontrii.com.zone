@@ -1,0 +1,6 @@
+
+bakecaincontrii.com.	86400	IN	SOA	ns.bakecaincontrii.com.	mail	2019061702 1800 900 604800 86400
+bakecaincontrii.com.	86400	IN	NS	ns.bakecaincontrii.com.
+ns.bakecaincontrii.com.	518400	IN	A	217.69.139.112
+
+bakecaincontrii.com.	518400	IN	A	94.23.0.63

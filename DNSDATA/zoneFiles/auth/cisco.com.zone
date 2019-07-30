@@ -1,0 +1,6 @@
+
+cisco.com.	86400	IN	SOA	ns.cisco.com.	mail	2019061702 1800 900 604800 86400
+cisco.com.	86400	IN	NS	ns.cisco.com.
+ns.cisco.com.	518400	IN	A	205.251.192.29
+
+cisco.com.	518400	IN	A	72.163.4.185

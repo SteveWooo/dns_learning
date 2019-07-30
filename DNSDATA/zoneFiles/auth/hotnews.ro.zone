@@ -1,0 +1,6 @@
+
+hotnews.ro.	86400	IN	SOA	ns.hotnews.ro.	mail	2019061702 1800 900 604800 86400
+hotnews.ro.	86400	IN	NS	ns.hotnews.ro.
+ns.hotnews.ro.	518400	IN	A	205.251.199.254
+
+hotnews.ro.	518400	IN	A	91.195.7.1

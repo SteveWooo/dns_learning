@@ -1,0 +1,6 @@
+
+searchmetrics.com.	86400	IN	SOA	ns.searchmetrics.com.	mail	2019061702 1800 900 604800 86400
+searchmetrics.com.	86400	IN	NS	ns.searchmetrics.com.
+ns.searchmetrics.com.	518400	IN	A	213.180.204.242
+
+searchmetrics.com.	518400	IN	A	63.34.151.11

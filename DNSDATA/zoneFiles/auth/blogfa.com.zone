@@ -1,0 +1,6 @@
+
+blogfa.com.	86400	IN	SOA	ns.blogfa.com.	mail	2019061702 1800 900 604800 86400
+blogfa.com.	86400	IN	NS	ns.blogfa.com.
+ns.blogfa.com.	518400	IN	A	175.126.117.211
+
+blogfa.com.	518400	IN	A	104.24.111.96

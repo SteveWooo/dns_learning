@@ -1,0 +1,6 @@
+
+icims.com.	86400	IN	SOA	ns.icims.com.	mail	2019061702 1800 900 604800 86400
+icims.com.	86400	IN	NS	ns.icims.com.
+ns.icims.com.	518400	IN	A	216.239.32.10
+
+icims.com.	518400	IN	A	52.207.139.125

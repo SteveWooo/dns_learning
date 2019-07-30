@@ -1,0 +1,6 @@
+
+the-village.ru.	86400	IN	SOA	ns.the-village.ru.	mail	2019061702 1800 900 604800 86400
+the-village.ru.	86400	IN	NS	ns.the-village.ru.
+ns.the-village.ru.	518400	IN	A	131.0.24.26
+
+the-village.ru.	518400	IN	A	148.251.204.133

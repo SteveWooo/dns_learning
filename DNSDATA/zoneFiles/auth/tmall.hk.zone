@@ -1,0 +1,6 @@
+
+tmall.hk.	86400	IN	SOA	ns.tmall.hk.	mail	2019061702 1800 900 604800 86400
+tmall.hk.	86400	IN	NS	ns.tmall.hk.
+ns.tmall.hk.	518400	IN	A	187.18.60.242
+
+tmall.hk.	518400	IN	A	134.159.210.111

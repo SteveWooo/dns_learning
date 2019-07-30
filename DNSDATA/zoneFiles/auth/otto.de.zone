@@ -1,0 +1,6 @@
+
+otto.de.	86400	IN	SOA	ns.otto.de.	mail	2019061702 1800 900 604800 86400
+otto.de.	86400	IN	NS	ns.otto.de.
+ns.otto.de.	518400	IN	A	205.251.194.1
+
+otto.de.	518400	IN	A	3.121.44.49

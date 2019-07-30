@@ -1,0 +1,6 @@
+
+localpages.com.	86400	IN	SOA	ns.localpages.com.	mail	2019061702 1800 900 604800 86400
+localpages.com.	86400	IN	NS	ns.localpages.com.
+ns.localpages.com.	518400	IN	A	216.58.200.238
+
+localpages.com.	518400	IN	A	66.63.171.200

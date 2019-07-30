@@ -1,0 +1,6 @@
+
+designmodo.com.	86400	IN	SOA	ns.designmodo.com.	mail	2019061702 1800 900 604800 86400
+designmodo.com.	86400	IN	NS	ns.designmodo.com.
+ns.designmodo.com.	518400	IN	A	217.69.139.112
+
+designmodo.com.	518400	IN	A	198.27.78.251

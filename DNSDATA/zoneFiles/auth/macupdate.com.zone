@@ -1,0 +1,6 @@
+
+macupdate.com.	86400	IN	SOA	ns.macupdate.com.	mail	2019061702 1800 900 604800 86400
+macupdate.com.	86400	IN	NS	ns.macupdate.com.
+ns.macupdate.com.	518400	IN	A	205.251.199.254
+
+macupdate.com.	518400	IN	A	54.230.53.58

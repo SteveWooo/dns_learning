@@ -1,0 +1,6 @@
+
+officedepot.com.	86400	IN	SOA	ns.officedepot.com.	mail	2019061702 1800 900 604800 86400
+officedepot.com.	86400	IN	NS	ns.officedepot.com.
+ns.officedepot.com.	518400	IN	A	78.40.125.184
+
+officedepot.com.	518400	IN	A	118.215.64.39

@@ -1,0 +1,6 @@
+
+india.com.	86400	IN	SOA	ns.india.com.	mail	2019061702 1800 900 604800 86400
+india.com.	86400	IN	NS	ns.india.com.
+ns.india.com.	518400	IN	A	217.69.139.112
+
+india.com.	518400	IN	A	54.173.62.149

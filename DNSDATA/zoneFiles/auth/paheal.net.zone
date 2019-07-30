@@ -1,0 +1,6 @@
+
+paheal.net.	86400	IN	SOA	ns.paheal.net.	mail	2019061702 1800 900 604800 86400
+paheal.net.	86400	IN	NS	ns.paheal.net.
+ns.paheal.net.	518400	IN	A	208.78.70.47
+
+paheal.net.	518400	IN	A	208.97.151.195

@@ -1,0 +1,6 @@
+
+carrefour.fr.	86400	IN	SOA	ns.carrefour.fr.	mail	2019061702 1800 900 604800 86400
+carrefour.fr.	86400	IN	NS	ns.carrefour.fr.
+ns.carrefour.fr.	518400	IN	A	205.251.199.254
+
+carrefour.fr.	518400	IN	A	45.60.13.207

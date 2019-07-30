@@ -1,0 +1,6 @@
+
+meduza.io.	86400	IN	SOA	ns.meduza.io.	mail	2019061702 1800 900 604800 86400
+meduza.io.	86400	IN	NS	ns.meduza.io.
+ns.meduza.io.	518400	IN	A	216.239.32.10
+
+meduza.io.	518400	IN	A	91.227.34.40

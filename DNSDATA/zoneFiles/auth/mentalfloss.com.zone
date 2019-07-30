@@ -1,0 +1,6 @@
+
+mentalfloss.com.	86400	IN	SOA	ns.mentalfloss.com.	mail	2019061702 1800 900 604800 86400
+mentalfloss.com.	86400	IN	NS	ns.mentalfloss.com.
+ns.mentalfloss.com.	518400	IN	A	205.251.192.29
+
+mentalfloss.com.	518400	IN	A	50.22.188.75

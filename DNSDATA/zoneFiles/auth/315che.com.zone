@@ -1,0 +1,6 @@
+
+315che.com.	86400	IN	SOA	ns.315che.com.	mail	2019061702 1800 900 604800 86400
+315che.com.	86400	IN	NS	ns.315che.com.
+ns.315che.com.	518400	IN	A	216.239.32.10
+
+315che.com.	518400	IN	A	115.159.66.252

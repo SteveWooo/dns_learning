@@ -1,0 +1,6 @@
+
+tribalwars2.com.	86400	IN	SOA	ns.tribalwars2.com.	mail	2019061702 1800 900 604800 86400
+tribalwars2.com.	86400	IN	NS	ns.tribalwars2.com.
+ns.tribalwars2.com.	518400	IN	A	213.180.193.1
+
+tribalwars2.com.	518400	IN	A	212.72.179.16

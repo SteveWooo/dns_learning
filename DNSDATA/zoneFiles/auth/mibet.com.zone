@@ -1,0 +1,6 @@
+
+mibet.com.	86400	IN	SOA	ns.mibet.com.	mail	2019061702 1800 900 604800 86400
+mibet.com.	86400	IN	NS	ns.mibet.com.
+ns.mibet.com.	518400	IN	A	200.221.11.98
+
+mibet.com.	518400	IN	A	104.24.17.70

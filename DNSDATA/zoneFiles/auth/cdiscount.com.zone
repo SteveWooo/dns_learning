@@ -1,0 +1,6 @@
+
+cdiscount.com.	86400	IN	SOA	ns.cdiscount.com.	mail	2019061702 1800 900 604800 86400
+cdiscount.com.	86400	IN	NS	ns.cdiscount.com.
+ns.cdiscount.com.	518400	IN	A	205.251.199.254
+
+cdiscount.com.	518400	IN	A	185.94.140.30

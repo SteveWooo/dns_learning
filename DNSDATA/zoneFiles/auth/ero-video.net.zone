@@ -1,0 +1,6 @@
+
+ero-video.net.	86400	IN	SOA	ns.ero-video.net.	mail	2019061702 1800 900 604800 86400
+ero-video.net.	86400	IN	NS	ns.ero-video.net.
+ns.ero-video.net.	518400	IN	A	213.180.204.242
+
+ero-video.net.	518400	IN	A	69.36.160.167

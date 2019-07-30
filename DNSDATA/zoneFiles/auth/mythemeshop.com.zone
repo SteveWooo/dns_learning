@@ -1,0 +1,6 @@
+
+mythemeshop.com.	86400	IN	SOA	ns.mythemeshop.com.	mail	2019061702 1800 900 604800 86400
+mythemeshop.com.	86400	IN	NS	ns.mythemeshop.com.
+ns.mythemeshop.com.	518400	IN	A	205.251.199.254
+
+mythemeshop.com.	518400	IN	A	104.28.18.137

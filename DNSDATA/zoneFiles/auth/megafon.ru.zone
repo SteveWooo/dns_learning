@@ -1,0 +1,6 @@
+
+megafon.ru.	86400	IN	SOA	ns.megafon.ru.	mail	2019061702 1800 900 604800 86400
+megafon.ru.	86400	IN	NS	ns.megafon.ru.
+ns.megafon.ru.	518400	IN	A	217.69.139.202
+
+megafon.ru.	518400	IN	A	85.26.148.161

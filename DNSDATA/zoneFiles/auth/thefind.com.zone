@@ -1,0 +1,6 @@
+
+thefind.com.	86400	IN	SOA	ns.thefind.com.	mail	2019061702 1800 900 604800 86400
+thefind.com.	86400	IN	NS	ns.thefind.com.
+ns.thefind.com.	518400	IN	A	165.160.15.20
+
+thefind.com.	518400	IN	A	157.240.24.20

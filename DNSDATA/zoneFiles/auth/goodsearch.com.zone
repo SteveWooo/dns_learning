@@ -1,0 +1,6 @@
+
+goodsearch.com.	86400	IN	SOA	ns.goodsearch.com.	mail	2019061702 1800 900 604800 86400
+goodsearch.com.	86400	IN	NS	ns.goodsearch.com.
+ns.goodsearch.com.	518400	IN	A	205.251.194.1
+
+goodsearch.com.	518400	IN	A	104.22.5.85

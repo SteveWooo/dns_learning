@@ -1,0 +1,6 @@
+
+astromenda.com.	86400	IN	SOA	ns.astromenda.com.	mail	2019061702 1800 900 604800 86400
+astromenda.com.	86400	IN	NS	ns.astromenda.com.
+ns.astromenda.com.	518400	IN	A	200.221.11.98
+
+astromenda.com.	518400	IN	A	54.247.165.1

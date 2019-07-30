@@ -1,0 +1,6 @@
+
+depositfiles.com.	86400	IN	SOA	ns.depositfiles.com.	mail	2019061702 1800 900 604800 86400
+depositfiles.com.	86400	IN	NS	ns.depositfiles.com.
+ns.depositfiles.com.	518400	IN	A	216.239.32.106
+
+depositfiles.com.	518400	IN	A	94.242.227.151

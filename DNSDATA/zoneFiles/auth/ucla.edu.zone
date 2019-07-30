@@ -1,0 +1,6 @@
+
+ucla.edu.	86400	IN	SOA	ns.ucla.edu.	mail	2019061702 1800 900 604800 86400
+ucla.edu.	86400	IN	NS	ns.ucla.edu.
+ns.ucla.edu.	518400	IN	A	175.126.117.211
+
+ucla.edu.	518400	IN	A	128.97.27.37

@@ -1,0 +1,6 @@
+
+yandex.ua.	86400	IN	SOA	ns.yandex.ua.	mail	2019061702 1800 900 604800 86400
+yandex.ua.	86400	IN	NS	ns.yandex.ua.
+ns.yandex.ua.	518400	IN	A	216.239.32.29
+
+yandex.ua.	518400	IN	A	149.5.244.17

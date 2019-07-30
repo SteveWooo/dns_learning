@@ -1,0 +1,6 @@
+
+thekitchn.com.	86400	IN	SOA	ns.thekitchn.com.	mail	2019061702 1800 900 604800 86400
+thekitchn.com.	86400	IN	NS	ns.thekitchn.com.
+ns.thekitchn.com.	518400	IN	A	205.251.197.107
+
+thekitchn.com.	518400	IN	A	151.101.66.49

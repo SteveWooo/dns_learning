@@ -1,0 +1,6 @@
+
+visualstudio.com.	86400	IN	SOA	ns.visualstudio.com.	mail	2019061702 1800 900 604800 86400
+visualstudio.com.	86400	IN	NS	ns.visualstudio.com.
+ns.visualstudio.com.	518400	IN	A	173.245.59.160
+
+visualstudio.com.	518400	IN	A	13.107.6.175

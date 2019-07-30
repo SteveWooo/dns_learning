@@ -1,0 +1,6 @@
+
+hkgolden.com.	86400	IN	SOA	ns.hkgolden.com.	mail	2019061702 1800 900 604800 86400
+hkgolden.com.	86400	IN	NS	ns.hkgolden.com.
+ns.hkgolden.com.	518400	IN	A	216.239.32.29
+
+hkgolden.com.	518400	IN	A	31.13.71.7

@@ -1,0 +1,6 @@
+
+wired.com.	86400	IN	SOA	ns.wired.com.	mail	2019061702 1800 900 604800 86400
+wired.com.	86400	IN	NS	ns.wired.com.
+ns.wired.com.	518400	IN	A	213.180.193.1
+
+wired.com.	518400	IN	A	151.101.66.194

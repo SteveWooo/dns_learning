@@ -1,0 +1,6 @@
+
+bettycrocker.com.	86400	IN	SOA	ns.bettycrocker.com.	mail	2019061702 1800 900 604800 86400
+bettycrocker.com.	86400	IN	NS	ns.bettycrocker.com.
+ns.bettycrocker.com.	518400	IN	A	183.3.226.207
+
+bettycrocker.com.	518400	IN	A	153.13.148.205

@@ -1,0 +1,6 @@
+
+funnyjunk.com.	86400	IN	SOA	ns.funnyjunk.com.	mail	2019061702 1800 900 604800 86400
+funnyjunk.com.	86400	IN	NS	ns.funnyjunk.com.
+ns.funnyjunk.com.	518400	IN	A	216.239.32.106
+
+funnyjunk.com.	518400	IN	A	149.56.126.49

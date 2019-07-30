@@ -1,0 +1,6 @@
+
+trello.com.	86400	IN	SOA	ns.trello.com.	mail	2019061702 1800 900 604800 86400
+trello.com.	86400	IN	NS	ns.trello.com.
+ns.trello.com.	518400	IN	A	216.239.32.10
+
+trello.com.	518400	IN	A	2.17.54.178

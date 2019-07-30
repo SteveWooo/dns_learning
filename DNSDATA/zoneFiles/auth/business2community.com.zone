@@ -1,0 +1,6 @@
+
+business2community.com.	86400	IN	SOA	ns.business2community.com.	mail	2019061702 1800 900 604800 86400
+business2community.com.	86400	IN	NS	ns.business2community.com.
+ns.business2community.com.	518400	IN	A	213.180.204.242
+
+business2community.com.	518400	IN	A	166.78.238.159

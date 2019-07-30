@@ -1,0 +1,6 @@
+
+1digitalstock.com.	86400	IN	SOA	ns.1digitalstock.com.	mail	2019061702 1800 900 604800 86400
+1digitalstock.com.	86400	IN	NS	ns.1digitalstock.com.
+ns.1digitalstock.com.	518400	IN	A	205.251.194.1
+
+1digitalstock.com.	518400	IN	A	103.224.182.251

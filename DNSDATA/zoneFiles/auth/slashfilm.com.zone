@@ -1,0 +1,6 @@
+
+slashfilm.com.	86400	IN	SOA	ns.slashfilm.com.	mail	2019061702 1800 900 604800 86400
+slashfilm.com.	86400	IN	NS	ns.slashfilm.com.
+ns.slashfilm.com.	518400	IN	A	216.239.32.106
+
+slashfilm.com.	518400	IN	A	104.31.84.88

@@ -1,0 +1,6 @@
+
+nosub.tv.	86400	IN	SOA	ns.nosub.tv.	mail	2019061702 1800 900 604800 86400
+nosub.tv.	86400	IN	NS	ns.nosub.tv.
+ns.nosub.tv.	518400	IN	A	204.69.234.1
+
+nosub.tv.	518400	IN	A	104.28.19.37

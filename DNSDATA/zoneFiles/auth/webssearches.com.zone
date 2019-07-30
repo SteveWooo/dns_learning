@@ -1,0 +1,6 @@
+
+webssearches.com.	86400	IN	SOA	ns.webssearches.com.	mail	2019061702 1800 900 604800 86400
+webssearches.com.	86400	IN	NS	ns.webssearches.com.
+ns.webssearches.com.	518400	IN	A	213.180.204.242
+
+webssearches.com.	518400	IN	A	50.97.48.52

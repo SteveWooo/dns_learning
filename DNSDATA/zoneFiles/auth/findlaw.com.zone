@@ -1,0 +1,6 @@
+
+findlaw.com.	86400	IN	SOA	ns.findlaw.com.	mail	2019061702 1800 900 604800 86400
+findlaw.com.	86400	IN	NS	ns.findlaw.com.
+ns.findlaw.com.	518400	IN	A	216.239.32.29
+
+findlaw.com.	518400	IN	A	66.35.204.10

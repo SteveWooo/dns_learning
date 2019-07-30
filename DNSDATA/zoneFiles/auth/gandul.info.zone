@@ -1,0 +1,6 @@
+
+gandul.info.	86400	IN	SOA	ns.gandul.info.	mail	2019061702 1800 900 604800 86400
+gandul.info.	86400	IN	NS	ns.gandul.info.
+ns.gandul.info.	518400	IN	A	216.58.200.238
+
+gandul.info.	518400	IN	A	93.113.11.102

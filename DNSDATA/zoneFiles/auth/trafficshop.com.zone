@@ -1,0 +1,6 @@
+
+trafficshop.com.	86400	IN	SOA	ns.trafficshop.com.	mail	2019061702 1800 900 604800 86400
+trafficshop.com.	86400	IN	NS	ns.trafficshop.com.
+ns.trafficshop.com.	518400	IN	A	198.11.138.249
+
+trafficshop.com.	518400	IN	A	78.140.158.125

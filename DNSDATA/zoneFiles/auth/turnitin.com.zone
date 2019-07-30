@@ -1,0 +1,6 @@
+
+turnitin.com.	86400	IN	SOA	ns.turnitin.com.	mail	2019061702 1800 900 604800 86400
+turnitin.com.	86400	IN	NS	ns.turnitin.com.
+ns.turnitin.com.	518400	IN	A	217.69.139.202
+
+turnitin.com.	518400	IN	A	151.101.65.154

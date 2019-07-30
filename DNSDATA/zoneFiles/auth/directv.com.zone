@@ -1,0 +1,6 @@
+
+directv.com.	86400	IN	SOA	ns.directv.com.	mail	2019061702 1800 900 604800 86400
+directv.com.	86400	IN	NS	ns.directv.com.
+ns.directv.com.	518400	IN	A	173.245.59.130
+
+directv.com.	518400	IN	A	147.21.176.14

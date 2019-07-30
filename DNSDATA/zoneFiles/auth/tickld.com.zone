@@ -1,0 +1,6 @@
+
+tickld.com.	86400	IN	SOA	ns.tickld.com.	mail	2019061702 1800 900 604800 86400
+tickld.com.	86400	IN	NS	ns.tickld.com.
+ns.tickld.com.	518400	IN	A	213.180.204.242
+
+tickld.com.	518400	IN	A	104.16.22.205

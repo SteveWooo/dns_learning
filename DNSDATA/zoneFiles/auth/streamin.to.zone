@@ -1,0 +1,6 @@
+
+streamin.to.	86400	IN	SOA	ns.streamin.to.	mail	2019061702 1800 900 604800 86400
+streamin.to.	86400	IN	NS	ns.streamin.to.
+ns.streamin.to.	518400	IN	A	198.100.156.181
+
+streamin.to.	518400	IN	A	127.0.0.1

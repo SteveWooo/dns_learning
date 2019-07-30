@@ -1,0 +1,6 @@
+
+kalerkantho.com.	86400	IN	SOA	ns.kalerkantho.com.	mail	2019061702 1800 900 604800 86400
+kalerkantho.com.	86400	IN	NS	ns.kalerkantho.com.
+ns.kalerkantho.com.	518400	IN	A	131.0.24.26
+
+kalerkantho.com.	518400	IN	A	104.16.243.81

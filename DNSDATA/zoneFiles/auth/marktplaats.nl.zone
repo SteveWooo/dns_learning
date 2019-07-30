@@ -1,0 +1,6 @@
+
+marktplaats.nl.	86400	IN	SOA	ns.marktplaats.nl.	mail	2019061702 1800 900 604800 86400
+marktplaats.nl.	86400	IN	NS	ns.marktplaats.nl.
+ns.marktplaats.nl.	518400	IN	A	200.219.154.10
+
+marktplaats.nl.	518400	IN	A	35.241.25.146

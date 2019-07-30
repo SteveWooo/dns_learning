@@ -1,0 +1,6 @@
+
+aucfan.com.	86400	IN	SOA	ns.aucfan.com.	mail	2019061702 1800 900 604800 86400
+aucfan.com.	86400	IN	NS	ns.aucfan.com.
+ns.aucfan.com.	518400	IN	A	87.240.131.131
+
+aucfan.com.	518400	IN	A	13.231.7.147

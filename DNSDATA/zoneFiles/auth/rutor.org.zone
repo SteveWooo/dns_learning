@@ -1,0 +1,6 @@
+
+rutor.org.	86400	IN	SOA	ns.rutor.org.	mail	2019061702 1800 900 604800 86400
+rutor.org.	86400	IN	NS	ns.rutor.org.
+ns.rutor.org.	518400	IN	A	216.58.200.238
+
+rutor.org.	518400	IN	A	5.45.86.112

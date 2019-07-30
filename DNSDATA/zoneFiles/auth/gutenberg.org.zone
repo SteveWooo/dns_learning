@@ -1,0 +1,6 @@
+
+gutenberg.org.	86400	IN	SOA	ns.gutenberg.org.	mail	2019061702 1800 900 604800 86400
+gutenberg.org.	86400	IN	NS	ns.gutenberg.org.
+ns.gutenberg.org.	518400	IN	A	202.108.22.220
+
+gutenberg.org.	518400	IN	A	152.19.134.47

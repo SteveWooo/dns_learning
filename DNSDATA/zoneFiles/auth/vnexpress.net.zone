@@ -1,0 +1,6 @@
+
+vnexpress.net.	86400	IN	SOA	ns.vnexpress.net.	mail	2019061702 1800 900 604800 86400
+vnexpress.net.	86400	IN	NS	ns.vnexpress.net.
+ns.vnexpress.net.	518400	IN	A	200.219.154.10
+
+vnexpress.net.	518400	IN	A	111.65.250.2

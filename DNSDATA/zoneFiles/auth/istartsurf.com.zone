@@ -1,0 +1,6 @@
+
+istartsurf.com.	86400	IN	SOA	ns.istartsurf.com.	mail	2019061702 1800 900 604800 86400
+istartsurf.com.	86400	IN	NS	ns.istartsurf.com.
+ns.istartsurf.com.	518400	IN	A	213.180.193.1
+
+istartsurf.com.	518400	IN	A	50.97.48.52

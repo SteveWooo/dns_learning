@@ -1,0 +1,6 @@
+
+arstechnica.com.	86400	IN	SOA	ns.arstechnica.com.	mail	2019061702 1800 900 604800 86400
+arstechnica.com.	86400	IN	NS	ns.arstechnica.com.
+ns.arstechnica.com.	518400	IN	A	213.180.193.1
+
+arstechnica.com.	518400	IN	A	50.31.169.131

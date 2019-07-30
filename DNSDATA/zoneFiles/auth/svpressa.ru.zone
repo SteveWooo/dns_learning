@@ -1,0 +1,6 @@
+
+svpressa.ru.	86400	IN	SOA	ns.svpressa.ru.	mail	2019061702 1800 900 604800 86400
+svpressa.ru.	86400	IN	NS	ns.svpressa.ru.
+ns.svpressa.ru.	518400	IN	A	140.205.67.253
+
+svpressa.ru.	518400	IN	A	88.212.201.209

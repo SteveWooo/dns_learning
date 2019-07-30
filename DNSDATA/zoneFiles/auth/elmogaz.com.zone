@@ -1,0 +1,6 @@
+
+elmogaz.com.	86400	IN	SOA	ns.elmogaz.com.	mail	2019061702 1800 900 604800 86400
+elmogaz.com.	86400	IN	NS	ns.elmogaz.com.
+ns.elmogaz.com.	518400	IN	A	198.11.138.245
+
+elmogaz.com.	518400	IN	A	104.27.170.122

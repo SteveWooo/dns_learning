@@ -1,0 +1,6 @@
+
+akakce.com.	86400	IN	SOA	ns.akakce.com.	mail	2019061702 1800 900 604800 86400
+akakce.com.	86400	IN	NS	ns.akakce.com.
+ns.akakce.com.	518400	IN	A	216.239.32.29
+
+akakce.com.	518400	IN	A	85.111.4.208

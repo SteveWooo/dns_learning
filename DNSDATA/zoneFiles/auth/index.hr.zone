@@ -1,0 +1,6 @@
+
+index.hr.	86400	IN	SOA	ns.index.hr.	mail	2019061702 1800 900 604800 86400
+index.hr.	86400	IN	NS	ns.index.hr.
+ns.index.hr.	518400	IN	A	193.232.142.17
+
+index.hr.	518400	IN	A	104.19.136.111

@@ -1,0 +1,6 @@
+
+elkhabar.com.	86400	IN	SOA	ns.elkhabar.com.	mail	2019061702 1800 900 604800 86400
+elkhabar.com.	86400	IN	NS	ns.elkhabar.com.
+ns.elkhabar.com.	518400	IN	A	216.239.32.29
+
+elkhabar.com.	518400	IN	A	104.18.41.253

@@ -1,0 +1,6 @@
+
+canadapost.ca.	86400	IN	SOA	ns.canadapost.ca.	mail	2019061702 1800 900 604800 86400
+canadapost.ca.	86400	IN	NS	ns.canadapost.ca.
+ns.canadapost.ca.	518400	IN	A	198.11.138.249
+
+canadapost.ca.	518400	IN	A	23.223.180.68

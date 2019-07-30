@@ -1,0 +1,6 @@
+
+tiboo.cn.	86400	IN	SOA	ns.tiboo.cn.	mail	2019061702 1800 900 604800 86400
+tiboo.cn.	86400	IN	NS	ns.tiboo.cn.
+ns.tiboo.cn.	518400	IN	A	180.149.156.12
+
+tiboo.cn.	518400	IN	A	59.53.91.174

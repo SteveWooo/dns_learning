@@ -1,0 +1,6 @@
+
+tubecup.com.	86400	IN	SOA	ns.tubecup.com.	mail	2019061702 1800 900 604800 86400
+tubecup.com.	86400	IN	NS	ns.tubecup.com.
+ns.tubecup.com.	518400	IN	A	213.180.193.1
+
+tubecup.com.	518400	IN	A	104.27.3.88

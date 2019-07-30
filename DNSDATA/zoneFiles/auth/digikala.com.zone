@@ -1,0 +1,6 @@
+
+digikala.com.	86400	IN	SOA	ns.digikala.com.	mail	2019061702 1800 900 604800 86400
+digikala.com.	86400	IN	NS	ns.digikala.com.
+ns.digikala.com.	518400	IN	A	64.106.209.186
+
+digikala.com.	518400	IN	A	185.188.104.10

@@ -1,0 +1,6 @@
+
+usembassy.gov.	86400	IN	SOA	ns.usembassy.gov.	mail	2019061702 1800 900 604800 86400
+usembassy.gov.	86400	IN	NS	ns.usembassy.gov.
+ns.usembassy.gov.	518400	IN	A	216.239.32.106
+
+usembassy.gov.	518400	IN	A	75.126.100.25

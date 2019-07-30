@@ -1,0 +1,6 @@
+
+mydealz.de.	86400	IN	SOA	ns.mydealz.de.	mail	2019061702 1800 900 604800 86400
+mydealz.de.	86400	IN	NS	ns.mydealz.de.
+ns.mydealz.de.	518400	IN	A	200.219.154.10
+
+mydealz.de.	518400	IN	A	104.17.81.73

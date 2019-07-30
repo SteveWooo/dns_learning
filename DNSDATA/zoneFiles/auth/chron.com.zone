@@ -1,0 +1,6 @@
+
+chron.com.	86400	IN	SOA	ns.chron.com.	mail	2019061702 1800 900 604800 86400
+chron.com.	86400	IN	NS	ns.chron.com.
+ns.chron.com.	518400	IN	A	204.69.234.1
+
+chron.com.	518400	IN	A	98.129.228.59

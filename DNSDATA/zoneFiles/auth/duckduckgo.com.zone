@@ -1,0 +1,6 @@
+
+duckduckgo.com.	86400	IN	SOA	ns.duckduckgo.com.	mail	2019061702 1800 900 604800 86400
+duckduckgo.com.	86400	IN	NS	ns.duckduckgo.com.
+ns.duckduckgo.com.	518400	IN	A	216.239.32.10
+
+duckduckgo.com.	518400	IN	A	199.59.148.14

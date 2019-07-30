@@ -1,0 +1,6 @@
+
+blogspot.de.	86400	IN	SOA	ns.blogspot.de.	mail	2019061702 1800 900 604800 86400
+blogspot.de.	86400	IN	NS	ns.blogspot.de.
+ns.blogspot.de.	518400	IN	A	202.108.22.220
+
+blogspot.de.	518400	IN	A	31.13.65.1

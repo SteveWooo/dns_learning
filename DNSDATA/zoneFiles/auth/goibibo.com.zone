@@ -1,0 +1,6 @@
+
+goibibo.com.	86400	IN	SOA	ns.goibibo.com.	mail	2019061702 1800 900 604800 86400
+goibibo.com.	86400	IN	NS	ns.goibibo.com.
+ns.goibibo.com.	518400	IN	A	202.108.22.220
+
+goibibo.com.	518400	IN	A	35.154.167.97

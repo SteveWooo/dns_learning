@@ -1,0 +1,6 @@
+
+check24.de.	86400	IN	SOA	ns.check24.de.	mail	2019061702 1800 900 604800 86400
+check24.de.	86400	IN	NS	ns.check24.de.
+ns.check24.de.	518400	IN	A	193.108.91.127
+
+check24.de.	518400	IN	A	213.155.92.10

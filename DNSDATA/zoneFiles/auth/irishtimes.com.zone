@@ -1,0 +1,6 @@
+
+irishtimes.com.	86400	IN	SOA	ns.irishtimes.com.	mail	2019061702 1800 900 604800 86400
+irishtimes.com.	86400	IN	NS	ns.irishtimes.com.
+ns.irishtimes.com.	518400	IN	A	205.251.194.1
+
+irishtimes.com.	518400	IN	A	151.101.130.174

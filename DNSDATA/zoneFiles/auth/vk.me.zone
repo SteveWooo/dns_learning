@@ -1,0 +1,6 @@
+
+vk.me.	86400	IN	SOA	ns.vk.me.	mail	2019061702 1800 900 604800 86400
+vk.me.	86400	IN	NS	ns.vk.me.
+ns.vk.me.	518400	IN	A	173.245.59.115
+
+vk.me.	518400	IN	A	87.240.190.64

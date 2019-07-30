@@ -1,0 +1,6 @@
+
+payback.de.	86400	IN	SOA	ns.payback.de.	mail	2019061702 1800 900 604800 86400
+payback.de.	86400	IN	NS	ns.payback.de.
+ns.payback.de.	518400	IN	A	213.180.204.242
+
+payback.de.	518400	IN	A	45.60.20.82

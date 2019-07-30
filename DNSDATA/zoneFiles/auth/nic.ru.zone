@@ -1,0 +1,6 @@
+
+nic.ru.	86400	IN	SOA	ns.nic.ru.	mail	2019061702 1800 900 604800 86400
+nic.ru.	86400	IN	NS	ns.nic.ru.
+ns.nic.ru.	518400	IN	A	208.78.70.47
+
+nic.ru.	518400	IN	A	31.177.80.4

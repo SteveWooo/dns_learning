@@ -1,0 +1,6 @@
+
+anthropologie.com.	86400	IN	SOA	ns.anthropologie.com.	mail	2019061702 1800 900 604800 86400
+anthropologie.com.	86400	IN	NS	ns.anthropologie.com.
+ns.anthropologie.com.	518400	IN	A	216.58.200.238
+
+anthropologie.com.	518400	IN	A	23.75.20.118

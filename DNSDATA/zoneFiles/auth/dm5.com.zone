@@ -1,0 +1,6 @@
+
+dm5.com.	86400	IN	SOA	ns.dm5.com.	mail	2019061702 1800 900 604800 86400
+dm5.com.	86400	IN	NS	ns.dm5.com.
+ns.dm5.com.	518400	IN	A	216.58.200.238
+
+dm5.com.	518400	IN	A	61.174.50.104

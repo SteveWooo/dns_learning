@@ -1,0 +1,6 @@
+
+yam.com.	86400	IN	SOA	ns.yam.com.	mail	2019061702 1800 900 604800 86400
+yam.com.	86400	IN	NS	ns.yam.com.
+ns.yam.com.	518400	IN	A	205.251.199.254
+
+yam.com.	518400	IN	A	13.75.119.113

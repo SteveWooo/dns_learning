@@ -1,0 +1,6 @@
+
+graphicriver.net.	86400	IN	SOA	ns.graphicriver.net.	mail	2019061702 1800 900 604800 86400
+graphicriver.net.	86400	IN	NS	ns.graphicriver.net.
+ns.graphicriver.net.	518400	IN	A	217.69.139.112
+
+graphicriver.net.	518400	IN	A	104.18.21.165

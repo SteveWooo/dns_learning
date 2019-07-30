@@ -1,0 +1,6 @@
+
+tvtoday.de.	86400	IN	SOA	ns.tvtoday.de.	mail	2019061702 1800 900 604800 86400
+tvtoday.de.	86400	IN	NS	ns.tvtoday.de.
+ns.tvtoday.de.	518400	IN	A	173.245.58.100
+
+tvtoday.de.	518400	IN	A	151.106.72.75

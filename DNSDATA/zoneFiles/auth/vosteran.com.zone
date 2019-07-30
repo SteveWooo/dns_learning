@@ -1,0 +1,6 @@
+
+vosteran.com.	86400	IN	SOA	ns.vosteran.com.	mail	2019061702 1800 900 604800 86400
+vosteran.com.	86400	IN	NS	ns.vosteran.com.
+ns.vosteran.com.	518400	IN	A	200.201.161.22
+
+vosteran.com.	518400	IN	A	107.22.185.32

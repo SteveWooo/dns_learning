@@ -1,0 +1,502 @@
+
+cn.	86400	IN	SOA	ns.cn.	mail	2019061702 1800 900 604800 86400
+cn.	86400	IN	NS	ns.cn.
+ns.cn.	518400	IN	A	202.112.0.44
+
+78.cn.	86400	IN	NS	ns.78.cn.
+ns.78.cn.	518400	IN	A	2.16.130.64
+
+dict.cn.	86400	IN	NS	ns.dict.cn.
+ns.dict.cn.	518400	IN	A	2.16.130.64
+
+shihuo.cn.	86400	IN	NS	ns.shihuo.cn.
+ns.shihuo.cn.	518400	IN	A	23.211.61.66
+
+sciencenet.cn.	86400	IN	NS	ns.sciencenet.cn.
+ns.sciencenet.cn.	518400	IN	A	23.211.61.66
+
+92lux.cn.	86400	IN	NS	ns.92lux.cn.
+ns.92lux.cn.	518400	IN	A	36.51.252.8
+
+gongchang.cn.	86400	IN	NS	ns.gongchang.cn.
+ns.gongchang.cn.	518400	IN	A	52.164.230.183
+
+rising.cn.	86400	IN	NS	ns.rising.cn.
+ns.rising.cn.	518400	IN	A	52.164.230.183
+
+cntv.cn.	86400	IN	NS	ns.cntv.cn.
+ns.cntv.cn.	518400	IN	A	58.180.27.231
+
+huihui.cn.	86400	IN	NS	ns.huihui.cn.
+ns.huihui.cn.	518400	IN	A	58.180.27.226
+
+chinabroadcast.cn.	86400	IN	NS	ns.chinabroadcast.cn.
+ns.chinabroadcast.cn.	518400	IN	A	64.106.209.186
+
+firefoxchina.cn.	86400	IN	NS	ns.firefoxchina.cn.
+ns.firefoxchina.cn.	518400	IN	A	64.106.209.186
+
+huihui.cn.	86400	IN	NS	ns.huihui.cn.
+ns.huihui.cn.	518400	IN	A	64.106.209.186
+
+youth.cn.	86400	IN	NS	ns.youth.cn.
+ns.youth.cn.	518400	IN	A	64.106.209.186
+
+google.cn.	86400	IN	NS	ns.google.cn.
+ns.google.cn.	518400	IN	A	64.106.209.186
+
+thepaper.cn.	86400	IN	NS	ns.thepaper.cn.
+ns.thepaper.cn.	518400	IN	A	77.88.55.50
+
+google.cn.	86400	IN	NS	ns.google.cn.
+ns.google.cn.	518400	IN	A	78.40.125.184
+
+365jia.cn.	86400	IN	NS	ns.365jia.cn.
+ns.365jia.cn.	518400	IN	A	78.40.125.184
+
+firefoxchina.cn.	86400	IN	NS	ns.firefoxchina.cn.
+ns.firefoxchina.cn.	518400	IN	A	78.40.125.184
+
+tiboo.cn.	86400	IN	NS	ns.tiboo.cn.
+ns.tiboo.cn.	518400	IN	A	78.40.125.184
+
+v1.cn.	86400	IN	NS	ns.v1.cn.
+ns.v1.cn.	518400	IN	A	78.40.125.184
+
+xiaomi.cn.	86400	IN	NS	ns.xiaomi.cn.
+ns.xiaomi.cn.	518400	IN	A	78.40.125.184
+
+chinabroadcast.cn.	86400	IN	NS	ns.chinabroadcast.cn.
+ns.chinabroadcast.cn.	518400	IN	A	81.19.73.180
+
+3158.cn.	86400	IN	NS	ns.3158.cn.
+ns.3158.cn.	518400	IN	A	81.19.82.2
+
+google.cn.	86400	IN	NS	ns.google.cn.
+ns.google.cn.	518400	IN	A	87.240.131.131
+
+gongchang.cn.	86400	IN	NS	ns.gongchang.cn.
+ns.gongchang.cn.	518400	IN	A	87.240.131.131
+
+lvye.cn.	86400	IN	NS	ns.lvye.cn.
+ns.lvye.cn.	518400	IN	A	87.240.131.131
+
+huihui.cn.	86400	IN	NS	ns.huihui.cn.
+ns.huihui.cn.	518400	IN	A	87.240.131.131
+
+v1.cn.	86400	IN	NS	ns.v1.cn.
+ns.v1.cn.	518400	IN	A	87.240.131.131
+
+iautos.cn.	86400	IN	NS	ns.iautos.cn.
+ns.iautos.cn.	518400	IN	A	87.250.250.1
+
+gmw.cn.	86400	IN	NS	ns.gmw.cn.
+ns.gmw.cn.	518400	IN	A	93.186.225.193
+
+cntv.cn.	86400	IN	NS	ns.cntv.cn.
+ns.cntv.cn.	518400	IN	A	93.186.225.193
+
+mafengwo.cn.	86400	IN	NS	ns.mafengwo.cn.
+ns.mafengwo.cn.	518400	IN	A	104.40.210.25
+
+3158.cn.	86400	IN	NS	ns.3158.cn.
+ns.3158.cn.	518400	IN	A	104.40.210.25
+
+tianya.cn.	86400	IN	NS	ns.tianya.cn.
+ns.tianya.cn.	518400	IN	A	104.40.210.25
+
+thepaper.cn.	86400	IN	NS	ns.thepaper.cn.
+ns.thepaper.cn.	518400	IN	A	104.40.210.25
+
+rednet.cn.	86400	IN	NS	ns.rednet.cn.
+ns.rednet.cn.	518400	IN	A	104.40.210.25
+
+xyz123.cn.	86400	IN	NS	ns.xyz123.cn.
+ns.xyz123.cn.	518400	IN	A	104.40.210.25
+
+mafengwo.cn.	86400	IN	NS	ns.mafengwo.cn.
+ns.mafengwo.cn.	518400	IN	A	111.202.126.2
+
+365jia.cn.	86400	IN	NS	ns.365jia.cn.
+ns.365jia.cn.	518400	IN	A	111.202.126.2
+
+gongchang.cn.	86400	IN	NS	ns.gongchang.cn.
+ns.gongchang.cn.	518400	IN	A	111.202.126.2
+
+kuwo.cn.	86400	IN	NS	ns.kuwo.cn.
+ns.kuwo.cn.	518400	IN	A	111.206.53.6
+
+360.cn.	86400	IN	NS	ns.360.cn.
+ns.360.cn.	518400	IN	A	111.206.53.6
+
+cnr.cn.	86400	IN	NS	ns.cnr.cn.
+ns.cnr.cn.	518400	IN	A	111.206.53.6
+
+china.cn.	86400	IN	NS	ns.china.cn.
+ns.china.cn.	518400	IN	A	111.206.53.6
+
+lvye.cn.	86400	IN	NS	ns.lvye.cn.
+ns.lvye.cn.	518400	IN	A	112.133.230.192
+
+gmw.cn.	86400	IN	NS	ns.gmw.cn.
+ns.gmw.cn.	518400	IN	A	125.208.45.1
+
+yokamen.cn.	86400	IN	NS	ns.yokamen.cn.
+ns.yokamen.cn.	518400	IN	A	125.208.45.1
+
+focus.cn.	86400	IN	NS	ns.focus.cn.
+ns.focus.cn.	518400	IN	A	125.209.248.6
+
+dict.cn.	86400	IN	NS	ns.dict.cn.
+ns.dict.cn.	518400	IN	A	125.209.248.6
+
+china.cn.	86400	IN	NS	ns.china.cn.
+ns.china.cn.	518400	IN	A	125.209.248.6
+
+iautos.cn.	86400	IN	NS	ns.iautos.cn.
+ns.iautos.cn.	518400	IN	A	131.0.24.26
+
+tiboo.cn.	86400	IN	NS	ns.tiboo.cn.
+ns.tiboo.cn.	518400	IN	A	131.0.24.26
+
+gmw.cn.	86400	IN	NS	ns.gmw.cn.
+ns.gmw.cn.	518400	IN	A	132.207.144.12
+
+sciencenet.cn.	86400	IN	NS	ns.sciencenet.cn.
+ns.sciencenet.cn.	518400	IN	A	132.207.144.12
+
+sssc.cn.	86400	IN	NS	ns.sssc.cn.
+ns.sssc.cn.	518400	IN	A	132.207.144.12
+
+youth.cn.	86400	IN	NS	ns.youth.cn.
+ns.youth.cn.	518400	IN	A	140.205.67.253
+
+189.cn.	86400	IN	NS	ns.189.cn.
+ns.189.cn.	518400	IN	A	140.205.67.253
+
+sssc.cn.	86400	IN	NS	ns.sssc.cn.
+ns.sssc.cn.	518400	IN	A	157.255.246.101
+
+cdstm.cn.	86400	IN	NS	ns.cdstm.cn.
+ns.cdstm.cn.	518400	IN	A	157.255.246.101
+
+cntv.cn.	86400	IN	NS	ns.cntv.cn.
+ns.cntv.cn.	518400	IN	A	165.160.15.20
+
+189.cn.	86400	IN	NS	ns.189.cn.
+ns.189.cn.	518400	IN	A	165.160.15.20
+
+3158.cn.	86400	IN	NS	ns.3158.cn.
+ns.3158.cn.	518400	IN	A	173.245.58.159
+
+k618.cn.	86400	IN	NS	ns.k618.cn.
+ns.k618.cn.	518400	IN	A	173.245.58.159
+
+dxy.cn.	86400	IN	NS	ns.dxy.cn.
+ns.dxy.cn.	518400	IN	A	173.245.58.159
+
+k618.cn.	86400	IN	NS	ns.k618.cn.
+ns.k618.cn.	518400	IN	A	173.245.59.130
+
+360.cn.	86400	IN	NS	ns.360.cn.
+ns.360.cn.	518400	IN	A	173.245.59.130
+
+china.cn.	86400	IN	NS	ns.china.cn.
+ns.china.cn.	518400	IN	A	173.245.59.115
+
+78.cn.	86400	IN	NS	ns.78.cn.
+ns.78.cn.	518400	IN	A	173.245.58.138
+
+cnr.cn.	86400	IN	NS	ns.cnr.cn.
+ns.cnr.cn.	518400	IN	A	173.245.58.138
+
+shihuo.cn.	86400	IN	NS	ns.shihuo.cn.
+ns.shihuo.cn.	518400	IN	A	173.245.58.138
+
+mafengwo.cn.	86400	IN	NS	ns.mafengwo.cn.
+ns.mafengwo.cn.	518400	IN	A	173.245.58.138
+
+sciencenet.cn.	86400	IN	NS	ns.sciencenet.cn.
+ns.sciencenet.cn.	518400	IN	A	173.245.58.201
+
+chinabroadcast.cn.	86400	IN	NS	ns.chinabroadcast.cn.
+ns.chinabroadcast.cn.	518400	IN	A	173.245.58.201
+
+27.cn.	86400	IN	NS	ns.27.cn.
+ns.27.cn.	518400	IN	A	173.245.58.89
+
+tiboo.cn.	86400	IN	NS	ns.tiboo.cn.
+ns.tiboo.cn.	518400	IN	A	173.245.58.89
+
+92lux.cn.	86400	IN	NS	ns.92lux.cn.
+ns.92lux.cn.	518400	IN	A	173.245.58.89
+
+youth.cn.	86400	IN	NS	ns.youth.cn.
+ns.youth.cn.	518400	IN	A	173.245.58.89
+
+cdstm.cn.	86400	IN	NS	ns.cdstm.cn.
+ns.cdstm.cn.	518400	IN	A	173.245.58.89
+
+gongchang.cn.	86400	IN	NS	ns.gongchang.cn.
+ns.gongchang.cn.	518400	IN	A	173.245.58.89
+
+chinabroadcast.cn.	86400	IN	NS	ns.chinabroadcast.cn.
+ns.chinabroadcast.cn.	518400	IN	A	173.245.59.100
+
+mafengwo.cn.	86400	IN	NS	ns.mafengwo.cn.
+ns.mafengwo.cn.	518400	IN	A	175.126.117.211
+
+mama.cn.	86400	IN	NS	ns.mama.cn.
+ns.mama.cn.	518400	IN	A	175.126.117.211
+
+tiboo.cn.	86400	IN	NS	ns.tiboo.cn.
+ns.tiboo.cn.	518400	IN	A	180.149.156.12
+
+kuwo.cn.	86400	IN	NS	ns.kuwo.cn.
+ns.kuwo.cn.	518400	IN	A	180.149.156.12
+
+360.cn.	86400	IN	NS	ns.360.cn.
+ns.360.cn.	518400	IN	A	180.149.156.12
+
+firefoxchina.cn.	86400	IN	NS	ns.firefoxchina.cn.
+ns.firefoxchina.cn.	518400	IN	A	183.3.226.207
+
+mafengwo.cn.	86400	IN	NS	ns.mafengwo.cn.
+ns.mafengwo.cn.	518400	IN	A	183.3.226.207
+
+360.cn.	86400	IN	NS	ns.360.cn.
+ns.360.cn.	518400	IN	A	187.18.60.242
+
+firefoxchina.cn.	86400	IN	NS	ns.firefoxchina.cn.
+ns.firefoxchina.cn.	518400	IN	A	187.18.60.242
+
+78.cn.	86400	IN	NS	ns.78.cn.
+ns.78.cn.	518400	IN	A	187.18.60.242
+
+meizu.cn.	86400	IN	NS	ns.meizu.cn.
+ns.meizu.cn.	518400	IN	A	193.108.91.127
+
+dict.cn.	86400	IN	NS	ns.dict.cn.
+ns.dict.cn.	518400	IN	A	193.108.91.127
+
+iautos.cn.	86400	IN	NS	ns.iautos.cn.
+ns.iautos.cn.	518400	IN	A	193.108.91.127
+
+92lux.cn.	86400	IN	NS	ns.92lux.cn.
+ns.92lux.cn.	518400	IN	A	193.108.91.127
+
+cdstm.cn.	86400	IN	NS	ns.cdstm.cn.
+ns.cdstm.cn.	518400	IN	A	193.108.91.127
+
+360.cn.	86400	IN	NS	ns.360.cn.
+ns.360.cn.	518400	IN	A	193.108.91.127
+
+gongchang.cn.	86400	IN	NS	ns.gongchang.cn.
+ns.gongchang.cn.	518400	IN	A	193.232.156.17
+
+youth.cn.	86400	IN	NS	ns.youth.cn.
+ns.youth.cn.	518400	IN	A	193.232.156.17
+
+27.cn.	86400	IN	NS	ns.27.cn.
+ns.27.cn.	518400	IN	A	193.232.156.17
+
+chinabroadcast.cn.	86400	IN	NS	ns.chinabroadcast.cn.
+ns.chinabroadcast.cn.	518400	IN	A	198.11.138.245
+
+cnr.cn.	86400	IN	NS	ns.cnr.cn.
+ns.cnr.cn.	518400	IN	A	198.11.138.245
+
+gongchang.cn.	86400	IN	NS	ns.gongchang.cn.
+ns.gongchang.cn.	518400	IN	A	198.11.138.245
+
+firefoxchina.cn.	86400	IN	NS	ns.firefoxchina.cn.
+ns.firefoxchina.cn.	518400	IN	A	198.11.138.249
+
+kuwo.cn.	86400	IN	NS	ns.kuwo.cn.
+ns.kuwo.cn.	518400	IN	A	198.100.156.181
+
+10086.cn.	86400	IN	NS	ns.10086.cn.
+ns.10086.cn.	518400	IN	A	198.100.156.181
+
+360.cn.	86400	IN	NS	ns.360.cn.
+ns.360.cn.	518400	IN	A	198.100.156.181
+
+mafengwo.cn.	86400	IN	NS	ns.mafengwo.cn.
+ns.mafengwo.cn.	518400	IN	A	198.100.156.181
+
+yokamen.cn.	86400	IN	NS	ns.yokamen.cn.
+ns.yokamen.cn.	518400	IN	A	198.100.156.181
+
+xyz123.cn.	86400	IN	NS	ns.xyz123.cn.
+ns.xyz123.cn.	518400	IN	A	200.221.11.98
+
+gongchang.cn.	86400	IN	NS	ns.gongchang.cn.
+ns.gongchang.cn.	518400	IN	A	200.221.11.98
+
+chinabroadcast.cn.	86400	IN	NS	ns.chinabroadcast.cn.
+ns.chinabroadcast.cn.	518400	IN	A	200.221.11.98
+
+youth.cn.	86400	IN	NS	ns.youth.cn.
+ns.youth.cn.	518400	IN	A	200.221.11.98
+
+yokamen.cn.	86400	IN	NS	ns.yokamen.cn.
+ns.yokamen.cn.	518400	IN	A	200.221.11.98
+
+92lux.cn.	86400	IN	NS	ns.92lux.cn.
+ns.92lux.cn.	518400	IN	A	200.221.11.98
+
+sssc.cn.	86400	IN	NS	ns.sssc.cn.
+ns.sssc.cn.	518400	IN	A	200.201.161.22
+
+rednet.cn.	86400	IN	NS	ns.rednet.cn.
+ns.rednet.cn.	518400	IN	A	200.201.165.253
+
+sciencenet.cn.	86400	IN	NS	ns.sciencenet.cn.
+ns.sciencenet.cn.	518400	IN	A	200.201.165.253
+
+k618.cn.	86400	IN	NS	ns.k618.cn.
+ns.k618.cn.	518400	IN	A	200.201.165.253
+
+chinabroadcast.cn.	86400	IN	NS	ns.chinabroadcast.cn.
+ns.chinabroadcast.cn.	518400	IN	A	200.219.154.10
+
+xyz123.cn.	86400	IN	NS	ns.xyz123.cn.
+ns.xyz123.cn.	518400	IN	A	200.219.154.10
+
+189.cn.	86400	IN	NS	ns.189.cn.
+ns.189.cn.	518400	IN	A	200.219.154.10
+
+cntv.cn.	86400	IN	NS	ns.cntv.cn.
+ns.cntv.cn.	518400	IN	A	200.219.154.10
+
+huihui.cn.	86400	IN	NS	ns.huihui.cn.
+ns.huihui.cn.	518400	IN	A	200.219.154.10
+
+china.cn.	86400	IN	NS	ns.china.cn.
+ns.china.cn.	518400	IN	A	202.108.22.220
+
+sssc.cn.	86400	IN	NS	ns.sssc.cn.
+ns.sssc.cn.	518400	IN	A	202.108.22.220
+
+chinabroadcast.cn.	86400	IN	NS	ns.chinabroadcast.cn.
+ns.chinabroadcast.cn.	518400	IN	A	202.108.22.220
+
+thepaper.cn.	86400	IN	NS	ns.thepaper.cn.
+ns.thepaper.cn.	518400	IN	A	202.108.22.220
+
+chinabroadcast.cn.	86400	IN	NS	ns.chinabroadcast.cn.
+ns.chinabroadcast.cn.	518400	IN	A	202.56.230.5
+
+cnr.cn.	86400	IN	NS	ns.cnr.cn.
+ns.cnr.cn.	518400	IN	A	203.153.43.65
+
+rising.cn.	86400	IN	NS	ns.rising.cn.
+ns.rising.cn.	518400	IN	A	204.74.108.1
+
+360.cn.	86400	IN	NS	ns.360.cn.
+ns.360.cn.	518400	IN	A	204.74.108.1
+
+365jia.cn.	86400	IN	NS	ns.365jia.cn.
+ns.365jia.cn.	518400	IN	A	204.69.234.1
+
+92lux.cn.	86400	IN	NS	ns.92lux.cn.
+ns.92lux.cn.	518400	IN	A	204.69.234.1
+
+google.cn.	86400	IN	NS	ns.google.cn.
+ns.google.cn.	518400	IN	A	204.69.234.1
+
+27.cn.	86400	IN	NS	ns.27.cn.
+ns.27.cn.	518400	IN	A	205.251.192.29
+
+gongchang.cn.	86400	IN	NS	ns.gongchang.cn.
+ns.gongchang.cn.	518400	IN	A	205.251.197.107
+
+10086.cn.	86400	IN	NS	ns.10086.cn.
+ns.10086.cn.	518400	IN	A	205.251.194.1
+
+sciencenet.cn.	86400	IN	NS	ns.sciencenet.cn.
+ns.sciencenet.cn.	518400	IN	A	205.251.199.254
+
+tianya.cn.	86400	IN	NS	ns.tianya.cn.
+ns.tianya.cn.	518400	IN	A	205.251.199.254
+
+chinabroadcast.cn.	86400	IN	NS	ns.chinabroadcast.cn.
+ns.chinabroadcast.cn.	518400	IN	A	205.251.199.254
+
+92lux.cn.	86400	IN	NS	ns.92lux.cn.
+ns.92lux.cn.	518400	IN	A	205.251.199.254
+
+mama.cn.	86400	IN	NS	ns.mama.cn.
+ns.mama.cn.	518400	IN	A	205.251.199.254
+
+27.cn.	86400	IN	NS	ns.27.cn.
+ns.27.cn.	518400	IN	A	205.251.195.203
+
+kuwo.cn.	86400	IN	NS	ns.kuwo.cn.
+ns.kuwo.cn.	518400	IN	A	206.128.173.109
+
+gongchang.cn.	86400	IN	NS	ns.gongchang.cn.
+ns.gongchang.cn.	518400	IN	A	206.128.173.109
+
+meizu.cn.	86400	IN	NS	ns.meizu.cn.
+ns.meizu.cn.	518400	IN	A	206.128.173.109
+
+dxy.cn.	86400	IN	NS	ns.dxy.cn.
+ns.dxy.cn.	518400	IN	A	213.180.193.1
+
+360.cn.	86400	IN	NS	ns.360.cn.
+ns.360.cn.	518400	IN	A	213.180.193.1
+
+cnr.cn.	86400	IN	NS	ns.cnr.cn.
+ns.cnr.cn.	518400	IN	A	216.239.32.10
+
+shihuo.cn.	86400	IN	NS	ns.shihuo.cn.
+ns.shihuo.cn.	518400	IN	A	216.239.32.10
+
+gmw.cn.	86400	IN	NS	ns.gmw.cn.
+ns.gmw.cn.	518400	IN	A	216.239.32.106
+
+v1.cn.	86400	IN	NS	ns.v1.cn.
+ns.v1.cn.	518400	IN	A	216.239.32.106
+
+sssc.cn.	86400	IN	NS	ns.sssc.cn.
+ns.sssc.cn.	518400	IN	A	216.239.32.106
+
+sssc.cn.	86400	IN	NS	ns.sssc.cn.
+ns.sssc.cn.	518400	IN	A	216.58.200.238
+
+yunpan.cn.	86400	IN	NS	ns.yunpan.cn.
+ns.yunpan.cn.	518400	IN	A	216.58.200.238
+
+thepaper.cn.	86400	IN	NS	ns.thepaper.cn.
+ns.thepaper.cn.	518400	IN	A	216.58.200.238
+
+yunpan.cn.	86400	IN	NS	ns.yunpan.cn.
+ns.yunpan.cn.	518400	IN	A	216.239.32.29
+
+xiaomi.cn.	86400	IN	NS	ns.xiaomi.cn.
+ns.xiaomi.cn.	518400	IN	A	216.239.32.29
+
+china.cn.	86400	IN	NS	ns.china.cn.
+ns.china.cn.	518400	IN	A	216.239.32.29
+
+gmw.cn.	86400	IN	NS	ns.gmw.cn.
+ns.gmw.cn.	518400	IN	A	216.239.32.29
+
+cdstm.cn.	86400	IN	NS	ns.cdstm.cn.
+ns.cdstm.cn.	518400	IN	A	217.69.139.112
+
+china.cn.	86400	IN	NS	ns.china.cn.
+ns.china.cn.	518400	IN	A	217.69.139.112
+
+shihuo.cn.	86400	IN	NS	ns.shihuo.cn.
+ns.shihuo.cn.	518400	IN	A	217.69.139.112
+
+189.cn.	86400	IN	NS	ns.189.cn.
+ns.189.cn.	518400	IN	A	217.69.139.112
+
+cnr.cn.	86400	IN	NS	ns.cnr.cn.
+ns.cnr.cn.	518400	IN	A	217.69.139.112
+
+xiaomi.cn.	86400	IN	NS	ns.xiaomi.cn.
+ns.xiaomi.cn.	518400	IN	A	217.69.139.202

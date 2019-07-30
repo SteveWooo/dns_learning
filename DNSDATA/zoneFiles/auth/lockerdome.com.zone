@@ -1,0 +1,6 @@
+
+lockerdome.com.	86400	IN	SOA	ns.lockerdome.com.	mail	2019061702 1800 900 604800 86400
+lockerdome.com.	86400	IN	NS	ns.lockerdome.com.
+ns.lockerdome.com.	518400	IN	A	216.239.32.106
+
+lockerdome.com.	518400	IN	A	38.140.99.21

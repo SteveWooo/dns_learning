@@ -1,0 +1,6 @@
+
+bobrowser.com.	86400	IN	SOA	ns.bobrowser.com.	mail	2019061702 1800 900 604800 86400
+bobrowser.com.	86400	IN	NS	ns.bobrowser.com.
+ns.bobrowser.com.	518400	IN	A	205.251.192.29
+
+bobrowser.com.	518400	IN	A	96.126.123.244

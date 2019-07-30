@@ -1,0 +1,6 @@
+
+filmstarts.de.	86400	IN	SOA	ns.filmstarts.de.	mail	2019061702 1800 900 604800 86400
+filmstarts.de.	86400	IN	NS	ns.filmstarts.de.
+ns.filmstarts.de.	518400	IN	A	202.56.230.5
+
+filmstarts.de.	518400	IN	A	185.129.44.23

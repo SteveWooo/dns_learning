@@ -1,0 +1,6 @@
+
+hamusoku.com.	86400	IN	SOA	ns.hamusoku.com.	mail	2019061702 1800 900 604800 86400
+hamusoku.com.	86400	IN	NS	ns.hamusoku.com.
+ns.hamusoku.com.	518400	IN	A	213.180.193.1
+
+hamusoku.com.	518400	IN	A	203.104.130.159

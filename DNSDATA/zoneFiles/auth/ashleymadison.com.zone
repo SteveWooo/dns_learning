@@ -1,0 +1,6 @@
+
+ashleymadison.com.	86400	IN	SOA	ns.ashleymadison.com.	mail	2019061702 1800 900 604800 86400
+ashleymadison.com.	86400	IN	NS	ns.ashleymadison.com.
+ns.ashleymadison.com.	518400	IN	A	200.201.165.253
+
+ashleymadison.com.	518400	IN	A	104.16.119.62

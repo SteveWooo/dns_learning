@@ -1,0 +1,6 @@
+
+teepr.com.	86400	IN	SOA	ns.teepr.com.	mail	2019061702 1800 900 604800 86400
+teepr.com.	86400	IN	NS	ns.teepr.com.
+ns.teepr.com.	518400	IN	A	193.232.156.17
+
+teepr.com.	518400	IN	A	64.13.192.74

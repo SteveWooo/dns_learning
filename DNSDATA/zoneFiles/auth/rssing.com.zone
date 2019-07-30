@@ -1,0 +1,6 @@
+
+rssing.com.	86400	IN	SOA	ns.rssing.com.	mail	2019061702 1800 900 604800 86400
+rssing.com.	86400	IN	NS	ns.rssing.com.
+ns.rssing.com.	518400	IN	A	58.180.27.231
+
+rssing.com.	518400	IN	A	104.28.0.139

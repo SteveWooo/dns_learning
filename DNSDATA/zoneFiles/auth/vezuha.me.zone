@@ -1,0 +1,6 @@
+
+vezuha.me.	86400	IN	SOA	ns.vezuha.me.	mail	2019061702 1800 900 604800 86400
+vezuha.me.	86400	IN	NS	ns.vezuha.me.
+ns.vezuha.me.	518400	IN	A	205.251.197.107
+
+vezuha.me.	518400	IN	A	52.21.33.16

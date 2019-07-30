@@ -1,0 +1,6 @@
+
+sendgrid.com.	86400	IN	SOA	ns.sendgrid.com.	mail	2019061702 1800 900 604800 86400
+sendgrid.com.	86400	IN	NS	ns.sendgrid.com.
+ns.sendgrid.com.	518400	IN	A	216.58.200.238
+
+sendgrid.com.	518400	IN	A	159.122.219.52

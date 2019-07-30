@@ -1,0 +1,6 @@
+
+google.lv.	86400	IN	SOA	ns.google.lv.	mail	2019061702 1800 900 604800 86400
+google.lv.	86400	IN	NS	ns.google.lv.
+ns.google.lv.	518400	IN	A	213.180.204.242
+
+google.lv.	518400	IN	A	64.13.232.149

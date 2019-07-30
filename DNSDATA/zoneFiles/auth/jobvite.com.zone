@@ -1,0 +1,6 @@
+
+jobvite.com.	86400	IN	SOA	ns.jobvite.com.	mail	2019061702 1800 900 604800 86400
+jobvite.com.	86400	IN	NS	ns.jobvite.com.
+ns.jobvite.com.	518400	IN	A	205.251.192.29
+
+jobvite.com.	518400	IN	A	34.207.47.214

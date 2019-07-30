@@ -1,0 +1,6 @@
+
+say-move.org.	86400	IN	SOA	ns.say-move.org.	mail	2019061702 1800 900 604800 86400
+say-move.org.	86400	IN	NS	ns.say-move.org.
+ns.say-move.org.	518400	IN	A	204.69.234.1
+
+say-move.org.	518400	IN	A	14.0.43.163

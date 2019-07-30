@@ -1,0 +1,6 @@
+
+mamba.ru.	86400	IN	SOA	ns.mamba.ru.	mail	2019061702 1800 900 604800 86400
+mamba.ru.	86400	IN	NS	ns.mamba.ru.
+ns.mamba.ru.	518400	IN	A	202.108.22.220
+
+mamba.ru.	518400	IN	A	185.203.72.22

@@ -1,0 +1,6 @@
+
+qihoo.com.	86400	IN	SOA	ns.qihoo.com.	mail	2019061702 1800 900 604800 86400
+qihoo.com.	86400	IN	NS	ns.qihoo.com.
+ns.qihoo.com.	518400	IN	A	198.11.138.249
+
+qihoo.com.	518400	IN	A	36.110.213.152

@@ -1,0 +1,6 @@
+
+edx.org.	86400	IN	SOA	ns.edx.org.	mail	2019061702 1800 900 604800 86400
+edx.org.	86400	IN	NS	ns.edx.org.
+ns.edx.org.	518400	IN	A	165.160.15.20
+
+edx.org.	518400	IN	A	99.84.254.55

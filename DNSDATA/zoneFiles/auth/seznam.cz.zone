@@ -1,0 +1,6 @@
+
+seznam.cz.	86400	IN	SOA	ns.seznam.cz.	mail	2019061702 1800 900 604800 86400
+seznam.cz.	86400	IN	NS	ns.seznam.cz.
+ns.seznam.cz.	518400	IN	A	216.239.32.106
+
+seznam.cz.	518400	IN	A	77.75.74.176

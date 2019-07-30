@@ -1,0 +1,6 @@
+
+cox.com.	86400	IN	SOA	ns.cox.com.	mail	2019061702 1800 900 604800 86400
+cox.com.	86400	IN	NS	ns.cox.com.
+ns.cox.com.	518400	IN	A	216.58.200.238
+
+cox.com.	518400	IN	A	45.60.45.167

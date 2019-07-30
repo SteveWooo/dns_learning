@@ -1,0 +1,6 @@
+
+azcentral.com.	86400	IN	SOA	ns.azcentral.com.	mail	2019061702 1800 900 604800 86400
+azcentral.com.	86400	IN	NS	ns.azcentral.com.
+ns.azcentral.com.	518400	IN	A	213.180.204.242
+
+azcentral.com.	518400	IN	A	209.97.49.204

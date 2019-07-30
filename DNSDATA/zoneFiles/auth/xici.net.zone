@@ -1,0 +1,6 @@
+
+xici.net.	86400	IN	SOA	ns.xici.net.	mail	2019061702 1800 900 604800 86400
+xici.net.	86400	IN	NS	ns.xici.net.
+ns.xici.net.	518400	IN	A	203.153.43.65
+
+xici.net.	518400	IN	A	180.96.29.96

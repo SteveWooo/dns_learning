@@ -1,0 +1,6 @@
+
+babyblog.ru.	86400	IN	SOA	ns.babyblog.ru.	mail	2019061702 1800 900 604800 86400
+babyblog.ru.	86400	IN	NS	ns.babyblog.ru.
+ns.babyblog.ru.	518400	IN	A	217.69.139.202
+
+babyblog.ru.	518400	IN	A	178.248.236.40

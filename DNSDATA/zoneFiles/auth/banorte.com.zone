@@ -1,0 +1,6 @@
+
+banorte.com.	86400	IN	SOA	ns.banorte.com.	mail	2019061702 1800 900 604800 86400
+banorte.com.	86400	IN	NS	ns.banorte.com.
+ns.banorte.com.	518400	IN	A	125.208.45.1
+
+banorte.com.	518400	IN	A	192.100.234.28

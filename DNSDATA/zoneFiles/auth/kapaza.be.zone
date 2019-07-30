@@ -1,0 +1,6 @@
+
+kapaza.be.	86400	IN	SOA	ns.kapaza.be.	mail	2019061702 1800 900 604800 86400
+kapaza.be.	86400	IN	NS	ns.kapaza.be.
+ns.kapaza.be.	518400	IN	A	206.128.173.109
+
+kapaza.be.	518400	IN	A	34.96.103.161

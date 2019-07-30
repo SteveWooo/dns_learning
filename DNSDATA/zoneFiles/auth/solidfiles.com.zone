@@ -1,0 +1,6 @@
+
+solidfiles.com.	86400	IN	SOA	ns.solidfiles.com.	mail	2019061702 1800 900 604800 86400
+solidfiles.com.	86400	IN	NS	ns.solidfiles.com.
+ns.solidfiles.com.	518400	IN	A	111.202.126.2
+
+solidfiles.com.	518400	IN	A	37.221.163.214

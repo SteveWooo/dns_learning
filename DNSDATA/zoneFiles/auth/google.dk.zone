@@ -1,0 +1,6 @@
+
+google.dk.	86400	IN	SOA	ns.google.dk.	mail	2019061702 1800 900 604800 86400
+google.dk.	86400	IN	NS	ns.google.dk.
+ns.google.dk.	518400	IN	A	204.69.234.1
+
+google.dk.	518400	IN	A	31.13.66.6

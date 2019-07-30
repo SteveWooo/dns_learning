@@ -1,0 +1,6 @@
+
+ehanex.com.	86400	IN	SOA	ns.ehanex.com.	mail	2019061702 1800 900 604800 86400
+ehanex.com.	86400	IN	NS	ns.ehanex.com.
+ns.ehanex.com.	518400	IN	A	216.239.32.10
+
+ehanex.com.	518400	IN	A	203.251.153.26

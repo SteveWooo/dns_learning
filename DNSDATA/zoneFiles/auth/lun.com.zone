@@ -1,0 +1,6 @@
+
+lun.com.	86400	IN	SOA	ns.lun.com.	mail	2019061702 1800 900 604800 86400
+lun.com.	86400	IN	NS	ns.lun.com.
+ns.lun.com.	518400	IN	A	205.251.199.254
+
+lun.com.	518400	IN	A	190.96.78.13

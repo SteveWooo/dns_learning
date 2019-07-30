@@ -1,0 +1,6 @@
+
+wenxuecity.com.	86400	IN	SOA	ns.wenxuecity.com.	mail	2019061702 1800 900 604800 86400
+wenxuecity.com.	86400	IN	NS	ns.wenxuecity.com.
+ns.wenxuecity.com.	518400	IN	A	180.149.156.12
+
+wenxuecity.com.	518400	IN	A	66.220.152.17

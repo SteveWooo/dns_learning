@@ -1,0 +1,6 @@
+
+sbup.com.	86400	IN	SOA	ns.sbup.com.	mail	2019061702 1800 900 604800 86400
+sbup.com.	86400	IN	NS	ns.sbup.com.
+ns.sbup.com.	518400	IN	A	198.11.138.245
+
+sbup.com.	518400	IN	A	72.9.105.30

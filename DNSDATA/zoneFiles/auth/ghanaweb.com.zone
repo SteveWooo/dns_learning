@@ -1,0 +1,6 @@
+
+ghanaweb.com.	86400	IN	SOA	ns.ghanaweb.com.	mail	2019061702 1800 900 604800 86400
+ghanaweb.com.	86400	IN	NS	ns.ghanaweb.com.
+ns.ghanaweb.com.	518400	IN	A	205.251.195.203
+
+ghanaweb.com.	518400	IN	A	104.17.199.96

@@ -1,0 +1,6 @@
+
+css-tricks.com.	86400	IN	SOA	ns.css-tricks.com.	mail	2019061702 1800 900 604800 86400
+css-tricks.com.	86400	IN	NS	ns.css-tricks.com.
+ns.css-tricks.com.	518400	IN	A	216.239.32.106
+
+css-tricks.com.	518400	IN	A	104.26.10.78

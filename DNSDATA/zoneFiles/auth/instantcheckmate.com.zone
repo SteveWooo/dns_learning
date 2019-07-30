@@ -1,0 +1,6 @@
+
+instantcheckmate.com.	86400	IN	SOA	ns.instantcheckmate.com.	mail	2019061702 1800 900 604800 86400
+instantcheckmate.com.	86400	IN	NS	ns.instantcheckmate.com.
+ns.instantcheckmate.com.	518400	IN	A	217.69.139.202
+
+instantcheckmate.com.	518400	IN	A	104.18.198.225

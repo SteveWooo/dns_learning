@@ -1,0 +1,6 @@
+
+iciba.com.	86400	IN	SOA	ns.iciba.com.	mail	2019061702 1800 900 604800 86400
+iciba.com.	86400	IN	NS	ns.iciba.com.
+ns.iciba.com.	518400	IN	A	187.18.60.242
+
+iciba.com.	518400	IN	A	120.92.57.165

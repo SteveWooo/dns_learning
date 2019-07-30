@@ -1,0 +1,6 @@
+
+cjmall.com.	86400	IN	SOA	ns.cjmall.com.	mail	2019061702 1800 900 604800 86400
+cjmall.com.	86400	IN	NS	ns.cjmall.com.
+ns.cjmall.com.	518400	IN	A	204.74.108.1
+
+cjmall.com.	518400	IN	A	210.122.101.150

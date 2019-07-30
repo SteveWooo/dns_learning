@@ -1,0 +1,6 @@
+
+tori.fi.	86400	IN	SOA	ns.tori.fi.	mail	2019061702 1800 900 604800 86400
+tori.fi.	86400	IN	NS	ns.tori.fi.
+ns.tori.fi.	518400	IN	A	205.251.197.107
+
+tori.fi.	518400	IN	A	54.246.238.29

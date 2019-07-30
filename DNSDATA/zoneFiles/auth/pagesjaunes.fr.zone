@@ -1,0 +1,6 @@
+
+pagesjaunes.fr.	86400	IN	SOA	ns.pagesjaunes.fr.	mail	2019061702 1800 900 604800 86400
+pagesjaunes.fr.	86400	IN	NS	ns.pagesjaunes.fr.
+ns.pagesjaunes.fr.	518400	IN	A	213.180.204.242
+
+pagesjaunes.fr.	518400	IN	A	35.190.37.247

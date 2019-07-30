@@ -1,0 +1,6 @@
+
+abs-cbnnews.com.	86400	IN	SOA	ns.abs-cbnnews.com.	mail	2019061702 1800 900 604800 86400
+abs-cbnnews.com.	86400	IN	NS	ns.abs-cbnnews.com.
+ns.abs-cbnnews.com.	518400	IN	A	203.153.43.65
+
+abs-cbnnews.com.	518400	IN	A	104.16.215.38

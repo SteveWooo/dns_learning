@@ -1,0 +1,6 @@
+
+investing.com.	86400	IN	SOA	ns.investing.com.	mail	2019061702 1800 900 604800 86400
+investing.com.	86400	IN	NS	ns.investing.com.
+ns.investing.com.	518400	IN	A	157.255.246.101
+
+investing.com.	518400	IN	A	185.94.84.100

@@ -1,0 +1,6 @@
+
+nike.com.	86400	IN	SOA	ns.nike.com.	mail	2019061702 1800 900 604800 86400
+nike.com.	86400	IN	NS	ns.nike.com.
+ns.nike.com.	518400	IN	A	205.251.194.1
+
+nike.com.	518400	IN	A	146.197.184.71

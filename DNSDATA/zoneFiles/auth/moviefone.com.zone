@@ -1,0 +1,6 @@
+
+moviefone.com.	86400	IN	SOA	ns.moviefone.com.	mail	2019061702 1800 900 604800 86400
+moviefone.com.	86400	IN	NS	ns.moviefone.com.
+ns.moviefone.com.	518400	IN	A	213.180.204.242
+
+moviefone.com.	518400	IN	A	52.219.96.3

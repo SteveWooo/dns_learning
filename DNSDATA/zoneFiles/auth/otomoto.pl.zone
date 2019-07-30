@@ -1,0 +1,6 @@
+
+otomoto.pl.	86400	IN	SOA	ns.otomoto.pl.	mail	2019061702 1800 900 604800 86400
+otomoto.pl.	86400	IN	NS	ns.otomoto.pl.
+ns.otomoto.pl.	518400	IN	A	216.239.32.106
+
+otomoto.pl.	518400	IN	A	52.57.57.95

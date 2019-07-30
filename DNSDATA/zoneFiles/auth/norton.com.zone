@@ -1,0 +1,6 @@
+
+norton.com.	86400	IN	SOA	ns.norton.com.	mail	2019061702 1800 900 604800 86400
+norton.com.	86400	IN	NS	ns.norton.com.
+ns.norton.com.	518400	IN	A	132.207.144.12
+
+norton.com.	518400	IN	A	155.64.16.51

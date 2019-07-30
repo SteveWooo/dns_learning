@@ -1,0 +1,6 @@
+
+foozine.com.	86400	IN	SOA	ns.foozine.com.	mail	2019061702 1800 900 604800 86400
+foozine.com.	86400	IN	NS	ns.foozine.com.
+ns.foozine.com.	518400	IN	A	213.180.204.242
+
+foozine.com.	518400	IN	A	37.187.145.124

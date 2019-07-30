@@ -1,0 +1,6 @@
+
+naver.com.	86400	IN	SOA	ns.naver.com.	mail	2019061702 1800 900 604800 86400
+naver.com.	86400	IN	NS	ns.naver.com.
+ns.naver.com.	518400	IN	A	87.240.131.131
+
+naver.com.	518400	IN	A	125.209.222.141

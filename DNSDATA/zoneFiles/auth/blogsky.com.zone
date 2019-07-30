@@ -1,0 +1,6 @@
+
+blogsky.com.	86400	IN	SOA	ns.blogsky.com.	mail	2019061702 1800 900 604800 86400
+blogsky.com.	86400	IN	NS	ns.blogsky.com.
+ns.blogsky.com.	518400	IN	A	216.239.32.10
+
+blogsky.com.	518400	IN	A	178.216.250.131

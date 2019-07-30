@@ -1,0 +1,6 @@
+
+rockpapershotgun.com.	86400	IN	SOA	ns.rockpapershotgun.com.	mail	2019061702 1800 900 604800 86400
+rockpapershotgun.com.	86400	IN	NS	ns.rockpapershotgun.com.
+ns.rockpapershotgun.com.	518400	IN	A	205.251.195.203
+
+rockpapershotgun.com.	518400	IN	A	66.232.99.7

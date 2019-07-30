@@ -1,0 +1,6 @@
+
+oxforddictionaries.com.	86400	IN	SOA	ns.oxforddictionaries.com.	mail	2019061702 1800 900 604800 86400
+oxforddictionaries.com.	86400	IN	NS	ns.oxforddictionaries.com.
+ns.oxforddictionaries.com.	518400	IN	A	205.251.199.254
+
+oxforddictionaries.com.	518400	IN	A	54.68.182.72

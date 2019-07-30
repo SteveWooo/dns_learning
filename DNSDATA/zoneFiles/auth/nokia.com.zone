@@ -1,0 +1,6 @@
+
+nokia.com.	86400	IN	SOA	ns.nokia.com.	mail	2019061702 1800 900 604800 86400
+nokia.com.	86400	IN	NS	ns.nokia.com.
+ns.nokia.com.	518400	IN	A	205.251.197.107
+
+nokia.com.	518400	IN	A	162.13.40.196

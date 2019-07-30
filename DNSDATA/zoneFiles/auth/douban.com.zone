@@ -1,0 +1,6 @@
+
+douban.com.	86400	IN	SOA	ns.douban.com.	mail	2019061702 1800 900 604800 86400
+douban.com.	86400	IN	NS	ns.douban.com.
+ns.douban.com.	518400	IN	A	216.239.32.29
+
+douban.com.	518400	IN	A	154.8.131.165

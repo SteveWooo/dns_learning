@@ -1,0 +1,6 @@
+
+hindustantimes.com.	86400	IN	SOA	ns.hindustantimes.com.	mail	2019061702 1800 900 604800 86400
+hindustantimes.com.	86400	IN	NS	ns.hindustantimes.com.
+ns.hindustantimes.com.	518400	IN	A	217.69.139.202
+
+hindustantimes.com.	518400	IN	A	52.74.17.139

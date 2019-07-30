@@ -1,0 +1,6 @@
+
+xe.com.	86400	IN	SOA	ns.xe.com.	mail	2019061702 1800 900 604800 86400
+xe.com.	86400	IN	NS	ns.xe.com.
+ns.xe.com.	518400	IN	A	205.251.199.254
+
+xe.com.	518400	IN	A	52.72.122.206

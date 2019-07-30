@@ -1,0 +1,6 @@
+
+vov.vn.	86400	IN	SOA	ns.vov.vn.	mail	2019061702 1800 900 604800 86400
+vov.vn.	86400	IN	NS	ns.vov.vn.
+ns.vov.vn.	518400	IN	A	145.14.134.108
+
+vov.vn.	518400	IN	A	49.213.110.70

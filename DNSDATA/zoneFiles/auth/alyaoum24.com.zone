@@ -1,0 +1,6 @@
+
+alyaoum24.com.	86400	IN	SOA	ns.alyaoum24.com.	mail	2019061702 1800 900 604800 86400
+alyaoum24.com.	86400	IN	NS	ns.alyaoum24.com.
+ns.alyaoum24.com.	518400	IN	A	216.58.200.238
+
+alyaoum24.com.	518400	IN	A	104.28.21.212

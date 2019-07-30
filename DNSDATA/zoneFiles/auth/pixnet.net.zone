@@ -1,0 +1,6 @@
+
+pixnet.net.	86400	IN	SOA	ns.pixnet.net.	mail	2019061702 1800 900 604800 86400
+pixnet.net.	86400	IN	NS	ns.pixnet.net.
+ns.pixnet.net.	518400	IN	A	217.69.139.112
+
+pixnet.net.	518400	IN	A	103.23.108.107

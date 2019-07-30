@@ -1,0 +1,6 @@
+
+appbank.net.	86400	IN	SOA	ns.appbank.net.	mail	2019061702 1800 900 604800 86400
+appbank.net.	86400	IN	NS	ns.appbank.net.
+ns.appbank.net.	518400	IN	A	216.239.32.29
+
+appbank.net.	518400	IN	A	133.242.6.80

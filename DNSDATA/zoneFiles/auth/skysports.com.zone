@@ -1,0 +1,6 @@
+
+skysports.com.	86400	IN	SOA	ns.skysports.com.	mail	2019061702 1800 900 604800 86400
+skysports.com.	86400	IN	NS	ns.skysports.com.
+ns.skysports.com.	518400	IN	A	111.206.53.6
+
+skysports.com.	518400	IN	A	90.216.129.62

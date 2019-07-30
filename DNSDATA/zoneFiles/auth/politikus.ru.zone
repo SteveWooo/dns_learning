@@ -1,0 +1,6 @@
+
+politikus.ru.	86400	IN	SOA	ns.politikus.ru.	mail	2019061702 1800 900 604800 86400
+politikus.ru.	86400	IN	NS	ns.politikus.ru.
+ns.politikus.ru.	518400	IN	A	174.35.55.22
+
+politikus.ru.	518400	IN	A	5.45.76.24

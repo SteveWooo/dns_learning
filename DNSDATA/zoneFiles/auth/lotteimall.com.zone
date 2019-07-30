@@ -1,0 +1,6 @@
+
+lotteimall.com.	86400	IN	SOA	ns.lotteimall.com.	mail	2019061702 1800 900 604800 86400
+lotteimall.com.	86400	IN	NS	ns.lotteimall.com.
+ns.lotteimall.com.	518400	IN	A	203.153.43.65
+
+lotteimall.com.	518400	IN	A	13.209.60.171

@@ -1,0 +1,6 @@
+
+6park.com.	86400	IN	SOA	ns.6park.com.	mail	2019061702 1800 900 604800 86400
+6park.com.	86400	IN	NS	ns.6park.com.
+ns.6park.com.	518400	IN	A	173.245.59.160
+
+6park.com.	518400	IN	A	69.171.235.16

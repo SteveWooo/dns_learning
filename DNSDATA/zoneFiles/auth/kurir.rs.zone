@@ -1,0 +1,6 @@
+
+kurir.rs.	86400	IN	SOA	ns.kurir.rs.	mail	2019061702 1800 900 604800 86400
+kurir.rs.	86400	IN	NS	ns.kurir.rs.
+ns.kurir.rs.	518400	IN	A	198.11.138.245
+
+kurir.rs.	518400	IN	A	192.99.106.21

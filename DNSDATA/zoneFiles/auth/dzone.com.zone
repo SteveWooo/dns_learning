@@ -1,0 +1,6 @@
+
+dzone.com.	86400	IN	SOA	ns.dzone.com.	mail	2019061702 1800 900 604800 86400
+dzone.com.	86400	IN	NS	ns.dzone.com.
+ns.dzone.com.	518400	IN	A	208.78.70.47
+
+dzone.com.	518400	IN	A	72.9.105.30

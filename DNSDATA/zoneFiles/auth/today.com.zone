@@ -1,0 +1,6 @@
+
+today.com.	86400	IN	SOA	ns.today.com.	mail	2019061702 1800 900 604800 86400
+today.com.	86400	IN	NS	ns.today.com.
+ns.today.com.	518400	IN	A	200.201.165.253
+
+today.com.	518400	IN	A	52.10.191.40

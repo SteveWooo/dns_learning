@@ -1,0 +1,6 @@
+
+dramafever.com.	86400	IN	SOA	ns.dramafever.com.	mail	2019061702 1800 900 604800 86400
+dramafever.com.	86400	IN	NS	ns.dramafever.com.
+ns.dramafever.com.	518400	IN	A	216.239.32.29
+
+dramafever.com.	518400	IN	A	99.84.254.40

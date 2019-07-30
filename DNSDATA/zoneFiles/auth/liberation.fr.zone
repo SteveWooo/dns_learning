@@ -1,0 +1,6 @@
+
+liberation.fr.	86400	IN	SOA	ns.liberation.fr.	mail	2019061702 1800 900 604800 86400
+liberation.fr.	86400	IN	NS	ns.liberation.fr.
+ns.liberation.fr.	518400	IN	A	193.232.142.17
+
+liberation.fr.	518400	IN	A	31.13.78.65

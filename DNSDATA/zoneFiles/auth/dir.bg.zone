@@ -1,0 +1,6 @@
+
+dir.bg.	86400	IN	SOA	ns.dir.bg.	mail	2019061702 1800 900 604800 86400
+dir.bg.	86400	IN	NS	ns.dir.bg.
+ns.dir.bg.	518400	IN	A	216.239.32.10
+
+dir.bg.	518400	IN	A	194.145.63.12

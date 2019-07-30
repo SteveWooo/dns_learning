@@ -1,0 +1,6 @@
+
+jamnews.ir.	86400	IN	SOA	ns.jamnews.ir.	mail	2019061702 1800 900 604800 86400
+jamnews.ir.	86400	IN	NS	ns.jamnews.ir.
+ns.jamnews.ir.	518400	IN	A	216.239.32.106
+
+jamnews.ir.	518400	IN	A	54.38.126.98

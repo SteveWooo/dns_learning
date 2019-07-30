@@ -1,0 +1,6 @@
+
+cloudify.cc.	86400	IN	SOA	ns.cloudify.cc.	mail	2019061702 1800 900 604800 86400
+cloudify.cc.	86400	IN	NS	ns.cloudify.cc.
+ns.cloudify.cc.	518400	IN	A	200.219.154.10
+
+cloudify.cc.	518400	IN	A	104.25.42.30

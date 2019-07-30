@@ -1,0 +1,6 @@
+
+kaixin001.com.	86400	IN	SOA	ns.kaixin001.com.	mail	2019061702 1800 900 604800 86400
+kaixin001.com.	86400	IN	NS	ns.kaixin001.com.
+ns.kaixin001.com.	518400	IN	A	204.69.234.1
+
+kaixin001.com.	518400	IN	A	58.87.81.218

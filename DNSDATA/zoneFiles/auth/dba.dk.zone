@@ -1,0 +1,6 @@
+
+dba.dk.	86400	IN	SOA	ns.dba.dk.	mail	2019061702 1800 900 604800 86400
+dba.dk.	86400	IN	NS	ns.dba.dk.
+ns.dba.dk.	518400	IN	A	202.56.230.5
+
+dba.dk.	518400	IN	A	5.255.156.145

@@ -1,0 +1,6 @@
+
+regnum.ru.	86400	IN	SOA	ns.regnum.ru.	mail	2019061702 1800 900 604800 86400
+regnum.ru.	86400	IN	NS	ns.regnum.ru.
+ns.regnum.ru.	518400	IN	A	204.74.108.1
+
+regnum.ru.	518400	IN	A	178.248.237.127

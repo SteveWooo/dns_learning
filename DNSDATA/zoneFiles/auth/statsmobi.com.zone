@@ -1,0 +1,6 @@
+
+statsmobi.com.	86400	IN	SOA	ns.statsmobi.com.	mail	2019061702 1800 900 604800 86400
+statsmobi.com.	86400	IN	NS	ns.statsmobi.com.
+ns.statsmobi.com.	518400	IN	A	205.251.194.1
+
+statsmobi.com.	518400	IN	A	64.86.199.23

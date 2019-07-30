@@ -1,0 +1,6 @@
+
+google.ca.	86400	IN	SOA	ns.google.ca.	mail	2019061702 1800 900 604800 86400
+google.ca.	86400	IN	NS	ns.google.ca.
+ns.google.ca.	518400	IN	A	216.239.32.10
+
+google.ca.	518400	IN	A	66.220.149.99

@@ -1,0 +1,6 @@
+
+vi-view.com.	86400	IN	SOA	ns.vi-view.com.	mail	2019061702 1800 900 604800 86400
+vi-view.com.	86400	IN	NS	ns.vi-view.com.
+ns.vi-view.com.	518400	IN	A	216.58.200.238
+
+vi-view.com.	518400	IN	A	50.97.32.135

@@ -1,0 +1,6 @@
+
+ebay.es.	86400	IN	SOA	ns.ebay.es.	mail	2019061702 1800 900 604800 86400
+ebay.es.	86400	IN	NS	ns.ebay.es.
+ns.ebay.es.	518400	IN	A	205.251.192.29
+
+ebay.es.	518400	IN	A	66.135.196.249

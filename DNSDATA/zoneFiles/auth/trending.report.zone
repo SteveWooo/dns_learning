@@ -1,0 +1,6 @@
+
+trending.report.	86400	IN	SOA	ns.trending.report.	mail	2019061702 1800 900 604800 86400
+trending.report.	86400	IN	NS	ns.trending.report.
+ns.trending.report.	518400	IN	A	173.245.58.201
+
+trending.report.	518400	IN	A	35.186.238.101

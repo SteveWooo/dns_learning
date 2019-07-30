@@ -1,0 +1,6 @@
+
+people.com.	86400	IN	SOA	ns.people.com.	mail	2019061702 1800 900 604800 86400
+people.com.	86400	IN	NS	ns.people.com.
+ns.people.com.	518400	IN	A	205.251.195.203
+
+people.com.	518400	IN	A	13.33.169.46

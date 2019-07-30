@@ -1,0 +1,6 @@
+
+somethingawful.com.	86400	IN	SOA	ns.somethingawful.com.	mail	2019061702 1800 900 604800 86400
+somethingawful.com.	86400	IN	NS	ns.somethingawful.com.
+ns.somethingawful.com.	518400	IN	A	205.251.197.107
+
+somethingawful.com.	518400	IN	A	104.22.14.159

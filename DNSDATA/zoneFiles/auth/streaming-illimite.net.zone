@@ -1,0 +1,6 @@
+
+streaming-illimite.net.	86400	IN	SOA	ns.streaming-illimite.net.	mail	2019061702 1800 900 604800 86400
+streaming-illimite.net.	86400	IN	NS	ns.streaming-illimite.net.
+ns.streaming-illimite.net.	518400	IN	A	216.239.32.106
+
+streaming-illimite.net.	518400	IN	A	213.39.41.189

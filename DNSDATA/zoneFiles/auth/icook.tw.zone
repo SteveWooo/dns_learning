@@ -1,0 +1,6 @@
+
+icook.tw.	86400	IN	SOA	ns.icook.tw.	mail	2019061702 1800 900 604800 86400
+icook.tw.	86400	IN	NS	ns.icook.tw.
+ns.icook.tw.	518400	IN	A	125.209.248.6
+
+icook.tw.	518400	IN	A	104.17.46.56

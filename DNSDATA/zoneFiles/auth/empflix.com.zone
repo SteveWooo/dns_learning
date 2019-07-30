@@ -1,0 +1,6 @@
+
+empflix.com.	86400	IN	SOA	ns.empflix.com.	mail	2019061702 1800 900 604800 86400
+empflix.com.	86400	IN	NS	ns.empflix.com.
+ns.empflix.com.	518400	IN	A	173.245.58.89
+
+empflix.com.	518400	IN	A	77.247.179.135

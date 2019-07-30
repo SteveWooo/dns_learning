@@ -1,0 +1,6 @@
+
+la-xxx.com.	86400	IN	SOA	ns.la-xxx.com.	mail	2019061702 1800 900 604800 86400
+la-xxx.com.	86400	IN	NS	ns.la-xxx.com.
+ns.la-xxx.com.	518400	IN	A	216.239.32.29
+
+la-xxx.com.	518400	IN	A	213.174.132.234

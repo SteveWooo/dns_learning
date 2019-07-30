@@ -1,0 +1,6 @@
+
+uiuc.edu.	86400	IN	SOA	ns.uiuc.edu.	mail	2019061702 1800 900 604800 86400
+uiuc.edu.	86400	IN	NS	ns.uiuc.edu.
+ns.uiuc.edu.	518400	IN	A	216.239.32.106
+
+uiuc.edu.	518400	IN	A	192.17.172.3

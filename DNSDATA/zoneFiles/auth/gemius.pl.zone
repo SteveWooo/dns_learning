@@ -1,0 +1,6 @@
+
+gemius.pl.	86400	IN	SOA	ns.gemius.pl.	mail	2019061702 1800 900 604800 86400
+gemius.pl.	86400	IN	NS	ns.gemius.pl.
+ns.gemius.pl.	518400	IN	A	217.69.139.202
+
+gemius.pl.	518400	IN	A	91.221.127.108

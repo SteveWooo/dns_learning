@@ -1,0 +1,6 @@
+
+mangareader.net.	86400	IN	SOA	ns.mangareader.net.	mail	2019061702 1800 900 604800 86400
+mangareader.net.	86400	IN	NS	ns.mangareader.net.
+ns.mangareader.net.	518400	IN	A	216.239.32.106
+
+mangareader.net.	518400	IN	A	185.85.189.58

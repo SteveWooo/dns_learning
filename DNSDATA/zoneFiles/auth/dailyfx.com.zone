@@ -1,0 +1,6 @@
+
+dailyfx.com.	86400	IN	SOA	ns.dailyfx.com.	mail	2019061702 1800 900 604800 86400
+dailyfx.com.	86400	IN	NS	ns.dailyfx.com.
+ns.dailyfx.com.	518400	IN	A	140.205.67.253
+
+dailyfx.com.	518400	IN	A	91.223.218.155

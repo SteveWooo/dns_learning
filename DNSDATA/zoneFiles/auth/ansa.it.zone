@@ -1,0 +1,6 @@
+
+ansa.it.	86400	IN	SOA	ns.ansa.it.	mail	2019061702 1800 900 604800 86400
+ansa.it.	86400	IN	NS	ns.ansa.it.
+ns.ansa.it.	518400	IN	A	208.78.70.47
+
+ansa.it.	518400	IN	A	77.43.0.2

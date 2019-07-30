@@ -1,0 +1,6 @@
+
+gnu.org.	86400	IN	SOA	ns.gnu.org.	mail	2019061702 1800 900 604800 86400
+gnu.org.	86400	IN	NS	ns.gnu.org.
+ns.gnu.org.	518400	IN	A	180.149.156.12
+
+gnu.org.	518400	IN	A	209.51.188.148

@@ -1,0 +1,6 @@
+
+fatakat.com.	86400	IN	SOA	ns.fatakat.com.	mail	2019061702 1800 900 604800 86400
+fatakat.com.	86400	IN	NS	ns.fatakat.com.
+ns.fatakat.com.	518400	IN	A	200.221.11.98
+
+fatakat.com.	518400	IN	A	104.25.120.8

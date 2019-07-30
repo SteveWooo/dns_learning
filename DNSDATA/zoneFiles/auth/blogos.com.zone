@@ -1,0 +1,6 @@
+
+blogos.com.	86400	IN	SOA	ns.blogos.com.	mail	2019061702 1800 900 604800 86400
+blogos.com.	86400	IN	NS	ns.blogos.com.
+ns.blogos.com.	518400	IN	A	157.255.246.101
+
+blogos.com.	518400	IN	A	74.86.17.48

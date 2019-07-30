@@ -1,0 +1,6 @@
+
+sanook.com.	86400	IN	SOA	ns.sanook.com.	mail	2019061702 1800 900 604800 86400
+sanook.com.	86400	IN	NS	ns.sanook.com.
+ns.sanook.com.	518400	IN	A	202.56.230.5
+
+sanook.com.	518400	IN	A	203.151.133.212

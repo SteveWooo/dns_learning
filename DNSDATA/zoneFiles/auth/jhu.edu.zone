@@ -1,0 +1,6 @@
+
+jhu.edu.	86400	IN	SOA	ns.jhu.edu.	mail	2019061702 1800 900 604800 86400
+jhu.edu.	86400	IN	NS	ns.jhu.edu.
+ns.jhu.edu.	518400	IN	A	217.69.139.112
+
+jhu.edu.	518400	IN	A	128.220.192.230

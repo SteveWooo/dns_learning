@@ -1,0 +1,6 @@
+
+sgcpanel.com.	86400	IN	SOA	ns.sgcpanel.com.	mail	2019061702 1800 900 604800 86400
+sgcpanel.com.	86400	IN	NS	ns.sgcpanel.com.
+ns.sgcpanel.com.	518400	IN	A	205.251.197.107
+
+sgcpanel.com.	518400	IN	A	67.15.32.100

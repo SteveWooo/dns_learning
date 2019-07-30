@@ -1,0 +1,6 @@
+
+rai.tv.	86400	IN	SOA	ns.rai.tv.	mail	2019061702 1800 900 604800 86400
+rai.tv.	86400	IN	NS	ns.rai.tv.
+ns.rai.tv.	518400	IN	A	216.239.32.10
+
+rai.tv.	518400	IN	A	212.162.68.90

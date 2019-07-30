@@ -1,0 +1,6 @@
+
+mathrubhumi.com.	86400	IN	SOA	ns.mathrubhumi.com.	mail	2019061702 1800 900 604800 86400
+mathrubhumi.com.	86400	IN	NS	ns.mathrubhumi.com.
+ns.mathrubhumi.com.	518400	IN	A	205.251.195.203
+
+mathrubhumi.com.	518400	IN	A	13.232.249.206

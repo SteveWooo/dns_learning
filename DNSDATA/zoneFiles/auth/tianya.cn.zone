@@ -1,0 +1,6 @@
+
+tianya.cn.	86400	IN	SOA	ns.tianya.cn.	mail	2019061702 1800 900 604800 86400
+tianya.cn.	86400	IN	NS	ns.tianya.cn.
+ns.tianya.cn.	518400	IN	A	205.251.199.254
+
+tianya.cn.	518400	IN	A	124.225.65.154

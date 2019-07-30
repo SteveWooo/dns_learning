@@ -1,0 +1,6 @@
+
+stockcharts.com.	86400	IN	SOA	ns.stockcharts.com.	mail	2019061702 1800 900 604800 86400
+stockcharts.com.	86400	IN	NS	ns.stockcharts.com.
+ns.stockcharts.com.	518400	IN	A	204.74.108.1
+
+stockcharts.com.	518400	IN	A	66.150.15.92

@@ -1,0 +1,6 @@
+
+ohmynews.com.	86400	IN	SOA	ns.ohmynews.com.	mail	2019061702 1800 900 604800 86400
+ohmynews.com.	86400	IN	NS	ns.ohmynews.com.
+ns.ohmynews.com.	518400	IN	A	205.251.192.29
+
+ohmynews.com.	518400	IN	A	211.233.21.230

@@ -1,0 +1,6 @@
+
+farfesh.com.	86400	IN	SOA	ns.farfesh.com.	mail	2019061702 1800 900 604800 86400
+farfesh.com.	86400	IN	NS	ns.farfesh.com.
+ns.farfesh.com.	518400	IN	A	208.78.70.47
+
+farfesh.com.	518400	IN	A	185.18.205.182

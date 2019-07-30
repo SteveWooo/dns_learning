@@ -1,0 +1,6 @@
+
+sekindo.com.	86400	IN	SOA	ns.sekindo.com.	mail	2019061702 1800 900 604800 86400
+sekindo.com.	86400	IN	NS	ns.sekindo.com.
+ns.sekindo.com.	518400	IN	A	216.239.32.29
+
+sekindo.com.	518400	IN	A	72.9.105.30

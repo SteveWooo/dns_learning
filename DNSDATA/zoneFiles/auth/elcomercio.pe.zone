@@ -1,0 +1,6 @@
+
+elcomercio.pe.	86400	IN	SOA	ns.elcomercio.pe.	mail	2019061702 1800 900 604800 86400
+elcomercio.pe.	86400	IN	NS	ns.elcomercio.pe.
+ns.elcomercio.pe.	518400	IN	A	198.11.138.249
+
+elcomercio.pe.	518400	IN	A	54.175.113.185

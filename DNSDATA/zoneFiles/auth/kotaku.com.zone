@@ -1,0 +1,6 @@
+
+kotaku.com.	86400	IN	SOA	ns.kotaku.com.	mail	2019061702 1800 900 604800 86400
+kotaku.com.	86400	IN	NS	ns.kotaku.com.
+ns.kotaku.com.	518400	IN	A	198.100.156.181
+
+kotaku.com.	518400	IN	A	151.101.130.166

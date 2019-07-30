@@ -1,0 +1,6 @@
+
+dorkly.com.	86400	IN	SOA	ns.dorkly.com.	mail	2019061702 1800 900 604800 86400
+dorkly.com.	86400	IN	NS	ns.dorkly.com.
+ns.dorkly.com.	518400	IN	A	216.239.32.10
+
+dorkly.com.	518400	IN	A	18.214.212.46

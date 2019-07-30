@@ -1,0 +1,6 @@
+
+fdrmx.com.	86400	IN	SOA	ns.fdrmx.com.	mail	2019061702 1800 900 604800 86400
+fdrmx.com.	86400	IN	NS	ns.fdrmx.com.
+ns.fdrmx.com.	518400	IN	A	175.126.117.211
+
+fdrmx.com.	518400	IN	A	178.128.70.109

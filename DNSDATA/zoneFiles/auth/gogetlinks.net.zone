@@ -1,0 +1,6 @@
+
+gogetlinks.net.	86400	IN	SOA	ns.gogetlinks.net.	mail	2019061702 1800 900 604800 86400
+gogetlinks.net.	86400	IN	NS	ns.gogetlinks.net.
+ns.gogetlinks.net.	518400	IN	A	200.201.165.253
+
+gogetlinks.net.	518400	IN	A	93.171.200.70

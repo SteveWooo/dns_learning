@@ -1,0 +1,6 @@
+
+jutarnji.hr.	86400	IN	SOA	ns.jutarnji.hr.	mail	2019061702 1800 900 604800 86400
+jutarnji.hr.	86400	IN	NS	ns.jutarnji.hr.
+ns.jutarnji.hr.	518400	IN	A	198.11.138.245
+
+jutarnji.hr.	518400	IN	A	104.20.89.82

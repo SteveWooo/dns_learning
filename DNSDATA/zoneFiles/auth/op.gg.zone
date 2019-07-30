@@ -1,0 +1,6 @@
+
+op.gg.	86400	IN	SOA	ns.op.gg.	mail	2019061702 1800 900 604800 86400
+op.gg.	86400	IN	NS	ns.op.gg.
+ns.op.gg.	518400	IN	A	200.221.11.98
+
+op.gg.	518400	IN	A	1.201.136.77

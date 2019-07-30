@@ -1,0 +1,6 @@
+
+idlebrain.com.	86400	IN	SOA	ns.idlebrain.com.	mail	2019061702 1800 900 604800 86400
+idlebrain.com.	86400	IN	NS	ns.idlebrain.com.
+ns.idlebrain.com.	518400	IN	A	175.126.117.211
+
+idlebrain.com.	518400	IN	A	104.27.174.24

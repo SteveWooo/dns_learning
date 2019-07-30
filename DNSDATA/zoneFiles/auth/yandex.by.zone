@@ -1,0 +1,6 @@
+
+yandex.by.	86400	IN	SOA	ns.yandex.by.	mail	2019061702 1800 900 604800 86400
+yandex.by.	86400	IN	NS	ns.yandex.by.
+ns.yandex.by.	518400	IN	A	173.245.58.100
+
+yandex.by.	518400	IN	A	5.255.255.5

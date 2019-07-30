@@ -1,0 +1,6 @@
+
+rogers.com.	86400	IN	SOA	ns.rogers.com.	mail	2019061702 1800 900 604800 86400
+rogers.com.	86400	IN	NS	ns.rogers.com.
+ns.rogers.com.	518400	IN	A	216.239.32.10
+
+rogers.com.	518400	IN	A	40.85.218.2

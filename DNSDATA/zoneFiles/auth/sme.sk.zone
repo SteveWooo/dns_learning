@@ -1,0 +1,6 @@
+
+sme.sk.	86400	IN	SOA	ns.sme.sk.	mail	2019061702 1800 900 604800 86400
+sme.sk.	86400	IN	NS	ns.sme.sk.
+ns.sme.sk.	518400	IN	A	203.153.43.65
+
+sme.sk.	518400	IN	A	185.63.156.56

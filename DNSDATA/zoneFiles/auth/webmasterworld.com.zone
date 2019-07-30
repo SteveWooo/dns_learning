@@ -1,0 +1,6 @@
+
+webmasterworld.com.	86400	IN	SOA	ns.webmasterworld.com.	mail	2019061702 1800 900 604800 86400
+webmasterworld.com.	86400	IN	NS	ns.webmasterworld.com.
+ns.webmasterworld.com.	518400	IN	A	216.239.32.106
+
+webmasterworld.com.	518400	IN	A	209.59.188.36

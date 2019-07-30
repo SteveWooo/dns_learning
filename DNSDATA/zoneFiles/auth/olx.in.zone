@@ -1,0 +1,6 @@
+
+olx.in.	86400	IN	SOA	ns.olx.in.	mail	2019061702 1800 900 604800 86400
+olx.in.	86400	IN	NS	ns.olx.in.
+ns.olx.in.	518400	IN	A	198.11.138.249
+
+olx.in.	518400	IN	A	204.74.99.100

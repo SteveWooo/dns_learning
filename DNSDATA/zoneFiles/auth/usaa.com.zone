@@ -1,0 +1,6 @@
+
+usaa.com.	86400	IN	SOA	ns.usaa.com.	mail	2019061702 1800 900 604800 86400
+usaa.com.	86400	IN	NS	ns.usaa.com.
+ns.usaa.com.	518400	IN	A	132.207.144.12
+
+usaa.com.	518400	IN	A	23.198.101.240

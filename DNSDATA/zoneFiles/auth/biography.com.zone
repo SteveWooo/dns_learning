@@ -1,0 +1,6 @@
+
+biography.com.	86400	IN	SOA	ns.biography.com.	mail	2019061702 1800 900 604800 86400
+biography.com.	86400	IN	NS	ns.biography.com.
+ns.biography.com.	518400	IN	A	213.180.204.242
+
+biography.com.	518400	IN	A	151.101.66.98

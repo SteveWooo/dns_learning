@@ -1,0 +1,6 @@
+
+22find.com.	86400	IN	SOA	ns.22find.com.	mail	2019061702 1800 900 604800 86400
+22find.com.	86400	IN	NS	ns.22find.com.
+ns.22find.com.	518400	IN	A	205.251.192.29
+
+22find.com.	518400	IN	A	184.173.140.166

@@ -1,0 +1,6 @@
+
+techradar.com.	86400	IN	SOA	ns.techradar.com.	mail	2019061702 1800 900 604800 86400
+techradar.com.	86400	IN	NS	ns.techradar.com.
+ns.techradar.com.	518400	IN	A	200.221.11.98
+
+techradar.com.	518400	IN	A	185.113.25.55

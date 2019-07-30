@@ -1,0 +1,6 @@
+
+freelotto.com.	86400	IN	SOA	ns.freelotto.com.	mail	2019061702 1800 900 604800 86400
+freelotto.com.	86400	IN	NS	ns.freelotto.com.
+ns.freelotto.com.	518400	IN	A	216.239.32.106
+
+freelotto.com.	518400	IN	A	64.14.48.143

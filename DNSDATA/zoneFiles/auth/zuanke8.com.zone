@@ -1,0 +1,6 @@
+
+zuanke8.com.	86400	IN	SOA	ns.zuanke8.com.	mail	2019061702 1800 900 604800 86400
+zuanke8.com.	86400	IN	NS	ns.zuanke8.com.
+ns.zuanke8.com.	518400	IN	A	217.69.139.112
+
+zuanke8.com.	518400	IN	A	101.132.44.142

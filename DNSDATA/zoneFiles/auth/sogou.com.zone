@@ -1,0 +1,6 @@
+
+sogou.com.	86400	IN	SOA	ns.sogou.com.	mail	2019061702 1800 900 604800 86400
+sogou.com.	86400	IN	NS	ns.sogou.com.
+ns.sogou.com.	518400	IN	A	145.14.134.108
+
+sogou.com.	518400	IN	A	118.191.216.57

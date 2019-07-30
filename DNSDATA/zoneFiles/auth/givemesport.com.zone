@@ -1,0 +1,6 @@
+
+givemesport.com.	86400	IN	SOA	ns.givemesport.com.	mail	2019061702 1800 900 604800 86400
+givemesport.com.	86400	IN	NS	ns.givemesport.com.
+ns.givemesport.com.	518400	IN	A	200.219.154.10
+
+givemesport.com.	518400	IN	A	3.120.54.183

@@ -1,0 +1,6 @@
+
+overstock.com.	86400	IN	SOA	ns.overstock.com.	mail	2019061702 1800 900 604800 86400
+overstock.com.	86400	IN	NS	ns.overstock.com.
+ns.overstock.com.	518400	IN	A	205.251.195.203
+
+overstock.com.	518400	IN	A	173.241.154.15

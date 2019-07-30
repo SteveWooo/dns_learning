@@ -1,0 +1,6 @@
+
+toggl.com.	86400	IN	SOA	ns.toggl.com.	mail	2019061702 1800 900 604800 86400
+toggl.com.	86400	IN	NS	ns.toggl.com.
+ns.toggl.com.	518400	IN	A	216.239.32.106
+
+toggl.com.	518400	IN	A	35.244.178.179

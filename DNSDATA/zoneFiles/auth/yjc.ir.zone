@@ -1,0 +1,6 @@
+
+yjc.ir.	86400	IN	SOA	ns.yjc.ir.	mail	2019061702 1800 900 604800 86400
+yjc.ir.	86400	IN	NS	ns.yjc.ir.
+ns.yjc.ir.	518400	IN	A	198.11.138.249
+
+yjc.ir.	518400	IN	A	94.182.146.12

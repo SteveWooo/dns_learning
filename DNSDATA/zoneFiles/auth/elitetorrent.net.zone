@@ -1,0 +1,6 @@
+
+elitetorrent.net.	86400	IN	SOA	ns.elitetorrent.net.	mail	2019061702 1800 900 604800 86400
+elitetorrent.net.	86400	IN	NS	ns.elitetorrent.net.
+ns.elitetorrent.net.	518400	IN	A	180.149.156.12
+
+elitetorrent.net.	518400	IN	A	188.95.248.50

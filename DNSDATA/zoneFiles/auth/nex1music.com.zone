@@ -1,0 +1,6 @@
+
+nex1music.com.	86400	IN	SOA	ns.nex1music.com.	mail	2019061702 1800 900 604800 86400
+nex1music.com.	86400	IN	NS	ns.nex1music.com.
+ns.nex1music.com.	518400	IN	A	216.239.32.106
+
+nex1music.com.	518400	IN	A	79.127.127.111

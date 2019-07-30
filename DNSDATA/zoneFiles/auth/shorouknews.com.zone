@@ -1,0 +1,6 @@
+
+shorouknews.com.	86400	IN	SOA	ns.shorouknews.com.	mail	2019061702 1800 900 604800 86400
+shorouknews.com.	86400	IN	NS	ns.shorouknews.com.
+ns.shorouknews.com.	518400	IN	A	202.56.230.5
+
+shorouknews.com.	518400	IN	A	104.28.20.141

@@ -1,0 +1,6 @@
+
+tfile.me.	86400	IN	SOA	ns.tfile.me.	mail	2019061702 1800 900 604800 86400
+tfile.me.	86400	IN	NS	ns.tfile.me.
+ns.tfile.me.	518400	IN	A	173.245.59.115
+
+tfile.me.	518400	IN	A	185.165.168.122

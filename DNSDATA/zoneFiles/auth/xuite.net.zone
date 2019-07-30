@@ -1,0 +1,6 @@
+
+xuite.net.	86400	IN	SOA	ns.xuite.net.	mail	2019061702 1800 900 604800 86400
+xuite.net.	86400	IN	NS	ns.xuite.net.
+ns.xuite.net.	518400	IN	A	205.251.197.107
+
+xuite.net.	518400	IN	A	210.61.56.51

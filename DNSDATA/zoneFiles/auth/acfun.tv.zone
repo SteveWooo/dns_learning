@@ -1,0 +1,6 @@
+
+acfun.tv.	86400	IN	SOA	ns.acfun.tv.	mail	2019061702 1800 900 604800 86400
+acfun.tv.	86400	IN	NS	ns.acfun.tv.
+ns.acfun.tv.	518400	IN	A	173.245.59.115
+
+acfun.tv.	518400	IN	A	50.63.202.43

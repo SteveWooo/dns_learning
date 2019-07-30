@@ -1,0 +1,6 @@
+
+centrum.cz.	86400	IN	SOA	ns.centrum.cz.	mail	2019061702 1800 900 604800 86400
+centrum.cz.	86400	IN	NS	ns.centrum.cz.
+ns.centrum.cz.	518400	IN	A	193.232.142.17
+
+centrum.cz.	518400	IN	A	46.255.231.106

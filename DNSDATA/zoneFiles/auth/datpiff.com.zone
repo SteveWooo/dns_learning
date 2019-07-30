@@ -1,0 +1,6 @@
+
+datpiff.com.	86400	IN	SOA	ns.datpiff.com.	mail	2019061702 1800 900 604800 86400
+datpiff.com.	86400	IN	NS	ns.datpiff.com.
+ns.datpiff.com.	518400	IN	A	131.0.24.26
+
+datpiff.com.	518400	IN	A	64.237.53.90

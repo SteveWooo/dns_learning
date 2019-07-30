@@ -1,0 +1,6 @@
+
+rawstory.com.	86400	IN	SOA	ns.rawstory.com.	mail	2019061702 1800 900 604800 86400
+rawstory.com.	86400	IN	NS	ns.rawstory.com.
+ns.rawstory.com.	518400	IN	A	217.69.139.112
+
+rawstory.com.	518400	IN	A	104.25.250.29

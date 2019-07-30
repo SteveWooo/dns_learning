@@ -1,0 +1,6 @@
+
+nj.com.	86400	IN	SOA	ns.nj.com.	mail	2019061702 1800 900 604800 86400
+nj.com.	86400	IN	NS	ns.nj.com.
+ns.nj.com.	518400	IN	A	205.251.195.203
+
+nj.com.	518400	IN	A	151.101.66.133

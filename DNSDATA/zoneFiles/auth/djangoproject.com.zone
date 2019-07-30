@@ -1,0 +1,6 @@
+
+djangoproject.com.	86400	IN	SOA	ns.djangoproject.com.	mail	2019061702 1800 900 604800 86400
+djangoproject.com.	86400	IN	NS	ns.djangoproject.com.
+ns.djangoproject.com.	518400	IN	A	81.19.73.180
+
+djangoproject.com.	518400	IN	A	146.20.110.22

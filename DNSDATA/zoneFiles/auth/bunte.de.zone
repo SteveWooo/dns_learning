@@ -1,0 +1,6 @@
+
+bunte.de.	86400	IN	SOA	ns.bunte.de.	mail	2019061702 1800 900 604800 86400
+bunte.de.	86400	IN	NS	ns.bunte.de.
+ns.bunte.de.	518400	IN	A	217.69.139.202
+
+bunte.de.	518400	IN	A	185.26.230.133

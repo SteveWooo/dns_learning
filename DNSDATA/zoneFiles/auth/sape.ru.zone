@@ -1,0 +1,6 @@
+
+sape.ru.	86400	IN	SOA	ns.sape.ru.	mail	2019061702 1800 900 604800 86400
+sape.ru.	86400	IN	NS	ns.sape.ru.
+ns.sape.ru.	518400	IN	A	198.100.156.181
+
+sape.ru.	518400	IN	A	193.232.121.11

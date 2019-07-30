@@ -1,0 +1,6 @@
+
+bestadbid.com.	86400	IN	SOA	ns.bestadbid.com.	mail	2019061702 1800 900 604800 86400
+bestadbid.com.	86400	IN	NS	ns.bestadbid.com.
+ns.bestadbid.com.	518400	IN	A	200.219.154.10
+
+bestadbid.com.	518400	IN	A	52.15.96.207

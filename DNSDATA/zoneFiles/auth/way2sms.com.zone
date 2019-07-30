@@ -1,0 +1,6 @@
+
+way2sms.com.	86400	IN	SOA	ns.way2sms.com.	mail	2019061702 1800 900 604800 86400
+way2sms.com.	86400	IN	NS	ns.way2sms.com.
+ns.way2sms.com.	518400	IN	A	157.255.246.101
+
+way2sms.com.	518400	IN	A	182.18.171.150

@@ -1,0 +1,6 @@
+
+teacup.com.	86400	IN	SOA	ns.teacup.com.	mail	2019061702 1800 900 604800 86400
+teacup.com.	86400	IN	NS	ns.teacup.com.
+ns.teacup.com.	518400	IN	A	217.69.139.112
+
+teacup.com.	518400	IN	A	52.199.139.113

@@ -1,0 +1,6 @@
+
+eweb4.com.	86400	IN	SOA	ns.eweb4.com.	mail	2019061702 1800 900 604800 86400
+eweb4.com.	86400	IN	NS	ns.eweb4.com.
+ns.eweb4.com.	518400	IN	A	200.221.11.98
+
+eweb4.com.	518400	IN	A	79.114.38.137

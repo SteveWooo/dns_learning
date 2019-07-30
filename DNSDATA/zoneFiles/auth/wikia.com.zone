@@ -1,0 +1,6 @@
+
+wikia.com.	86400	IN	SOA	ns.wikia.com.	mail	2019061702 1800 900 604800 86400
+wikia.com.	86400	IN	NS	ns.wikia.com.
+ns.wikia.com.	518400	IN	A	200.219.154.10
+
+wikia.com.	518400	IN	A	151.101.128.194

@@ -1,0 +1,6 @@
+
+viraldips.com.	86400	IN	SOA	ns.viraldips.com.	mail	2019061702 1800 900 604800 86400
+viraldips.com.	86400	IN	NS	ns.viraldips.com.
+ns.viraldips.com.	518400	IN	A	213.180.193.1
+
+viraldips.com.	518400	IN	A	104.200.22.130

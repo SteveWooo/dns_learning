@@ -1,0 +1,6 @@
+
+downloadcocky.com.	86400	IN	SOA	ns.downloadcocky.com.	mail	2019061702 1800 900 604800 86400
+downloadcocky.com.	86400	IN	NS	ns.downloadcocky.com.
+ns.downloadcocky.com.	518400	IN	A	205.251.192.29
+
+downloadcocky.com.	518400	IN	A	204.11.56.48

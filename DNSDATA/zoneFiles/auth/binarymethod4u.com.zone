@@ -1,0 +1,6 @@
+
+binarymethod4u.com.	86400	IN	SOA	ns.binarymethod4u.com.	mail	2019061702 1800 900 604800 86400
+binarymethod4u.com.	86400	IN	NS	ns.binarymethod4u.com.
+ns.binarymethod4u.com.	518400	IN	A	2.16.130.64
+
+binarymethod4u.com.	518400	IN	A	96.126.123.244

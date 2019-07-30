@@ -1,0 +1,6 @@
+
+tobogo.net.	86400	IN	SOA	ns.tobogo.net.	mail	2019061702 1800 900 604800 86400
+tobogo.net.	86400	IN	NS	ns.tobogo.net.
+ns.tobogo.net.	518400	IN	A	205.251.199.254
+
+tobogo.net.	518400	IN	A	45.79.19.196

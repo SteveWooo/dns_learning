@@ -1,0 +1,6 @@
+
+bungie.net.	86400	IN	SOA	ns.bungie.net.	mail	2019061702 1800 900 604800 86400
+bungie.net.	86400	IN	NS	ns.bungie.net.
+ns.bungie.net.	518400	IN	A	217.69.139.202
+
+bungie.net.	518400	IN	A	104.20.29.30

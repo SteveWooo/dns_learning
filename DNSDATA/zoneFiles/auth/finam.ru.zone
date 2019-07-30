@@ -1,0 +1,6 @@
+
+finam.ru.	86400	IN	SOA	ns.finam.ru.	mail	2019061702 1800 900 604800 86400
+finam.ru.	86400	IN	NS	ns.finam.ru.
+ns.finam.ru.	518400	IN	A	174.35.55.22
+
+finam.ru.	518400	IN	A	78.41.194.20

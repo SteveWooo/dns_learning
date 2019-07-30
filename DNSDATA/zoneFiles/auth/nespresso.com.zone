@@ -1,0 +1,6 @@
+
+nespresso.com.	86400	IN	SOA	ns.nespresso.com.	mail	2019061702 1800 900 604800 86400
+nespresso.com.	86400	IN	NS	ns.nespresso.com.
+ns.nespresso.com.	518400	IN	A	183.3.226.207
+
+nespresso.com.	518400	IN	A	91.209.84.237

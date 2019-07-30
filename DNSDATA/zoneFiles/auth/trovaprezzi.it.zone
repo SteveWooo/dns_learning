@@ -1,0 +1,6 @@
+
+trovaprezzi.it.	86400	IN	SOA	ns.trovaprezzi.it.	mail	2019061702 1800 900 604800 86400
+trovaprezzi.it.	86400	IN	NS	ns.trovaprezzi.it.
+ns.trovaprezzi.it.	518400	IN	A	213.180.193.1
+
+trovaprezzi.it.	518400	IN	A	2.228.21.213

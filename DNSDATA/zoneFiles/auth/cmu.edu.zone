@@ -1,0 +1,6 @@
+
+cmu.edu.	86400	IN	SOA	ns.cmu.edu.	mail	2019061702 1800 900 604800 86400
+cmu.edu.	86400	IN	NS	ns.cmu.edu.
+ns.cmu.edu.	518400	IN	A	216.239.32.106
+
+cmu.edu.	518400	IN	A	128.2.42.10

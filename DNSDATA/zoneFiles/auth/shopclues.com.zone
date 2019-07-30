@@ -1,0 +1,6 @@
+
+shopclues.com.	86400	IN	SOA	ns.shopclues.com.	mail	2019061702 1800 900 604800 86400
+shopclues.com.	86400	IN	NS	ns.shopclues.com.
+ns.shopclues.com.	518400	IN	A	205.251.199.254
+
+shopclues.com.	518400	IN	A	180.179.168.163

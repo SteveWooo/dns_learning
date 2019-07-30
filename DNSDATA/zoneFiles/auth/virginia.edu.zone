@@ -1,0 +1,6 @@
+
+virginia.edu.	86400	IN	SOA	ns.virginia.edu.	mail	2019061702 1800 900 604800 86400
+virginia.edu.	86400	IN	NS	ns.virginia.edu.
+ns.virginia.edu.	518400	IN	A	200.201.161.22
+
+virginia.edu.	518400	IN	A	128.143.22.36

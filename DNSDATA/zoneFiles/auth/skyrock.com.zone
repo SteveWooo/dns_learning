@@ -1,0 +1,6 @@
+
+skyrock.com.	86400	IN	SOA	ns.skyrock.com.	mail	2019061702 1800 900 604800 86400
+skyrock.com.	86400	IN	NS	ns.skyrock.com.
+ns.skyrock.com.	518400	IN	A	183.3.226.207
+
+skyrock.com.	518400	IN	A	91.203.187.40

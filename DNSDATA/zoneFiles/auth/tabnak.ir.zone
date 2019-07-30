@@ -1,0 +1,6 @@
+
+tabnak.ir.	86400	IN	SOA	ns.tabnak.ir.	mail	2019061702 1800 900 604800 86400
+tabnak.ir.	86400	IN	NS	ns.tabnak.ir.
+ns.tabnak.ir.	518400	IN	A	193.108.91.127
+
+tabnak.ir.	518400	IN	A	94.182.146.186

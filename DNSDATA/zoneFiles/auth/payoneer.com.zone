@@ -1,0 +1,6 @@
+
+payoneer.com.	86400	IN	SOA	ns.payoneer.com.	mail	2019061702 1800 900 604800 86400
+payoneer.com.	86400	IN	NS	ns.payoneer.com.
+ns.payoneer.com.	518400	IN	A	193.232.142.17
+
+payoneer.com.	518400	IN	A	216.146.46.11

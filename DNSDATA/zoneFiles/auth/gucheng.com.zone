@@ -1,0 +1,6 @@
+
+gucheng.com.	86400	IN	SOA	ns.gucheng.com.	mail	2019061702 1800 900 604800 86400
+gucheng.com.	86400	IN	NS	ns.gucheng.com.
+ns.gucheng.com.	518400	IN	A	204.74.108.1
+
+gucheng.com.	518400	IN	A	42.156.141.13

@@ -1,0 +1,6 @@
+
+yammer.com.	86400	IN	SOA	ns.yammer.com.	mail	2019061702 1800 900 604800 86400
+yammer.com.	86400	IN	NS	ns.yammer.com.
+ns.yammer.com.	518400	IN	A	202.108.22.220
+
+yammer.com.	518400	IN	A	13.107.6.159

@@ -1,0 +1,6 @@
+
+pc6.com.	86400	IN	SOA	ns.pc6.com.	mail	2019061702 1800 900 604800 86400
+pc6.com.	86400	IN	NS	ns.pc6.com.
+ns.pc6.com.	518400	IN	A	165.160.15.20
+
+pc6.com.	518400	IN	A	123.206.112.44

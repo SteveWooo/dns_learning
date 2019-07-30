@@ -1,0 +1,6 @@
+
+mojang.com.	86400	IN	SOA	ns.mojang.com.	mail	2019061702 1800 900 604800 86400
+mojang.com.	86400	IN	NS	ns.mojang.com.
+ns.mojang.com.	518400	IN	A	193.108.91.127
+
+mojang.com.	518400	IN	A	13.225.166.6

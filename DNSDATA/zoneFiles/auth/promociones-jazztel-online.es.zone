@@ -1,0 +1,6 @@
+
+promociones-jazztel-online.es.	86400	IN	SOA	ns.promociones-jazztel-online.es.	mail	2019061702 1800 900 604800 86400
+promociones-jazztel-online.es.	86400	IN	NS	ns.promociones-jazztel-online.es.
+ns.promociones-jazztel-online.es.	518400	IN	A	173.245.59.160
+
+promociones-jazztel-online.es.	518400	IN	A	37.59.22.74

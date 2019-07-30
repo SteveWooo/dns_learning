@@ -1,0 +1,6 @@
+
+yemeksepeti.com.	86400	IN	SOA	ns.yemeksepeti.com.	mail	2019061702 1800 900 604800 86400
+yemeksepeti.com.	86400	IN	NS	ns.yemeksepeti.com.
+ns.yemeksepeti.com.	518400	IN	A	203.153.43.65
+
+yemeksepeti.com.	518400	IN	A	92.45.4.105

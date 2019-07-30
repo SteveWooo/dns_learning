@@ -1,0 +1,6 @@
+
+ctrip.com.	86400	IN	SOA	ns.ctrip.com.	mail	2019061702 1800 900 604800 86400
+ctrip.com.	86400	IN	NS	ns.ctrip.com.
+ns.ctrip.com.	518400	IN	A	216.239.32.10
+
+ctrip.com.	518400	IN	A	101.226.248.6

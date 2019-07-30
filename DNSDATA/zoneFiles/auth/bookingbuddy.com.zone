@@ -1,0 +1,6 @@
+
+bookingbuddy.com.	86400	IN	SOA	ns.bookingbuddy.com.	mail	2019061702 1800 900 604800 86400
+bookingbuddy.com.	86400	IN	NS	ns.bookingbuddy.com.
+ns.bookingbuddy.com.	518400	IN	A	205.251.195.203
+
+bookingbuddy.com.	518400	IN	A	96.47.73.182

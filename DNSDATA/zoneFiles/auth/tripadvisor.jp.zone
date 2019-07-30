@@ -1,0 +1,6 @@
+
+tripadvisor.jp.	86400	IN	SOA	ns.tripadvisor.jp.	mail	2019061702 1800 900 604800 86400
+tripadvisor.jp.	86400	IN	NS	ns.tripadvisor.jp.
+ns.tripadvisor.jp.	518400	IN	A	204.69.234.1
+
+tripadvisor.jp.	518400	IN	A	192.229.182.112

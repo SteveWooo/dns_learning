@@ -1,0 +1,6 @@
+
+dslreports.com.	86400	IN	SOA	ns.dslreports.com.	mail	2019061702 1800 900 604800 86400
+dslreports.com.	86400	IN	NS	ns.dslreports.com.
+ns.dslreports.com.	518400	IN	A	208.78.70.47
+
+dslreports.com.	518400	IN	A	64.91.255.98

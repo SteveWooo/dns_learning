@@ -1,0 +1,6 @@
+
+screencast.com.	86400	IN	SOA	ns.screencast.com.	mail	2019061702 1800 900 604800 86400
+screencast.com.	86400	IN	NS	ns.screencast.com.
+ns.screencast.com.	518400	IN	A	202.56.230.5
+
+screencast.com.	518400	IN	A	45.60.108.242

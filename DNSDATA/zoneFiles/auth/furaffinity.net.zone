@@ -1,0 +1,6 @@
+
+furaffinity.net.	86400	IN	SOA	ns.furaffinity.net.	mail	2019061702 1800 900 604800 86400
+furaffinity.net.	86400	IN	NS	ns.furaffinity.net.
+ns.furaffinity.net.	518400	IN	A	216.239.32.106
+
+furaffinity.net.	518400	IN	A	104.20.70.59

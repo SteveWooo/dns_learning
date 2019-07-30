@@ -1,0 +1,6 @@
+
+jiayuan.com.	86400	IN	SOA	ns.jiayuan.com.	mail	2019061702 1800 900 604800 86400
+jiayuan.com.	86400	IN	NS	ns.jiayuan.com.
+ns.jiayuan.com.	518400	IN	A	216.239.32.10
+
+jiayuan.com.	518400	IN	A	59.151.18.18

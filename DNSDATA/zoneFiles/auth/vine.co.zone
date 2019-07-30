@@ -1,0 +1,6 @@
+
+vine.co.	86400	IN	SOA	ns.vine.co.	mail	2019061702 1800 900 604800 86400
+vine.co.	86400	IN	NS	ns.vine.co.
+ns.vine.co.	518400	IN	A	216.239.32.10
+
+vine.co.	518400	IN	A	31.13.70.1

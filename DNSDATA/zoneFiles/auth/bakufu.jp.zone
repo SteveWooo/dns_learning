@@ -1,0 +1,6 @@
+
+bakufu.jp.	86400	IN	SOA	ns.bakufu.jp.	mail	2019061702 1800 900 604800 86400
+bakufu.jp.	86400	IN	NS	ns.bakufu.jp.
+ns.bakufu.jp.	518400	IN	A	204.69.234.1
+
+bakufu.jp.	518400	IN	A	202.216.16.134

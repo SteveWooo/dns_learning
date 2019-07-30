@@ -1,0 +1,6 @@
+
+filmstream.me.	86400	IN	SOA	ns.filmstream.me.	mail	2019061702 1800 900 604800 86400
+filmstream.me.	86400	IN	NS	ns.filmstream.me.
+ns.filmstream.me.	518400	IN	A	205.251.197.107
+
+filmstream.me.	518400	IN	A	209.99.64.43

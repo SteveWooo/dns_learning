@@ -1,0 +1,6 @@
+
+cafe24.com.	86400	IN	SOA	ns.cafe24.com.	mail	2019061702 1800 900 604800 86400
+cafe24.com.	86400	IN	NS	ns.cafe24.com.
+ns.cafe24.com.	518400	IN	A	145.14.134.108
+
+cafe24.com.	518400	IN	A	14.128.128.216

@@ -1,0 +1,6 @@
+
+liberoquotidiano.it.	86400	IN	SOA	ns.liberoquotidiano.it.	mail	2019061702 1800 900 604800 86400
+liberoquotidiano.it.	86400	IN	NS	ns.liberoquotidiano.it.
+ns.liberoquotidiano.it.	518400	IN	A	173.245.58.138
+
+liberoquotidiano.it.	518400	IN	A	104.20.7.21

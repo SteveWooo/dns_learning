@@ -1,0 +1,6 @@
+
+alluc.com.	86400	IN	SOA	ns.alluc.com.	mail	2019061702 1800 900 604800 86400
+alluc.com.	86400	IN	NS	ns.alluc.com.
+ns.alluc.com.	518400	IN	A	216.239.32.29
+
+alluc.com.	518400	IN	A	104.25.108.22

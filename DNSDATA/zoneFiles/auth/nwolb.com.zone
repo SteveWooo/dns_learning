@@ -1,0 +1,6 @@
+
+nwolb.com.	86400	IN	SOA	ns.nwolb.com.	mail	2019061702 1800 900 604800 86400
+nwolb.com.	86400	IN	NS	ns.nwolb.com.
+ns.nwolb.com.	518400	IN	A	125.208.45.1
+
+nwolb.com.	518400	IN	A	155.136.22.4

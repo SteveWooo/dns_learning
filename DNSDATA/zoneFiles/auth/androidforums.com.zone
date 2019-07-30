@@ -1,0 +1,6 @@
+
+androidforums.com.	86400	IN	SOA	ns.androidforums.com.	mail	2019061702 1800 900 604800 86400
+androidforums.com.	86400	IN	NS	ns.androidforums.com.
+ns.androidforums.com.	518400	IN	A	173.245.59.100
+
+androidforums.com.	518400	IN	A	157.230.209.131

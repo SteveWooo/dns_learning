@@ -1,0 +1,6 @@
+
+dallasnews.com.	86400	IN	SOA	ns.dallasnews.com.	mail	2019061702 1800 900 604800 86400
+dallasnews.com.	86400	IN	NS	ns.dallasnews.com.
+ns.dallasnews.com.	518400	IN	A	205.251.199.254
+
+dallasnews.com.	518400	IN	A	34.226.111.80

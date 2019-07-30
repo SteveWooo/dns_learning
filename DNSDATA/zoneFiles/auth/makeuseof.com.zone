@@ -1,0 +1,6 @@
+
+makeuseof.com.	86400	IN	SOA	ns.makeuseof.com.	mail	2019061702 1800 900 604800 86400
+makeuseof.com.	86400	IN	NS	ns.makeuseof.com.
+ns.makeuseof.com.	518400	IN	A	180.149.156.12
+
+makeuseof.com.	518400	IN	A	34.237.131.255

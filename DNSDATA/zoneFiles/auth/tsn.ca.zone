@@ -1,0 +1,6 @@
+
+tsn.ca.	86400	IN	SOA	ns.tsn.ca.	mail	2019061702 1800 900 604800 86400
+tsn.ca.	86400	IN	NS	ns.tsn.ca.
+ns.tsn.ca.	518400	IN	A	205.251.199.254
+
+tsn.ca.	518400	IN	A	199.85.71.128

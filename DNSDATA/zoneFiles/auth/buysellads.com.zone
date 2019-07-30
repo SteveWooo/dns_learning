@@ -1,0 +1,6 @@
+
+buysellads.com.	86400	IN	SOA	ns.buysellads.com.	mail	2019061702 1800 900 604800 86400
+buysellads.com.	86400	IN	NS	ns.buysellads.com.
+ns.buysellads.com.	518400	IN	A	202.56.230.5
+
+buysellads.com.	518400	IN	A	34.207.79.9

@@ -1,0 +1,6 @@
+
+arbeitsagentur.de.	86400	IN	SOA	ns.arbeitsagentur.de.	mail	2019061702 1800 900 604800 86400
+arbeitsagentur.de.	86400	IN	NS	ns.arbeitsagentur.de.
+ns.arbeitsagentur.de.	518400	IN	A	180.149.156.12
+
+arbeitsagentur.de.	518400	IN	A	195.88.117.95

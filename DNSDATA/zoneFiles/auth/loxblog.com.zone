@@ -1,0 +1,6 @@
+
+loxblog.com.	86400	IN	SOA	ns.loxblog.com.	mail	2019061702 1800 900 604800 86400
+loxblog.com.	86400	IN	NS	ns.loxblog.com.
+ns.loxblog.com.	518400	IN	A	216.239.32.29
+
+loxblog.com.	518400	IN	A	5.144.129.251

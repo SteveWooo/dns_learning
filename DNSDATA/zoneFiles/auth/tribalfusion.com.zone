@@ -1,0 +1,6 @@
+
+tribalfusion.com.	86400	IN	SOA	ns.tribalfusion.com.	mail	2019061702 1800 900 604800 86400
+tribalfusion.com.	86400	IN	NS	ns.tribalfusion.com.
+ns.tribalfusion.com.	518400	IN	A	216.58.200.238
+
+tribalfusion.com.	518400	IN	A	204.11.109.195

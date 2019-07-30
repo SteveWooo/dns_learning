@@ -1,0 +1,6 @@
+
+sport-express.ru.	86400	IN	SOA	ns.sport-express.ru.	mail	2019061702 1800 900 604800 86400
+sport-express.ru.	86400	IN	NS	ns.sport-express.ru.
+ns.sport-express.ru.	518400	IN	A	193.232.156.17
+
+sport-express.ru.	518400	IN	A	185.70.164.72

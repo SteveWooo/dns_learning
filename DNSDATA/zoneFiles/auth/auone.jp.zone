@@ -1,0 +1,6 @@
+
+auone.jp.	86400	IN	SOA	ns.auone.jp.	mail	2019061702 1800 900 604800 86400
+auone.jp.	86400	IN	NS	ns.auone.jp.
+ns.auone.jp.	518400	IN	A	213.180.193.1
+
+auone.jp.	518400	IN	A	106.162.242.31

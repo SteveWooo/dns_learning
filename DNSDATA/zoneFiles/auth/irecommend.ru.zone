@@ -1,0 +1,6 @@
+
+irecommend.ru.	86400	IN	SOA	ns.irecommend.ru.	mail	2019061702 1800 900 604800 86400
+irecommend.ru.	86400	IN	NS	ns.irecommend.ru.
+ns.irecommend.ru.	518400	IN	A	183.3.226.207
+
+irecommend.ru.	518400	IN	A	188.40.17.83

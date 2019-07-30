@@ -1,0 +1,6 @@
+
+garaanews.com.	86400	IN	SOA	ns.garaanews.com.	mail	2019061702 1800 900 604800 86400
+garaanews.com.	86400	IN	NS	ns.garaanews.com.
+ns.garaanews.com.	518400	IN	A	217.69.139.202
+
+garaanews.com.	518400	IN	A	149.202.168.123

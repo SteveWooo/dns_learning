@@ -1,0 +1,6 @@
+
+utah.edu.	86400	IN	SOA	ns.utah.edu.	mail	2019061702 1800 900 604800 86400
+utah.edu.	86400	IN	NS	ns.utah.edu.
+ns.utah.edu.	518400	IN	A	217.69.139.202
+
+utah.edu.	518400	IN	A	155.97.137.55

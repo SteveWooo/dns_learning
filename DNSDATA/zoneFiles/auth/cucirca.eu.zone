@@ -1,0 +1,6 @@
+
+cucirca.eu.	86400	IN	SOA	ns.cucirca.eu.	mail	2019061702 1800 900 604800 86400
+cucirca.eu.	86400	IN	NS	ns.cucirca.eu.
+ns.cucirca.eu.	518400	IN	A	213.180.204.242
+
+cucirca.eu.	518400	IN	A	104.27.191.155

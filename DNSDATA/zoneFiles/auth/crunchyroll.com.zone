@@ -1,0 +1,6 @@
+
+crunchyroll.com.	86400	IN	SOA	ns.crunchyroll.com.	mail	2019061702 1800 900 604800 86400
+crunchyroll.com.	86400	IN	NS	ns.crunchyroll.com.
+ns.crunchyroll.com.	518400	IN	A	216.58.200.238
+
+crunchyroll.com.	518400	IN	A	104.20.18.239

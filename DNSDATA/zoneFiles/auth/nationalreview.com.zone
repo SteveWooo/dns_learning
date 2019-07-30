@@ -1,0 +1,6 @@
+
+nationalreview.com.	86400	IN	SOA	ns.nationalreview.com.	mail	2019061702 1800 900 604800 86400
+nationalreview.com.	86400	IN	NS	ns.nationalreview.com.
+ns.nationalreview.com.	518400	IN	A	216.239.32.10
+
+nationalreview.com.	518400	IN	A	23.185.0.3

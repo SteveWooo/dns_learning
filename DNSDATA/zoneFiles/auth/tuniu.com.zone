@@ -1,0 +1,6 @@
+
+tuniu.com.	86400	IN	SOA	ns.tuniu.com.	mail	2019061702 1800 900 604800 86400
+tuniu.com.	86400	IN	NS	ns.tuniu.com.
+ns.tuniu.com.	518400	IN	A	217.69.139.112
+
+tuniu.com.	518400	IN	A	103.222.144.64

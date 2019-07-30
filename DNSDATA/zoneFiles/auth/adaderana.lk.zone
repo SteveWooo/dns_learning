@@ -1,0 +1,6 @@
+
+adaderana.lk.	86400	IN	SOA	ns.adaderana.lk.	mail	2019061702 1800 900 604800 86400
+adaderana.lk.	86400	IN	NS	ns.adaderana.lk.
+ns.adaderana.lk.	518400	IN	A	125.208.45.1
+
+adaderana.lk.	518400	IN	A	192.124.249.11

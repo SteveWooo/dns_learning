@@ -1,0 +1,6 @@
+
+futureshop.ca.	86400	IN	SOA	ns.futureshop.ca.	mail	2019061702 1800 900 604800 86400
+futureshop.ca.	86400	IN	NS	ns.futureshop.ca.
+ns.futureshop.ca.	518400	IN	A	216.239.32.10
+
+futureshop.ca.	518400	IN	A	94.31.29.128

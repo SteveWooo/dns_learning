@@ -1,0 +1,6 @@
+
+larousse.fr.	86400	IN	SOA	ns.larousse.fr.	mail	2019061702 1800 900 604800 86400
+larousse.fr.	86400	IN	NS	ns.larousse.fr.
+ns.larousse.fr.	518400	IN	A	206.128.173.109
+
+larousse.fr.	518400	IN	A	195.81.225.108

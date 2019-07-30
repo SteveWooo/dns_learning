@@ -1,0 +1,6 @@
+
+mobicrunch.com.	86400	IN	SOA	ns.mobicrunch.com.	mail	2019061702 1800 900 604800 86400
+mobicrunch.com.	86400	IN	NS	ns.mobicrunch.com.
+ns.mobicrunch.com.	518400	IN	A	216.239.32.29
+
+mobicrunch.com.	518400	IN	A	74.220.199.6

@@ -1,0 +1,6 @@
+
+rd-direct.com.	86400	IN	SOA	ns.rd-direct.com.	mail	2019061702 1800 900 604800 86400
+rd-direct.com.	86400	IN	NS	ns.rd-direct.com.
+ns.rd-direct.com.	518400	IN	A	200.219.154.10
+
+rd-direct.com.	518400	IN	A	38.107.161.250

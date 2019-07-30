@@ -1,0 +1,6 @@
+
+ok.ru.	86400	IN	SOA	ns.ok.ru.	mail	2019061702 1800 900 604800 86400
+ok.ru.	86400	IN	NS	ns.ok.ru.
+ns.ok.ru.	518400	IN	A	216.239.32.106
+
+ok.ru.	518400	IN	A	69.171.235.101

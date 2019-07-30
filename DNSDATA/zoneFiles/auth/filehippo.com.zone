@@ -1,0 +1,6 @@
+
+filehippo.com.	86400	IN	SOA	ns.filehippo.com.	mail	2019061702 1800 900 604800 86400
+filehippo.com.	86400	IN	NS	ns.filehippo.com.
+ns.filehippo.com.	518400	IN	A	165.160.15.20
+
+filehippo.com.	518400	IN	A	107.178.253.206

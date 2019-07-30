@@ -1,0 +1,6 @@
+
+lolking.net.	86400	IN	SOA	ns.lolking.net.	mail	2019061702 1800 900 604800 86400
+lolking.net.	86400	IN	NS	ns.lolking.net.
+ns.lolking.net.	518400	IN	A	217.69.139.202
+
+lolking.net.	518400	IN	A	13.225.63.54

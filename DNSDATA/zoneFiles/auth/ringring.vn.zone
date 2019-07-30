@@ -1,0 +1,6 @@
+
+ringring.vn.	86400	IN	SOA	ns.ringring.vn.	mail	2019061702 1800 900 604800 86400
+ringring.vn.	86400	IN	NS	ns.ringring.vn.
+ns.ringring.vn.	518400	IN	A	216.58.200.238
+
+ringring.vn.	518400	IN	A	125.212.193.77

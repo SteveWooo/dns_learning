@@ -1,0 +1,6 @@
+
+g9g.com.	86400	IN	SOA	ns.g9g.com.	mail	2019061702 1800 900 604800 86400
+g9g.com.	86400	IN	NS	ns.g9g.com.
+ns.g9g.com.	518400	IN	A	77.88.55.50
+
+g9g.com.	518400	IN	A	207.244.75.200

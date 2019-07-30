@@ -1,0 +1,6 @@
+
+mapy.cz.	86400	IN	SOA	ns.mapy.cz.	mail	2019061702 1800 900 604800 86400
+mapy.cz.	86400	IN	NS	ns.mapy.cz.
+ns.mapy.cz.	518400	IN	A	140.205.67.253
+
+mapy.cz.	518400	IN	A	77.75.77.138

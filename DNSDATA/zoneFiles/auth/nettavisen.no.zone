@@ -1,0 +1,6 @@
+
+nettavisen.no.	86400	IN	SOA	ns.nettavisen.no.	mail	2019061702 1800 900 604800 86400
+nettavisen.no.	86400	IN	NS	ns.nettavisen.no.
+ns.nettavisen.no.	518400	IN	A	131.0.24.26
+
+nettavisen.no.	518400	IN	A	185.57.253.180

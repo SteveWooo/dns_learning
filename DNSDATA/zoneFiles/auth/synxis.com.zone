@@ -1,0 +1,6 @@
+
+synxis.com.	86400	IN	SOA	ns.synxis.com.	mail	2019061702 1800 900 604800 86400
+synxis.com.	86400	IN	NS	ns.synxis.com.
+ns.synxis.com.	518400	IN	A	216.58.200.238
+
+synxis.com.	518400	IN	A	72.32.21.228

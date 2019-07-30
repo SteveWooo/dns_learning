@@ -1,0 +1,6 @@
+
+holidaycheck.de.	86400	IN	SOA	ns.holidaycheck.de.	mail	2019061702 1800 900 604800 86400
+holidaycheck.de.	86400	IN	NS	ns.holidaycheck.de.
+ns.holidaycheck.de.	518400	IN	A	216.239.32.106
+
+holidaycheck.de.	518400	IN	A	104.155.96.116

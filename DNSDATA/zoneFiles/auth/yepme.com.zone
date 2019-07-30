@@ -1,0 +1,6 @@
+
+yepme.com.	86400	IN	SOA	ns.yepme.com.	mail	2019061702 1800 900 604800 86400
+yepme.com.	86400	IN	NS	ns.yepme.com.
+ns.yepme.com.	518400	IN	A	208.78.70.47
+
+yepme.com.	518400	IN	A	52.85.160.107

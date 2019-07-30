@@ -1,0 +1,6 @@
+
+dw.de.	86400	IN	SOA	ns.dw.de.	mail	2019061702 1800 900 604800 86400
+dw.de.	86400	IN	NS	ns.dw.de.
+ns.dw.de.	518400	IN	A	216.239.32.29
+
+dw.de.	518400	IN	A	194.55.30.46

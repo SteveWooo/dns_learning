@@ -1,0 +1,6 @@
+
+techspot.com.	86400	IN	SOA	ns.techspot.com.	mail	2019061702 1800 900 604800 86400
+techspot.com.	86400	IN	NS	ns.techspot.com.
+ns.techspot.com.	518400	IN	A	204.74.108.1
+
+techspot.com.	518400	IN	A	174.127.84.118

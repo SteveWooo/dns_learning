@@ -1,0 +1,6 @@
+
+popupads.ir.	86400	IN	SOA	ns.popupads.ir.	mail	2019061702 1800 900 604800 86400
+popupads.ir.	86400	IN	NS	ns.popupads.ir.
+ns.popupads.ir.	518400	IN	A	208.78.70.47
+
+popupads.ir.	518400	IN	A	79.127.127.118

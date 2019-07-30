@@ -1,0 +1,6 @@
+
+fontspace.com.	86400	IN	SOA	ns.fontspace.com.	mail	2019061702 1800 900 604800 86400
+fontspace.com.	86400	IN	NS	ns.fontspace.com.
+ns.fontspace.com.	518400	IN	A	213.180.193.1
+
+fontspace.com.	518400	IN	A	69.160.34.22

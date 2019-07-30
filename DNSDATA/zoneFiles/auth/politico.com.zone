@@ -1,0 +1,6 @@
+
+politico.com.	86400	IN	SOA	ns.politico.com.	mail	2019061702 1800 900 604800 86400
+politico.com.	86400	IN	NS	ns.politico.com.
+ns.politico.com.	518400	IN	A	173.245.59.100
+
+politico.com.	518400	IN	A	23.79.208.135

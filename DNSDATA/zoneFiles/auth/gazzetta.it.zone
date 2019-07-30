@@ -1,0 +1,6 @@
+
+gazzetta.it.	86400	IN	SOA	ns.gazzetta.it.	mail	2019061702 1800 900 604800 86400
+gazzetta.it.	86400	IN	NS	ns.gazzetta.it.
+ns.gazzetta.it.	518400	IN	A	216.239.32.29
+
+gazzetta.it.	518400	IN	A	40.115.23.107

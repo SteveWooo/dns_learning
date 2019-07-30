@@ -1,0 +1,6 @@
+
+aukro.ua.	86400	IN	SOA	ns.aukro.ua.	mail	2019061702 1800 900 604800 86400
+aukro.ua.	86400	IN	NS	ns.aukro.ua.
+ns.aukro.ua.	518400	IN	A	205.251.194.1
+
+aukro.ua.	518400	IN	A	193.34.169.43

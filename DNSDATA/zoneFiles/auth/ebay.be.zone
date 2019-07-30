@@ -1,0 +1,6 @@
+
+ebay.be.	86400	IN	SOA	ns.ebay.be.	mail	2019061702 1800 900 604800 86400
+ebay.be.	86400	IN	NS	ns.ebay.be.
+ns.ebay.be.	518400	IN	A	213.180.193.1
+
+ebay.be.	518400	IN	A	66.135.196.249

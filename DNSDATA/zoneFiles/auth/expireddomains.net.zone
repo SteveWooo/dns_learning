@@ -1,0 +1,6 @@
+
+expireddomains.net.	86400	IN	SOA	ns.expireddomains.net.	mail	2019061702 1800 900 604800 86400
+expireddomains.net.	86400	IN	NS	ns.expireddomains.net.
+ns.expireddomains.net.	518400	IN	A	173.245.59.100
+
+expireddomains.net.	518400	IN	A	159.69.69.184

@@ -1,0 +1,6 @@
+
+mplife.com.	86400	IN	SOA	ns.mplife.com.	mail	2019061702 1800 900 604800 86400
+mplife.com.	86400	IN	NS	ns.mplife.com.
+ns.mplife.com.	518400	IN	A	193.232.142.17
+
+mplife.com.	518400	IN	A	61.155.211.202

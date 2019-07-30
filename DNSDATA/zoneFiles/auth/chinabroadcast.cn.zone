@@ -1,0 +1,6 @@
+
+chinabroadcast.cn.	86400	IN	SOA	ns.chinabroadcast.cn.	mail	2019061702 1800 900 604800 86400
+chinabroadcast.cn.	86400	IN	NS	ns.chinabroadcast.cn.
+ns.chinabroadcast.cn.	518400	IN	A	205.251.199.254
+
+chinabroadcast.cn.	518400	IN	A	210.51.185.10

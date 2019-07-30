@@ -1,0 +1,6 @@
+
+abnamro.nl.	86400	IN	SOA	ns.abnamro.nl.	mail	2019061702 1800 900 604800 86400
+abnamro.nl.	86400	IN	NS	ns.abnamro.nl.
+ns.abnamro.nl.	518400	IN	A	204.69.234.1
+
+abnamro.nl.	518400	IN	A	23.32.20.19

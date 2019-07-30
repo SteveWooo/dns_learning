@@ -1,0 +1,6 @@
+
+redflagdeals.com.	86400	IN	SOA	ns.redflagdeals.com.	mail	2019061702 1800 900 604800 86400
+redflagdeals.com.	86400	IN	NS	ns.redflagdeals.com.
+ns.redflagdeals.com.	518400	IN	A	213.180.193.1
+
+redflagdeals.com.	518400	IN	A	54.226.33.103

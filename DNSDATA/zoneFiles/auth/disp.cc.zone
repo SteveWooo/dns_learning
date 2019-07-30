@@ -1,0 +1,6 @@
+
+disp.cc.	86400	IN	SOA	ns.disp.cc.	mail	2019061702 1800 900 604800 86400
+disp.cc.	86400	IN	NS	ns.disp.cc.
+ns.disp.cc.	518400	IN	A	205.251.199.254
+
+disp.cc.	518400	IN	A	203.98.7.65

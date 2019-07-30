@@ -1,0 +1,6 @@
+
+bt.com.	86400	IN	SOA	ns.bt.com.	mail	2019061702 1800 900 604800 86400
+bt.com.	86400	IN	NS	ns.bt.com.
+ns.bt.com.	518400	IN	A	78.40.125.184
+
+bt.com.	518400	IN	A	193.113.9.164

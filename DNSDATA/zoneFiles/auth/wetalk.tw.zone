@@ -1,0 +1,6 @@
+
+wetalk.tw.	86400	IN	SOA	ns.wetalk.tw.	mail	2019061702 1800 900 604800 86400
+wetalk.tw.	86400	IN	NS	ns.wetalk.tw.
+ns.wetalk.tw.	518400	IN	A	200.201.165.253
+
+wetalk.tw.	518400	IN	A	104.24.30.116

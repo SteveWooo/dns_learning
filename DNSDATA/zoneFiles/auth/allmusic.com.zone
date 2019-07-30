@@ -1,0 +1,6 @@
+
+allmusic.com.	86400	IN	SOA	ns.allmusic.com.	mail	2019061702 1800 900 604800 86400
+allmusic.com.	86400	IN	NS	ns.allmusic.com.
+ns.allmusic.com.	518400	IN	A	193.232.156.17
+
+allmusic.com.	518400	IN	A	130.211.21.62

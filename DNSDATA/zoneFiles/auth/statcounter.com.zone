@@ -1,0 +1,6 @@
+
+statcounter.com.	86400	IN	SOA	ns.statcounter.com.	mail	2019061702 1800 900 604800 86400
+statcounter.com.	86400	IN	NS	ns.statcounter.com.
+ns.statcounter.com.	518400	IN	A	198.100.156.181
+
+statcounter.com.	518400	IN	A	104.20.3.47

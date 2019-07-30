@@ -1,0 +1,6 @@
+
+miui.com.	86400	IN	SOA	ns.miui.com.	mail	2019061702 1800 900 604800 86400
+miui.com.	86400	IN	NS	ns.miui.com.
+ns.miui.com.	518400	IN	A	216.239.32.10
+
+miui.com.	518400	IN	A	120.92.96.58

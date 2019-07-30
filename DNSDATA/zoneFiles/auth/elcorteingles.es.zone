@@ -1,0 +1,6 @@
+
+elcorteingles.es.	86400	IN	SOA	ns.elcorteingles.es.	mail	2019061702 1800 900 604800 86400
+elcorteingles.es.	86400	IN	NS	ns.elcorteingles.es.
+ns.elcorteingles.es.	518400	IN	A	198.11.138.245
+
+elcorteingles.es.	518400	IN	A	185.90.81.234

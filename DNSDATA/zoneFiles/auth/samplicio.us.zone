@@ -1,0 +1,6 @@
+
+samplicio.us.	86400	IN	SOA	ns.samplicio.us.	mail	2019061702 1800 900 604800 86400
+samplicio.us.	86400	IN	NS	ns.samplicio.us.
+ns.samplicio.us.	518400	IN	A	213.180.204.242
+
+samplicio.us.	518400	IN	A	52.4.150.219

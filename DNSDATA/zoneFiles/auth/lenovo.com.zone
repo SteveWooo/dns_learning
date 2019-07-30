@@ -1,0 +1,6 @@
+
+lenovo.com.	86400	IN	SOA	ns.lenovo.com.	mail	2019061702 1800 900 604800 86400
+lenovo.com.	86400	IN	NS	ns.lenovo.com.
+ns.lenovo.com.	518400	IN	A	200.219.154.10
+
+lenovo.com.	518400	IN	A	23.38.138.167

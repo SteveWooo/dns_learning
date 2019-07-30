@@ -1,0 +1,6 @@
+
+sonymobile.com.	86400	IN	SOA	ns.sonymobile.com.	mail	2019061702 1800 900 604800 86400
+sonymobile.com.	86400	IN	NS	ns.sonymobile.com.
+ns.sonymobile.com.	518400	IN	A	216.239.32.106
+
+sonymobile.com.	518400	IN	A	13.226.38.32

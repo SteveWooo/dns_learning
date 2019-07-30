@@ -1,0 +1,6 @@
+
+91mobiles.com.	86400	IN	SOA	ns.91mobiles.com.	mail	2019061702 1800 900 604800 86400
+91mobiles.com.	86400	IN	NS	ns.91mobiles.com.
+ns.91mobiles.com.	518400	IN	A	216.239.32.106
+
+91mobiles.com.	518400	IN	A	13.126.49.44

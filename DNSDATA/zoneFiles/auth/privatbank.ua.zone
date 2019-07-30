@@ -1,0 +1,6 @@
+
+privatbank.ua.	86400	IN	SOA	ns.privatbank.ua.	mail	2019061702 1800 900 604800 86400
+privatbank.ua.	86400	IN	NS	ns.privatbank.ua.
+ns.privatbank.ua.	518400	IN	A	198.11.138.249
+
+privatbank.ua.	518400	IN	A	52.214.147.88

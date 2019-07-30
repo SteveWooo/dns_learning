@@ -1,0 +1,6 @@
+
+kimiss.com.	86400	IN	SOA	ns.kimiss.com.	mail	2019061702 1800 900 604800 86400
+kimiss.com.	86400	IN	NS	ns.kimiss.com.
+ns.kimiss.com.	518400	IN	A	205.251.195.203
+
+kimiss.com.	518400	IN	A	106.3.135.105

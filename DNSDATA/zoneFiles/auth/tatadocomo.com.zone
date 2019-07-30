@@ -1,0 +1,6 @@
+
+tatadocomo.com.	86400	IN	SOA	ns.tatadocomo.com.	mail	2019061702 1800 900 604800 86400
+tatadocomo.com.	86400	IN	NS	ns.tatadocomo.com.
+ns.tatadocomo.com.	518400	IN	A	216.239.32.106
+
+tatadocomo.com.	518400	IN	A	13.232.14.172

@@ -1,0 +1,6 @@
+
+loudgames.com.	86400	IN	SOA	ns.loudgames.com.	mail	2019061702 1800 900 604800 86400
+loudgames.com.	86400	IN	NS	ns.loudgames.com.
+ns.loudgames.com.	518400	IN	A	125.209.248.6
+
+loudgames.com.	518400	IN	A	104.16.214.207

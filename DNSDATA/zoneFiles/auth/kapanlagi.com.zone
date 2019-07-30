@@ -1,0 +1,6 @@
+
+kapanlagi.com.	86400	IN	SOA	ns.kapanlagi.com.	mail	2019061702 1800 900 604800 86400
+kapanlagi.com.	86400	IN	NS	ns.kapanlagi.com.
+ns.kapanlagi.com.	518400	IN	A	204.74.108.1
+
+kapanlagi.com.	518400	IN	A	203.12.21.11

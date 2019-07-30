@@ -1,0 +1,6 @@
+
+computerbild.de.	86400	IN	SOA	ns.computerbild.de.	mail	2019061702 1800 900 604800 86400
+computerbild.de.	86400	IN	NS	ns.computerbild.de.
+ns.computerbild.de.	518400	IN	A	216.239.32.29
+
+computerbild.de.	518400	IN	A	195.50.176.69

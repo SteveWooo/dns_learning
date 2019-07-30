@@ -1,0 +1,6 @@
+
+kinogo.net.	86400	IN	SOA	ns.kinogo.net.	mail	2019061702 1800 900 604800 86400
+kinogo.net.	86400	IN	NS	ns.kinogo.net.
+ns.kinogo.net.	518400	IN	A	205.251.194.1
+
+kinogo.net.	518400	IN	A	104.24.121.89

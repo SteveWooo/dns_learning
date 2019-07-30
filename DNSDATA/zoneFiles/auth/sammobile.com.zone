@@ -1,0 +1,6 @@
+
+sammobile.com.	86400	IN	SOA	ns.sammobile.com.	mail	2019061702 1800 900 604800 86400
+sammobile.com.	86400	IN	NS	ns.sammobile.com.
+ns.sammobile.com.	518400	IN	A	206.128.173.109
+
+sammobile.com.	518400	IN	A	104.20.203.54

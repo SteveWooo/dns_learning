@@ -1,0 +1,6 @@
+
+viidii.info.	86400	IN	SOA	ns.viidii.info.	mail	2019061702 1800 900 604800 86400
+viidii.info.	86400	IN	NS	ns.viidii.info.
+ns.viidii.info.	518400	IN	A	187.18.60.242
+
+viidii.info.	518400	IN	A	104.27.205.89

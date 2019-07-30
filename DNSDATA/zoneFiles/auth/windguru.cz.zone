@@ -1,0 +1,6 @@
+
+windguru.cz.	86400	IN	SOA	ns.windguru.cz.	mail	2019061702 1800 900 604800 86400
+windguru.cz.	86400	IN	NS	ns.windguru.cz.
+ns.windguru.cz.	518400	IN	A	217.69.139.202
+
+windguru.cz.	518400	IN	A	82.208.41.65

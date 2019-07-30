@@ -1,0 +1,6 @@
+
+bola.net.	86400	IN	SOA	ns.bola.net.	mail	2019061702 1800 900 604800 86400
+bola.net.	86400	IN	NS	ns.bola.net.
+ns.bola.net.	518400	IN	A	173.245.58.159
+
+bola.net.	518400	IN	A	203.12.21.11

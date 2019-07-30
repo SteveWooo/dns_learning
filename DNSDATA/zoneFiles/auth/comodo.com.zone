@@ -1,0 +1,6 @@
+
+comodo.com.	86400	IN	SOA	ns.comodo.com.	mail	2019061702 1800 900 604800 86400
+comodo.com.	86400	IN	NS	ns.comodo.com.
+ns.comodo.com.	518400	IN	A	173.245.59.130
+
+comodo.com.	518400	IN	A	104.37.182.5

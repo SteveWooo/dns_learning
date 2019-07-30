@@ -1,0 +1,6 @@
+
+colorado.edu.	86400	IN	SOA	ns.colorado.edu.	mail	2019061702 1800 900 604800 86400
+colorado.edu.	86400	IN	NS	ns.colorado.edu.
+ns.colorado.edu.	518400	IN	A	173.245.58.138
+
+colorado.edu.	518400	IN	A	128.138.129.98

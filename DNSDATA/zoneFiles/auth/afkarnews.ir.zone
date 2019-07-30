@@ -1,0 +1,6 @@
+
+afkarnews.ir.	86400	IN	SOA	ns.afkarnews.ir.	mail	2019061702 1800 900 604800 86400
+afkarnews.ir.	86400	IN	NS	ns.afkarnews.ir.
+ns.afkarnews.ir.	518400	IN	A	213.180.193.1
+
+afkarnews.ir.	518400	IN	A	157.119.188.187

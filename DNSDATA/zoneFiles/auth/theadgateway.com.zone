@@ -1,0 +1,6 @@
+
+theadgateway.com.	86400	IN	SOA	ns.theadgateway.com.	mail	2019061702 1800 900 604800 86400
+theadgateway.com.	86400	IN	NS	ns.theadgateway.com.
+ns.theadgateway.com.	518400	IN	A	217.69.139.112
+
+theadgateway.com.	518400	IN	A	35.190.65.235

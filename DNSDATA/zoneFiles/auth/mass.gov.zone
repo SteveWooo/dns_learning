@@ -1,0 +1,6 @@
+
+mass.gov.	86400	IN	SOA	ns.mass.gov.	mail	2019061702 1800 900 604800 86400
+mass.gov.	86400	IN	NS	ns.mass.gov.
+ns.mass.gov.	518400	IN	A	204.74.108.1
+
+mass.gov.	518400	IN	A	146.243.121.22

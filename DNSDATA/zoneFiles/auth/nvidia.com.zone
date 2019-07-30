@@ -1,0 +1,6 @@
+
+nvidia.com.	86400	IN	SOA	ns.nvidia.com.	mail	2019061702 1800 900 604800 86400
+nvidia.com.	86400	IN	NS	ns.nvidia.com.
+ns.nvidia.com.	518400	IN	A	213.180.204.242
+
+nvidia.com.	518400	IN	A	216.228.121.209

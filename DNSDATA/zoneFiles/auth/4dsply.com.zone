@@ -1,0 +1,6 @@
+
+4dsply.com.	86400	IN	SOA	ns.4dsply.com.	mail	2019061702 1800 900 604800 86400
+4dsply.com.	86400	IN	NS	ns.4dsply.com.
+ns.4dsply.com.	518400	IN	A	193.232.156.17
+
+4dsply.com.	518400	IN	A	104.17.184.108

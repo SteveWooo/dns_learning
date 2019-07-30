@@ -1,0 +1,6 @@
+
+service-now.com.	86400	IN	SOA	ns.service-now.com.	mail	2019061702 1800 900 604800 86400
+service-now.com.	86400	IN	NS	ns.service-now.com.
+ns.service-now.com.	518400	IN	A	131.0.24.26
+
+service-now.com.	518400	IN	A	199.91.136.115

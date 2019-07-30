@@ -1,0 +1,6 @@
+
+kompasiana.com.	86400	IN	SOA	ns.kompasiana.com.	mail	2019061702 1800 900 604800 86400
+kompasiana.com.	86400	IN	NS	ns.kompasiana.com.
+ns.kompasiana.com.	518400	IN	A	213.180.193.1
+
+kompasiana.com.	518400	IN	A	13.250.222.159

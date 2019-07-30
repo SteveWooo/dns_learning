@@ -1,0 +1,6 @@
+
+backlinko.com.	86400	IN	SOA	ns.backlinko.com.	mail	2019061702 1800 900 604800 86400
+backlinko.com.	86400	IN	NS	ns.backlinko.com.
+ns.backlinko.com.	518400	IN	A	193.232.156.17
+
+backlinko.com.	518400	IN	A	97.107.137.80

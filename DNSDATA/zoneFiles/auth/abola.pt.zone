@@ -1,0 +1,6 @@
+
+abola.pt.	86400	IN	SOA	ns.abola.pt.	mail	2019061702 1800 900 604800 86400
+abola.pt.	86400	IN	NS	ns.abola.pt.
+ns.abola.pt.	518400	IN	A	216.239.32.29
+
+abola.pt.	518400	IN	A	193.126.232.45

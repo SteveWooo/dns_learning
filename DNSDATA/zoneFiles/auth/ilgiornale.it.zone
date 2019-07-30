@@ -1,0 +1,6 @@
+
+ilgiornale.it.	86400	IN	SOA	ns.ilgiornale.it.	mail	2019061702 1800 900 604800 86400
+ilgiornale.it.	86400	IN	NS	ns.ilgiornale.it.
+ns.ilgiornale.it.	518400	IN	A	216.239.32.106
+
+ilgiornale.it.	518400	IN	A	52.17.26.74

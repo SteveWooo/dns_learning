@@ -1,0 +1,6 @@
+
+ibm.com.	86400	IN	SOA	ns.ibm.com.	mail	2019061702 1800 900 604800 86400
+ibm.com.	86400	IN	NS	ns.ibm.com.
+ns.ibm.com.	518400	IN	A	205.251.199.254
+
+ibm.com.	518400	IN	A	129.42.38.10

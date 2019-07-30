@@ -1,0 +1,6 @@
+
+univision.com.	86400	IN	SOA	ns.univision.com.	mail	2019061702 1800 900 604800 86400
+univision.com.	86400	IN	NS	ns.univision.com.
+ns.univision.com.	518400	IN	A	205.251.192.29
+
+univision.com.	518400	IN	A	34.235.219.232

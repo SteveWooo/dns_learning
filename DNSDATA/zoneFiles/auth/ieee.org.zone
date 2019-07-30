@@ -1,0 +1,6 @@
+
+ieee.org.	86400	IN	SOA	ns.ieee.org.	mail	2019061702 1800 900 604800 86400
+ieee.org.	86400	IN	NS	ns.ieee.org.
+ns.ieee.org.	518400	IN	A	217.69.139.202
+
+ieee.org.	518400	IN	A	140.98.193.152

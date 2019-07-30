@@ -1,0 +1,6 @@
+
+everydayhealth.com.	86400	IN	SOA	ns.everydayhealth.com.	mail	2019061702 1800 900 604800 86400
+everydayhealth.com.	86400	IN	NS	ns.everydayhealth.com.
+ns.everydayhealth.com.	518400	IN	A	213.180.204.242
+
+everydayhealth.com.	518400	IN	A	52.4.157.6

@@ -1,0 +1,6 @@
+
+mci.ir.	86400	IN	SOA	ns.mci.ir.	mail	2019061702 1800 900 604800 86400
+mci.ir.	86400	IN	NS	ns.mci.ir.
+ns.mci.ir.	518400	IN	A	216.239.32.106
+
+mci.ir.	518400	IN	A	5.106.4.1

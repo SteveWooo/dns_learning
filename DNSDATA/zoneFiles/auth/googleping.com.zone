@@ -1,0 +1,6 @@
+
+googleping.com.	86400	IN	SOA	ns.googleping.com.	mail	2019061702 1800 900 604800 86400
+googleping.com.	86400	IN	NS	ns.googleping.com.
+ns.googleping.com.	518400	IN	A	183.3.226.207
+
+googleping.com.	518400	IN	A	104.219.251.211

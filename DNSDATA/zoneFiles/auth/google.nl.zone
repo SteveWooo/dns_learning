@@ -1,0 +1,6 @@
+
+google.nl.	86400	IN	SOA	ns.google.nl.	mail	2019061702 1800 900 604800 86400
+google.nl.	86400	IN	NS	ns.google.nl.
+ns.google.nl.	518400	IN	A	175.126.117.211
+
+google.nl.	518400	IN	A	67.228.235.91

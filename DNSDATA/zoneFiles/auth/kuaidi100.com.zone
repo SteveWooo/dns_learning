@@ -1,0 +1,6 @@
+
+kuaidi100.com.	86400	IN	SOA	ns.kuaidi100.com.	mail	2019061702 1800 900 604800 86400
+kuaidi100.com.	86400	IN	NS	ns.kuaidi100.com.
+ns.kuaidi100.com.	518400	IN	A	216.58.200.238
+
+kuaidi100.com.	518400	IN	A	120.92.182.58

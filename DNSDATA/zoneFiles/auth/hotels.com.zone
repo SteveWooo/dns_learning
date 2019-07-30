@@ -1,0 +1,6 @@
+
+hotels.com.	86400	IN	SOA	ns.hotels.com.	mail	2019061702 1800 900 604800 86400
+hotels.com.	86400	IN	NS	ns.hotels.com.
+ns.hotels.com.	518400	IN	A	216.239.32.29
+
+hotels.com.	518400	IN	A	23.7.161.37

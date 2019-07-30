@@ -1,0 +1,6 @@
+
+feedly.com.	86400	IN	SOA	ns.feedly.com.	mail	2019061702 1800 900 604800 86400
+feedly.com.	86400	IN	NS	ns.feedly.com.
+ns.feedly.com.	518400	IN	A	198.100.156.181
+
+feedly.com.	518400	IN	A	104.20.59.241

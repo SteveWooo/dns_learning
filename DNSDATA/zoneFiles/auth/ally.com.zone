@@ -1,0 +1,6 @@
+
+ally.com.	86400	IN	SOA	ns.ally.com.	mail	2019061702 1800 900 604800 86400
+ally.com.	86400	IN	NS	ns.ally.com.
+ns.ally.com.	518400	IN	A	202.108.22.220
+
+ally.com.	518400	IN	A	198.74.81.46

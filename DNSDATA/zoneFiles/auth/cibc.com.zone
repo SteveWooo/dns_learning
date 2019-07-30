@@ -1,0 +1,6 @@
+
+cibc.com.	86400	IN	SOA	ns.cibc.com.	mail	2019061702 1800 900 604800 86400
+cibc.com.	86400	IN	NS	ns.cibc.com.
+ns.cibc.com.	518400	IN	A	205.251.197.107
+
+cibc.com.	518400	IN	A	216.87.148.114

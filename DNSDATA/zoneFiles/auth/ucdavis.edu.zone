@@ -1,0 +1,6 @@
+
+ucdavis.edu.	86400	IN	SOA	ns.ucdavis.edu.	mail	2019061702 1800 900 604800 86400
+ucdavis.edu.	86400	IN	NS	ns.ucdavis.edu.
+ns.ucdavis.edu.	518400	IN	A	217.69.139.112
+
+ucdavis.edu.	518400	IN	A	23.185.0.4

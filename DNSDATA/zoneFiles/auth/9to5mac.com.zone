@@ -1,0 +1,6 @@
+
+9to5mac.com.	86400	IN	SOA	ns.9to5mac.com.	mail	2019061702 1800 900 604800 86400
+9to5mac.com.	86400	IN	NS	ns.9to5mac.com.
+ns.9to5mac.com.	518400	IN	A	204.74.108.1
+
+9to5mac.com.	518400	IN	A	192.0.66.2

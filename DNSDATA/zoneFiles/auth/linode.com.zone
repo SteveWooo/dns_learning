@@ -1,0 +1,6 @@
+
+linode.com.	86400	IN	SOA	ns.linode.com.	mail	2019061702 1800 900 604800 86400
+linode.com.	86400	IN	NS	ns.linode.com.
+ns.linode.com.	518400	IN	A	205.251.199.254
+
+linode.com.	518400	IN	A	72.14.191.202

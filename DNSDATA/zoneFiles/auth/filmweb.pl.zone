@@ -1,0 +1,6 @@
+
+filmweb.pl.	86400	IN	SOA	ns.filmweb.pl.	mail	2019061702 1800 900 604800 86400
+filmweb.pl.	86400	IN	NS	ns.filmweb.pl.
+ns.filmweb.pl.	518400	IN	A	216.239.32.106
+
+filmweb.pl.	518400	IN	A	193.200.227.13

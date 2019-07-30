@@ -1,0 +1,6 @@
+
+smartprix.com.	86400	IN	SOA	ns.smartprix.com.	mail	2019061702 1800 900 604800 86400
+smartprix.com.	86400	IN	NS	ns.smartprix.com.
+ns.smartprix.com.	518400	IN	A	216.239.32.10
+
+smartprix.com.	518400	IN	A	176.58.109.56

@@ -1,0 +1,6 @@
+
+babal.net.	86400	IN	SOA	ns.babal.net.	mail	2019061702 1800 900 604800 86400
+babal.net.	86400	IN	NS	ns.babal.net.
+ns.babal.net.	518400	IN	A	216.239.32.10
+
+babal.net.	518400	IN	A	66.70.179.200

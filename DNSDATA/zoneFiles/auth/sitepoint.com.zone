@@ -1,0 +1,6 @@
+
+sitepoint.com.	86400	IN	SOA	ns.sitepoint.com.	mail	2019061702 1800 900 604800 86400
+sitepoint.com.	86400	IN	NS	ns.sitepoint.com.
+ns.sitepoint.com.	518400	IN	A	216.239.32.106
+
+sitepoint.com.	518400	IN	A	54.148.84.95

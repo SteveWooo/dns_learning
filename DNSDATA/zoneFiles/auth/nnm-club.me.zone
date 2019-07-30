@@ -1,0 +1,6 @@
+
+nnm-club.me.	86400	IN	SOA	ns.nnm-club.me.	mail	2019061702 1800 900 604800 86400
+nnm-club.me.	86400	IN	NS	ns.nnm-club.me.
+ns.nnm-club.me.	518400	IN	A	213.180.204.242
+
+nnm-club.me.	518400	IN	A	81.17.30.22

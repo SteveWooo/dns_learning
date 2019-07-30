@@ -1,0 +1,6 @@
+
+hdzog.com.	86400	IN	SOA	ns.hdzog.com.	mail	2019061702 1800 900 604800 86400
+hdzog.com.	86400	IN	NS	ns.hdzog.com.
+ns.hdzog.com.	518400	IN	A	208.78.70.47
+
+hdzog.com.	518400	IN	A	208.101.21.43

@@ -1,0 +1,6 @@
+
+empowernetwork.com.	86400	IN	SOA	ns.empowernetwork.com.	mail	2019061702 1800 900 604800 86400
+empowernetwork.com.	86400	IN	NS	ns.empowernetwork.com.
+ns.empowernetwork.com.	518400	IN	A	208.78.70.47
+
+empowernetwork.com.	518400	IN	A	50.87.144.233

@@ -1,0 +1,6 @@
+
+diary.ru.	86400	IN	SOA	ns.diary.ru.	mail	2019061702 1800 900 604800 86400
+diary.ru.	86400	IN	NS	ns.diary.ru.
+ns.diary.ru.	518400	IN	A	173.245.58.138
+
+diary.ru.	518400	IN	A	104.28.22.154

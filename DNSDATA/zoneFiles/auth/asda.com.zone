@@ -1,0 +1,6 @@
+
+asda.com.	86400	IN	SOA	ns.asda.com.	mail	2019061702 1800 900 604800 86400
+asda.com.	86400	IN	NS	ns.asda.com.
+ns.asda.com.	518400	IN	A	206.128.173.109
+
+asda.com.	518400	IN	A	161.170.248.158

@@ -1,0 +1,6 @@
+
+firestorage.jp.	86400	IN	SOA	ns.firestorage.jp.	mail	2019061702 1800 900 604800 86400
+firestorage.jp.	86400	IN	NS	ns.firestorage.jp.
+ns.firestorage.jp.	518400	IN	A	173.245.58.138
+
+firestorage.jp.	518400	IN	A	125.100.137.179

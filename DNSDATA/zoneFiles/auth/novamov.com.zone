@@ -1,0 +1,6 @@
+
+novamov.com.	86400	IN	SOA	ns.novamov.com.	mail	2019061702 1800 900 604800 86400
+novamov.com.	86400	IN	NS	ns.novamov.com.
+ns.novamov.com.	518400	IN	A	157.255.246.101
+
+novamov.com.	518400	IN	A	80.92.65.214

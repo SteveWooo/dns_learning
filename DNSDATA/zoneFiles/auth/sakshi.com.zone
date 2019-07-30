@@ -1,0 +1,6 @@
+
+sakshi.com.	86400	IN	SOA	ns.sakshi.com.	mail	2019061702 1800 900 604800 86400
+sakshi.com.	86400	IN	NS	ns.sakshi.com.
+ns.sakshi.com.	518400	IN	A	213.180.193.1
+
+sakshi.com.	518400	IN	A	99.86.163.5

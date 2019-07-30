@@ -1,0 +1,6 @@
+
+draftkings.com.	86400	IN	SOA	ns.draftkings.com.	mail	2019061702 1800 900 604800 86400
+draftkings.com.	86400	IN	NS	ns.draftkings.com.
+ns.draftkings.com.	518400	IN	A	200.219.154.10
+
+draftkings.com.	518400	IN	A	23.66.130.60

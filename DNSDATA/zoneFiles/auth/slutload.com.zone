@@ -1,0 +1,6 @@
+
+slutload.com.	86400	IN	SOA	ns.slutload.com.	mail	2019061702 1800 900 604800 86400
+slutload.com.	86400	IN	NS	ns.slutload.com.
+ns.slutload.com.	518400	IN	A	216.58.200.238
+
+slutload.com.	518400	IN	A	66.254.102.157

@@ -1,0 +1,6 @@
+
+yenibiris.com.	86400	IN	SOA	ns.yenibiris.com.	mail	2019061702 1800 900 604800 86400
+yenibiris.com.	86400	IN	NS	ns.yenibiris.com.
+ns.yenibiris.com.	518400	IN	A	183.3.226.207
+
+yenibiris.com.	518400	IN	A	83.66.162.230

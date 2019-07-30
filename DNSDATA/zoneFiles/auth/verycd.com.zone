@@ -1,0 +1,6 @@
+
+verycd.com.	86400	IN	SOA	ns.verycd.com.	mail	2019061702 1800 900 604800 86400
+verycd.com.	86400	IN	NS	ns.verycd.com.
+ns.verycd.com.	518400	IN	A	36.51.252.8
+
+verycd.com.	518400	IN	A	182.92.25.21

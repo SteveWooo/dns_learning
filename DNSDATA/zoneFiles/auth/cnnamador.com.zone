@@ -1,0 +1,6 @@
+
+cnnamador.com.	86400	IN	SOA	ns.cnnamador.com.	mail	2019061702 1800 900 604800 86400
+cnnamador.com.	86400	IN	NS	ns.cnnamador.com.
+ns.cnnamador.com.	518400	IN	A	187.18.60.242
+
+cnnamador.com.	518400	IN	A	104.20.128.83

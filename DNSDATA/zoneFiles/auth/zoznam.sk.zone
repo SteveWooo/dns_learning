@@ -1,0 +1,6 @@
+
+zoznam.sk.	86400	IN	SOA	ns.zoznam.sk.	mail	2019061702 1800 900 604800 86400
+zoznam.sk.	86400	IN	NS	ns.zoznam.sk.
+ns.zoznam.sk.	518400	IN	A	145.14.134.108
+
+zoznam.sk.	518400	IN	A	213.81.185.100

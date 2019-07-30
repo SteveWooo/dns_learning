@@ -1,0 +1,6 @@
+
+canstockphoto.com.	86400	IN	SOA	ns.canstockphoto.com.	mail	2019061702 1800 900 604800 86400
+canstockphoto.com.	86400	IN	NS	ns.canstockphoto.com.
+ns.canstockphoto.com.	518400	IN	A	200.219.154.10
+
+canstockphoto.com.	518400	IN	A	54.173.226.175

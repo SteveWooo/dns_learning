@@ -1,0 +1,6 @@
+
+creditkarma.com.	86400	IN	SOA	ns.creditkarma.com.	mail	2019061702 1800 900 604800 86400
+creditkarma.com.	86400	IN	NS	ns.creditkarma.com.
+ns.creditkarma.com.	518400	IN	A	213.180.204.242
+
+creditkarma.com.	518400	IN	A	104.103.106.145

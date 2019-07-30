@@ -1,0 +1,6 @@
+
+showup.tv.	86400	IN	SOA	ns.showup.tv.	mail	2019061702 1800 900 604800 86400
+showup.tv.	86400	IN	NS	ns.showup.tv.
+ns.showup.tv.	518400	IN	A	206.128.173.109
+
+showup.tv.	518400	IN	A	149.86.226.6

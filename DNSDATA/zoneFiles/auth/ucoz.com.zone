@@ -1,0 +1,6 @@
+
+ucoz.com.	86400	IN	SOA	ns.ucoz.com.	mail	2019061702 1800 900 604800 86400
+ucoz.com.	86400	IN	NS	ns.ucoz.com.
+ns.ucoz.com.	518400	IN	A	187.18.60.242
+
+ucoz.com.	518400	IN	A	213.174.157.200

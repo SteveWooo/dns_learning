@@ -1,0 +1,6 @@
+
+aif.ru.	86400	IN	SOA	ns.aif.ru.	mail	2019061702 1800 900 604800 86400
+aif.ru.	86400	IN	NS	ns.aif.ru.
+ns.aif.ru.	518400	IN	A	204.74.108.1
+
+aif.ru.	518400	IN	A	94.198.52.41

@@ -1,0 +1,6 @@
+
+convio.com.	86400	IN	SOA	ns.convio.com.	mail	2019061702 1800 900 604800 86400
+convio.com.	86400	IN	NS	ns.convio.com.
+ns.convio.com.	518400	IN	A	200.219.154.10
+
+convio.com.	518400	IN	A	74.123.154.158

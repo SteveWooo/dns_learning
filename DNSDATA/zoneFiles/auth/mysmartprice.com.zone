@@ -1,0 +1,6 @@
+
+mysmartprice.com.	86400	IN	SOA	ns.mysmartprice.com.	mail	2019061702 1800 900 604800 86400
+mysmartprice.com.	86400	IN	NS	ns.mysmartprice.com.
+ns.mysmartprice.com.	518400	IN	A	174.35.55.22
+
+mysmartprice.com.	518400	IN	A	104.18.199.16

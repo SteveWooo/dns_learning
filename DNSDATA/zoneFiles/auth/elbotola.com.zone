@@ -1,0 +1,6 @@
+
+elbotola.com.	86400	IN	SOA	ns.elbotola.com.	mail	2019061702 1800 900 604800 86400
+elbotola.com.	86400	IN	NS	ns.elbotola.com.
+ns.elbotola.com.	518400	IN	A	198.100.156.181
+
+elbotola.com.	518400	IN	A	104.20.240.32

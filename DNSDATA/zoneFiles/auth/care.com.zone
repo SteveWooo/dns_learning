@@ -1,0 +1,6 @@
+
+care.com.	86400	IN	SOA	ns.care.com.	mail	2019061702 1800 900 604800 86400
+care.com.	86400	IN	NS	ns.care.com.
+ns.care.com.	518400	IN	A	216.239.32.10
+
+care.com.	518400	IN	A	223.119.218.27

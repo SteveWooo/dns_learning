@@ -1,0 +1,6 @@
+
+argaam.com.	86400	IN	SOA	ns.argaam.com.	mail	2019061702 1800 900 604800 86400
+argaam.com.	86400	IN	NS	ns.argaam.com.
+ns.argaam.com.	518400	IN	A	173.245.58.159
+
+argaam.com.	518400	IN	A	96.45.82.143

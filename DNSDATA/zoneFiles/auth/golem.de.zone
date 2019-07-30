@@ -1,0 +1,6 @@
+
+golem.de.	86400	IN	SOA	ns.golem.de.	mail	2019061702 1800 900 604800 86400
+golem.de.	86400	IN	NS	ns.golem.de.
+ns.golem.de.	518400	IN	A	183.3.226.207
+
+golem.de.	518400	IN	A	77.247.84.129

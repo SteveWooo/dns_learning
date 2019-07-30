@@ -1,0 +1,6 @@
+
+dailycooking.com.	86400	IN	SOA	ns.dailycooking.com.	mail	2019061702 1800 900 604800 86400
+dailycooking.com.	86400	IN	NS	ns.dailycooking.com.
+ns.dailycooking.com.	518400	IN	A	205.251.199.254
+
+dailycooking.com.	518400	IN	A	64.188.51.77

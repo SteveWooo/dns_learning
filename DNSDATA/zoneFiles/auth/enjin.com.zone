@@ -1,0 +1,6 @@
+
+enjin.com.	86400	IN	SOA	ns.enjin.com.	mail	2019061702 1800 900 604800 86400
+enjin.com.	86400	IN	NS	ns.enjin.com.
+ns.enjin.com.	518400	IN	A	202.56.230.5
+
+enjin.com.	518400	IN	A	104.18.190.33

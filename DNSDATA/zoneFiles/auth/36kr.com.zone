@@ -1,0 +1,6 @@
+
+36kr.com.	86400	IN	SOA	ns.36kr.com.	mail	2019061702 1800 900 604800 86400
+36kr.com.	86400	IN	NS	ns.36kr.com.
+ns.36kr.com.	518400	IN	A	204.69.234.1
+
+36kr.com.	518400	IN	A	47.93.92.1

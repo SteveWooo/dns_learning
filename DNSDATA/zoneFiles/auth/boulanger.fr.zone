@@ -1,0 +1,6 @@
+
+boulanger.fr.	86400	IN	SOA	ns.boulanger.fr.	mail	2019061702 1800 900 604800 86400
+boulanger.fr.	86400	IN	NS	ns.boulanger.fr.
+ns.boulanger.fr.	518400	IN	A	213.180.193.1
+
+boulanger.fr.	518400	IN	A	195.64.164.87

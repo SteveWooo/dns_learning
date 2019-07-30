@@ -1,0 +1,6 @@
+
+head-fi.org.	86400	IN	SOA	ns.head-fi.org.	mail	2019061702 1800 900 604800 86400
+head-fi.org.	86400	IN	NS	ns.head-fi.org.
+ns.head-fi.org.	518400	IN	A	204.74.108.1
+
+head-fi.org.	518400	IN	A	35.190.46.56

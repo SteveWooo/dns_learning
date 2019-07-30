@@ -1,0 +1,6 @@
+
+williamhill.com.	86400	IN	SOA	ns.williamhill.com.	mail	2019061702 1800 900 604800 86400
+williamhill.com.	86400	IN	NS	ns.williamhill.com.
+ns.williamhill.com.	518400	IN	A	165.160.15.20
+
+williamhill.com.	518400	IN	A	13.35.99.87

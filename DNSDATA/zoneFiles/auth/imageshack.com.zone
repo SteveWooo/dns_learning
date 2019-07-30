@@ -1,0 +1,6 @@
+
+imageshack.com.	86400	IN	SOA	ns.imageshack.com.	mail	2019061702 1800 900 604800 86400
+imageshack.com.	86400	IN	NS	ns.imageshack.com.
+ns.imageshack.com.	518400	IN	A	216.58.200.238
+
+imageshack.com.	518400	IN	A	208.94.3.16

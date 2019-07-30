@@ -1,0 +1,6 @@
+
+rfi.fr.	86400	IN	SOA	ns.rfi.fr.	mail	2019061702 1800 900 604800 86400
+rfi.fr.	86400	IN	NS	ns.rfi.fr.
+ns.rfi.fr.	518400	IN	A	205.251.195.203
+
+rfi.fr.	518400	IN	A	8.7.198.45

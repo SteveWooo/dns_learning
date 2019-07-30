@@ -1,0 +1,6 @@
+
+sourceforge.net.	86400	IN	SOA	ns.sourceforge.net.	mail	2019061702 1800 900 604800 86400
+sourceforge.net.	86400	IN	NS	ns.sourceforge.net.
+ns.sourceforge.net.	518400	IN	A	193.108.91.127
+
+sourceforge.net.	518400	IN	A	216.105.38.13

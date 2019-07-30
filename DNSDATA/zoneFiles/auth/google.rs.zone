@@ -1,0 +1,6 @@
+
+google.rs.	86400	IN	SOA	ns.google.rs.	mail	2019061702 1800 900 604800 86400
+google.rs.	86400	IN	NS	ns.google.rs.
+ns.google.rs.	518400	IN	A	204.74.108.1
+
+google.rs.	518400	IN	A	172.217.15.67

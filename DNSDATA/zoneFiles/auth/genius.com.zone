@@ -1,0 +1,6 @@
+
+genius.com.	86400	IN	SOA	ns.genius.com.	mail	2019061702 1800 900 604800 86400
+genius.com.	86400	IN	NS	ns.genius.com.
+ns.genius.com.	518400	IN	A	216.239.32.106
+
+genius.com.	518400	IN	A	104.17.212.67

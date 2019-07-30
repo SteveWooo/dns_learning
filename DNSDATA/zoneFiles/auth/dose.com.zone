@@ -1,0 +1,6 @@
+
+dose.com.	86400	IN	SOA	ns.dose.com.	mail	2019061702 1800 900 604800 86400
+dose.com.	86400	IN	NS	ns.dose.com.
+ns.dose.com.	518400	IN	A	213.180.193.1
+
+dose.com.	518400	IN	A	198.49.23.144

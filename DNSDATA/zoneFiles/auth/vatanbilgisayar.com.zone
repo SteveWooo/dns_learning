@@ -1,0 +1,6 @@
+
+vatanbilgisayar.com.	86400	IN	SOA	ns.vatanbilgisayar.com.	mail	2019061702 1800 900 604800 86400
+vatanbilgisayar.com.	86400	IN	NS	ns.vatanbilgisayar.com.
+ns.vatanbilgisayar.com.	518400	IN	A	204.74.108.1
+
+vatanbilgisayar.com.	518400	IN	A	104.20.36.117

@@ -1,0 +1,6 @@
+
+prestashop.com.	86400	IN	SOA	ns.prestashop.com.	mail	2019061702 1800 900 604800 86400
+prestashop.com.	86400	IN	NS	ns.prestashop.com.
+ns.prestashop.com.	518400	IN	A	200.201.165.253
+
+prestashop.com.	518400	IN	A	91.240.109.42

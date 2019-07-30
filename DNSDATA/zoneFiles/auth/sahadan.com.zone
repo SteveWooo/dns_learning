@@ -1,0 +1,6 @@
+
+sahadan.com.	86400	IN	SOA	ns.sahadan.com.	mail	2019061702 1800 900 604800 86400
+sahadan.com.	86400	IN	NS	ns.sahadan.com.
+ns.sahadan.com.	518400	IN	A	202.108.22.220
+
+sahadan.com.	518400	IN	A	185.42.236.147

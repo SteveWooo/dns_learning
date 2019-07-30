@@ -1,0 +1,6 @@
+
+csmonitor.com.	86400	IN	SOA	ns.csmonitor.com.	mail	2019061702 1800 900 604800 86400
+csmonitor.com.	86400	IN	NS	ns.csmonitor.com.
+ns.csmonitor.com.	518400	IN	A	202.56.230.5
+
+csmonitor.com.	518400	IN	A	69.171.247.32

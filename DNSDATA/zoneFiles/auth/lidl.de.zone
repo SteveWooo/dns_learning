@@ -1,0 +1,6 @@
+
+lidl.de.	86400	IN	SOA	ns.lidl.de.	mail	2019061702 1800 900 604800 86400
+lidl.de.	86400	IN	NS	ns.lidl.de.
+ns.lidl.de.	518400	IN	A	217.69.139.112
+
+lidl.de.	518400	IN	A	91.236.122.186

@@ -1,0 +1,6 @@
+
+atwiki.jp.	86400	IN	SOA	ns.atwiki.jp.	mail	2019061702 1800 900 604800 86400
+atwiki.jp.	86400	IN	NS	ns.atwiki.jp.
+ns.atwiki.jp.	518400	IN	A	204.69.234.1
+
+atwiki.jp.	518400	IN	A	52.85.241.72

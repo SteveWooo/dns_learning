@@ -1,0 +1,6 @@
+
+channelnewsasia.com.	86400	IN	SOA	ns.channelnewsasia.com.	mail	2019061702 1800 900 604800 86400
+channelnewsasia.com.	86400	IN	NS	ns.channelnewsasia.com.
+ns.channelnewsasia.com.	518400	IN	A	217.69.139.202
+
+channelnewsasia.com.	518400	IN	A	34.213.106.51

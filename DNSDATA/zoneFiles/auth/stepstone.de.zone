@@ -1,0 +1,6 @@
+
+stepstone.de.	86400	IN	SOA	ns.stepstone.de.	mail	2019061702 1800 900 604800 86400
+stepstone.de.	86400	IN	NS	ns.stepstone.de.
+ns.stepstone.de.	518400	IN	A	216.58.200.238
+
+stepstone.de.	518400	IN	A	52.29.201.78

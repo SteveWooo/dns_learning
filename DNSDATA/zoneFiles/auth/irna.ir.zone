@@ -1,0 +1,6 @@
+
+irna.ir.	86400	IN	SOA	ns.irna.ir.	mail	2019061702 1800 900 604800 86400
+irna.ir.	86400	IN	NS	ns.irna.ir.
+ns.irna.ir.	518400	IN	A	208.78.70.47
+
+irna.ir.	518400	IN	A	178.216.249.78

@@ -1,0 +1,6 @@
+
+liebelib.com.	86400	IN	SOA	ns.liebelib.com.	mail	2019061702 1800 900 604800 86400
+liebelib.com.	86400	IN	NS	ns.liebelib.com.
+ns.liebelib.com.	518400	IN	A	216.239.32.10
+
+liebelib.com.	518400	IN	A	134.19.187.27

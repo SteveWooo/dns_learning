@@ -1,0 +1,6 @@
+
+reallifecam.com.	86400	IN	SOA	ns.reallifecam.com.	mail	2019061702 1800 900 604800 86400
+reallifecam.com.	86400	IN	NS	ns.reallifecam.com.
+ns.reallifecam.com.	518400	IN	A	206.128.173.109
+
+reallifecam.com.	518400	IN	A	31.13.73.23

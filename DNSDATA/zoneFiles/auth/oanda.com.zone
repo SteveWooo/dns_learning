@@ -1,0 +1,6 @@
+
+oanda.com.	86400	IN	SOA	ns.oanda.com.	mail	2019061702 1800 900 604800 86400
+oanda.com.	86400	IN	NS	ns.oanda.com.
+ns.oanda.com.	518400	IN	A	157.255.246.101
+
+oanda.com.	518400	IN	A	198.105.26.96

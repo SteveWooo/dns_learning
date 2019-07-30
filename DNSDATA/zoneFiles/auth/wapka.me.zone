@@ -1,0 +1,6 @@
+
+wapka.me.	86400	IN	SOA	ns.wapka.me.	mail	2019061702 1800 900 604800 86400
+wapka.me.	86400	IN	NS	ns.wapka.me.
+ns.wapka.me.	518400	IN	A	202.108.22.220
+
+wapka.me.	518400	IN	A	8.37.228.128

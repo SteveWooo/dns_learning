@@ -1,0 +1,6 @@
+
+todo1.com.	86400	IN	SOA	ns.todo1.com.	mail	2019061702 1800 900 604800 86400
+todo1.com.	86400	IN	NS	ns.todo1.com.
+ns.todo1.com.	518400	IN	A	193.108.91.127
+
+todo1.com.	518400	IN	A	69.42.111.91

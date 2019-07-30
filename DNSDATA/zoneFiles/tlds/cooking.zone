@@ -1,0 +1,4 @@
+
+cooking.	86400	IN	SOA	ns.cooking.	mail	2019061702 1800 900 604800 86400
+cooking.	86400	IN	NS	ns.cooking.
+ns.cooking.	518400	IN	A	156.154.100.3

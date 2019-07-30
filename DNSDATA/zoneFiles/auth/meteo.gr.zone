@@ -1,0 +1,6 @@
+
+meteo.gr.	86400	IN	SOA	ns.meteo.gr.	mail	2019061702 1800 900 604800 86400
+meteo.gr.	86400	IN	NS	ns.meteo.gr.
+ns.meteo.gr.	518400	IN	A	217.69.139.202
+
+meteo.gr.	518400	IN	A	185.70.76.135

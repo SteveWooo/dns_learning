@@ -1,0 +1,6 @@
+
+techinasia.com.	86400	IN	SOA	ns.techinasia.com.	mail	2019061702 1800 900 604800 86400
+techinasia.com.	86400	IN	NS	ns.techinasia.com.
+ns.techinasia.com.	518400	IN	A	205.251.199.254
+
+techinasia.com.	518400	IN	A	13.229.244.42

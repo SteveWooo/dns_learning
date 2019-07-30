@@ -1,0 +1,6 @@
+
+zoominfo.com.	86400	IN	SOA	ns.zoominfo.com.	mail	2019061702 1800 900 604800 86400
+zoominfo.com.	86400	IN	NS	ns.zoominfo.com.
+ns.zoominfo.com.	518400	IN	A	217.69.139.112
+
+zoominfo.com.	518400	IN	A	104.16.168.82

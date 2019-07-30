@@ -1,0 +1,6 @@
+
+javzoo.com.	86400	IN	SOA	ns.javzoo.com.	mail	2019061702 1800 900 604800 86400
+javzoo.com.	86400	IN	NS	ns.javzoo.com.
+ns.javzoo.com.	518400	IN	A	213.180.204.242
+
+javzoo.com.	518400	IN	A	199.59.148.14

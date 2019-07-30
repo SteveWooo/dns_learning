@@ -1,0 +1,6 @@
+
+lequipe.fr.	86400	IN	SOA	ns.lequipe.fr.	mail	2019061702 1800 900 604800 86400
+lequipe.fr.	86400	IN	NS	ns.lequipe.fr.
+ns.lequipe.fr.	518400	IN	A	173.245.59.100
+
+lequipe.fr.	518400	IN	A	35.186.248.227

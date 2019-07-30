@@ -1,0 +1,6 @@
+
+ford.com.	86400	IN	SOA	ns.ford.com.	mail	2019061702 1800 900 604800 86400
+ford.com.	86400	IN	NS	ns.ford.com.
+ns.ford.com.	518400	IN	A	217.69.139.112
+
+ford.com.	518400	IN	A	136.1.107.78

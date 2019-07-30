@@ -1,0 +1,6 @@
+
+buzzfil.com.	86400	IN	SOA	ns.buzzfil.com.	mail	2019061702 1800 900 604800 86400
+buzzfil.com.	86400	IN	NS	ns.buzzfil.com.
+ns.buzzfil.com.	518400	IN	A	173.245.58.201
+
+buzzfil.com.	518400	IN	A	199.59.242.151

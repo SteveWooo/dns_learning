@@ -1,0 +1,6 @@
+
+internetdownloadmanager.com.	86400	IN	SOA	ns.internetdownloadmanager.com.	mail	2019061702 1800 900 604800 86400
+internetdownloadmanager.com.	86400	IN	NS	ns.internetdownloadmanager.com.
+ns.internetdownloadmanager.com.	518400	IN	A	213.180.204.242
+
+internetdownloadmanager.com.	518400	IN	A	169.55.40.5

@@ -1,0 +1,6 @@
+
+tribunnews.com.	86400	IN	SOA	ns.tribunnews.com.	mail	2019061702 1800 900 604800 86400
+tribunnews.com.	86400	IN	NS	ns.tribunnews.com.
+ns.tribunnews.com.	518400	IN	A	216.239.32.29
+
+tribunnews.com.	518400	IN	A	180.240.134.85

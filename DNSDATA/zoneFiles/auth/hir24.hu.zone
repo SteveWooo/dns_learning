@@ -1,0 +1,6 @@
+
+hir24.hu.	86400	IN	SOA	ns.hir24.hu.	mail	2019061702 1800 900 604800 86400
+hir24.hu.	86400	IN	NS	ns.hir24.hu.
+ns.hir24.hu.	518400	IN	A	200.221.11.98
+
+hir24.hu.	518400	IN	A	77.111.91.56

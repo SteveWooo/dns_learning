@@ -1,0 +1,6 @@
+
+mypoints.com.	86400	IN	SOA	ns.mypoints.com.	mail	2019061702 1800 900 604800 86400
+mypoints.com.	86400	IN	NS	ns.mypoints.com.
+ns.mypoints.com.	518400	IN	A	173.245.59.100
+
+mypoints.com.	518400	IN	A	23.111.10.70

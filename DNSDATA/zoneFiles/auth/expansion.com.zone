@@ -1,0 +1,6 @@
+
+expansion.com.	86400	IN	SOA	ns.expansion.com.	mail	2019061702 1800 900 604800 86400
+expansion.com.	86400	IN	NS	ns.expansion.com.
+ns.expansion.com.	518400	IN	A	174.35.55.22
+
+expansion.com.	518400	IN	A	193.110.128.15

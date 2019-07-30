@@ -1,0 +1,6 @@
+
+xiaomi.cn.	86400	IN	SOA	ns.xiaomi.cn.	mail	2019061702 1800 900 604800 86400
+xiaomi.cn.	86400	IN	NS	ns.xiaomi.cn.
+ns.xiaomi.cn.	518400	IN	A	217.69.139.202
+
+xiaomi.cn.	518400	IN	A	58.83.160.155

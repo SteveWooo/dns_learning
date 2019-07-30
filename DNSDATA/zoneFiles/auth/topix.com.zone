@@ -1,0 +1,6 @@
+
+topix.com.	86400	IN	SOA	ns.topix.com.	mail	2019061702 1800 900 604800 86400
+topix.com.	86400	IN	NS	ns.topix.com.
+ns.topix.com.	518400	IN	A	217.69.139.112
+
+topix.com.	518400	IN	A	104.16.95.141

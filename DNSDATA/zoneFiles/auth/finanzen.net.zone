@@ -1,0 +1,6 @@
+
+finanzen.net.	86400	IN	SOA	ns.finanzen.net.	mail	2019061702 1800 900 604800 86400
+finanzen.net.	86400	IN	NS	ns.finanzen.net.
+ns.finanzen.net.	518400	IN	A	198.11.138.249
+
+finanzen.net.	518400	IN	A	212.121.132.87

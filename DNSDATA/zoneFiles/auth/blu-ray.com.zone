@@ -1,0 +1,6 @@
+
+blu-ray.com.	86400	IN	SOA	ns.blu-ray.com.	mail	2019061702 1800 900 604800 86400
+blu-ray.com.	86400	IN	NS	ns.blu-ray.com.
+ns.blu-ray.com.	518400	IN	A	216.239.32.10
+
+blu-ray.com.	518400	IN	A	147.75.199.66

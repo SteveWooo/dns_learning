@@ -1,0 +1,6 @@
+
+npr.org.	86400	IN	SOA	ns.npr.org.	mail	2019061702 1800 900 604800 86400
+npr.org.	86400	IN	NS	ns.npr.org.
+ns.npr.org.	518400	IN	A	206.128.173.109
+
+npr.org.	518400	IN	A	216.35.221.76

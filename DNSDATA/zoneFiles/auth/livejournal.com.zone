@@ -1,0 +1,6 @@
+
+livejournal.com.	86400	IN	SOA	ns.livejournal.com.	mail	2019061702 1800 900 604800 86400
+livejournal.com.	86400	IN	NS	ns.livejournal.com.
+ns.livejournal.com.	518400	IN	A	204.74.108.1
+
+livejournal.com.	518400	IN	A	81.19.74.6

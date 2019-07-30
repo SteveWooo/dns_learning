@@ -1,0 +1,6 @@
+
+jamejamonline.ir.	86400	IN	SOA	ns.jamejamonline.ir.	mail	2019061702 1800 900 604800 86400
+jamejamonline.ir.	86400	IN	NS	ns.jamejamonline.ir.
+ns.jamejamonline.ir.	518400	IN	A	216.239.32.106
+
+jamejamonline.ir.	518400	IN	A	77.104.65.15

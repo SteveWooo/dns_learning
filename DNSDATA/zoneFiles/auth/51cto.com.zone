@@ -1,0 +1,6 @@
+
+51cto.com.	86400	IN	SOA	ns.51cto.com.	mail	2019061702 1800 900 604800 86400
+51cto.com.	86400	IN	NS	ns.51cto.com.
+ns.51cto.com.	518400	IN	A	198.11.138.249
+
+51cto.com.	518400	IN	A	47.95.170.110

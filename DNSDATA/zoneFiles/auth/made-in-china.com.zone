@@ -1,0 +1,6 @@
+
+made-in-china.com.	86400	IN	SOA	ns.made-in-china.com.	mail	2019061702 1800 900 604800 86400
+made-in-china.com.	86400	IN	NS	ns.made-in-china.com.
+ns.made-in-china.com.	518400	IN	A	83.143.25.220
+
+made-in-china.com.	518400	IN	A	67.192.48.20

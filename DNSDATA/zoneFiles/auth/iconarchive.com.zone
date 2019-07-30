@@ -1,0 +1,6 @@
+
+iconarchive.com.	86400	IN	SOA	ns.iconarchive.com.	mail	2019061702 1800 900 604800 86400
+iconarchive.com.	86400	IN	NS	ns.iconarchive.com.
+ns.iconarchive.com.	518400	IN	A	180.149.156.12
+
+iconarchive.com.	518400	IN	A	209.126.117.210

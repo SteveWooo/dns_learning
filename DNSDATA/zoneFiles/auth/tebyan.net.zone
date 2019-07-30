@@ -1,0 +1,6 @@
+
+tebyan.net.	86400	IN	SOA	ns.tebyan.net.	mail	2019061702 1800 900 604800 86400
+tebyan.net.	86400	IN	NS	ns.tebyan.net.
+ns.tebyan.net.	518400	IN	A	193.232.156.17
+
+tebyan.net.	518400	IN	A	185.78.20.130

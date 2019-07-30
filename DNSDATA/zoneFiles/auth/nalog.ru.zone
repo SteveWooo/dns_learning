@@ -1,0 +1,6 @@
+
+nalog.ru.	86400	IN	SOA	ns.nalog.ru.	mail	2019061702 1800 900 604800 86400
+nalog.ru.	86400	IN	NS	ns.nalog.ru.
+ns.nalog.ru.	518400	IN	A	217.69.139.112
+
+nalog.ru.	518400	IN	A	81.176.235.2

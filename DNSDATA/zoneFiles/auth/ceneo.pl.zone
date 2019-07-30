@@ -1,0 +1,6 @@
+
+ceneo.pl.	86400	IN	SOA	ns.ceneo.pl.	mail	2019061702 1800 900 604800 86400
+ceneo.pl.	86400	IN	NS	ns.ceneo.pl.
+ns.ceneo.pl.	518400	IN	A	200.201.161.22
+
+ceneo.pl.	518400	IN	A	5.134.209.14

@@ -1,0 +1,6 @@
+
+bigstockphoto.com.	86400	IN	SOA	ns.bigstockphoto.com.	mail	2019061702 1800 900 604800 86400
+bigstockphoto.com.	86400	IN	NS	ns.bigstockphoto.com.
+ns.bigstockphoto.com.	518400	IN	A	217.69.139.112
+
+bigstockphoto.com.	518400	IN	A	162.212.45.39

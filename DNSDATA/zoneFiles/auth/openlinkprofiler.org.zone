@@ -1,0 +1,6 @@
+
+openlinkprofiler.org.	86400	IN	SOA	ns.openlinkprofiler.org.	mail	2019061702 1800 900 604800 86400
+openlinkprofiler.org.	86400	IN	NS	ns.openlinkprofiler.org.
+ns.openlinkprofiler.org.	518400	IN	A	213.180.204.242
+
+openlinkprofiler.org.	518400	IN	A	95.216.25.48

@@ -1,0 +1,6 @@
+
+clker.com.	86400	IN	SOA	ns.clker.com.	mail	2019061702 1800 900 604800 86400
+clker.com.	86400	IN	NS	ns.clker.com.
+ns.clker.com.	518400	IN	A	213.180.193.1
+
+clker.com.	518400	IN	A	45.33.109.129

@@ -1,0 +1,6 @@
+
+northwestern.edu.	86400	IN	SOA	ns.northwestern.edu.	mail	2019061702 1800 900 604800 86400
+northwestern.edu.	86400	IN	NS	ns.northwestern.edu.
+ns.northwestern.edu.	518400	IN	A	216.239.32.29
+
+northwestern.edu.	518400	IN	A	129.105.136.48

@@ -1,0 +1,6 @@
+
+plsdrct1.me.	86400	IN	SOA	ns.plsdrct1.me.	mail	2019061702 1800 900 604800 86400
+plsdrct1.me.	86400	IN	NS	ns.plsdrct1.me.
+ns.plsdrct1.me.	518400	IN	A	200.219.154.10
+
+plsdrct1.me.	518400	IN	A	184.168.221.50

@@ -1,0 +1,6 @@
+
+ulta.com.	86400	IN	SOA	ns.ulta.com.	mail	2019061702 1800 900 604800 86400
+ulta.com.	86400	IN	NS	ns.ulta.com.
+ns.ulta.com.	518400	IN	A	216.239.32.29
+
+ulta.com.	518400	IN	A	161.47.44.209

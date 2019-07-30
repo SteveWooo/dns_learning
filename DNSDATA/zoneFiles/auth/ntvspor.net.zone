@@ -1,0 +1,6 @@
+
+ntvspor.net.	86400	IN	SOA	ns.ntvspor.net.	mail	2019061702 1800 900 604800 86400
+ntvspor.net.	86400	IN	NS	ns.ntvspor.net.
+ns.ntvspor.net.	518400	IN	A	216.239.32.10
+
+ntvspor.net.	518400	IN	A	137.117.143.199

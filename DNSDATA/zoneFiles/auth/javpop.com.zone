@@ -1,0 +1,6 @@
+
+javpop.com.	86400	IN	SOA	ns.javpop.com.	mail	2019061702 1800 900 604800 86400
+javpop.com.	86400	IN	NS	ns.javpop.com.
+ns.javpop.com.	518400	IN	A	217.69.139.112
+
+javpop.com.	518400	IN	A	104.27.186.123

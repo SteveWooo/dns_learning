@@ -1,0 +1,6 @@
+
+informer.com.	86400	IN	SOA	ns.informer.com.	mail	2019061702 1800 900 604800 86400
+informer.com.	86400	IN	NS	ns.informer.com.
+ns.informer.com.	518400	IN	A	213.180.204.242
+
+informer.com.	518400	IN	A	206.54.189.110

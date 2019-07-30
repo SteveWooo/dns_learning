@@ -1,0 +1,6 @@
+
+foursquare.com.	86400	IN	SOA	ns.foursquare.com.	mail	2019061702 1800 900 604800 86400
+foursquare.com.	86400	IN	NS	ns.foursquare.com.
+ns.foursquare.com.	518400	IN	A	173.245.59.130
+
+foursquare.com.	518400	IN	A	151.101.128.154

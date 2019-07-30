@@ -1,0 +1,6 @@
+
+niuche.com.	86400	IN	SOA	ns.niuche.com.	mail	2019061702 1800 900 604800 86400
+niuche.com.	86400	IN	NS	ns.niuche.com.
+ns.niuche.com.	518400	IN	A	198.100.156.181
+
+niuche.com.	518400	IN	A	182.48.113.241

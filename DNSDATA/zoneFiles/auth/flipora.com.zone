@@ -1,0 +1,6 @@
+
+flipora.com.	86400	IN	SOA	ns.flipora.com.	mail	2019061702 1800 900 604800 86400
+flipora.com.	86400	IN	NS	ns.flipora.com.
+ns.flipora.com.	518400	IN	A	216.239.32.106
+
+flipora.com.	518400	IN	A	54.242.135.147

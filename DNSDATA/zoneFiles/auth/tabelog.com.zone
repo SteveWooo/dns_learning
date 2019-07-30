@@ -1,0 +1,6 @@
+
+tabelog.com.	86400	IN	SOA	ns.tabelog.com.	mail	2019061702 1800 900 604800 86400
+tabelog.com.	86400	IN	NS	ns.tabelog.com.
+ns.tabelog.com.	518400	IN	A	193.232.142.17
+
+tabelog.com.	518400	IN	A	202.239.30.129

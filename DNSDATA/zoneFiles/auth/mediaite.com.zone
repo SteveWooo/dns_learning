@@ -1,0 +1,6 @@
+
+mediaite.com.	86400	IN	SOA	ns.mediaite.com.	mail	2019061702 1800 900 604800 86400
+mediaite.com.	86400	IN	NS	ns.mediaite.com.
+ns.mediaite.com.	518400	IN	A	205.251.194.1
+
+mediaite.com.	518400	IN	A	173.236.21.210

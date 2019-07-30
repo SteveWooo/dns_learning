@@ -1,0 +1,6 @@
+
+oneindia.com.	86400	IN	SOA	ns.oneindia.com.	mail	2019061702 1800 900 604800 86400
+oneindia.com.	86400	IN	NS	ns.oneindia.com.
+ns.oneindia.com.	518400	IN	A	165.160.15.20
+
+oneindia.com.	518400	IN	A	107.6.122.178

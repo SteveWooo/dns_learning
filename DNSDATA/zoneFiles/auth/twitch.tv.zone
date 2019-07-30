@@ -1,0 +1,6 @@
+
+twitch.tv.	86400	IN	SOA	ns.twitch.tv.	mail	2019061702 1800 900 604800 86400
+twitch.tv.	86400	IN	NS	ns.twitch.tv.
+ns.twitch.tv.	518400	IN	A	216.239.32.106
+
+twitch.tv.	518400	IN	A	69.63.184.142

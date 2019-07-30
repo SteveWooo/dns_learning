@@ -1,0 +1,6 @@
+
+justjared.com.	86400	IN	SOA	ns.justjared.com.	mail	2019061702 1800 900 604800 86400
+justjared.com.	86400	IN	NS	ns.justjared.com.
+ns.justjared.com.	518400	IN	A	200.201.165.253
+
+justjared.com.	518400	IN	A	18.204.167.0

@@ -1,0 +1,6 @@
+
+downloadcobra.com.	86400	IN	SOA	ns.downloadcobra.com.	mail	2019061702 1800 900 604800 86400
+downloadcobra.com.	86400	IN	NS	ns.downloadcobra.com.
+ns.downloadcobra.com.	518400	IN	A	204.69.234.1
+
+downloadcobra.com.	518400	IN	A	103.224.182.207

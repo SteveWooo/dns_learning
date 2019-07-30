@@ -1,0 +1,6 @@
+
+adyen.com.	86400	IN	SOA	ns.adyen.com.	mail	2019061702 1800 900 604800 86400
+adyen.com.	86400	IN	NS	ns.adyen.com.
+ns.adyen.com.	518400	IN	A	204.74.108.1
+
+adyen.com.	518400	IN	A	52.28.74.199

@@ -1,0 +1,6 @@
+
+lifehack.org.	86400	IN	SOA	ns.lifehack.org.	mail	2019061702 1800 900 604800 86400
+lifehack.org.	86400	IN	NS	ns.lifehack.org.
+ns.lifehack.org.	518400	IN	A	213.180.193.1
+
+lifehack.org.	518400	IN	A	104.20.199.58

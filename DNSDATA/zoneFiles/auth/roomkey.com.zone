@@ -1,0 +1,6 @@
+
+roomkey.com.	86400	IN	SOA	ns.roomkey.com.	mail	2019061702 1800 900 604800 86400
+roomkey.com.	86400	IN	NS	ns.roomkey.com.
+ns.roomkey.com.	518400	IN	A	174.35.55.22
+
+roomkey.com.	518400	IN	A	13.225.62.82

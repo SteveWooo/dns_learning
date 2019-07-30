@@ -1,0 +1,6 @@
+
+fzg360.com.	86400	IN	SOA	ns.fzg360.com.	mail	2019061702 1800 900 604800 86400
+fzg360.com.	86400	IN	NS	ns.fzg360.com.
+ns.fzg360.com.	518400	IN	A	204.69.234.1
+
+fzg360.com.	518400	IN	A	121.40.22.239

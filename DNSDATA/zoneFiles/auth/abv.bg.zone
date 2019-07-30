@@ -1,0 +1,6 @@
+
+abv.bg.	86400	IN	SOA	ns.abv.bg.	mail	2019061702 1800 900 604800 86400
+abv.bg.	86400	IN	NS	ns.abv.bg.
+ns.abv.bg.	518400	IN	A	173.245.59.100
+
+abv.bg.	518400	IN	A	194.153.145.104

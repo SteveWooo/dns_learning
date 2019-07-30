@@ -1,0 +1,6 @@
+
+startbootstrap.com.	86400	IN	SOA	ns.startbootstrap.com.	mail	2019061702 1800 900 604800 86400
+startbootstrap.com.	86400	IN	NS	ns.startbootstrap.com.
+ns.startbootstrap.com.	518400	IN	A	216.58.200.238
+
+startbootstrap.com.	518400	IN	A	104.18.52.133

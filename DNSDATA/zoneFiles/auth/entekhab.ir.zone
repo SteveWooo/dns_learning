@@ -1,0 +1,6 @@
+
+entekhab.ir.	86400	IN	SOA	ns.entekhab.ir.	mail	2019061702 1800 900 604800 86400
+entekhab.ir.	86400	IN	NS	ns.entekhab.ir.
+ns.entekhab.ir.	518400	IN	A	216.239.32.29
+
+entekhab.ir.	518400	IN	A	94.182.146.227

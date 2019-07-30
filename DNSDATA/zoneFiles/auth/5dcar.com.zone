@@ -1,0 +1,6 @@
+
+5dcar.com.	86400	IN	SOA	ns.5dcar.com.	mail	2019061702 1800 900 604800 86400
+5dcar.com.	86400	IN	NS	ns.5dcar.com.
+ns.5dcar.com.	518400	IN	A	216.239.32.106
+
+5dcar.com.	518400	IN	A	42.62.25.246

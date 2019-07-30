@@ -1,0 +1,6 @@
+
+emailsrvr.com.	86400	IN	SOA	ns.emailsrvr.com.	mail	2019061702 1800 900 604800 86400
+emailsrvr.com.	86400	IN	NS	ns.emailsrvr.com.
+ns.emailsrvr.com.	518400	IN	A	203.153.43.65
+
+emailsrvr.com.	518400	IN	A	74.205.6.223

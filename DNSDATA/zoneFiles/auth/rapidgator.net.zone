@@ -1,0 +1,6 @@
+
+rapidgator.net.	86400	IN	SOA	ns.rapidgator.net.	mail	2019061702 1800 900 604800 86400
+rapidgator.net.	86400	IN	NS	ns.rapidgator.net.
+ns.rapidgator.net.	518400	IN	A	205.251.195.203
+
+rapidgator.net.	518400	IN	A	195.211.222.116

@@ -1,0 +1,6 @@
+
+kddi.com.	86400	IN	SOA	ns.kddi.com.	mail	2019061702 1800 900 604800 86400
+kddi.com.	86400	IN	NS	ns.kddi.com.
+ns.kddi.com.	518400	IN	A	216.239.32.29
+
+kddi.com.	518400	IN	A	106.162.242.108

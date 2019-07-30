@@ -1,0 +1,6 @@
+
+mi.com.	86400	IN	SOA	ns.mi.com.	mail	2019061702 1800 900 604800 86400
+mi.com.	86400	IN	NS	ns.mi.com.
+ns.mi.com.	518400	IN	A	175.126.117.211
+
+mi.com.	518400	IN	A	211.143.155.161

@@ -1,0 +1,6 @@
+
+bezuzyteczna.pl.	86400	IN	SOA	ns.bezuzyteczna.pl.	mail	2019061702 1800 900 604800 86400
+bezuzyteczna.pl.	86400	IN	NS	ns.bezuzyteczna.pl.
+ns.bezuzyteczna.pl.	518400	IN	A	216.239.32.10
+
+bezuzyteczna.pl.	518400	IN	A	104.31.3.188

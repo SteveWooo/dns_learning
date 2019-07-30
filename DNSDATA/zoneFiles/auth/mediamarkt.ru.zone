@@ -1,0 +1,6 @@
+
+mediamarkt.ru.	86400	IN	SOA	ns.mediamarkt.ru.	mail	2019061702 1800 900 604800 86400
+mediamarkt.ru.	86400	IN	NS	ns.mediamarkt.ru.
+ns.mediamarkt.ru.	518400	IN	A	173.245.58.89
+
+mediamarkt.ru.	518400	IN	A	91.220.181.237

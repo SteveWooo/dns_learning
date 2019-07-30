@@ -1,0 +1,6 @@
+
+tamindir.com.	86400	IN	SOA	ns.tamindir.com.	mail	2019061702 1800 900 604800 86400
+tamindir.com.	86400	IN	NS	ns.tamindir.com.
+ns.tamindir.com.	518400	IN	A	193.232.142.17
+
+tamindir.com.	518400	IN	A	104.25.193.37

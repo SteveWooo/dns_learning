@@ -1,0 +1,6 @@
+
+masralarabia.com.	86400	IN	SOA	ns.masralarabia.com.	mail	2019061702 1800 900 604800 86400
+masralarabia.com.	86400	IN	NS	ns.masralarabia.com.
+ns.masralarabia.com.	518400	IN	A	200.201.161.22
+
+masralarabia.com.	518400	IN	A	138.201.202.109

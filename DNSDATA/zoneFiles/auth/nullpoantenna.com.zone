@@ -1,0 +1,6 @@
+
+nullpoantenna.com.	86400	IN	SOA	ns.nullpoantenna.com.	mail	2019061702 1800 900 604800 86400
+nullpoantenna.com.	86400	IN	NS	ns.nullpoantenna.com.
+ns.nullpoantenna.com.	518400	IN	A	173.245.58.159
+
+nullpoantenna.com.	518400	IN	A	160.16.143.69

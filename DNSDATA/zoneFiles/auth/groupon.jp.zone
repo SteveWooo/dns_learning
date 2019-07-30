@@ -1,0 +1,6 @@
+
+groupon.jp.	86400	IN	SOA	ns.groupon.jp.	mail	2019061702 1800 900 604800 86400
+groupon.jp.	86400	IN	NS	ns.groupon.jp.
+ns.groupon.jp.	518400	IN	A	217.69.139.202
+
+groupon.jp.	518400	IN	A	72.246.139.217

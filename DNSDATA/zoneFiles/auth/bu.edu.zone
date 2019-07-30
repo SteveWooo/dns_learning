@@ -1,0 +1,6 @@
+
+bu.edu.	86400	IN	SOA	ns.bu.edu.	mail	2019061702 1800 900 604800 86400
+bu.edu.	86400	IN	NS	ns.bu.edu.
+ns.bu.edu.	518400	IN	A	173.245.58.138
+
+bu.edu.	518400	IN	A	128.197.236.4

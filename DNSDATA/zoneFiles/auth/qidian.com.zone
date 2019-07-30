@@ -1,0 +1,6 @@
+
+qidian.com.	86400	IN	SOA	ns.qidian.com.	mail	2019061702 1800 900 604800 86400
+qidian.com.	86400	IN	NS	ns.qidian.com.
+ns.qidian.com.	518400	IN	A	204.69.234.1
+
+qidian.com.	518400	IN	A	61.151.186.106

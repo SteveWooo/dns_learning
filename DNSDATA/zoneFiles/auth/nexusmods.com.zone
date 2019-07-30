@@ -1,0 +1,6 @@
+
+nexusmods.com.	86400	IN	SOA	ns.nexusmods.com.	mail	2019061702 1800 900 604800 86400
+nexusmods.com.	86400	IN	NS	ns.nexusmods.com.
+ns.nexusmods.com.	518400	IN	A	87.240.131.131
+
+nexusmods.com.	518400	IN	A	104.25.117.119

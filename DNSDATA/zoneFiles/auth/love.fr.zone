@@ -1,0 +1,6 @@
+
+love.fr.	86400	IN	SOA	ns.love.fr.	mail	2019061702 1800 900 604800 86400
+love.fr.	86400	IN	NS	ns.love.fr.
+ns.love.fr.	518400	IN	A	216.239.32.10
+
+love.fr.	518400	IN	A	176.31.102.158

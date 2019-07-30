@@ -1,0 +1,6 @@
+
+gamersky.com.	86400	IN	SOA	ns.gamersky.com.	mail	2019061702 1800 900 604800 86400
+gamersky.com.	86400	IN	NS	ns.gamersky.com.
+ns.gamersky.com.	518400	IN	A	216.239.32.10
+
+gamersky.com.	518400	IN	A	222.223.239.125

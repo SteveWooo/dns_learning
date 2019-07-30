@@ -1,0 +1,6 @@
+
+mxtoolbox.com.	86400	IN	SOA	ns.mxtoolbox.com.	mail	2019061702 1800 900 604800 86400
+mxtoolbox.com.	86400	IN	NS	ns.mxtoolbox.com.
+ns.mxtoolbox.com.	518400	IN	A	216.239.32.29
+
+mxtoolbox.com.	518400	IN	A	13.225.132.28

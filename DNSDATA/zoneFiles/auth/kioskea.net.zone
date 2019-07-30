@@ -1,0 +1,6 @@
+
+kioskea.net.	86400	IN	SOA	ns.kioskea.net.	mail	2019061702 1800 900 604800 86400
+kioskea.net.	86400	IN	NS	ns.kioskea.net.
+ns.kioskea.net.	518400	IN	A	216.239.32.29
+
+kioskea.net.	518400	IN	A	91.209.35.126

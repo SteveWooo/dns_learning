@@ -1,0 +1,6 @@
+
+shape.com.	86400	IN	SOA	ns.shape.com.	mail	2019061702 1800 900 604800 86400
+shape.com.	86400	IN	NS	ns.shape.com.
+ns.shape.com.	518400	IN	A	200.201.161.22
+
+shape.com.	518400	IN	A	198.186.175.17

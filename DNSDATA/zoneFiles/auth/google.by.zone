@@ -1,0 +1,6 @@
+
+google.by.	86400	IN	SOA	ns.google.by.	mail	2019061702 1800 900 604800 86400
+google.by.	86400	IN	NS	ns.google.by.
+ns.google.by.	518400	IN	A	173.245.58.201
+
+google.by.	518400	IN	A	216.58.201.100

@@ -1,0 +1,6 @@
+
+avangate.com.	86400	IN	SOA	ns.avangate.com.	mail	2019061702 1800 900 604800 86400
+avangate.com.	86400	IN	NS	ns.avangate.com.
+ns.avangate.com.	518400	IN	A	216.58.200.238
+
+avangate.com.	518400	IN	A	199.83.132.2

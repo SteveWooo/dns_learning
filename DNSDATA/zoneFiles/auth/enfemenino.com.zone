@@ -1,0 +1,6 @@
+
+enfemenino.com.	86400	IN	SOA	ns.enfemenino.com.	mail	2019061702 1800 900 604800 86400
+enfemenino.com.	86400	IN	NS	ns.enfemenino.com.
+ns.enfemenino.com.	518400	IN	A	213.180.204.242
+
+enfemenino.com.	518400	IN	A	91.103.137.226

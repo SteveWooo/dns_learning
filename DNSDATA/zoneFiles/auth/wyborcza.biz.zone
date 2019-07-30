@@ -1,0 +1,6 @@
+
+wyborcza.biz.	86400	IN	SOA	ns.wyborcza.biz.	mail	2019061702 1800 900 604800 86400
+wyborcza.biz.	86400	IN	NS	ns.wyborcza.biz.
+ns.wyborcza.biz.	518400	IN	A	92.242.43.216
+
+wyborcza.biz.	518400	IN	A	80.252.0.252

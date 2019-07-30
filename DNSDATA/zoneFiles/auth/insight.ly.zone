@@ -1,0 +1,6 @@
+
+insight.ly.	86400	IN	SOA	ns.insight.ly.	mail	2019061702 1800 900 604800 86400
+insight.ly.	86400	IN	NS	ns.insight.ly.
+ns.insight.ly.	518400	IN	A	216.239.32.29
+
+insight.ly.	518400	IN	A	52.8.178.132

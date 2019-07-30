@@ -1,0 +1,6 @@
+
+jsfiddle.net.	86400	IN	SOA	ns.jsfiddle.net.	mail	2019061702 1800 900 604800 86400
+jsfiddle.net.	86400	IN	NS	ns.jsfiddle.net.
+ns.jsfiddle.net.	518400	IN	A	216.239.32.106
+
+jsfiddle.net.	518400	IN	A	45.55.126.88

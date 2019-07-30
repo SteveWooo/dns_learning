@@ -1,0 +1,6 @@
+
+solarmovie.is.	86400	IN	SOA	ns.solarmovie.is.	mail	2019061702 1800 900 604800 86400
+solarmovie.is.	86400	IN	NS	ns.solarmovie.is.
+ns.solarmovie.is.	518400	IN	A	173.245.58.201
+
+solarmovie.is.	518400	IN	A	91.195.240.126

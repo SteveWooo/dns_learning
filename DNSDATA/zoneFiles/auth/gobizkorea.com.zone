@@ -1,0 +1,6 @@
+
+gobizkorea.com.	86400	IN	SOA	ns.gobizkorea.com.	mail	2019061702 1800 900 604800 86400
+gobizkorea.com.	86400	IN	NS	ns.gobizkorea.com.
+ns.gobizkorea.com.	518400	IN	A	173.245.58.159
+
+gobizkorea.com.	518400	IN	A	211.119.134.214

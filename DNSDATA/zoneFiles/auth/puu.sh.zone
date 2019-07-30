@@ -1,0 +1,6 @@
+
+puu.sh.	86400	IN	SOA	ns.puu.sh.	mail	2019061702 1800 900 604800 86400
+puu.sh.	86400	IN	NS	ns.puu.sh.
+ns.puu.sh.	518400	IN	A	193.108.91.127
+
+puu.sh.	518400	IN	A	104.27.183.176

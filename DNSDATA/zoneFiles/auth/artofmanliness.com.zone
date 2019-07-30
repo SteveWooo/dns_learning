@@ -1,0 +1,6 @@
+
+artofmanliness.com.	86400	IN	SOA	ns.artofmanliness.com.	mail	2019061702 1800 900 604800 86400
+artofmanliness.com.	86400	IN	NS	ns.artofmanliness.com.
+ns.artofmanliness.com.	518400	IN	A	206.128.173.109
+
+artofmanliness.com.	518400	IN	A	104.20.54.131

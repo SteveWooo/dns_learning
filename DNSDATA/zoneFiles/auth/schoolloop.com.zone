@@ -1,0 +1,6 @@
+
+schoolloop.com.	86400	IN	SOA	ns.schoolloop.com.	mail	2019061702 1800 900 604800 86400
+schoolloop.com.	86400	IN	NS	ns.schoolloop.com.
+ns.schoolloop.com.	518400	IN	A	93.186.225.193
+
+schoolloop.com.	518400	IN	A	190.93.247.210

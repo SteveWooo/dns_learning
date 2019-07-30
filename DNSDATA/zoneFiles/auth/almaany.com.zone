@@ -1,0 +1,6 @@
+
+almaany.com.	86400	IN	SOA	ns.almaany.com.	mail	2019061702 1800 900 604800 86400
+almaany.com.	86400	IN	NS	ns.almaany.com.
+ns.almaany.com.	518400	IN	A	180.149.156.12
+
+almaany.com.	518400	IN	A	104.25.217.36

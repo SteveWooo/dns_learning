@@ -1,0 +1,6 @@
+
+engadget.com.	86400	IN	SOA	ns.engadget.com.	mail	2019061702 1800 900 604800 86400
+engadget.com.	86400	IN	NS	ns.engadget.com.
+ns.engadget.com.	518400	IN	A	216.239.32.106
+
+engadget.com.	518400	IN	A	124.108.115.87

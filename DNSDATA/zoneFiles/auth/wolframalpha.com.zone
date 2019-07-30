@@ -1,0 +1,6 @@
+
+wolframalpha.com.	86400	IN	SOA	ns.wolframalpha.com.	mail	2019061702 1800 900 604800 86400
+wolframalpha.com.	86400	IN	NS	ns.wolframalpha.com.
+ns.wolframalpha.com.	518400	IN	A	205.251.199.254
+
+wolframalpha.com.	518400	IN	A	140.177.204.192

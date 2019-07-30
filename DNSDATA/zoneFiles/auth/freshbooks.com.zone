@@ -1,0 +1,6 @@
+
+freshbooks.com.	86400	IN	SOA	ns.freshbooks.com.	mail	2019061702 1800 900 604800 86400
+freshbooks.com.	86400	IN	NS	ns.freshbooks.com.
+ns.freshbooks.com.	518400	IN	A	187.18.60.242
+
+freshbooks.com.	518400	IN	A	151.101.2.2

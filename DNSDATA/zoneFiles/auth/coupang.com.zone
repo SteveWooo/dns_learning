@@ -1,0 +1,6 @@
+
+coupang.com.	86400	IN	SOA	ns.coupang.com.	mail	2019061702 1800 900 604800 86400
+coupang.com.	86400	IN	NS	ns.coupang.com.
+ns.coupang.com.	518400	IN	A	216.239.32.29
+
+coupang.com.	518400	IN	A	13.225.34.158

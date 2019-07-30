@@ -1,0 +1,6 @@
+
+msu.edu.	86400	IN	SOA	ns.msu.edu.	mail	2019061702 1800 900 604800 86400
+msu.edu.	86400	IN	NS	ns.msu.edu.
+ns.msu.edu.	518400	IN	A	132.207.144.12
+
+msu.edu.	518400	IN	A	35.9.247.69

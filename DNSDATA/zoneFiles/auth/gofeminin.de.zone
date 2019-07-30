@@ -1,0 +1,6 @@
+
+gofeminin.de.	86400	IN	SOA	ns.gofeminin.de.	mail	2019061702 1800 900 604800 86400
+gofeminin.de.	86400	IN	NS	ns.gofeminin.de.
+ns.gofeminin.de.	518400	IN	A	205.251.195.203
+
+gofeminin.de.	518400	IN	A	91.103.143.3

@@ -1,0 +1,6 @@
+
+roodo.com.	86400	IN	SOA	ns.roodo.com.	mail	2019061702 1800 900 604800 86400
+roodo.com.	86400	IN	NS	ns.roodo.com.
+ns.roodo.com.	518400	IN	A	213.180.193.1
+
+roodo.com.	518400	IN	A	61.63.73.14

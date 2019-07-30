@@ -1,0 +1,6 @@
+
+caixin.com.	86400	IN	SOA	ns.caixin.com.	mail	2019061702 1800 900 604800 86400
+caixin.com.	86400	IN	NS	ns.caixin.com.
+ns.caixin.com.	518400	IN	A	83.143.25.220
+
+caixin.com.	518400	IN	A	43.242.49.141

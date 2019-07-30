@@ -1,0 +1,6 @@
+
+sootoo.com.	86400	IN	SOA	ns.sootoo.com.	mail	2019061702 1800 900 604800 86400
+sootoo.com.	86400	IN	NS	ns.sootoo.com.
+ns.sootoo.com.	518400	IN	A	200.201.161.22
+
+sootoo.com.	518400	IN	A	223.203.132.147

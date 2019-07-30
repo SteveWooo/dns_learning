@@ -1,0 +1,6 @@
+
+buzzfeed.com.	86400	IN	SOA	ns.buzzfeed.com.	mail	2019061702 1800 900 604800 86400
+buzzfeed.com.	86400	IN	NS	ns.buzzfeed.com.
+ns.buzzfeed.com.	518400	IN	A	216.58.200.238
+
+buzzfeed.com.	518400	IN	A	13.226.15.13

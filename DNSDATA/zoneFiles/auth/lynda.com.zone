@@ -1,0 +1,6 @@
+
+lynda.com.	86400	IN	SOA	ns.lynda.com.	mail	2019061702 1800 900 604800 86400
+lynda.com.	86400	IN	NS	ns.lynda.com.
+ns.lynda.com.	518400	IN	A	205.251.194.1
+
+lynda.com.	518400	IN	A	8.39.42.106

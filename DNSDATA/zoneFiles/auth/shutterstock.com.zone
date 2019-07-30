@@ -1,0 +1,6 @@
+
+shutterstock.com.	86400	IN	SOA	ns.shutterstock.com.	mail	2019061702 1800 900 604800 86400
+shutterstock.com.	86400	IN	NS	ns.shutterstock.com.
+ns.shutterstock.com.	518400	IN	A	205.251.195.203
+
+shutterstock.com.	518400	IN	A	18.213.104.153

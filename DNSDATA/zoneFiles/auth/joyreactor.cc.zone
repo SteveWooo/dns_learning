@@ -1,0 +1,6 @@
+
+joyreactor.cc.	86400	IN	SOA	ns.joyreactor.cc.	mail	2019061702 1800 900 604800 86400
+joyreactor.cc.	86400	IN	NS	ns.joyreactor.cc.
+ns.joyreactor.cc.	518400	IN	A	200.219.154.10
+
+joyreactor.cc.	518400	IN	A	149.202.210.15

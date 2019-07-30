@@ -1,0 +1,6 @@
+
+gizmodo.jp.	86400	IN	SOA	ns.gizmodo.jp.	mail	2019061702 1800 900 604800 86400
+gizmodo.jp.	86400	IN	NS	ns.gizmodo.jp.
+ns.gizmodo.jp.	518400	IN	A	216.239.32.10
+
+gizmodo.jp.	518400	IN	A	99.84.194.71

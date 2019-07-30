@@ -1,0 +1,6 @@
+
+icy-veins.com.	86400	IN	SOA	ns.icy-veins.com.	mail	2019061702 1800 900 604800 86400
+icy-veins.com.	86400	IN	NS	ns.icy-veins.com.
+ns.icy-veins.com.	518400	IN	A	87.240.131.131
+
+icy-veins.com.	518400	IN	A	87.98.161.106

@@ -1,0 +1,6 @@
+
+ellemen.com.	86400	IN	SOA	ns.ellemen.com.	mail	2019061702 1800 900 604800 86400
+ellemen.com.	86400	IN	NS	ns.ellemen.com.
+ns.ellemen.com.	518400	IN	A	193.108.91.127
+
+ellemen.com.	518400	IN	A	1.31.128.203

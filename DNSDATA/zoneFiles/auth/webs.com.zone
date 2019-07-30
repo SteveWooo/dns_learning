@@ -1,0 +1,6 @@
+
+webs.com.	86400	IN	SOA	ns.webs.com.	mail	2019061702 1800 900 604800 86400
+webs.com.	86400	IN	NS	ns.webs.com.
+ns.webs.com.	518400	IN	A	217.69.139.202
+
+webs.com.	518400	IN	A	104.17.119.40

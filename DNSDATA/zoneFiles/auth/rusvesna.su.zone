@@ -1,0 +1,6 @@
+
+rusvesna.su.	86400	IN	SOA	ns.rusvesna.su.	mail	2019061702 1800 900 604800 86400
+rusvesna.su.	86400	IN	NS	ns.rusvesna.su.
+ns.rusvesna.su.	518400	IN	A	216.239.32.29
+
+rusvesna.su.	518400	IN	A	104.20.93.220

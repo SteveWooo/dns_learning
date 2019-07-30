@@ -1,0 +1,6 @@
+
+worldfree4u.com.	86400	IN	SOA	ns.worldfree4u.com.	mail	2019061702 1800 900 604800 86400
+worldfree4u.com.	86400	IN	NS	ns.worldfree4u.com.
+ns.worldfree4u.com.	518400	IN	A	202.108.22.220
+
+worldfree4u.com.	518400	IN	A	104.31.90.62

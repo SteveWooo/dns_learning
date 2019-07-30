@@ -1,0 +1,6 @@
+
+anandtech.com.	86400	IN	SOA	ns.anandtech.com.	mail	2019061702 1800 900 604800 86400
+anandtech.com.	86400	IN	NS	ns.anandtech.com.
+ns.anandtech.com.	518400	IN	A	64.106.209.186
+
+anandtech.com.	518400	IN	A	192.65.241.100

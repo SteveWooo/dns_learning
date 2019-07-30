@@ -1,0 +1,6 @@
+
+wa.gov.	86400	IN	SOA	ns.wa.gov.	mail	2019061702 1800 900 604800 86400
+wa.gov.	86400	IN	NS	ns.wa.gov.
+ns.wa.gov.	518400	IN	A	205.251.197.107
+
+wa.gov.	518400	IN	A	23.185.0.3

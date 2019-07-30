@@ -1,0 +1,6 @@
+
+pipedrive.com.	86400	IN	SOA	ns.pipedrive.com.	mail	2019061702 1800 900 604800 86400
+pipedrive.com.	86400	IN	NS	ns.pipedrive.com.
+ns.pipedrive.com.	518400	IN	A	204.69.234.1
+
+pipedrive.com.	518400	IN	A	159.135.143.216

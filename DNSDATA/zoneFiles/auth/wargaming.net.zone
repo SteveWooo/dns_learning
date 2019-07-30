@@ -1,0 +1,6 @@
+
+wargaming.net.	86400	IN	SOA	ns.wargaming.net.	mail	2019061702 1800 900 604800 86400
+wargaming.net.	86400	IN	NS	ns.wargaming.net.
+ns.wargaming.net.	518400	IN	A	193.232.156.17
+
+wargaming.net.	518400	IN	A	185.12.241.143

@@ -1,0 +1,6 @@
+
+stocktwits.com.	86400	IN	SOA	ns.stocktwits.com.	mail	2019061702 1800 900 604800 86400
+stocktwits.com.	86400	IN	NS	ns.stocktwits.com.
+ns.stocktwits.com.	518400	IN	A	173.245.59.160
+
+stocktwits.com.	518400	IN	A	104.22.11.38

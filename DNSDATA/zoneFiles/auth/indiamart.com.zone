@@ -1,0 +1,6 @@
+
+indiamart.com.	86400	IN	SOA	ns.indiamart.com.	mail	2019061702 1800 900 604800 86400
+indiamart.com.	86400	IN	NS	ns.indiamart.com.
+ns.indiamart.com.	518400	IN	A	217.69.139.112
+
+indiamart.com.	518400	IN	A	35.190.37.46

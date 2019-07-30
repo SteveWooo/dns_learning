@@ -1,0 +1,6 @@
+
+lifehacker.jp.	86400	IN	SOA	ns.lifehacker.jp.	mail	2019061702 1800 900 604800 86400
+lifehacker.jp.	86400	IN	NS	ns.lifehacker.jp.
+ns.lifehacker.jp.	518400	IN	A	216.239.32.10
+
+lifehacker.jp.	518400	IN	A	13.225.78.3

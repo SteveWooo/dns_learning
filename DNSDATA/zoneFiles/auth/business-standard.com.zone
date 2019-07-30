@@ -1,0 +1,6 @@
+
+business-standard.com.	86400	IN	SOA	ns.business-standard.com.	mail	2019061702 1800 900 604800 86400
+business-standard.com.	86400	IN	NS	ns.business-standard.com.
+ns.business-standard.com.	518400	IN	A	216.58.200.238
+
+business-standard.com.	518400	IN	A	52.66.67.29

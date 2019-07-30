@@ -1,0 +1,6 @@
+
+zendesk.com.	86400	IN	SOA	ns.zendesk.com.	mail	2019061702 1800 900 604800 86400
+zendesk.com.	86400	IN	NS	ns.zendesk.com.
+ns.zendesk.com.	518400	IN	A	200.221.11.98
+
+zendesk.com.	518400	IN	A	54.172.126.223

@@ -1,0 +1,6 @@
+
+dmhy.org.	86400	IN	SOA	ns.dmhy.org.	mail	2019061702 1800 900 604800 86400
+dmhy.org.	86400	IN	NS	ns.dmhy.org.
+ns.dmhy.org.	518400	IN	A	205.251.199.254
+
+dmhy.org.	518400	IN	A	64.13.232.149

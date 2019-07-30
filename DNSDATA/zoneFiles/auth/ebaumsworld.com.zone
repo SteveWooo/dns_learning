@@ -1,0 +1,6 @@
+
+ebaumsworld.com.	86400	IN	SOA	ns.ebaumsworld.com.	mail	2019061702 1800 900 604800 86400
+ebaumsworld.com.	86400	IN	NS	ns.ebaumsworld.com.
+ns.ebaumsworld.com.	518400	IN	A	216.58.200.238
+
+ebaumsworld.com.	518400	IN	A	67.214.157.20

@@ -1,0 +1,6 @@
+
+prom.ua.	86400	IN	SOA	ns.prom.ua.	mail	2019061702 1800 900 604800 86400
+prom.ua.	86400	IN	NS	ns.prom.ua.
+ns.prom.ua.	518400	IN	A	216.239.32.29
+
+prom.ua.	518400	IN	A	193.34.169.17

@@ -1,0 +1,6 @@
+
+brassring.com.	86400	IN	SOA	ns.brassring.com.	mail	2019061702 1800 900 604800 86400
+brassring.com.	86400	IN	NS	ns.brassring.com.
+ns.brassring.com.	518400	IN	A	200.201.165.253
+
+brassring.com.	518400	IN	A	66.77.22.129

@@ -1,0 +1,6 @@
+
+zenfolio.com.	86400	IN	SOA	ns.zenfolio.com.	mail	2019061702 1800 900 604800 86400
+zenfolio.com.	86400	IN	NS	ns.zenfolio.com.
+ns.zenfolio.com.	518400	IN	A	173.245.59.160
+
+zenfolio.com.	518400	IN	A	169.61.122.230

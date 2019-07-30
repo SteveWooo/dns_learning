@@ -1,0 +1,6 @@
+
+ijreview.com.	86400	IN	SOA	ns.ijreview.com.	mail	2019061702 1800 900 604800 86400
+ijreview.com.	86400	IN	NS	ns.ijreview.com.
+ns.ijreview.com.	518400	IN	A	205.251.199.254
+
+ijreview.com.	518400	IN	A	104.196.116.235

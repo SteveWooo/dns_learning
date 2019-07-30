@@ -1,0 +1,6 @@
+
+desidime.com.	86400	IN	SOA	ns.desidime.com.	mail	2019061702 1800 900 604800 86400
+desidime.com.	86400	IN	NS	ns.desidime.com.
+ns.desidime.com.	518400	IN	A	204.69.234.1
+
+desidime.com.	518400	IN	A	104.20.57.177

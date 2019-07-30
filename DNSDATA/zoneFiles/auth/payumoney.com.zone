@@ -1,0 +1,6 @@
+
+payumoney.com.	86400	IN	SOA	ns.payumoney.com.	mail	2019061702 1800 900 604800 86400
+payumoney.com.	86400	IN	NS	ns.payumoney.com.
+ns.payumoney.com.	518400	IN	A	180.149.156.12
+
+payumoney.com.	518400	IN	A	180.179.168.232

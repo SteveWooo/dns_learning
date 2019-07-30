@@ -1,0 +1,6 @@
+
+fortune.com.	86400	IN	SOA	ns.fortune.com.	mail	2019061702 1800 900 604800 86400
+fortune.com.	86400	IN	NS	ns.fortune.com.
+ns.fortune.com.	518400	IN	A	217.69.139.202
+
+fortune.com.	518400	IN	A	192.0.66.64

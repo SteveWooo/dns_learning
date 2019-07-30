@@ -1,0 +1,6 @@
+
+toyota.com.	86400	IN	SOA	ns.toyota.com.	mail	2019061702 1800 900 604800 86400
+toyota.com.	86400	IN	NS	ns.toyota.com.
+ns.toyota.com.	518400	IN	A	180.149.156.12
+
+toyota.com.	518400	IN	A	107.154.76.95

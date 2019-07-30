@@ -1,0 +1,6 @@
+
+tovima.gr.	86400	IN	SOA	ns.tovima.gr.	mail	2019061702 1800 900 604800 86400
+tovima.gr.	86400	IN	NS	ns.tovima.gr.
+ns.tovima.gr.	518400	IN	A	216.239.32.106
+
+tovima.gr.	518400	IN	A	194.63.247.211

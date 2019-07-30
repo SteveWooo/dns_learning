@@ -1,0 +1,6 @@
+
+baomihua.com.	86400	IN	SOA	ns.baomihua.com.	mail	2019061702 1800 900 604800 86400
+baomihua.com.	86400	IN	NS	ns.baomihua.com.
+ns.baomihua.com.	518400	IN	A	165.160.15.20
+
+baomihua.com.	518400	IN	A	47.96.53.22

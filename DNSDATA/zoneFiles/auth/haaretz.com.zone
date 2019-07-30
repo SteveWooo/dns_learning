@@ -1,0 +1,6 @@
+
+haaretz.com.	86400	IN	SOA	ns.haaretz.com.	mail	2019061702 1800 900 604800 86400
+haaretz.com.	86400	IN	NS	ns.haaretz.com.
+ns.haaretz.com.	518400	IN	A	204.74.108.1
+
+haaretz.com.	518400	IN	A	192.118.72.48

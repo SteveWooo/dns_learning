@@ -1,0 +1,6 @@
+
+jin115.com.	86400	IN	SOA	ns.jin115.com.	mail	2019061702 1800 900 604800 86400
+jin115.com.	86400	IN	NS	ns.jin115.com.
+ns.jin115.com.	518400	IN	A	200.201.161.22
+
+jin115.com.	518400	IN	A	203.104.130.159

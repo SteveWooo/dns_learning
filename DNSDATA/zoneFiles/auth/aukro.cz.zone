@@ -1,0 +1,6 @@
+
+aukro.cz.	86400	IN	SOA	ns.aukro.cz.	mail	2019061702 1800 900 604800 86400
+aukro.cz.	86400	IN	NS	ns.aukro.cz.
+ns.aukro.cz.	518400	IN	A	205.251.192.29
+
+aukro.cz.	518400	IN	A	104.22.4.155

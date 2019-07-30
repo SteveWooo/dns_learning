@@ -1,0 +1,6 @@
+
+tnaflix.com.	86400	IN	SOA	ns.tnaflix.com.	mail	2019061702 1800 900 604800 86400
+tnaflix.com.	86400	IN	NS	ns.tnaflix.com.
+ns.tnaflix.com.	518400	IN	A	81.19.73.180
+
+tnaflix.com.	518400	IN	A	31.13.85.16

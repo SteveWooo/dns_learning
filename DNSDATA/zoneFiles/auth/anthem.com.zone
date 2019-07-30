@@ -1,0 +1,6 @@
+
+anthem.com.	86400	IN	SOA	ns.anthem.com.	mail	2019061702 1800 900 604800 86400
+anthem.com.	86400	IN	NS	ns.anthem.com.
+ns.anthem.com.	518400	IN	A	200.221.11.98
+
+anthem.com.	518400	IN	A	162.95.221.218

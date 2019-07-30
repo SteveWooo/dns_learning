@@ -1,0 +1,6 @@
+
+adtech.info.	86400	IN	SOA	ns.adtech.info.	mail	2019061702 1800 900 604800 86400
+adtech.info.	86400	IN	NS	ns.adtech.info.
+ns.adtech.info.	518400	IN	A	213.180.204.242
+
+adtech.info.	518400	IN	A	98.136.103.23

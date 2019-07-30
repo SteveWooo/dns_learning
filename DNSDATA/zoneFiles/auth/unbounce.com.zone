@@ -1,0 +1,6 @@
+
+unbounce.com.	86400	IN	SOA	ns.unbounce.com.	mail	2019061702 1800 900 604800 86400
+unbounce.com.	86400	IN	NS	ns.unbounce.com.
+ns.unbounce.com.	518400	IN	A	173.245.58.159
+
+unbounce.com.	518400	IN	A	35.199.174.117

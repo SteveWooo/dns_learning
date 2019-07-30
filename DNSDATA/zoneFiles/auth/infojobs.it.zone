@@ -1,0 +1,6 @@
+
+infojobs.it.	86400	IN	SOA	ns.infojobs.it.	mail	2019061702 1800 900 604800 86400
+infojobs.it.	86400	IN	NS	ns.infojobs.it.
+ns.infojobs.it.	518400	IN	A	205.251.192.29
+
+infojobs.it.	518400	IN	A	13.33.87.82

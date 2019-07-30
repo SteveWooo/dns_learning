@@ -1,0 +1,6 @@
+
+lepoint.fr.	86400	IN	SOA	ns.lepoint.fr.	mail	2019061702 1800 900 604800 86400
+lepoint.fr.	86400	IN	NS	ns.lepoint.fr.
+ns.lepoint.fr.	518400	IN	A	213.180.193.1
+
+lepoint.fr.	518400	IN	A	31.13.86.8

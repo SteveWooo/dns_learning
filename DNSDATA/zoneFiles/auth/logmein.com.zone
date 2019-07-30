@@ -1,0 +1,6 @@
+
+logmein.com.	86400	IN	SOA	ns.logmein.com.	mail	2019061702 1800 900 604800 86400
+logmein.com.	86400	IN	NS	ns.logmein.com.
+ns.logmein.com.	518400	IN	A	174.35.55.22
+
+logmein.com.	518400	IN	A	40.71.199.117

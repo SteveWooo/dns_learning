@@ -1,0 +1,6 @@
+
+ufl.edu.	86400	IN	SOA	ns.ufl.edu.	mail	2019061702 1800 900 604800 86400
+ufl.edu.	86400	IN	NS	ns.ufl.edu.
+ns.ufl.edu.	518400	IN	A	216.58.200.238
+
+ufl.edu.	518400	IN	A	128.227.9.98

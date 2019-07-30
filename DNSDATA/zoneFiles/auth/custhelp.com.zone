@@ -1,0 +1,6 @@
+
+custhelp.com.	86400	IN	SOA	ns.custhelp.com.	mail	2019061702 1800 900 604800 86400
+custhelp.com.	86400	IN	NS	ns.custhelp.com.
+ns.custhelp.com.	518400	IN	A	216.239.32.29
+
+custhelp.com.	518400	IN	A	74.117.206.70

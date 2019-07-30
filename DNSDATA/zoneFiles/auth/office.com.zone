@@ -1,0 +1,6 @@
+
+office.com.	86400	IN	SOA	ns.office.com.	mail	2019061702 1800 900 604800 86400
+office.com.	86400	IN	NS	ns.office.com.
+ns.office.com.	518400	IN	A	202.56.230.5
+
+office.com.	518400	IN	A	52.108.36.3

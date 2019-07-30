@@ -1,0 +1,6 @@
+
+sparda.de.	86400	IN	SOA	ns.sparda.de.	mail	2019061702 1800 900 604800 86400
+sparda.de.	86400	IN	NS	ns.sparda.de.
+ns.sparda.de.	518400	IN	A	208.78.70.47
+
+sparda.de.	518400	IN	A	195.145.106.97

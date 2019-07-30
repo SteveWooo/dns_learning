@@ -1,0 +1,6 @@
+
+cnblogs.com.	86400	IN	SOA	ns.cnblogs.com.	mail	2019061702 1800 900 604800 86400
+cnblogs.com.	86400	IN	NS	ns.cnblogs.com.
+ns.cnblogs.com.	518400	IN	A	216.58.200.238
+
+cnblogs.com.	518400	IN	A	42.121.252.58

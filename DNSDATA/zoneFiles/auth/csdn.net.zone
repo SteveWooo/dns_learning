@@ -1,0 +1,6 @@
+
+csdn.net.	86400	IN	SOA	ns.csdn.net.	mail	2019061702 1800 900 604800 86400
+csdn.net.	86400	IN	NS	ns.csdn.net.
+ns.csdn.net.	518400	IN	A	208.78.70.47
+
+csdn.net.	518400	IN	A	47.95.164.112

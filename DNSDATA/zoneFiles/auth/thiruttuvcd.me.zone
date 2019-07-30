@@ -1,0 +1,6 @@
+
+thiruttuvcd.me.	86400	IN	SOA	ns.thiruttuvcd.me.	mail	2019061702 1800 900 604800 86400
+thiruttuvcd.me.	86400	IN	NS	ns.thiruttuvcd.me.
+ns.thiruttuvcd.me.	518400	IN	A	205.251.199.254
+
+thiruttuvcd.me.	518400	IN	A	185.53.179.8

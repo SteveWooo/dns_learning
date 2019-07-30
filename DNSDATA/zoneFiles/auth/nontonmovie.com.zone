@@ -1,0 +1,6 @@
+
+nontonmovie.com.	86400	IN	SOA	ns.nontonmovie.com.	mail	2019061702 1800 900 604800 86400
+nontonmovie.com.	86400	IN	NS	ns.nontonmovie.com.
+ns.nontonmovie.com.	518400	IN	A	217.69.139.202
+
+nontonmovie.com.	518400	IN	A	67.227.226.240

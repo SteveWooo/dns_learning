@@ -1,0 +1,6 @@
+
+natwest.com.	86400	IN	SOA	ns.natwest.com.	mail	2019061702 1800 900 604800 86400
+natwest.com.	86400	IN	NS	ns.natwest.com.
+ns.natwest.com.	518400	IN	A	216.239.32.106
+
+natwest.com.	518400	IN	A	155.136.80.213

@@ -1,0 +1,6 @@
+
+zedo.com.	86400	IN	SOA	ns.zedo.com.	mail	2019061702 1800 900 604800 86400
+zedo.com.	86400	IN	NS	ns.zedo.com.
+ns.zedo.com.	518400	IN	A	173.245.58.89
+
+zedo.com.	518400	IN	A	64.41.197.44

@@ -1,0 +1,6 @@
+
+diply.com.	86400	IN	SOA	ns.diply.com.	mail	2019061702 1800 900 604800 86400
+diply.com.	86400	IN	NS	ns.diply.com.
+ns.diply.com.	518400	IN	A	202.108.22.220
+
+diply.com.	518400	IN	A	151.101.194.49

@@ -1,0 +1,6 @@
+
+ohio.gov.	86400	IN	SOA	ns.ohio.gov.	mail	2019061702 1800 900 604800 86400
+ohio.gov.	86400	IN	NS	ns.ohio.gov.
+ns.ohio.gov.	518400	IN	A	92.242.43.216
+
+ohio.gov.	518400	IN	A	18.211.190.87

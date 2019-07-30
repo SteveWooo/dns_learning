@@ -1,0 +1,6 @@
+
+tenpay.com.	86400	IN	SOA	ns.tenpay.com.	mail	2019061702 1800 900 604800 86400
+tenpay.com.	86400	IN	NS	ns.tenpay.com.
+ns.tenpay.com.	518400	IN	A	205.251.195.203
+
+tenpay.com.	518400	IN	A	14.17.41.204

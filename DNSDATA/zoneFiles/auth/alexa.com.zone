@@ -1,0 +1,6 @@
+
+alexa.com.	86400	IN	SOA	ns.alexa.com.	mail	2019061702 1800 900 604800 86400
+alexa.com.	86400	IN	NS	ns.alexa.com.
+ns.alexa.com.	518400	IN	A	213.180.204.242
+
+alexa.com.	518400	IN	A	54.174.118.240

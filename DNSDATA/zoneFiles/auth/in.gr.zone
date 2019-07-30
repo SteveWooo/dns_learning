@@ -1,0 +1,6 @@
+
+in.gr.	86400	IN	SOA	ns.in.gr.	mail	2019061702 1800 900 604800 86400
+in.gr.	86400	IN	NS	ns.in.gr.
+ns.in.gr.	518400	IN	A	217.69.139.112
+
+in.gr.	518400	IN	A	213.133.127.247

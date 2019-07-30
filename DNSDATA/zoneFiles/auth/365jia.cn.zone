@@ -1,0 +1,6 @@
+
+365jia.cn.	86400	IN	SOA	ns.365jia.cn.	mail	2019061702 1800 900 604800 86400
+365jia.cn.	86400	IN	NS	ns.365jia.cn.
+ns.365jia.cn.	518400	IN	A	204.69.234.1
+
+365jia.cn.	518400	IN	A	122.246.20.202

@@ -1,0 +1,6 @@
+
+fotostrana.ru.	86400	IN	SOA	ns.fotostrana.ru.	mail	2019061702 1800 900 604800 86400
+fotostrana.ru.	86400	IN	NS	ns.fotostrana.ru.
+ns.fotostrana.ru.	518400	IN	A	216.58.200.238
+
+fotostrana.ru.	518400	IN	A	185.5.72.32

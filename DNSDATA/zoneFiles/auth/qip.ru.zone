@@ -1,0 +1,6 @@
+
+qip.ru.	86400	IN	SOA	ns.qip.ru.	mail	2019061702 1800 900 604800 86400
+qip.ru.	86400	IN	NS	ns.qip.ru.
+ns.qip.ru.	518400	IN	A	183.3.226.207
+
+qip.ru.	518400	IN	A	91.234.98.100

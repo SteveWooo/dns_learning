@@ -1,0 +1,6 @@
+
+monotaro.com.	86400	IN	SOA	ns.monotaro.com.	mail	2019061702 1800 900 604800 86400
+monotaro.com.	86400	IN	NS	ns.monotaro.com.
+ns.monotaro.com.	518400	IN	A	217.69.139.112
+
+monotaro.com.	518400	IN	A	13.33.87.83

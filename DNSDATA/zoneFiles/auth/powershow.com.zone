@@ -1,0 +1,6 @@
+
+powershow.com.	86400	IN	SOA	ns.powershow.com.	mail	2019061702 1800 900 604800 86400
+powershow.com.	86400	IN	NS	ns.powershow.com.
+ns.powershow.com.	518400	IN	A	200.219.154.10
+
+powershow.com.	518400	IN	A	209.128.81.248

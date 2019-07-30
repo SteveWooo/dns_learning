@@ -1,0 +1,6 @@
+
+51auto.com.	86400	IN	SOA	ns.51auto.com.	mail	2019061702 1800 900 604800 86400
+51auto.com.	86400	IN	NS	ns.51auto.com.
+ns.51auto.com.	518400	IN	A	208.78.70.47
+
+51auto.com.	518400	IN	A	119.28.48.239

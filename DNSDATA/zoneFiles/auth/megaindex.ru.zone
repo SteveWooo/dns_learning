@@ -1,0 +1,6 @@
+
+megaindex.ru.	86400	IN	SOA	ns.megaindex.ru.	mail	2019061702 1800 900 604800 86400
+megaindex.ru.	86400	IN	NS	ns.megaindex.ru.
+ns.megaindex.ru.	518400	IN	A	205.251.192.29
+
+megaindex.ru.	518400	IN	A	89.108.118.107

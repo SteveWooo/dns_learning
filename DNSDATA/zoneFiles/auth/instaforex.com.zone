@@ -1,0 +1,6 @@
+
+instaforex.com.	86400	IN	SOA	ns.instaforex.com.	mail	2019061702 1800 900 604800 86400
+instaforex.com.	86400	IN	NS	ns.instaforex.com.
+ns.instaforex.com.	518400	IN	A	200.201.161.22
+
+instaforex.com.	518400	IN	A	72.9.105.30

@@ -1,0 +1,6 @@
+
+derstandard.at.	86400	IN	SOA	ns.derstandard.at.	mail	2019061702 1800 900 604800 86400
+derstandard.at.	86400	IN	NS	ns.derstandard.at.
+ns.derstandard.at.	518400	IN	A	213.180.204.242
+
+derstandard.at.	518400	IN	A	194.116.243.20

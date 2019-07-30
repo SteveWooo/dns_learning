@@ -1,0 +1,6 @@
+
+autoblog.com.	86400	IN	SOA	ns.autoblog.com.	mail	2019061702 1800 900 604800 86400
+autoblog.com.	86400	IN	NS	ns.autoblog.com.
+ns.autoblog.com.	518400	IN	A	202.56.230.5
+
+autoblog.com.	518400	IN	A	74.6.136.153

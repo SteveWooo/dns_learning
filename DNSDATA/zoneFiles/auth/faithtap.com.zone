@@ -1,0 +1,6 @@
+
+faithtap.com.	86400	IN	SOA	ns.faithtap.com.	mail	2019061702 1800 900 604800 86400
+faithtap.com.	86400	IN	NS	ns.faithtap.com.
+ns.faithtap.com.	518400	IN	A	205.251.195.203
+
+faithtap.com.	518400	IN	A	104.20.23.178

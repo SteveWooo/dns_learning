@@ -1,0 +1,6 @@
+
+onclickads.net.	86400	IN	SOA	ns.onclickads.net.	mail	2019061702 1800 900 604800 86400
+onclickads.net.	86400	IN	NS	ns.onclickads.net.
+ns.onclickads.net.	518400	IN	A	92.242.43.216
+
+onclickads.net.	518400	IN	A	194.187.98.198

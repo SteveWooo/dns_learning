@@ -1,0 +1,6 @@
+
+cbslocal.com.	86400	IN	SOA	ns.cbslocal.com.	mail	2019061702 1800 900 604800 86400
+cbslocal.com.	86400	IN	NS	ns.cbslocal.com.
+ns.cbslocal.com.	518400	IN	A	200.221.11.98
+
+cbslocal.com.	518400	IN	A	192.0.66.136

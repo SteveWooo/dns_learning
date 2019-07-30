@@ -1,0 +1,6 @@
+
+webnode.com.	86400	IN	SOA	ns.webnode.com.	mail	2019061702 1800 900 604800 86400
+webnode.com.	86400	IN	NS	ns.webnode.com.
+ns.webnode.com.	518400	IN	A	173.245.58.100
+
+webnode.com.	518400	IN	A	81.0.226.156

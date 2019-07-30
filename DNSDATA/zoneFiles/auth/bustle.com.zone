@@ -1,0 +1,6 @@
+
+bustle.com.	86400	IN	SOA	ns.bustle.com.	mail	2019061702 1800 900 604800 86400
+bustle.com.	86400	IN	NS	ns.bustle.com.
+ns.bustle.com.	518400	IN	A	213.180.204.242
+
+bustle.com.	518400	IN	A	151.101.1.127

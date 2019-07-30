@@ -1,0 +1,6 @@
+
+bild.de.	86400	IN	SOA	ns.bild.de.	mail	2019061702 1800 900 604800 86400
+bild.de.	86400	IN	NS	ns.bild.de.
+ns.bild.de.	518400	IN	A	203.153.43.65
+
+bild.de.	518400	IN	A	145.243.240.20

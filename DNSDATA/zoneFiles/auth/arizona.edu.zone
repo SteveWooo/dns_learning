@@ -1,0 +1,6 @@
+
+arizona.edu.	86400	IN	SOA	ns.arizona.edu.	mail	2019061702 1800 900 604800 86400
+arizona.edu.	86400	IN	NS	ns.arizona.edu.
+ns.arizona.edu.	518400	IN	A	173.245.59.100
+
+arizona.edu.	518400	IN	A	128.196.128.233

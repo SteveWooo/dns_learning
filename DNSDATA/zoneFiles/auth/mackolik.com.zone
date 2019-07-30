@@ -1,0 +1,6 @@
+
+mackolik.com.	86400	IN	SOA	ns.mackolik.com.	mail	2019061702 1800 900 604800 86400
+mackolik.com.	86400	IN	NS	ns.mackolik.com.
+ns.mackolik.com.	518400	IN	A	203.153.43.65
+
+mackolik.com.	518400	IN	A	185.42.236.147

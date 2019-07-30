@@ -1,0 +1,6 @@
+
+w3schools.com.	86400	IN	SOA	ns.w3schools.com.	mail	2019061702 1800 900 604800 86400
+w3schools.com.	86400	IN	NS	ns.w3schools.com.
+ns.w3schools.com.	518400	IN	A	202.108.22.220
+
+w3schools.com.	518400	IN	A	66.29.212.110

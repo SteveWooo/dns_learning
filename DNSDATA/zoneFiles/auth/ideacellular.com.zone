@@ -1,0 +1,6 @@
+
+ideacellular.com.	86400	IN	SOA	ns.ideacellular.com.	mail	2019061702 1800 900 604800 86400
+ideacellular.com.	86400	IN	NS	ns.ideacellular.com.
+ns.ideacellular.com.	518400	IN	A	198.11.138.245
+
+ideacellular.com.	518400	IN	A	112.110.32.83

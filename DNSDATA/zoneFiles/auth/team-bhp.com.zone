@@ -1,0 +1,6 @@
+
+team-bhp.com.	86400	IN	SOA	ns.team-bhp.com.	mail	2019061702 1800 900 604800 86400
+team-bhp.com.	86400	IN	NS	ns.team-bhp.com.
+ns.team-bhp.com.	518400	IN	A	173.245.58.201
+
+team-bhp.com.	518400	IN	A	205.147.110.34

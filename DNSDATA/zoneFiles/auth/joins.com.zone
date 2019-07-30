@@ -1,0 +1,6 @@
+
+joins.com.	86400	IN	SOA	ns.joins.com.	mail	2019061702 1800 900 604800 86400
+joins.com.	86400	IN	NS	ns.joins.com.
+ns.joins.com.	518400	IN	A	204.69.234.1
+
+joins.com.	518400	IN	A	218.145.68.187

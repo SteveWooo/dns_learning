@@ -1,0 +1,6 @@
+
+shopbop.com.	86400	IN	SOA	ns.shopbop.com.	mail	2019061702 1800 900 604800 86400
+shopbop.com.	86400	IN	NS	ns.shopbop.com.
+ns.shopbop.com.	518400	IN	A	198.100.156.181
+
+shopbop.com.	518400	IN	A	54.239.25.244

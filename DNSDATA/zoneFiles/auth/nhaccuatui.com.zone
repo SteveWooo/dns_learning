@@ -1,0 +1,6 @@
+
+nhaccuatui.com.	86400	IN	SOA	ns.nhaccuatui.com.	mail	2019061702 1800 900 604800 86400
+nhaccuatui.com.	86400	IN	NS	ns.nhaccuatui.com.
+ns.nhaccuatui.com.	518400	IN	A	205.251.195.203
+
+nhaccuatui.com.	518400	IN	A	123.30.134.68

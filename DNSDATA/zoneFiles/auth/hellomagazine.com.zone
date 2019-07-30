@@ -1,0 +1,6 @@
+
+hellomagazine.com.	86400	IN	SOA	ns.hellomagazine.com.	mail	2019061702 1800 900 604800 86400
+hellomagazine.com.	86400	IN	NS	ns.hellomagazine.com.
+ns.hellomagazine.com.	518400	IN	A	213.180.193.1
+
+hellomagazine.com.	518400	IN	A	62.22.15.85

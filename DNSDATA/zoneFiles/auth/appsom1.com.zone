@@ -1,0 +1,6 @@
+
+appsom1.com.	86400	IN	SOA	ns.appsom1.com.	mail	2019061702 1800 900 604800 86400
+appsom1.com.	86400	IN	NS	ns.appsom1.com.
+ns.appsom1.com.	518400	IN	A	2.16.130.64
+
+appsom1.com.	518400	IN	A	89.35.39.65

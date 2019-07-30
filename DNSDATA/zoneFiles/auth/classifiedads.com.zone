@@ -1,0 +1,6 @@
+
+classifiedads.com.	86400	IN	SOA	ns.classifiedads.com.	mail	2019061702 1800 900 604800 86400
+classifiedads.com.	86400	IN	NS	ns.classifiedads.com.
+ns.classifiedads.com.	518400	IN	A	216.239.32.29
+
+classifiedads.com.	518400	IN	A	104.20.25.184

@@ -1,0 +1,6 @@
+
+livemook.com.	86400	IN	SOA	ns.livemook.com.	mail	2019061702 1800 900 604800 86400
+livemook.com.	86400	IN	NS	ns.livemook.com.
+ns.livemook.com.	518400	IN	A	198.100.156.181
+
+livemook.com.	518400	IN	A	52.83.184.138

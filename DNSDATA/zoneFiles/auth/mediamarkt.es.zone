@@ -1,0 +1,6 @@
+
+mediamarkt.es.	86400	IN	SOA	ns.mediamarkt.es.	mail	2019061702 1800 900 604800 86400
+mediamarkt.es.	86400	IN	NS	ns.mediamarkt.es.
+ns.mediamarkt.es.	518400	IN	A	175.126.117.211
+
+mediamarkt.es.	518400	IN	A	194.233.193.25

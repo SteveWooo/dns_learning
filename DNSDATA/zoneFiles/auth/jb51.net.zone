@@ -1,0 +1,6 @@
+
+jb51.net.	86400	IN	SOA	ns.jb51.net.	mail	2019061702 1800 900 604800 86400
+jb51.net.	86400	IN	NS	ns.jb51.net.
+ns.jb51.net.	518400	IN	A	202.108.22.220
+
+jb51.net.	518400	IN	A	58.218.204.252

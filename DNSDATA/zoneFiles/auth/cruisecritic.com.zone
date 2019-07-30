@@ -1,0 +1,6 @@
+
+cruisecritic.com.	86400	IN	SOA	ns.cruisecritic.com.	mail	2019061702 1800 900 604800 86400
+cruisecritic.com.	86400	IN	NS	ns.cruisecritic.com.
+ns.cruisecritic.com.	518400	IN	A	204.74.108.1
+
+cruisecritic.com.	518400	IN	A	3.92.220.161

@@ -1,0 +1,6 @@
+
+zyngagames.com.	86400	IN	SOA	ns.zyngagames.com.	mail	2019061702 1800 900 604800 86400
+zyngagames.com.	86400	IN	NS	ns.zyngagames.com.
+ns.zyngagames.com.	518400	IN	A	216.239.32.106
+
+zyngagames.com.	518400	IN	A	34.209.178.89

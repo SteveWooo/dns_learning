@@ -1,0 +1,6 @@
+
+eelly.com.	86400	IN	SOA	ns.eelly.com.	mail	2019061702 1800 900 604800 86400
+eelly.com.	86400	IN	NS	ns.eelly.com.
+ns.eelly.com.	518400	IN	A	206.128.173.109
+
+eelly.com.	518400	IN	A	42.156.141.13

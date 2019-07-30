@@ -1,0 +1,6 @@
+
+webtretho.com.	86400	IN	SOA	ns.webtretho.com.	mail	2019061702 1800 900 604800 86400
+webtretho.com.	86400	IN	NS	ns.webtretho.com.
+ns.webtretho.com.	518400	IN	A	213.180.204.242
+
+webtretho.com.	518400	IN	A	123.30.128.195

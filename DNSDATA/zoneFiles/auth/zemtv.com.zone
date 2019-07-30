@@ -1,0 +1,6 @@
+
+zemtv.com.	86400	IN	SOA	ns.zemtv.com.	mail	2019061702 1800 900 604800 86400
+zemtv.com.	86400	IN	NS	ns.zemtv.com.
+ns.zemtv.com.	518400	IN	A	216.58.200.238
+
+zemtv.com.	518400	IN	A	104.31.11.170

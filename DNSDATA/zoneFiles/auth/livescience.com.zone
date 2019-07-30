@@ -1,0 +1,6 @@
+
+livescience.com.	86400	IN	SOA	ns.livescience.com.	mail	2019061702 1800 900 604800 86400
+livescience.com.	86400	IN	NS	ns.livescience.com.
+ns.livescience.com.	518400	IN	A	203.153.43.65
+
+livescience.com.	518400	IN	A	35.170.115.53

@@ -1,0 +1,6 @@
+
+tv.com.	86400	IN	SOA	ns.tv.com.	mail	2019061702 1800 900 604800 86400
+tv.com.	86400	IN	NS	ns.tv.com.
+ns.tv.com.	518400	IN	A	205.251.199.254
+
+tv.com.	518400	IN	A	23.23.89.103

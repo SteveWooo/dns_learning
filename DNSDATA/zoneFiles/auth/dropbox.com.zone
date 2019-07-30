@@ -1,0 +1,6 @@
+
+dropbox.com.	86400	IN	SOA	ns.dropbox.com.	mail	2019061702 1800 900 604800 86400
+dropbox.com.	86400	IN	NS	ns.dropbox.com.
+ns.dropbox.com.	518400	IN	A	216.239.32.10
+
+dropbox.com.	518400	IN	A	88.191.253.157

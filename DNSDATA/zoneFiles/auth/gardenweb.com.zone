@@ -1,0 +1,6 @@
+
+gardenweb.com.	86400	IN	SOA	ns.gardenweb.com.	mail	2019061702 1800 900 604800 86400
+gardenweb.com.	86400	IN	NS	ns.gardenweb.com.
+ns.gardenweb.com.	518400	IN	A	205.251.197.107
+
+gardenweb.com.	518400	IN	A	151.101.128.93

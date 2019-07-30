@@ -1,0 +1,6 @@
+
+premierleague.com.	86400	IN	SOA	ns.premierleague.com.	mail	2019061702 1800 900 604800 86400
+premierleague.com.	86400	IN	NS	ns.premierleague.com.
+ns.premierleague.com.	518400	IN	A	213.180.204.242
+
+premierleague.com.	518400	IN	A	52.3.63.183

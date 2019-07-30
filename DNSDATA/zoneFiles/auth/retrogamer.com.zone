@@ -1,0 +1,6 @@
+
+retrogamer.com.	86400	IN	SOA	ns.retrogamer.com.	mail	2019061702 1800 900 604800 86400
+retrogamer.com.	86400	IN	NS	ns.retrogamer.com.
+ns.retrogamer.com.	518400	IN	A	217.69.139.202
+
+retrogamer.com.	518400	IN	A	74.113.237.222

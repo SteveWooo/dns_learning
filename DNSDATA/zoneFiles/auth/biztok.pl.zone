@@ -1,0 +1,6 @@
+
+biztok.pl.	86400	IN	SOA	ns.biztok.pl.	mail	2019061702 1800 900 604800 86400
+biztok.pl.	86400	IN	NS	ns.biztok.pl.
+ns.biztok.pl.	518400	IN	A	213.180.204.242
+
+biztok.pl.	518400	IN	A	212.77.101.20

@@ -1,0 +1,6 @@
+
+huffingtonpost.kr.	86400	IN	SOA	ns.huffingtonpost.kr.	mail	2019061702 1800 900 604800 86400
+huffingtonpost.kr.	86400	IN	NS	ns.huffingtonpost.kr.
+ns.huffingtonpost.kr.	518400	IN	A	213.180.204.242
+
+huffingtonpost.kr.	518400	IN	A	124.108.115.103

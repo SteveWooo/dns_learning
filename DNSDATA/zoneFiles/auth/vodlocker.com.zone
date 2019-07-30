@@ -1,0 +1,6 @@
+
+vodlocker.com.	86400	IN	SOA	ns.vodlocker.com.	mail	2019061702 1800 900 604800 86400
+vodlocker.com.	86400	IN	NS	ns.vodlocker.com.
+ns.vodlocker.com.	518400	IN	A	217.69.139.202
+
+vodlocker.com.	518400	IN	A	162.255.119.39

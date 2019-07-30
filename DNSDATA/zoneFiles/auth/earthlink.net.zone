@@ -1,0 +1,6 @@
+
+earthlink.net.	86400	IN	SOA	ns.earthlink.net.	mail	2019061702 1800 900 604800 86400
+earthlink.net.	86400	IN	NS	ns.earthlink.net.
+ns.earthlink.net.	518400	IN	A	216.239.32.29
+
+earthlink.net.	518400	IN	A	23.185.0.2

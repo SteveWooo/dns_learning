@@ -1,0 +1,6 @@
+
+gottabemobile.com.	86400	IN	SOA	ns.gottabemobile.com.	mail	2019061702 1800 900 604800 86400
+gottabemobile.com.	86400	IN	NS	ns.gottabemobile.com.
+ns.gottabemobile.com.	518400	IN	A	193.232.156.17
+
+gottabemobile.com.	518400	IN	A	104.20.78.102

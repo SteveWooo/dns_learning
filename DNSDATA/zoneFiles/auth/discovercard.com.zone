@@ -1,0 +1,6 @@
+
+discovercard.com.	86400	IN	SOA	ns.discovercard.com.	mail	2019061702 1800 900 604800 86400
+discovercard.com.	86400	IN	NS	ns.discovercard.com.
+ns.discovercard.com.	518400	IN	A	216.239.32.29
+
+discovercard.com.	518400	IN	A	23.222.168.55

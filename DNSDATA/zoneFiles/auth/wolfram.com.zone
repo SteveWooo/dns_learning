@@ -1,0 +1,6 @@
+
+wolfram.com.	86400	IN	SOA	ns.wolfram.com.	mail	2019061702 1800 900 604800 86400
+wolfram.com.	86400	IN	NS	ns.wolfram.com.
+ns.wolfram.com.	518400	IN	A	173.245.59.130
+
+wolfram.com.	518400	IN	A	140.177.205.134

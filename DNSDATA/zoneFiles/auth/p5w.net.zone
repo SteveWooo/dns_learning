@@ -1,0 +1,6 @@
+
+p5w.net.	86400	IN	SOA	ns.p5w.net.	mail	2019061702 1800 900 604800 86400
+p5w.net.	86400	IN	NS	ns.p5w.net.
+ns.p5w.net.	518400	IN	A	165.160.15.20
+
+p5w.net.	518400	IN	A	120.25.129.90

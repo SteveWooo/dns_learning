@@ -1,0 +1,6 @@
+
+asahi.com.	86400	IN	SOA	ns.asahi.com.	mail	2019061702 1800 900 604800 86400
+asahi.com.	86400	IN	NS	ns.asahi.com.
+ns.asahi.com.	518400	IN	A	145.14.134.108
+
+asahi.com.	518400	IN	A	104.78.58.27

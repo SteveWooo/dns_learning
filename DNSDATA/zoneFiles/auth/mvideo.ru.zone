@@ -1,0 +1,6 @@
+
+mvideo.ru.	86400	IN	SOA	ns.mvideo.ru.	mail	2019061702 1800 900 604800 86400
+mvideo.ru.	86400	IN	NS	ns.mvideo.ru.
+ns.mvideo.ru.	518400	IN	A	216.239.32.29
+
+mvideo.ru.	518400	IN	A	91.220.181.5

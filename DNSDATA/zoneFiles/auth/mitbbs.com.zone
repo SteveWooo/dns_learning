@@ -1,0 +1,6 @@
+
+mitbbs.com.	86400	IN	SOA	ns.mitbbs.com.	mail	2019061702 1800 900 604800 86400
+mitbbs.com.	86400	IN	NS	ns.mitbbs.com.
+ns.mitbbs.com.	518400	IN	A	81.19.73.180
+
+mitbbs.com.	518400	IN	A	31.13.79.1

@@ -1,0 +1,6 @@
+
+serialssolutions.com.	86400	IN	SOA	ns.serialssolutions.com.	mail	2019061702 1800 900 604800 86400
+serialssolutions.com.	86400	IN	NS	ns.serialssolutions.com.
+ns.serialssolutions.com.	518400	IN	A	208.78.70.47
+
+serialssolutions.com.	518400	IN	A	52.44.42.61

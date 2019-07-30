@@ -1,0 +1,6 @@
+
+meituan.com.	86400	IN	SOA	ns.meituan.com.	mail	2019061702 1800 900 604800 86400
+meituan.com.	86400	IN	NS	ns.meituan.com.
+ns.meituan.com.	518400	IN	A	213.180.204.242
+
+meituan.com.	518400	IN	A	162.14.3.226

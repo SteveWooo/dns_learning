@@ -1,0 +1,6 @@
+
+comingsoon.net.	86400	IN	SOA	ns.comingsoon.net.	mail	2019061702 1800 900 604800 86400
+comingsoon.net.	86400	IN	NS	ns.comingsoon.net.
+ns.comingsoon.net.	518400	IN	A	216.58.200.238
+
+comingsoon.net.	518400	IN	A	97.64.84.172

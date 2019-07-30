@@ -1,0 +1,6 @@
+
+webmd.com.	86400	IN	SOA	ns.webmd.com.	mail	2019061702 1800 900 604800 86400
+webmd.com.	86400	IN	NS	ns.webmd.com.
+ns.webmd.com.	518400	IN	A	216.239.32.10
+
+webmd.com.	518400	IN	A	207.231.204.56

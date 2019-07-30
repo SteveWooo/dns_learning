@@ -1,0 +1,6 @@
+
+zhanqi.tv.	86400	IN	SOA	ns.zhanqi.tv.	mail	2019061702 1800 900 604800 86400
+zhanqi.tv.	86400	IN	NS	ns.zhanqi.tv.
+ns.zhanqi.tv.	518400	IN	A	217.69.139.112
+
+zhanqi.tv.	518400	IN	A	182.92.104.151

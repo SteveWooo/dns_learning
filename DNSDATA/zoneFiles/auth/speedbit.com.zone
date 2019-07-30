@@ -1,0 +1,6 @@
+
+speedbit.com.	86400	IN	SOA	ns.speedbit.com.	mail	2019061702 1800 900 604800 86400
+speedbit.com.	86400	IN	NS	ns.speedbit.com.
+ns.speedbit.com.	518400	IN	A	206.128.173.109
+
+speedbit.com.	518400	IN	A	173.239.4.63

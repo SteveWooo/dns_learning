@@ -1,0 +1,6 @@
+
+xbniao.com.	86400	IN	SOA	ns.xbniao.com.	mail	2019061702 1800 900 604800 86400
+xbniao.com.	86400	IN	NS	ns.xbniao.com.
+ns.xbniao.com.	518400	IN	A	112.133.230.192
+
+xbniao.com.	518400	IN	A	124.251.53.106

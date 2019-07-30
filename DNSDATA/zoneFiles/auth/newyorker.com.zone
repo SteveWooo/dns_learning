@@ -1,0 +1,6 @@
+
+newyorker.com.	86400	IN	SOA	ns.newyorker.com.	mail	2019061702 1800 900 604800 86400
+newyorker.com.	86400	IN	NS	ns.newyorker.com.
+ns.newyorker.com.	518400	IN	A	193.232.142.17
+
+newyorker.com.	518400	IN	A	151.101.0.239

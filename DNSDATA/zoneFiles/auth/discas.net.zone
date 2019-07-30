@@ -1,0 +1,6 @@
+
+discas.net.	86400	IN	SOA	ns.discas.net.	mail	2019061702 1800 900 604800 86400
+discas.net.	86400	IN	NS	ns.discas.net.
+ns.discas.net.	518400	IN	A	216.239.32.106
+
+discas.net.	518400	IN	A	61.213.172.34

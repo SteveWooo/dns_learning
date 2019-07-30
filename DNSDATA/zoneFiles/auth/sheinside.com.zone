@@ -1,0 +1,6 @@
+
+sheinside.com.	86400	IN	SOA	ns.sheinside.com.	mail	2019061702 1800 900 604800 86400
+sheinside.com.	86400	IN	NS	ns.sheinside.com.
+ns.sheinside.com.	518400	IN	A	198.11.138.249
+
+sheinside.com.	518400	IN	A	216.146.46.10

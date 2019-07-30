@@ -1,0 +1,6 @@
+
+92lux.cn.	86400	IN	SOA	ns.92lux.cn.	mail	2019061702 1800 900 604800 86400
+92lux.cn.	86400	IN	NS	ns.92lux.cn.
+ns.92lux.cn.	518400	IN	A	205.251.199.254
+
+92lux.cn.	518400	IN	A	121.41.231.58

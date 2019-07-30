@@ -1,0 +1,6 @@
+
+it168.com.	86400	IN	SOA	ns.it168.com.	mail	2019061702 1800 900 604800 86400
+it168.com.	86400	IN	NS	ns.it168.com.
+ns.it168.com.	518400	IN	A	205.251.194.1
+
+it168.com.	518400	IN	A	58.68.150.68

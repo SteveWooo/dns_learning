@@ -1,0 +1,6 @@
+
+tcafex.com.	86400	IN	SOA	ns.tcafex.com.	mail	2019061702 1800 900 604800 86400
+tcafex.com.	86400	IN	NS	ns.tcafex.com.
+ns.tcafex.com.	518400	IN	A	216.58.200.238
+
+tcafex.com.	518400	IN	A	67.227.226.241

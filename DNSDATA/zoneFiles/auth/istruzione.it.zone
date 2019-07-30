@@ -1,0 +1,6 @@
+
+istruzione.it.	86400	IN	SOA	ns.istruzione.it.	mail	2019061702 1800 900 604800 86400
+istruzione.it.	86400	IN	NS	ns.istruzione.it.
+ns.istruzione.it.	518400	IN	A	204.69.234.1
+
+istruzione.it.	518400	IN	A	89.97.132.230

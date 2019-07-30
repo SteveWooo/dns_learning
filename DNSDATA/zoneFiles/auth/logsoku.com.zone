@@ -1,0 +1,6 @@
+
+logsoku.com.	86400	IN	SOA	ns.logsoku.com.	mail	2019061702 1800 900 604800 86400
+logsoku.com.	86400	IN	NS	ns.logsoku.com.
+ns.logsoku.com.	518400	IN	A	216.58.200.238
+
+logsoku.com.	518400	IN	A	122.222.158.136

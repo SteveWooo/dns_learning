@@ -1,0 +1,6 @@
+
+junglee.com.	86400	IN	SOA	ns.junglee.com.	mail	2019061702 1800 900 604800 86400
+junglee.com.	86400	IN	NS	ns.junglee.com.
+ns.junglee.com.	518400	IN	A	217.69.139.202
+
+junglee.com.	518400	IN	A	178.236.4.113

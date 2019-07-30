@@ -1,0 +1,6 @@
+
+damn.com.	86400	IN	SOA	ns.damn.com.	mail	2019061702 1800 900 604800 86400
+damn.com.	86400	IN	NS	ns.damn.com.
+ns.damn.com.	518400	IN	A	216.58.200.238
+
+damn.com.	518400	IN	A	96.45.83.61

@@ -1,0 +1,6 @@
+
+haber7.com.	86400	IN	SOA	ns.haber7.com.	mail	2019061702 1800 900 604800 86400
+haber7.com.	86400	IN	NS	ns.haber7.com.
+ns.haber7.com.	518400	IN	A	217.69.139.202
+
+haber7.com.	518400	IN	A	185.195.230.7

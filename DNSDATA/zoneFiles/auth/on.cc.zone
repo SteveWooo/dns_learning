@@ -1,0 +1,6 @@
+
+on.cc.	86400	IN	SOA	ns.on.cc.	mail	2019061702 1800 900 604800 86400
+on.cc.	86400	IN	NS	ns.on.cc.
+ns.on.cc.	518400	IN	A	216.239.32.106
+
+on.cc.	518400	IN	A	104.16.137.235

@@ -1,0 +1,6 @@
+
+hackforums.net.	86400	IN	SOA	ns.hackforums.net.	mail	2019061702 1800 900 604800 86400
+hackforums.net.	86400	IN	NS	ns.hackforums.net.
+ns.hackforums.net.	518400	IN	A	83.143.25.220
+
+hackforums.net.	518400	IN	A	104.23.135.19

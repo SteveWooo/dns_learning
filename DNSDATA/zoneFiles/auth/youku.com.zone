@@ -1,0 +1,6 @@
+
+youku.com.	86400	IN	SOA	ns.youku.com.	mail	2019061702 1800 900 604800 86400
+youku.com.	86400	IN	NS	ns.youku.com.
+ns.youku.com.	518400	IN	A	205.251.197.107
+
+youku.com.	518400	IN	A	106.11.186.1

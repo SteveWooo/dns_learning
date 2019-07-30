@@ -1,0 +1,6 @@
+
+umd.edu.	86400	IN	SOA	ns.umd.edu.	mail	2019061702 1800 900 604800 86400
+umd.edu.	86400	IN	NS	ns.umd.edu.
+ns.umd.edu.	518400	IN	A	213.180.204.242
+
+umd.edu.	518400	IN	A	99.84.216.45

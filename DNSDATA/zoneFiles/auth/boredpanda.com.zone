@@ -1,0 +1,6 @@
+
+boredpanda.com.	86400	IN	SOA	ns.boredpanda.com.	mail	2019061702 1800 900 604800 86400
+boredpanda.com.	86400	IN	NS	ns.boredpanda.com.
+ns.boredpanda.com.	518400	IN	A	216.239.32.29
+
+boredpanda.com.	518400	IN	A	34.195.149.54

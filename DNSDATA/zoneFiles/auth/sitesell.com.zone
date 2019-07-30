@@ -1,0 +1,6 @@
+
+sitesell.com.	86400	IN	SOA	ns.sitesell.com.	mail	2019061702 1800 900 604800 86400
+sitesell.com.	86400	IN	NS	ns.sitesell.com.
+ns.sitesell.com.	518400	IN	A	216.239.32.106
+
+sitesell.com.	518400	IN	A	173.247.220.130

@@ -1,0 +1,6 @@
+
+origin.com.	86400	IN	SOA	ns.origin.com.	mail	2019061702 1800 900 604800 86400
+origin.com.	86400	IN	NS	ns.origin.com.
+ns.origin.com.	518400	IN	A	205.251.195.203
+
+origin.com.	518400	IN	A	72.247.173.151

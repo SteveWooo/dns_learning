@@ -1,0 +1,6 @@
+
+inwi.ma.	86400	IN	SOA	ns.inwi.ma.	mail	2019061702 1800 900 604800 86400
+inwi.ma.	86400	IN	NS	ns.inwi.ma.
+ns.inwi.ma.	518400	IN	A	216.58.200.238
+
+inwi.ma.	518400	IN	A	105.73.1.27

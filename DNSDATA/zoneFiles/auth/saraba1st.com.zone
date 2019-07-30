@@ -1,0 +1,6 @@
+
+saraba1st.com.	86400	IN	SOA	ns.saraba1st.com.	mail	2019061702 1800 900 604800 86400
+saraba1st.com.	86400	IN	NS	ns.saraba1st.com.
+ns.saraba1st.com.	518400	IN	A	173.245.59.160
+
+saraba1st.com.	518400	IN	A	118.31.65.90

@@ -1,0 +1,6 @@
+
+acrobat.com.	86400	IN	SOA	ns.acrobat.com.	mail	2019061702 1800 900 604800 86400
+acrobat.com.	86400	IN	NS	ns.acrobat.com.
+ns.acrobat.com.	518400	IN	A	216.239.32.10
+
+acrobat.com.	518400	IN	A	35.173.37.240

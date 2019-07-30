@@ -1,0 +1,6 @@
+
+scoop.it.	86400	IN	SOA	ns.scoop.it.	mail	2019061702 1800 900 604800 86400
+scoop.it.	86400	IN	NS	ns.scoop.it.
+ns.scoop.it.	518400	IN	A	77.88.55.50
+
+scoop.it.	518400	IN	A	185.94.140.20

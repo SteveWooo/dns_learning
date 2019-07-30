@@ -1,0 +1,6 @@
+
+wikitravel.org.	86400	IN	SOA	ns.wikitravel.org.	mail	2019061702 1800 900 604800 86400
+wikitravel.org.	86400	IN	NS	ns.wikitravel.org.
+ns.wikitravel.org.	518400	IN	A	58.180.27.231
+
+wikitravel.org.	518400	IN	A	104.28.1.243

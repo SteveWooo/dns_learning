@@ -1,0 +1,6 @@
+
+beget.ru.	86400	IN	SOA	ns.beget.ru.	mail	2019061702 1800 900 604800 86400
+beget.ru.	86400	IN	NS	ns.beget.ru.
+ns.beget.ru.	518400	IN	A	198.11.138.245
+
+beget.ru.	518400	IN	A	5.101.158.167

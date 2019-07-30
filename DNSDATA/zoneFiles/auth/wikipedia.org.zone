@@ -1,0 +1,6 @@
+
+wikipedia.org.	86400	IN	SOA	ns.wikipedia.org.	mail	2019061702 1800 900 604800 86400
+wikipedia.org.	86400	IN	NS	ns.wikipedia.org.
+ns.wikipedia.org.	518400	IN	A	187.18.60.242
+
+wikipedia.org.	518400	IN	A	69.171.235.64

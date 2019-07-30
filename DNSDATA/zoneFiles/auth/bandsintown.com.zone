@@ -1,0 +1,6 @@
+
+bandsintown.com.	86400	IN	SOA	ns.bandsintown.com.	mail	2019061702 1800 900 604800 86400
+bandsintown.com.	86400	IN	NS	ns.bandsintown.com.
+ns.bandsintown.com.	518400	IN	A	173.245.59.160
+
+bandsintown.com.	518400	IN	A	52.72.138.185

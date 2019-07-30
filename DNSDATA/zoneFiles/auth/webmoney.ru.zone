@@ -1,0 +1,6 @@
+
+webmoney.ru.	86400	IN	SOA	ns.webmoney.ru.	mail	2019061702 1800 900 604800 86400
+webmoney.ru.	86400	IN	NS	ns.webmoney.ru.
+ns.webmoney.ru.	518400	IN	A	145.14.134.108
+
+webmoney.ru.	518400	IN	A	151.80.149.182

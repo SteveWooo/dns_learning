@@ -1,0 +1,6 @@
+
+bama.ir.	86400	IN	SOA	ns.bama.ir.	mail	2019061702 1800 900 604800 86400
+bama.ir.	86400	IN	NS	ns.bama.ir.
+ns.bama.ir.	518400	IN	A	217.69.139.112
+
+bama.ir.	518400	IN	A	185.143.232.5

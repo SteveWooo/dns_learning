@@ -1,0 +1,6 @@
+
+backlinkwatch.com.	86400	IN	SOA	ns.backlinkwatch.com.	mail	2019061702 1800 900 604800 86400
+backlinkwatch.com.	86400	IN	NS	ns.backlinkwatch.com.
+ns.backlinkwatch.com.	518400	IN	A	200.221.11.98
+
+backlinkwatch.com.	518400	IN	A	142.4.24.189

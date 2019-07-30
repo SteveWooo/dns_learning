@@ -1,0 +1,6 @@
+
+rantlifestyle.com.	86400	IN	SOA	ns.rantlifestyle.com.	mail	2019061702 1800 900 604800 86400
+rantlifestyle.com.	86400	IN	NS	ns.rantlifestyle.com.
+ns.rantlifestyle.com.	518400	IN	A	217.69.139.202
+
+rantlifestyle.com.	518400	IN	A	34.200.52.13

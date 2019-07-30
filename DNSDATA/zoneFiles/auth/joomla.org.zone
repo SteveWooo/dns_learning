@@ -1,0 +1,6 @@
+
+joomla.org.	86400	IN	SOA	ns.joomla.org.	mail	2019061702 1800 900 604800 86400
+joomla.org.	86400	IN	NS	ns.joomla.org.
+ns.joomla.org.	518400	IN	A	216.239.32.106
+
+joomla.org.	518400	IN	A	107.154.146.133

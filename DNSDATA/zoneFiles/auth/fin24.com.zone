@@ -1,0 +1,6 @@
+
+fin24.com.	86400	IN	SOA	ns.fin24.com.	mail	2019061702 1800 900 604800 86400
+fin24.com.	86400	IN	NS	ns.fin24.com.
+ns.fin24.com.	518400	IN	A	203.153.43.65
+
+fin24.com.	518400	IN	A	104.16.134.33

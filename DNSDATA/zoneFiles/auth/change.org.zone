@@ -1,0 +1,6 @@
+
+change.org.	86400	IN	SOA	ns.change.org.	mail	2019061702 1800 900 604800 86400
+change.org.	86400	IN	NS	ns.change.org.
+ns.change.org.	518400	IN	A	202.56.230.5
+
+change.org.	518400	IN	A	74.86.118.24

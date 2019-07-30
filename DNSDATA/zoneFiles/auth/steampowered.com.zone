@@ -1,0 +1,6 @@
+
+steampowered.com.	86400	IN	SOA	ns.steampowered.com.	mail	2019061702 1800 900 604800 86400
+steampowered.com.	86400	IN	NS	ns.steampowered.com.
+ns.steampowered.com.	518400	IN	A	200.201.161.22
+
+steampowered.com.	518400	IN	A	104.82.226.167

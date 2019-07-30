@@ -1,0 +1,6 @@
+
+narod.ru.	86400	IN	SOA	ns.narod.ru.	mail	2019061702 1800 900 604800 86400
+narod.ru.	86400	IN	NS	ns.narod.ru.
+ns.narod.ru.	518400	IN	A	216.58.200.238
+
+narod.ru.	518400	IN	A	195.216.243.246

@@ -1,0 +1,6 @@
+
+goo.gl.	86400	IN	SOA	ns.goo.gl.	mail	2019061702 1800 900 604800 86400
+goo.gl.	86400	IN	NS	ns.goo.gl.
+ns.goo.gl.	518400	IN	A	205.251.199.254
+
+goo.gl.	518400	IN	A	172.217.29.142

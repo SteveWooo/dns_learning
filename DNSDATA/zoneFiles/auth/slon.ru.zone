@@ -1,0 +1,6 @@
+
+slon.ru.	86400	IN	SOA	ns.slon.ru.	mail	2019061702 1800 900 604800 86400
+slon.ru.	86400	IN	NS	ns.slon.ru.
+ns.slon.ru.	518400	IN	A	213.180.204.242
+
+slon.ru.	518400	IN	A	82.202.255.34

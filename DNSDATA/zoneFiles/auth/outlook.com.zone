@@ -1,0 +1,6 @@
+
+outlook.com.	86400	IN	SOA	ns.outlook.com.	mail	2019061702 1800 900 604800 86400
+outlook.com.	86400	IN	NS	ns.outlook.com.
+ns.outlook.com.	518400	IN	A	204.69.234.1
+
+outlook.com.	518400	IN	A	40.97.116.82

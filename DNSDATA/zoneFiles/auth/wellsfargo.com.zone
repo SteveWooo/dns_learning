@@ -1,0 +1,6 @@
+
+wellsfargo.com.	86400	IN	SOA	ns.wellsfargo.com.	mail	2019061702 1800 900 604800 86400
+wellsfargo.com.	86400	IN	NS	ns.wellsfargo.com.
+ns.wellsfargo.com.	518400	IN	A	173.245.59.115
+
+wellsfargo.com.	518400	IN	A	159.45.170.143

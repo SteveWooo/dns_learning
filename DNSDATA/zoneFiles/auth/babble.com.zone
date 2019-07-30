@@ -1,0 +1,6 @@
+
+babble.com.	86400	IN	SOA	ns.babble.com.	mail	2019061702 1800 900 604800 86400
+babble.com.	86400	IN	NS	ns.babble.com.
+ns.babble.com.	518400	IN	A	200.221.11.98
+
+babble.com.	518400	IN	A	96.17.150.73

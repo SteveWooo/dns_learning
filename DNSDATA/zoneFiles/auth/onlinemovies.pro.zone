@@ -1,0 +1,6 @@
+
+onlinemovies.pro.	86400	IN	SOA	ns.onlinemovies.pro.	mail	2019061702 1800 900 604800 86400
+onlinemovies.pro.	86400	IN	NS	ns.onlinemovies.pro.
+ns.onlinemovies.pro.	518400	IN	A	173.245.58.100
+
+onlinemovies.pro.	518400	IN	A	199.59.242.151

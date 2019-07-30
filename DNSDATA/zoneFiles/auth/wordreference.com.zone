@@ -1,0 +1,6 @@
+
+wordreference.com.	86400	IN	SOA	ns.wordreference.com.	mail	2019061702 1800 900 604800 86400
+wordreference.com.	86400	IN	NS	ns.wordreference.com.
+ns.wordreference.com.	518400	IN	A	216.239.32.29
+
+wordreference.com.	518400	IN	A	64.251.30.31

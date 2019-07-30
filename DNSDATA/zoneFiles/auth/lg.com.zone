@@ -1,0 +1,6 @@
+
+lg.com.	86400	IN	SOA	ns.lg.com.	mail	2019061702 1800 900 604800 86400
+lg.com.	86400	IN	NS	ns.lg.com.
+ns.lg.com.	518400	IN	A	202.108.22.220
+
+lg.com.	518400	IN	A	165.244.62.23

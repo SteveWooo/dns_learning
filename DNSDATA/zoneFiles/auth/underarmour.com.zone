@@ -1,0 +1,6 @@
+
+underarmour.com.	86400	IN	SOA	ns.underarmour.com.	mail	2019061702 1800 900 604800 86400
+underarmour.com.	86400	IN	NS	ns.underarmour.com.
+ns.underarmour.com.	518400	IN	A	145.14.134.108
+
+underarmour.com.	518400	IN	A	13.249.44.97

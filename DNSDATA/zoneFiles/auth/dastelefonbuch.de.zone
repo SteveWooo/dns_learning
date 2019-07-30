@@ -1,0 +1,6 @@
+
+dastelefonbuch.de.	86400	IN	SOA	ns.dastelefonbuch.de.	mail	2019061702 1800 900 604800 86400
+dastelefonbuch.de.	86400	IN	NS	ns.dastelefonbuch.de.
+ns.dastelefonbuch.de.	518400	IN	A	205.251.192.29
+
+dastelefonbuch.de.	518400	IN	A	86.109.249.6

@@ -1,0 +1,6 @@
+
+citehr.com.	86400	IN	SOA	ns.citehr.com.	mail	2019061702 1800 900 604800 86400
+citehr.com.	86400	IN	NS	ns.citehr.com.
+ns.citehr.com.	518400	IN	A	217.69.139.202
+
+citehr.com.	518400	IN	A	67.225.200.41

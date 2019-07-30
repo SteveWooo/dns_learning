@@ -1,0 +1,6 @@
+
+couponcouponcoupon.club.	86400	IN	SOA	ns.couponcouponcoupon.club.	mail	2019061702 1800 900 604800 86400
+couponcouponcoupon.club.	86400	IN	NS	ns.couponcouponcoupon.club.
+ns.couponcouponcoupon.club.	518400	IN	A	205.251.199.254
+
+couponcouponcoupon.club.	518400	IN	A	198.54.117.200

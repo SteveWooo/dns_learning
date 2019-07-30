@@ -1,0 +1,6 @@
+
+all2lnk.com.	86400	IN	SOA	ns.all2lnk.com.	mail	2019061702 1800 900 604800 86400
+all2lnk.com.	86400	IN	NS	ns.all2lnk.com.
+ns.all2lnk.com.	518400	IN	A	174.35.55.22
+
+all2lnk.com.	518400	IN	A	103.224.212.222

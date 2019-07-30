@@ -1,0 +1,6 @@
+
+k7x.com.	86400	IN	SOA	ns.k7x.com.	mail	2019061702 1800 900 604800 86400
+k7x.com.	86400	IN	NS	ns.k7x.com.
+ns.k7x.com.	518400	IN	A	200.221.11.98
+
+k7x.com.	518400	IN	A	23.246.244.217

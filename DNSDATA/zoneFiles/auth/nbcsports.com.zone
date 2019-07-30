@@ -1,0 +1,6 @@
+
+nbcsports.com.	86400	IN	SOA	ns.nbcsports.com.	mail	2019061702 1800 900 604800 86400
+nbcsports.com.	86400	IN	NS	ns.nbcsports.com.
+ns.nbcsports.com.	518400	IN	A	202.56.230.5
+
+nbcsports.com.	518400	IN	A	54.204.5.8

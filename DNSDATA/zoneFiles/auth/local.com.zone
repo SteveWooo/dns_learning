@@ -1,0 +1,6 @@
+
+local.com.	86400	IN	SOA	ns.local.com.	mail	2019061702 1800 900 604800 86400
+local.com.	86400	IN	NS	ns.local.com.
+ns.local.com.	518400	IN	A	202.108.22.220
+
+local.com.	518400	IN	A	199.191.50.236

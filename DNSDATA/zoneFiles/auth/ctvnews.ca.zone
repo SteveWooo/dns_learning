@@ -1,0 +1,6 @@
+
+ctvnews.ca.	86400	IN	SOA	ns.ctvnews.ca.	mail	2019061702 1800 900 604800 86400
+ctvnews.ca.	86400	IN	NS	ns.ctvnews.ca.
+ns.ctvnews.ca.	518400	IN	A	198.100.156.181
+
+ctvnews.ca.	518400	IN	A	199.85.71.129

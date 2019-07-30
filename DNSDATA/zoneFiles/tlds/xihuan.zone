@@ -1,0 +1,4 @@
+
+xihuan.	86400	IN	SOA	ns.xihuan.	mail	2019061702 1800 900 604800 86400
+xihuan.	86400	IN	NS	ns.xihuan.
+ns.xihuan.	518400	IN	A	103.61.63.1

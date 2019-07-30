@@ -1,0 +1,6 @@
+
+readthedocs.org.	86400	IN	SOA	ns.readthedocs.org.	mail	2019061702 1800 900 604800 86400
+readthedocs.org.	86400	IN	NS	ns.readthedocs.org.
+ns.readthedocs.org.	518400	IN	A	173.245.59.100
+
+readthedocs.org.	518400	IN	A	23.100.69.251

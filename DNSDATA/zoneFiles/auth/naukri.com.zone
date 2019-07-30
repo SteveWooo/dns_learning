@@ -1,0 +1,6 @@
+
+naukri.com.	86400	IN	SOA	ns.naukri.com.	mail	2019061702 1800 900 604800 86400
+naukri.com.	86400	IN	NS	ns.naukri.com.
+ns.naukri.com.	518400	IN	A	173.245.58.138
+
+naukri.com.	518400	IN	A	54.251.99.37

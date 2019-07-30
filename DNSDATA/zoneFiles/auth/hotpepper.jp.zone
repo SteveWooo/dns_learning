@@ -1,0 +1,6 @@
+
+hotpepper.jp.	86400	IN	SOA	ns.hotpepper.jp.	mail	2019061702 1800 900 604800 86400
+hotpepper.jp.	86400	IN	NS	ns.hotpepper.jp.
+ns.hotpepper.jp.	518400	IN	A	206.128.173.109
+
+hotpepper.jp.	518400	IN	A	160.17.98.198

@@ -1,0 +1,6 @@
+
+viralnova.com.	86400	IN	SOA	ns.viralnova.com.	mail	2019061702 1800 900 604800 86400
+viralnova.com.	86400	IN	NS	ns.viralnova.com.
+ns.viralnova.com.	518400	IN	A	202.108.22.220
+
+viralnova.com.	518400	IN	A	104.27.162.9

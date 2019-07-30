@@ -1,0 +1,6 @@
+
+pcanalysis.net.	86400	IN	SOA	ns.pcanalysis.net.	mail	2019061702 1800 900 604800 86400
+pcanalysis.net.	86400	IN	NS	ns.pcanalysis.net.
+ns.pcanalysis.net.	518400	IN	A	216.239.32.10
+
+pcanalysis.net.	518400	IN	A	162.222.213.198

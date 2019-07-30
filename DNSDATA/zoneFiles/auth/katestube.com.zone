@@ -1,0 +1,6 @@
+
+katestube.com.	86400	IN	SOA	ns.katestube.com.	mail	2019061702 1800 900 604800 86400
+katestube.com.	86400	IN	NS	ns.katestube.com.
+ns.katestube.com.	518400	IN	A	216.239.32.10
+
+katestube.com.	518400	IN	A	68.169.100.102

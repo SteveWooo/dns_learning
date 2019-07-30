@@ -1,0 +1,6 @@
+
+ink361.com.	86400	IN	SOA	ns.ink361.com.	mail	2019061702 1800 900 604800 86400
+ink361.com.	86400	IN	NS	ns.ink361.com.
+ns.ink361.com.	518400	IN	A	198.100.156.181
+
+ink361.com.	518400	IN	A	13.249.87.98

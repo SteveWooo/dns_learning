@@ -1,0 +1,6 @@
+
+plex.tv.	86400	IN	SOA	ns.plex.tv.	mail	2019061702 1800 900 604800 86400
+plex.tv.	86400	IN	NS	ns.plex.tv.
+ns.plex.tv.	518400	IN	A	216.239.32.106
+
+plex.tv.	518400	IN	A	99.81.213.165

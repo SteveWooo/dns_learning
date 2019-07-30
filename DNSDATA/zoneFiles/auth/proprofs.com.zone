@@ -1,0 +1,6 @@
+
+proprofs.com.	86400	IN	SOA	ns.proprofs.com.	mail	2019061702 1800 900 604800 86400
+proprofs.com.	86400	IN	NS	ns.proprofs.com.
+ns.proprofs.com.	518400	IN	A	213.180.204.242
+
+proprofs.com.	518400	IN	A	104.25.214.6

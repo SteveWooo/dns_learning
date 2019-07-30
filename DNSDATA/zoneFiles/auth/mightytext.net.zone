@@ -1,0 +1,6 @@
+
+mightytext.net.	86400	IN	SOA	ns.mightytext.net.	mail	2019061702 1800 900 604800 86400
+mightytext.net.	86400	IN	NS	ns.mightytext.net.
+ns.mightytext.net.	518400	IN	A	216.239.32.106
+
+mightytext.net.	518400	IN	A	104.20.47.166

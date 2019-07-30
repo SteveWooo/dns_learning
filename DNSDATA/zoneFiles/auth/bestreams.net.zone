@@ -1,0 +1,6 @@
+
+bestreams.net.	86400	IN	SOA	ns.bestreams.net.	mail	2019061702 1800 900 604800 86400
+bestreams.net.	86400	IN	NS	ns.bestreams.net.
+ns.bestreams.net.	518400	IN	A	173.245.58.138
+
+bestreams.net.	518400	IN	A	54.72.130.67

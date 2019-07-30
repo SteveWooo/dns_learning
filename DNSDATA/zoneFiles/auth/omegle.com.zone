@@ -1,0 +1,6 @@
+
+omegle.com.	86400	IN	SOA	ns.omegle.com.	mail	2019061702 1800 900 604800 86400
+omegle.com.	86400	IN	NS	ns.omegle.com.
+ns.omegle.com.	518400	IN	A	216.239.32.29
+
+omegle.com.	518400	IN	A	185.228.168.254

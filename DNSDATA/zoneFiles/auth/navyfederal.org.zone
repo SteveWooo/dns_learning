@@ -1,0 +1,6 @@
+
+navyfederal.org.	86400	IN	SOA	ns.navyfederal.org.	mail	2019061702 1800 900 604800 86400
+navyfederal.org.	86400	IN	NS	ns.navyfederal.org.
+ns.navyfederal.org.	518400	IN	A	217.69.139.202
+
+navyfederal.org.	518400	IN	A	104.84.184.82

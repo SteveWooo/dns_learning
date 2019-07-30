@@ -1,0 +1,6 @@
+
+lloydsbank.com.	86400	IN	SOA	ns.lloydsbank.com.	mail	2019061702 1800 900 604800 86400
+lloydsbank.com.	86400	IN	NS	ns.lloydsbank.com.
+ns.lloydsbank.com.	518400	IN	A	204.74.108.1
+
+lloydsbank.com.	518400	IN	A	51.140.180.76

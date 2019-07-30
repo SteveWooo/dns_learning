@@ -1,0 +1,6 @@
+
+bakeca.it.	86400	IN	SOA	ns.bakeca.it.	mail	2019061702 1800 900 604800 86400
+bakeca.it.	86400	IN	NS	ns.bakeca.it.
+ns.bakeca.it.	518400	IN	A	64.106.209.186
+
+bakeca.it.	518400	IN	A	213.212.129.99

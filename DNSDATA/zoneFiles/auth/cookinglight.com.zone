@@ -1,0 +1,6 @@
+
+cookinglight.com.	86400	IN	SOA	ns.cookinglight.com.	mail	2019061702 1800 900 604800 86400
+cookinglight.com.	86400	IN	NS	ns.cookinglight.com.
+ns.cookinglight.com.	518400	IN	A	213.180.204.242
+
+cookinglight.com.	518400	IN	A	216.146.46.10

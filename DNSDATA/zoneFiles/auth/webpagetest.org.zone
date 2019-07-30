@@ -1,0 +1,6 @@
+
+webpagetest.org.	86400	IN	SOA	ns.webpagetest.org.	mail	2019061702 1800 900 604800 86400
+webpagetest.org.	86400	IN	NS	ns.webpagetest.org.
+ns.webpagetest.org.	518400	IN	A	202.56.230.5
+
+webpagetest.org.	518400	IN	A	71.114.67.62

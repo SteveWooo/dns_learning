@@ -1,0 +1,6 @@
+
+smzdm.com.	86400	IN	SOA	ns.smzdm.com.	mail	2019061702 1800 900 604800 86400
+smzdm.com.	86400	IN	NS	ns.smzdm.com.
+ns.smzdm.com.	518400	IN	A	216.239.32.29
+
+smzdm.com.	518400	IN	A	117.50.14.128

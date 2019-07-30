@@ -1,0 +1,6 @@
+
+reduxmediia.com.	86400	IN	SOA	ns.reduxmediia.com.	mail	2019061702 1800 900 604800 86400
+reduxmediia.com.	86400	IN	NS	ns.reduxmediia.com.
+ns.reduxmediia.com.	518400	IN	A	200.221.11.98
+
+reduxmediia.com.	518400	IN	A	78.140.181.169

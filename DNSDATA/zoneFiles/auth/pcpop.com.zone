@@ -1,0 +1,6 @@
+
+pcpop.com.	86400	IN	SOA	ns.pcpop.com.	mail	2019061702 1800 900 604800 86400
+pcpop.com.	86400	IN	NS	ns.pcpop.com.
+ns.pcpop.com.	518400	IN	A	81.19.82.2
+
+pcpop.com.	518400	IN	A	58.68.150.68

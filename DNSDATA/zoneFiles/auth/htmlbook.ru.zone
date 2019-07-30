@@ -1,0 +1,6 @@
+
+htmlbook.ru.	86400	IN	SOA	ns.htmlbook.ru.	mail	2019061702 1800 900 604800 86400
+htmlbook.ru.	86400	IN	NS	ns.htmlbook.ru.
+ns.htmlbook.ru.	518400	IN	A	173.245.59.130
+
+htmlbook.ru.	518400	IN	A	178.32.101.214

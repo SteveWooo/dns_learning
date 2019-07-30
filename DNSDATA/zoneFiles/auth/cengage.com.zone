@@ -1,0 +1,6 @@
+
+cengage.com.	86400	IN	SOA	ns.cengage.com.	mail	2019061702 1800 900 604800 86400
+cengage.com.	86400	IN	NS	ns.cengage.com.
+ns.cengage.com.	518400	IN	A	216.239.32.10
+
+cengage.com.	518400	IN	A	69.32.208.75

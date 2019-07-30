@@ -1,0 +1,6 @@
+
+blocket.se.	86400	IN	SOA	ns.blocket.se.	mail	2019061702 1800 900 604800 86400
+blocket.se.	86400	IN	NS	ns.blocket.se.
+ns.blocket.se.	518400	IN	A	216.239.32.29
+
+blocket.se.	518400	IN	A	185.49.132.3

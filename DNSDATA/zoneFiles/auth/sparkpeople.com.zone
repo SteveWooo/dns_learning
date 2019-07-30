@@ -1,0 +1,6 @@
+
+sparkpeople.com.	86400	IN	SOA	ns.sparkpeople.com.	mail	2019061702 1800 900 604800 86400
+sparkpeople.com.	86400	IN	NS	ns.sparkpeople.com.
+ns.sparkpeople.com.	518400	IN	A	216.239.32.29
+
+sparkpeople.com.	518400	IN	A	209.173.139.243

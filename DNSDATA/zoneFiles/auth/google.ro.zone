@@ -1,0 +1,6 @@
+
+google.ro.	86400	IN	SOA	ns.google.ro.	mail	2019061702 1800 900 604800 86400
+google.ro.	86400	IN	NS	ns.google.ro.
+ns.google.ro.	518400	IN	A	213.180.193.1
+
+google.ro.	518400	IN	A	31.13.85.16

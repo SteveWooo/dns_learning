@@ -1,0 +1,4 @@
+
+caravan.	86400	IN	SOA	ns.caravan.	mail	2019061702 1800 900 604800 86400
+caravan.	86400	IN	NS	ns.caravan.
+ns.caravan.	518400	IN	A	156.154.145.32

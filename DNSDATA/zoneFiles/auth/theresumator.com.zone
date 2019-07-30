@@ -1,0 +1,6 @@
+
+theresumator.com.	86400	IN	SOA	ns.theresumator.com.	mail	2019061702 1800 900 604800 86400
+theresumator.com.	86400	IN	NS	ns.theresumator.com.
+ns.theresumator.com.	518400	IN	A	202.56.230.5
+
+theresumator.com.	518400	IN	A	54.243.224.110

@@ -1,0 +1,6 @@
+
+slrclub.com.	86400	IN	SOA	ns.slrclub.com.	mail	2019061702 1800 900 604800 86400
+slrclub.com.	86400	IN	NS	ns.slrclub.com.
+ns.slrclub.com.	518400	IN	A	216.239.32.10
+
+slrclub.com.	518400	IN	A	117.52.93.2

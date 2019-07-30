@@ -1,0 +1,6 @@
+
+zamzar.com.	86400	IN	SOA	ns.zamzar.com.	mail	2019061702 1800 900 604800 86400
+zamzar.com.	86400	IN	NS	ns.zamzar.com.
+ns.zamzar.com.	518400	IN	A	206.128.173.109
+
+zamzar.com.	518400	IN	A	75.126.4.34

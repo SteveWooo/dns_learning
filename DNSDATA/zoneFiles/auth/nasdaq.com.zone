@@ -1,0 +1,6 @@
+
+nasdaq.com.	86400	IN	SOA	ns.nasdaq.com.	mail	2019061702 1800 900 604800 86400
+nasdaq.com.	86400	IN	NS	ns.nasdaq.com.
+ns.nasdaq.com.	518400	IN	A	216.239.32.10
+
+nasdaq.com.	518400	IN	A	192.230.81.215

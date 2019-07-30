@@ -1,0 +1,6 @@
+
+emuch.net.	86400	IN	SOA	ns.emuch.net.	mail	2019061702 1800 900 604800 86400
+emuch.net.	86400	IN	NS	ns.emuch.net.
+ns.emuch.net.	518400	IN	A	205.251.197.107
+
+emuch.net.	518400	IN	A	47.52.132.13

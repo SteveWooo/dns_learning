@@ -1,0 +1,6 @@
+
+heavy.com.	86400	IN	SOA	ns.heavy.com.	mail	2019061702 1800 900 604800 86400
+heavy.com.	86400	IN	NS	ns.heavy.com.
+ns.heavy.com.	518400	IN	A	193.108.91.127
+
+heavy.com.	518400	IN	A	192.0.79.34

@@ -1,0 +1,6 @@
+
+urdupoint.com.	86400	IN	SOA	ns.urdupoint.com.	mail	2019061702 1800 900 604800 86400
+urdupoint.com.	86400	IN	NS	ns.urdupoint.com.
+ns.urdupoint.com.	518400	IN	A	183.3.226.207
+
+urdupoint.com.	518400	IN	A	104.17.14.38

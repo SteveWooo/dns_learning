@@ -1,0 +1,6 @@
+
+perfectgirls.net.	86400	IN	SOA	ns.perfectgirls.net.	mail	2019061702 1800 900 604800 86400
+perfectgirls.net.	86400	IN	NS	ns.perfectgirls.net.
+ns.perfectgirls.net.	518400	IN	A	173.245.58.138
+
+perfectgirls.net.	518400	IN	A	104.254.87.66

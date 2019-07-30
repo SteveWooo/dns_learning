@@ -1,0 +1,6 @@
+
+makepolo.com.	86400	IN	SOA	ns.makepolo.com.	mail	2019061702 1800 900 604800 86400
+makepolo.com.	86400	IN	NS	ns.makepolo.com.
+ns.makepolo.com.	518400	IN	A	206.128.173.109
+
+makepolo.com.	518400	IN	A	124.251.70.60

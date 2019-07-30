@@ -1,0 +1,6 @@
+
+namecheap.com.	86400	IN	SOA	ns.namecheap.com.	mail	2019061702 1800 900 604800 86400
+namecheap.com.	86400	IN	NS	ns.namecheap.com.
+ns.namecheap.com.	518400	IN	A	204.69.234.1
+
+namecheap.com.	518400	IN	A	198.54.117.250

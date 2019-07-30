@@ -1,0 +1,6 @@
+
+usbank.com.	86400	IN	SOA	ns.usbank.com.	mail	2019061702 1800 900 604800 86400
+usbank.com.	86400	IN	NS	ns.usbank.com.
+ns.usbank.com.	518400	IN	A	216.58.200.238
+
+usbank.com.	518400	IN	A	170.135.184.254

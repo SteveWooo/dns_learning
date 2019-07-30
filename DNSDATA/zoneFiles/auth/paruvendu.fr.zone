@@ -1,0 +1,6 @@
+
+paruvendu.fr.	86400	IN	SOA	ns.paruvendu.fr.	mail	2019061702 1800 900 604800 86400
+paruvendu.fr.	86400	IN	NS	ns.paruvendu.fr.
+ns.paruvendu.fr.	518400	IN	A	213.180.193.1
+
+paruvendu.fr.	518400	IN	A	212.95.71.233

@@ -1,0 +1,6 @@
+
+classmates.com.	86400	IN	SOA	ns.classmates.com.	mail	2019061702 1800 900 604800 86400
+classmates.com.	86400	IN	NS	ns.classmates.com.
+ns.classmates.com.	518400	IN	A	217.69.139.202
+
+classmates.com.	518400	IN	A	208.84.41.110

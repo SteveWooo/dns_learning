@@ -1,0 +1,6 @@
+
+shinobi.jp.	86400	IN	SOA	ns.shinobi.jp.	mail	2019061702 1800 900 604800 86400
+shinobi.jp.	86400	IN	NS	ns.shinobi.jp.
+ns.shinobi.jp.	518400	IN	A	213.180.193.1
+
+shinobi.jp.	518400	IN	A	112.140.42.23

@@ -1,0 +1,6 @@
+
+stockstar.com.	86400	IN	SOA	ns.stockstar.com.	mail	2019061702 1800 900 604800 86400
+stockstar.com.	86400	IN	NS	ns.stockstar.com.
+ns.stockstar.com.	518400	IN	A	213.180.204.242
+
+stockstar.com.	518400	IN	A	43.240.124.230

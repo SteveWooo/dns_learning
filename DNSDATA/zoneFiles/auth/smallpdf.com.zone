@@ -1,0 +1,6 @@
+
+smallpdf.com.	86400	IN	SOA	ns.smallpdf.com.	mail	2019061702 1800 900 604800 86400
+smallpdf.com.	86400	IN	NS	ns.smallpdf.com.
+ns.smallpdf.com.	518400	IN	A	216.58.200.238
+
+smallpdf.com.	518400	IN	A	143.204.174.165

@@ -1,0 +1,6 @@
+
+appleinsider.com.	86400	IN	SOA	ns.appleinsider.com.	mail	2019061702 1800 900 604800 86400
+appleinsider.com.	86400	IN	NS	ns.appleinsider.com.
+ns.appleinsider.com.	518400	IN	A	198.100.156.181
+
+appleinsider.com.	518400	IN	A	104.25.75.118

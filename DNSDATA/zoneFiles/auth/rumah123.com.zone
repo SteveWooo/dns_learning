@@ -1,0 +1,6 @@
+
+rumah123.com.	86400	IN	SOA	ns.rumah123.com.	mail	2019061702 1800 900 604800 86400
+rumah123.com.	86400	IN	NS	ns.rumah123.com.
+ns.rumah123.com.	518400	IN	A	64.106.209.186
+
+rumah123.com.	518400	IN	A	99.84.181.6

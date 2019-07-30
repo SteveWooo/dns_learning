@@ -1,0 +1,6 @@
+
+adplxmd.com.	86400	IN	SOA	ns.adplxmd.com.	mail	2019061702 1800 900 604800 86400
+adplxmd.com.	86400	IN	NS	ns.adplxmd.com.
+ns.adplxmd.com.	518400	IN	A	193.232.156.17
+
+adplxmd.com.	518400	IN	A	103.224.182.251

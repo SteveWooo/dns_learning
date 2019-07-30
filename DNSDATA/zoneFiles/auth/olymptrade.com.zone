@@ -1,0 +1,6 @@
+
+olymptrade.com.	86400	IN	SOA	ns.olymptrade.com.	mail	2019061702 1800 900 604800 86400
+olymptrade.com.	86400	IN	NS	ns.olymptrade.com.
+ns.olymptrade.com.	518400	IN	A	216.58.200.238
+
+olymptrade.com.	518400	IN	A	185.104.210.32

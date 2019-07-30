@@ -1,0 +1,6 @@
+
+a9vg.com.	86400	IN	SOA	ns.a9vg.com.	mail	2019061702 1800 900 604800 86400
+a9vg.com.	86400	IN	NS	ns.a9vg.com.
+ns.a9vg.com.	518400	IN	A	200.201.161.22
+
+a9vg.com.	518400	IN	A	120.31.70.229

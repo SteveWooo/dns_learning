@@ -1,0 +1,6 @@
+
+whatismyipaddress.com.	86400	IN	SOA	ns.whatismyipaddress.com.	mail	2019061702 1800 900 604800 86400
+whatismyipaddress.com.	86400	IN	NS	ns.whatismyipaddress.com.
+ns.whatismyipaddress.com.	518400	IN	A	204.74.108.1
+
+whatismyipaddress.com.	518400	IN	A	104.16.154.36

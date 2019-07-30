@@ -1,0 +1,6 @@
+
+shufoo.net.	86400	IN	SOA	ns.shufoo.net.	mail	2019061702 1800 900 604800 86400
+shufoo.net.	86400	IN	NS	ns.shufoo.net.
+ns.shufoo.net.	518400	IN	A	217.69.139.202
+
+shufoo.net.	518400	IN	A	124.215.204.147

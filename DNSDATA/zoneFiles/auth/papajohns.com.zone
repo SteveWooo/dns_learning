@@ -1,0 +1,6 @@
+
+papajohns.com.	86400	IN	SOA	ns.papajohns.com.	mail	2019061702 1800 900 604800 86400
+papajohns.com.	86400	IN	NS	ns.papajohns.com.
+ns.papajohns.com.	518400	IN	A	213.180.193.1
+
+papajohns.com.	518400	IN	A	23.2.183.46

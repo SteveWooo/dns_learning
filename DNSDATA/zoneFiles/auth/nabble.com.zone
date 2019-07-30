@@ -1,0 +1,6 @@
+
+nabble.com.	86400	IN	SOA	ns.nabble.com.	mail	2019061702 1800 900 604800 86400
+nabble.com.	86400	IN	NS	ns.nabble.com.
+ns.nabble.com.	518400	IN	A	216.58.200.238
+
+nabble.com.	518400	IN	A	66.185.22.84

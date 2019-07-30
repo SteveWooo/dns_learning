@@ -1,0 +1,6 @@
+
+htc.com.	86400	IN	SOA	ns.htc.com.	mail	2019061702 1800 900 604800 86400
+htc.com.	86400	IN	NS	ns.htc.com.
+ns.htc.com.	518400	IN	A	216.58.200.238
+
+htc.com.	518400	IN	A	60.199.250.31

@@ -1,0 +1,6 @@
+
+shaadi.com.	86400	IN	SOA	ns.shaadi.com.	mail	2019061702 1800 900 604800 86400
+shaadi.com.	86400	IN	NS	ns.shaadi.com.
+ns.shaadi.com.	518400	IN	A	216.239.32.29
+
+shaadi.com.	518400	IN	A	104.16.100.160

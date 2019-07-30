@@ -1,0 +1,6 @@
+
+nbcnews.com.	86400	IN	SOA	ns.nbcnews.com.	mail	2019061702 1800 900 604800 86400
+nbcnews.com.	86400	IN	NS	ns.nbcnews.com.
+ns.nbcnews.com.	518400	IN	A	205.251.195.203
+
+nbcnews.com.	518400	IN	A	31.13.64.49

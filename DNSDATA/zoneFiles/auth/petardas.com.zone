@@ -1,0 +1,6 @@
+
+petardas.com.	86400	IN	SOA	ns.petardas.com.	mail	2019061702 1800 900 604800 86400
+petardas.com.	86400	IN	NS	ns.petardas.com.
+ns.petardas.com.	518400	IN	A	173.245.58.89
+
+petardas.com.	518400	IN	A	137.74.206.86

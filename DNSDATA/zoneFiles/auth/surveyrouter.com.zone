@@ -1,0 +1,6 @@
+
+surveyrouter.com.	86400	IN	SOA	ns.surveyrouter.com.	mail	2019061702 1800 900 604800 86400
+surveyrouter.com.	86400	IN	NS	ns.surveyrouter.com.
+ns.surveyrouter.com.	518400	IN	A	216.239.32.29
+
+surveyrouter.com.	518400	IN	A	204.115.119.81

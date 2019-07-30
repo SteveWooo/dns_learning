@@ -1,0 +1,6 @@
+
+el-balad.com.	86400	IN	SOA	ns.el-balad.com.	mail	2019061702 1800 900 604800 86400
+el-balad.com.	86400	IN	NS	ns.el-balad.com.
+ns.el-balad.com.	518400	IN	A	23.211.61.66
+
+el-balad.com.	518400	IN	A	104.27.141.25

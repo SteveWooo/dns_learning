@@ -1,0 +1,6 @@
+
+zoomby.ru.	86400	IN	SOA	ns.zoomby.ru.	mail	2019061702 1800 900 604800 86400
+zoomby.ru.	86400	IN	NS	ns.zoomby.ru.
+ns.zoomby.ru.	518400	IN	A	200.219.154.10
+
+zoomby.ru.	518400	IN	A	92.53.96.177

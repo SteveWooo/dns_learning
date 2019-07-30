@@ -1,0 +1,4 @@
+
+law.	86400	IN	SOA	ns.law.	mail	2019061702 1800 900 604800 86400
+law.	86400	IN	NS	ns.law.
+ns.law.	518400	IN	A	156.154.100.3

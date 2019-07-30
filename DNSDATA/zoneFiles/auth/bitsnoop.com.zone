@@ -1,0 +1,6 @@
+
+bitsnoop.com.	86400	IN	SOA	ns.bitsnoop.com.	mail	2019061702 1800 900 604800 86400
+bitsnoop.com.	86400	IN	NS	ns.bitsnoop.com.
+ns.bitsnoop.com.	518400	IN	A	216.239.32.29
+
+bitsnoop.com.	518400	IN	A	104.27.212.30

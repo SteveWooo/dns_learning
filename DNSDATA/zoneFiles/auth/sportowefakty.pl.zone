@@ -1,0 +1,6 @@
+
+sportowefakty.pl.	86400	IN	SOA	ns.sportowefakty.pl.	mail	2019061702 1800 900 604800 86400
+sportowefakty.pl.	86400	IN	NS	ns.sportowefakty.pl.
+ns.sportowefakty.pl.	518400	IN	A	206.128.173.109
+
+sportowefakty.pl.	518400	IN	A	212.77.100.83

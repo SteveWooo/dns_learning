@@ -1,0 +1,6 @@
+
+ar15.com.	86400	IN	SOA	ns.ar15.com.	mail	2019061702 1800 900 604800 86400
+ar15.com.	86400	IN	NS	ns.ar15.com.
+ns.ar15.com.	518400	IN	A	213.180.193.1
+
+ar15.com.	518400	IN	A	18.224.36.143

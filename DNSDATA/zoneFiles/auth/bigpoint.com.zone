@@ -1,0 +1,6 @@
+
+bigpoint.com.	86400	IN	SOA	ns.bigpoint.com.	mail	2019061702 1800 900 604800 86400
+bigpoint.com.	86400	IN	NS	ns.bigpoint.com.
+ns.bigpoint.com.	518400	IN	A	216.239.32.10
+
+bigpoint.com.	518400	IN	A	178.132.240.34

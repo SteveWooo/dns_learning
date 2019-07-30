@@ -1,0 +1,6 @@
+
+tripadvisor.in.	86400	IN	SOA	ns.tripadvisor.in.	mail	2019061702 1800 900 604800 86400
+tripadvisor.in.	86400	IN	NS	ns.tripadvisor.in.
+ns.tripadvisor.in.	518400	IN	A	216.239.32.106
+
+tripadvisor.in.	518400	IN	A	192.229.182.112

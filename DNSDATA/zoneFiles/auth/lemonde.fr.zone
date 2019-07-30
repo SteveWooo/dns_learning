@@ -1,0 +1,6 @@
+
+lemonde.fr.	86400	IN	SOA	ns.lemonde.fr.	mail	2019061702 1800 900 604800 86400
+lemonde.fr.	86400	IN	NS	ns.lemonde.fr.
+ns.lemonde.fr.	518400	IN	A	213.180.193.1
+
+lemonde.fr.	518400	IN	A	31.13.64.49

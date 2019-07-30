@@ -1,0 +1,6 @@
+
+chacha.com.	86400	IN	SOA	ns.chacha.com.	mail	2019061702 1800 900 604800 86400
+chacha.com.	86400	IN	NS	ns.chacha.com.
+ns.chacha.com.	518400	IN	A	173.245.58.201
+
+chacha.com.	518400	IN	A	95.216.161.60

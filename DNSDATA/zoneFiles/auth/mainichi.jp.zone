@@ -1,0 +1,6 @@
+
+mainichi.jp.	86400	IN	SOA	ns.mainichi.jp.	mail	2019061702 1800 900 604800 86400
+mainichi.jp.	86400	IN	NS	ns.mainichi.jp.
+ns.mainichi.jp.	518400	IN	A	198.11.138.249
+
+mainichi.jp.	518400	IN	A	69.171.235.16

@@ -1,0 +1,6 @@
+
+google.ba.	86400	IN	SOA	ns.google.ba.	mail	2019061702 1800 900 604800 86400
+google.ba.	86400	IN	NS	ns.google.ba.
+ns.google.ba.	518400	IN	A	205.251.192.29
+
+google.ba.	518400	IN	A	66.220.149.32

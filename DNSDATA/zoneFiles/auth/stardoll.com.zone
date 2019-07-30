@@ -1,0 +1,6 @@
+
+stardoll.com.	86400	IN	SOA	ns.stardoll.com.	mail	2019061702 1800 900 604800 86400
+stardoll.com.	86400	IN	NS	ns.stardoll.com.
+ns.stardoll.com.	518400	IN	A	2.16.130.64
+
+stardoll.com.	518400	IN	A	195.62.67.212

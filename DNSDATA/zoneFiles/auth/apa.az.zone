@@ -1,0 +1,6 @@
+
+apa.az.	86400	IN	SOA	ns.apa.az.	mail	2019061702 1800 900 604800 86400
+apa.az.	86400	IN	NS	ns.apa.az.
+ns.apa.az.	518400	IN	A	205.251.199.254
+
+apa.az.	518400	IN	A	104.28.20.35

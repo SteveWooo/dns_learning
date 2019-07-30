@@ -1,0 +1,6 @@
+
+gazeta.ru.	86400	IN	SOA	ns.gazeta.ru.	mail	2019061702 1800 900 604800 86400
+gazeta.ru.	86400	IN	NS	ns.gazeta.ru.
+ns.gazeta.ru.	518400	IN	A	203.153.43.65
+
+gazeta.ru.	518400	IN	A	81.19.72.3

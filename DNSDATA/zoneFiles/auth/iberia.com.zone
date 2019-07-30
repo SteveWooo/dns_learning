@@ -1,0 +1,6 @@
+
+iberia.com.	86400	IN	SOA	ns.iberia.com.	mail	2019061702 1800 900 604800 86400
+iberia.com.	86400	IN	NS	ns.iberia.com.
+ns.iberia.com.	518400	IN	A	216.239.32.106
+
+iberia.com.	518400	IN	A	195.53.213.98

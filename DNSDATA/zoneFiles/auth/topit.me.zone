@@ -1,0 +1,6 @@
+
+topit.me.	86400	IN	SOA	ns.topit.me.	mail	2019061702 1800 900 604800 86400
+topit.me.	86400	IN	NS	ns.topit.me.
+ns.topit.me.	518400	IN	A	216.239.32.106
+
+topit.me.	518400	IN	A	211.155.84.145

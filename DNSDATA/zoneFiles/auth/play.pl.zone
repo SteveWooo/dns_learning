@@ -1,0 +1,6 @@
+
+play.pl.	86400	IN	SOA	ns.play.pl.	mail	2019061702 1800 900 604800 86400
+play.pl.	86400	IN	NS	ns.play.pl.
+ns.play.pl.	518400	IN	A	198.100.156.181
+
+play.pl.	518400	IN	A	89.108.195.74

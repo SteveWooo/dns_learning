@@ -1,0 +1,6 @@
+
+mobafire.com.	86400	IN	SOA	ns.mobafire.com.	mail	2019061702 1800 900 604800 86400
+mobafire.com.	86400	IN	NS	ns.mobafire.com.
+ns.mobafire.com.	518400	IN	A	216.239.32.10
+
+mobafire.com.	518400	IN	A	104.19.128.78

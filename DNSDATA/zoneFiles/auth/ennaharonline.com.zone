@@ -1,0 +1,6 @@
+
+ennaharonline.com.	86400	IN	SOA	ns.ennaharonline.com.	mail	2019061702 1800 900 604800 86400
+ennaharonline.com.	86400	IN	NS	ns.ennaharonline.com.
+ns.ennaharonline.com.	518400	IN	A	174.35.55.22
+
+ennaharonline.com.	518400	IN	A	104.25.53.107

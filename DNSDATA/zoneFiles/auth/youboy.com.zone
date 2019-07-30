@@ -1,0 +1,6 @@
+
+youboy.com.	86400	IN	SOA	ns.youboy.com.	mail	2019061702 1800 900 604800 86400
+youboy.com.	86400	IN	NS	ns.youboy.com.
+ns.youboy.com.	518400	IN	A	193.232.142.17
+
+youboy.com.	518400	IN	A	59.39.7.34

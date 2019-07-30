@@ -1,0 +1,6 @@
+
+shiftdelete.net.	86400	IN	SOA	ns.shiftdelete.net.	mail	2019061702 1800 900 604800 86400
+shiftdelete.net.	86400	IN	NS	ns.shiftdelete.net.
+ns.shiftdelete.net.	518400	IN	A	213.180.204.242
+
+shiftdelete.net.	518400	IN	A	104.24.2.26

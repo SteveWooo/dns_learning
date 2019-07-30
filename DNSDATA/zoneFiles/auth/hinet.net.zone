@@ -1,0 +1,6 @@
+
+hinet.net.	86400	IN	SOA	ns.hinet.net.	mail	2019061702 1800 900 604800 86400
+hinet.net.	86400	IN	NS	ns.hinet.net.
+ns.hinet.net.	518400	IN	A	216.58.200.238
+
+hinet.net.	518400	IN	A	202.39.253.9

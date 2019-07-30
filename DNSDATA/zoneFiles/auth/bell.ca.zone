@@ -1,0 +1,6 @@
+
+bell.ca.	86400	IN	SOA	ns.bell.ca.	mail	2019061702 1800 900 604800 86400
+bell.ca.	86400	IN	NS	ns.bell.ca.
+ns.bell.ca.	518400	IN	A	216.239.32.10
+
+bell.ca.	518400	IN	A	184.150.212.98

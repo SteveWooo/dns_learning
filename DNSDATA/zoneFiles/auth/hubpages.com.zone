@@ -1,0 +1,6 @@
+
+hubpages.com.	86400	IN	SOA	ns.hubpages.com.	mail	2019061702 1800 900 604800 86400
+hubpages.com.	86400	IN	NS	ns.hubpages.com.
+ns.hubpages.com.	518400	IN	A	217.69.139.112
+
+hubpages.com.	518400	IN	A	54.86.151.48

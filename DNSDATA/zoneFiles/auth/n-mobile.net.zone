@@ -1,0 +1,6 @@
+
+n-mobile.net.	86400	IN	SOA	ns.n-mobile.net.	mail	2019061702 1800 900 604800 86400
+n-mobile.net.	86400	IN	NS	ns.n-mobile.net.
+ns.n-mobile.net.	518400	IN	A	216.239.32.10
+
+n-mobile.net.	518400	IN	A	91.192.111.132

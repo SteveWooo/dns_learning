@@ -1,0 +1,6 @@
+
+ad6media.fr.	86400	IN	SOA	ns.ad6media.fr.	mail	2019061702 1800 900 604800 86400
+ad6media.fr.	86400	IN	NS	ns.ad6media.fr.
+ns.ad6media.fr.	518400	IN	A	193.232.142.17
+
+ad6media.fr.	518400	IN	A	87.98.153.73

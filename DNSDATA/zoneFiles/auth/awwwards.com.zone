@@ -1,0 +1,6 @@
+
+awwwards.com.	86400	IN	SOA	ns.awwwards.com.	mail	2019061702 1800 900 604800 86400
+awwwards.com.	86400	IN	NS	ns.awwwards.com.
+ns.awwwards.com.	518400	IN	A	216.239.32.10
+
+awwwards.com.	518400	IN	A	5.57.227.251

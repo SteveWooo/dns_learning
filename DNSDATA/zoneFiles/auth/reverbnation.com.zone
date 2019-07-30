@@ -1,0 +1,6 @@
+
+reverbnation.com.	86400	IN	SOA	ns.reverbnation.com.	mail	2019061702 1800 900 604800 86400
+reverbnation.com.	86400	IN	NS	ns.reverbnation.com.
+ns.reverbnation.com.	518400	IN	A	213.180.204.242
+
+reverbnation.com.	518400	IN	A	54.67.11.71

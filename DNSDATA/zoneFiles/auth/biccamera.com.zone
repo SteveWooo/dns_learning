@@ -1,0 +1,6 @@
+
+biccamera.com.	86400	IN	SOA	ns.biccamera.com.	mail	2019061702 1800 900 604800 86400
+biccamera.com.	86400	IN	NS	ns.biccamera.com.
+ns.biccamera.com.	518400	IN	A	206.128.173.109
+
+biccamera.com.	518400	IN	A	219.109.1.4

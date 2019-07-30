@@ -1,0 +1,6 @@
+
+phys.org.	86400	IN	SOA	ns.phys.org.	mail	2019061702 1800 900 604800 86400
+phys.org.	86400	IN	NS	ns.phys.org.
+ns.phys.org.	518400	IN	A	217.69.139.202
+
+phys.org.	518400	IN	A	72.251.236.55

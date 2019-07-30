@@ -1,0 +1,6 @@
+
+ptt.cc.	86400	IN	SOA	ns.ptt.cc.	mail	2019061702 1800 900 604800 86400
+ptt.cc.	86400	IN	NS	ns.ptt.cc.
+ns.ptt.cc.	518400	IN	A	216.58.200.238
+
+ptt.cc.	518400	IN	A	67.228.235.93

@@ -1,0 +1,6 @@
+
+startpage.com.	86400	IN	SOA	ns.startpage.com.	mail	2019061702 1800 900 604800 86400
+startpage.com.	86400	IN	NS	ns.startpage.com.
+ns.startpage.com.	518400	IN	A	52.164.230.183
+
+startpage.com.	518400	IN	A	203.98.7.65

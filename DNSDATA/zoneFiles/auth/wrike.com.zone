@@ -1,0 +1,6 @@
+
+wrike.com.	86400	IN	SOA	ns.wrike.com.	mail	2019061702 1800 900 604800 86400
+wrike.com.	86400	IN	NS	ns.wrike.com.
+ns.wrike.com.	518400	IN	A	205.251.195.203
+
+wrike.com.	518400	IN	A	160.19.162.70

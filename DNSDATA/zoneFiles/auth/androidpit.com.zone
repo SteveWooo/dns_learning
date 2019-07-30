@@ -1,0 +1,6 @@
+
+androidpit.com.	86400	IN	SOA	ns.androidpit.com.	mail	2019061702 1800 900 604800 86400
+androidpit.com.	86400	IN	NS	ns.androidpit.com.
+ns.androidpit.com.	518400	IN	A	216.239.32.10
+
+androidpit.com.	518400	IN	A	176.9.200.2

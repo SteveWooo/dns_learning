@@ -1,0 +1,6 @@
+
+wix.com.	86400	IN	SOA	ns.wix.com.	mail	2019061702 1800 900 604800 86400
+wix.com.	86400	IN	NS	ns.wix.com.
+ns.wix.com.	518400	IN	A	213.180.193.1
+
+wix.com.	518400	IN	A	185.230.63.164

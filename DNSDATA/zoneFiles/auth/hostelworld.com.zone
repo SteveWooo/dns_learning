@@ -1,0 +1,6 @@
+
+hostelworld.com.	86400	IN	SOA	ns.hostelworld.com.	mail	2019061702 1800 900 604800 86400
+hostelworld.com.	86400	IN	NS	ns.hostelworld.com.
+ns.hostelworld.com.	518400	IN	A	204.69.234.1
+
+hostelworld.com.	518400	IN	A	185.90.78.6

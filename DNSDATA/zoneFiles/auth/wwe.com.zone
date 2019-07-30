@@ -1,0 +1,6 @@
+
+wwe.com.	86400	IN	SOA	ns.wwe.com.	mail	2019061702 1800 900 604800 86400
+wwe.com.	86400	IN	NS	ns.wwe.com.
+ns.wwe.com.	518400	IN	A	202.56.230.5
+
+wwe.com.	518400	IN	A	52.4.235.80

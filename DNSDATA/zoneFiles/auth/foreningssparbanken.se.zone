@@ -1,0 +1,6 @@
+
+foreningssparbanken.se.	86400	IN	SOA	ns.foreningssparbanken.se.	mail	2019061702 1800 900 604800 86400
+foreningssparbanken.se.	86400	IN	NS	ns.foreningssparbanken.se.
+ns.foreningssparbanken.se.	518400	IN	A	205.251.199.254
+
+foreningssparbanken.se.	518400	IN	A	164.10.48.27

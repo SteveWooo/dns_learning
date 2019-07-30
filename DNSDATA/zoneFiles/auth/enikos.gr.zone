@@ -1,0 +1,6 @@
+
+enikos.gr.	86400	IN	SOA	ns.enikos.gr.	mail	2019061702 1800 900 604800 86400
+enikos.gr.	86400	IN	NS	ns.enikos.gr.
+ns.enikos.gr.	518400	IN	A	204.69.234.1
+
+enikos.gr.	518400	IN	A	104.20.82.107

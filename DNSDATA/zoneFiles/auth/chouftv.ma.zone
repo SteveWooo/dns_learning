@@ -1,0 +1,6 @@
+
+chouftv.ma.	86400	IN	SOA	ns.chouftv.ma.	mail	2019061702 1800 900 604800 86400
+chouftv.ma.	86400	IN	NS	ns.chouftv.ma.
+ns.chouftv.ma.	518400	IN	A	206.128.173.109
+
+chouftv.ma.	518400	IN	A	104.20.9.75

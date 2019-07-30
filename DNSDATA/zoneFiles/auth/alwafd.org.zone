@@ -1,0 +1,6 @@
+
+alwafd.org.	86400	IN	SOA	ns.alwafd.org.	mail	2019061702 1800 900 604800 86400
+alwafd.org.	86400	IN	NS	ns.alwafd.org.
+ns.alwafd.org.	518400	IN	A	206.128.173.109
+
+alwafd.org.	518400	IN	A	104.25.117.35

@@ -1,0 +1,6 @@
+
+baidu.com.	86400	IN	SOA	ns.baidu.com.	mail	2019061702 1800 900 604800 86400
+baidu.com.	86400	IN	NS	ns.baidu.com.
+ns.baidu.com.	518400	IN	A	173.245.59.130
+
+baidu.com.	518400	IN	A	123.125.114.144

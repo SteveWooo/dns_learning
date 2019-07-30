@@ -1,0 +1,6 @@
+
+ndr.de.	86400	IN	SOA	ns.ndr.de.	mail	2019061702 1800 900 604800 86400
+ndr.de.	86400	IN	NS	ns.ndr.de.
+ns.ndr.de.	518400	IN	A	87.250.250.1
+
+ndr.de.	518400	IN	A	31.13.83.8

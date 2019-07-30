@@ -1,0 +1,6 @@
+
+nouvelobs.com.	86400	IN	SOA	ns.nouvelobs.com.	mail	2019061702 1800 900 604800 86400
+nouvelobs.com.	86400	IN	NS	ns.nouvelobs.com.
+ns.nouvelobs.com.	518400	IN	A	216.239.32.29
+
+nouvelobs.com.	518400	IN	A	35.190.84.160

@@ -1,0 +1,6 @@
+
+powerschool.com.	86400	IN	SOA	ns.powerschool.com.	mail	2019061702 1800 900 604800 86400
+powerschool.com.	86400	IN	NS	ns.powerschool.com.
+ns.powerschool.com.	518400	IN	A	208.78.70.47
+
+powerschool.com.	518400	IN	A	192.230.66.116

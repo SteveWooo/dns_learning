@@ -1,0 +1,6 @@
+
+youngcons.com.	86400	IN	SOA	ns.youngcons.com.	mail	2019061702 1800 900 604800 86400
+youngcons.com.	86400	IN	NS	ns.youngcons.com.
+ns.youngcons.com.	518400	IN	A	198.100.156.181
+
+youngcons.com.	518400	IN	A	104.18.34.30

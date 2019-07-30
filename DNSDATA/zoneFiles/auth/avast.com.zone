@@ -1,0 +1,6 @@
+
+avast.com.	86400	IN	SOA	ns.avast.com.	mail	2019061702 1800 900 604800 86400
+avast.com.	86400	IN	NS	ns.avast.com.
+ns.avast.com.	518400	IN	A	217.69.139.202
+
+avast.com.	518400	IN	A	5.62.48.97

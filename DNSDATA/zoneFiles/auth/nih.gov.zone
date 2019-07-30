@@ -1,0 +1,6 @@
+
+nih.gov.	86400	IN	SOA	ns.nih.gov.	mail	2019061702 1800 900 604800 86400
+nih.gov.	86400	IN	NS	ns.nih.gov.
+ns.nih.gov.	518400	IN	A	175.126.117.211
+
+nih.gov.	518400	IN	A	54.235.145.223

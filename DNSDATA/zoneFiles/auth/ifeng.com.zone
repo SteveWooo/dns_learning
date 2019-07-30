@@ -1,0 +1,6 @@
+
+ifeng.com.	86400	IN	SOA	ns.ifeng.com.	mail	2019061702 1800 900 604800 86400
+ifeng.com.	86400	IN	NS	ns.ifeng.com.
+ns.ifeng.com.	518400	IN	A	205.251.192.29
+
+ifeng.com.	518400	IN	A	123.103.122.24

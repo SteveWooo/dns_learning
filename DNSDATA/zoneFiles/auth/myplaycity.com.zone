@@ -1,0 +1,6 @@
+
+myplaycity.com.	86400	IN	SOA	ns.myplaycity.com.	mail	2019061702 1800 900 604800 86400
+myplaycity.com.	86400	IN	NS	ns.myplaycity.com.
+ns.myplaycity.com.	518400	IN	A	187.18.60.242
+
+myplaycity.com.	518400	IN	A	169.63.74.123

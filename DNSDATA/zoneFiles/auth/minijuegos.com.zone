@@ -1,0 +1,6 @@
+
+minijuegos.com.	86400	IN	SOA	ns.minijuegos.com.	mail	2019061702 1800 900 604800 86400
+minijuegos.com.	86400	IN	NS	ns.minijuegos.com.
+ns.minijuegos.com.	518400	IN	A	157.255.246.101
+
+minijuegos.com.	518400	IN	A	104.25.74.7

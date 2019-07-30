@@ -1,0 +1,6 @@
+
+mzamin.com.	86400	IN	SOA	ns.mzamin.com.	mail	2019061702 1800 900 604800 86400
+mzamin.com.	86400	IN	NS	ns.mzamin.com.
+ns.mzamin.com.	518400	IN	A	132.207.144.12
+
+mzamin.com.	518400	IN	A	104.18.56.135

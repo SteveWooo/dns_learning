@@ -1,0 +1,6 @@
+
+shopstyle.com.	86400	IN	SOA	ns.shopstyle.com.	mail	2019061702 1800 900 604800 86400
+shopstyle.com.	86400	IN	NS	ns.shopstyle.com.
+ns.shopstyle.com.	518400	IN	A	213.180.204.242
+
+shopstyle.com.	518400	IN	A	143.204.214.125

@@ -1,0 +1,6 @@
+
+ss.lv.	86400	IN	SOA	ns.ss.lv.	mail	2019061702 1800 900 604800 86400
+ss.lv.	86400	IN	NS	ns.ss.lv.
+ns.ss.lv.	518400	IN	A	203.153.43.65
+
+ss.lv.	518400	IN	A	194.105.56.170

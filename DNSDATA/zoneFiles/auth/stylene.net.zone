@@ -1,0 +1,6 @@
+
+stylene.net.	86400	IN	SOA	ns.stylene.net.	mail	2019061702 1800 900 604800 86400
+stylene.net.	86400	IN	NS	ns.stylene.net.
+ns.stylene.net.	518400	IN	A	216.239.32.29
+
+stylene.net.	518400	IN	A	103.224.182.251

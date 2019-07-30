@@ -1,0 +1,6 @@
+
+a5cee7.se.	86400	IN	SOA	ns.a5cee7.se.	mail	2019061702 1800 900 604800 86400
+a5cee7.se.	86400	IN	NS	ns.a5cee7.se.
+ns.a5cee7.se.	518400	IN	A	112.133.230.192
+
+a5cee7.se.	518400	IN	A	185.53.179.23

@@ -1,0 +1,6 @@
+
+sweet-page.com.	86400	IN	SOA	ns.sweet-page.com.	mail	2019061702 1800 900 604800 86400
+sweet-page.com.	86400	IN	NS	ns.sweet-page.com.
+ns.sweet-page.com.	518400	IN	A	140.205.67.253
+
+sweet-page.com.	518400	IN	A	184.173.140.167

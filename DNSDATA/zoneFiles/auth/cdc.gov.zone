@@ -1,0 +1,6 @@
+
+cdc.gov.	86400	IN	SOA	ns.cdc.gov.	mail	2019061702 1800 900 604800 86400
+cdc.gov.	86400	IN	NS	ns.cdc.gov.
+ns.cdc.gov.	518400	IN	A	205.251.199.254
+
+cdc.gov.	518400	IN	A	198.246.102.49

@@ -1,0 +1,6 @@
+
+divar.ir.	86400	IN	SOA	ns.divar.ir.	mail	2019061702 1800 900 604800 86400
+divar.ir.	86400	IN	NS	ns.divar.ir.
+ns.divar.ir.	518400	IN	A	200.201.165.253
+
+divar.ir.	518400	IN	A	79.175.141.111

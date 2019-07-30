@@ -1,0 +1,6 @@
+
+rueducommerce.fr.	86400	IN	SOA	ns.rueducommerce.fr.	mail	2019061702 1800 900 604800 86400
+rueducommerce.fr.	86400	IN	NS	ns.rueducommerce.fr.
+ns.rueducommerce.fr.	518400	IN	A	213.180.204.242
+
+rueducommerce.fr.	518400	IN	A	178.251.205.166

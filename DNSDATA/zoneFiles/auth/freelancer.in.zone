@@ -1,0 +1,6 @@
+
+freelancer.in.	86400	IN	SOA	ns.freelancer.in.	mail	2019061702 1800 900 604800 86400
+freelancer.in.	86400	IN	NS	ns.freelancer.in.
+ns.freelancer.in.	518400	IN	A	216.239.32.29
+
+freelancer.in.	518400	IN	A	107.23.79.224

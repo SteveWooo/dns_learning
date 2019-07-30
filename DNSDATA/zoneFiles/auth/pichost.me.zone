@@ -1,0 +1,6 @@
+
+pichost.me.	86400	IN	SOA	ns.pichost.me.	mail	2019061702 1800 900 604800 86400
+pichost.me.	86400	IN	NS	ns.pichost.me.
+ns.pichost.me.	518400	IN	A	206.128.173.109
+
+pichost.me.	518400	IN	A	45.79.19.196

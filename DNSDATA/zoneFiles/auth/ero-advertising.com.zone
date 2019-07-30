@@ -1,0 +1,6 @@
+
+ero-advertising.com.	86400	IN	SOA	ns.ero-advertising.com.	mail	2019061702 1800 900 604800 86400
+ero-advertising.com.	86400	IN	NS	ns.ero-advertising.com.
+ns.ero-advertising.com.	518400	IN	A	200.201.161.22
+
+ero-advertising.com.	518400	IN	A	185.70.212.138

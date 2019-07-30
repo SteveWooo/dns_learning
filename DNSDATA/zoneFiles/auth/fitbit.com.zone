@@ -1,0 +1,6 @@
+
+fitbit.com.	86400	IN	SOA	ns.fitbit.com.	mail	2019061702 1800 900 604800 86400
+fitbit.com.	86400	IN	NS	ns.fitbit.com.
+ns.fitbit.com.	518400	IN	A	216.58.200.238
+
+fitbit.com.	518400	IN	A	99.84.239.18

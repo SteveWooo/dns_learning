@@ -1,0 +1,6 @@
+
+mes-meilleurs-films.fr.	86400	IN	SOA	ns.mes-meilleurs-films.fr.	mail	2019061702 1800 900 604800 86400
+mes-meilleurs-films.fr.	86400	IN	NS	ns.mes-meilleurs-films.fr.
+ns.mes-meilleurs-films.fr.	518400	IN	A	213.180.193.1
+
+mes-meilleurs-films.fr.	518400	IN	A	54.246.199.97

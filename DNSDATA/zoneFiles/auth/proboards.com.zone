@@ -1,0 +1,6 @@
+
+proboards.com.	86400	IN	SOA	ns.proboards.com.	mail	2019061702 1800 900 604800 86400
+proboards.com.	86400	IN	NS	ns.proboards.com.
+ns.proboards.com.	518400	IN	A	216.239.32.10
+
+proboards.com.	518400	IN	A	104.16.176.19

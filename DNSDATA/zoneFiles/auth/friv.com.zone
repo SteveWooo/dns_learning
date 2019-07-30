@@ -1,0 +1,6 @@
+
+friv.com.	86400	IN	SOA	ns.friv.com.	mail	2019061702 1800 900 604800 86400
+friv.com.	86400	IN	NS	ns.friv.com.
+ns.friv.com.	518400	IN	A	205.251.199.254
+
+friv.com.	518400	IN	A	192.64.119.83

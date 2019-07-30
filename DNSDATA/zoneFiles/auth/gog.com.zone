@@ -1,0 +1,6 @@
+
+gog.com.	86400	IN	SOA	ns.gog.com.	mail	2019061702 1800 900 604800 86400
+gog.com.	86400	IN	NS	ns.gog.com.
+ns.gog.com.	518400	IN	A	205.251.197.107
+
+gog.com.	518400	IN	A	193.59.178.39

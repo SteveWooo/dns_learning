@@ -1,0 +1,6 @@
+
+businessinsider.in.	86400	IN	SOA	ns.businessinsider.in.	mail	2019061702 1800 900 604800 86400
+businessinsider.in.	86400	IN	NS	ns.businessinsider.in.
+ns.businessinsider.in.	518400	IN	A	202.108.22.220
+
+businessinsider.in.	518400	IN	A	104.119.250.49

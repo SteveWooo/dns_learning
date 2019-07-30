@@ -1,0 +1,6 @@
+
+yle.fi.	86400	IN	SOA	ns.yle.fi.	mail	2019061702 1800 900 604800 86400
+yle.fi.	86400	IN	NS	ns.yle.fi.
+ns.yle.fi.	518400	IN	A	213.180.193.1
+
+yle.fi.	518400	IN	A	13.35.125.11

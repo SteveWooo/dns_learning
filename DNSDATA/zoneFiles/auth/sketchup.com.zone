@@ -1,0 +1,6 @@
+
+sketchup.com.	86400	IN	SOA	ns.sketchup.com.	mail	2019061702 1800 900 604800 86400
+sketchup.com.	86400	IN	NS	ns.sketchup.com.
+ns.sketchup.com.	518400	IN	A	216.58.200.238
+
+sketchup.com.	518400	IN	A	3.214.247.146

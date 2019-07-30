@@ -1,0 +1,6 @@
+
+cnnturk.com.	86400	IN	SOA	ns.cnnturk.com.	mail	2019061702 1800 900 604800 86400
+cnnturk.com.	86400	IN	NS	ns.cnnturk.com.
+ns.cnnturk.com.	518400	IN	A	213.180.193.1
+
+cnnturk.com.	518400	IN	A	34.249.120.252

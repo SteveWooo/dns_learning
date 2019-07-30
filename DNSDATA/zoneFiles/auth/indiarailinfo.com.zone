@@ -1,0 +1,6 @@
+
+indiarailinfo.com.	86400	IN	SOA	ns.indiarailinfo.com.	mail	2019061702 1800 900 604800 86400
+indiarailinfo.com.	86400	IN	NS	ns.indiarailinfo.com.
+ns.indiarailinfo.com.	518400	IN	A	206.128.173.109
+
+indiarailinfo.com.	518400	IN	A	64.38.144.115

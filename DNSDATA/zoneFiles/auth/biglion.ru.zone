@@ -1,0 +1,6 @@
+
+biglion.ru.	86400	IN	SOA	ns.biglion.ru.	mail	2019061702 1800 900 604800 86400
+biglion.ru.	86400	IN	NS	ns.biglion.ru.
+ns.biglion.ru.	518400	IN	A	173.245.58.100
+
+biglion.ru.	518400	IN	A	178.248.234.2

@@ -1,0 +1,6 @@
+
+himasoku.com.	86400	IN	SOA	ns.himasoku.com.	mail	2019061702 1800 900 604800 86400
+himasoku.com.	86400	IN	NS	ns.himasoku.com.
+ns.himasoku.com.	518400	IN	A	216.239.32.29
+
+himasoku.com.	518400	IN	A	203.104.130.159

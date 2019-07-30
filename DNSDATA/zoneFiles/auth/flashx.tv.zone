@@ -1,0 +1,6 @@
+
+flashx.tv.	86400	IN	SOA	ns.flashx.tv.	mail	2019061702 1800 900 604800 86400
+flashx.tv.	86400	IN	NS	ns.flashx.tv.
+ns.flashx.tv.	518400	IN	A	200.201.165.253
+
+flashx.tv.	518400	IN	A	95.153.31.55

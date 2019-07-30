@@ -1,0 +1,6 @@
+
+edmodo.com.	86400	IN	SOA	ns.edmodo.com.	mail	2019061702 1800 900 604800 86400
+edmodo.com.	86400	IN	NS	ns.edmodo.com.
+ns.edmodo.com.	518400	IN	A	216.239.32.106
+
+edmodo.com.	518400	IN	A	52.88.124.230

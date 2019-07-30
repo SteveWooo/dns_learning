@@ -1,0 +1,6 @@
+
+hstpnetwork.com.	86400	IN	SOA	ns.hstpnetwork.com.	mail	2019061702 1800 900 604800 86400
+hstpnetwork.com.	86400	IN	NS	ns.hstpnetwork.com.
+ns.hstpnetwork.com.	518400	IN	A	205.251.192.29
+
+hstpnetwork.com.	518400	IN	A	148.69.64.76

@@ -1,0 +1,6 @@
+
+drive2.ru.	86400	IN	SOA	ns.drive2.ru.	mail	2019061702 1800 900 604800 86400
+drive2.ru.	86400	IN	NS	ns.drive2.ru.
+ns.drive2.ru.	518400	IN	A	206.128.173.109
+
+drive2.ru.	518400	IN	A	146.255.192.75

@@ -1,0 +1,6 @@
+
+bigcartel.com.	86400	IN	SOA	ns.bigcartel.com.	mail	2019061702 1800 900 604800 86400
+bigcartel.com.	86400	IN	NS	ns.bigcartel.com.
+ns.bigcartel.com.	518400	IN	A	208.78.70.47
+
+bigcartel.com.	518400	IN	A	151.101.193.211

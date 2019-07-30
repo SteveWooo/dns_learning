@@ -1,0 +1,6 @@
+
+clickhole.com.	86400	IN	SOA	ns.clickhole.com.	mail	2019061702 1800 900 604800 86400
+clickhole.com.	86400	IN	NS	ns.clickhole.com.
+ns.clickhole.com.	518400	IN	A	200.219.154.10
+
+clickhole.com.	518400	IN	A	151.101.130.166

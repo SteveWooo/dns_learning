@@ -1,0 +1,6 @@
+
+cvent.com.	86400	IN	SOA	ns.cvent.com.	mail	2019061702 1800 900 604800 86400
+cvent.com.	86400	IN	NS	ns.cvent.com.
+ns.cvent.com.	518400	IN	A	202.56.230.5
+
+cvent.com.	518400	IN	A	192.190.92.17

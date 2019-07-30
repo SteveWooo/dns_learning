@@ -1,0 +1,6 @@
+
+yr.no.	86400	IN	SOA	ns.yr.no.	mail	2019061702 1800 900 604800 86400
+yr.no.	86400	IN	NS	ns.yr.no.
+ns.yr.no.	518400	IN	A	216.239.32.29
+
+yr.no.	518400	IN	A	160.68.205.237

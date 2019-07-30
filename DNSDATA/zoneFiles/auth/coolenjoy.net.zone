@@ -1,0 +1,6 @@
+
+coolenjoy.net.	86400	IN	SOA	ns.coolenjoy.net.	mail	2019061702 1800 900 604800 86400
+coolenjoy.net.	86400	IN	NS	ns.coolenjoy.net.
+ns.coolenjoy.net.	518400	IN	A	205.251.195.203
+
+coolenjoy.net.	518400	IN	A	210.105.192.126

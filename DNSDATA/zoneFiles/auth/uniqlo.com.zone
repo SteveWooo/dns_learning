@@ -1,0 +1,6 @@
+
+uniqlo.com.	86400	IN	SOA	ns.uniqlo.com.	mail	2019061702 1800 900 604800 86400
+uniqlo.com.	86400	IN	NS	ns.uniqlo.com.
+ns.uniqlo.com.	518400	IN	A	216.239.32.29
+
+uniqlo.com.	518400	IN	A	52.193.235.196

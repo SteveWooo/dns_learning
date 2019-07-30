@@ -1,0 +1,6 @@
+
+lotte.com.	86400	IN	SOA	ns.lotte.com.	mail	2019061702 1800 900 604800 86400
+lotte.com.	86400	IN	NS	ns.lotte.com.
+ns.lotte.com.	518400	IN	A	157.255.246.101
+
+lotte.com.	518400	IN	A	52.219.60.56

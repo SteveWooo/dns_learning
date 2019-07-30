@@ -1,0 +1,6 @@
+
+meetic.fr.	86400	IN	SOA	ns.meetic.fr.	mail	2019061702 1800 900 604800 86400
+meetic.fr.	86400	IN	NS	ns.meetic.fr.
+ns.meetic.fr.	518400	IN	A	217.69.139.202
+
+meetic.fr.	518400	IN	A	62.23.26.24

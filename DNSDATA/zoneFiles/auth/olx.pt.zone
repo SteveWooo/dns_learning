@@ -1,0 +1,6 @@
+
+olx.pt.	86400	IN	SOA	ns.olx.pt.	mail	2019061702 1800 900 604800 86400
+olx.pt.	86400	IN	NS	ns.olx.pt.
+ns.olx.pt.	518400	IN	A	216.239.32.106
+
+olx.pt.	518400	IN	A	13.224.2.14

@@ -1,0 +1,2863 @@
+
+net.	86400	IN	SOA	ns.net.	mail	2019061702 1800 900 604800 86400
+net.	86400	IN	NS	ns.net.
+ns.net.	518400	IN	A	192.5.6.30
+
+forumcommunity.net.	86400	IN	NS	ns.forumcommunity.net.
+ns.forumcommunity.net.	518400	IN	A	2.16.130.64
+
+minecraftforum.net.	86400	IN	NS	ns.minecraftforum.net.
+ns.minecraftforum.net.	518400	IN	A	2.16.130.64
+
+pixiv.net.	86400	IN	NS	ns.pixiv.net.
+ns.pixiv.net.	518400	IN	A	2.16.130.64
+
+elitetorrent.net.	86400	IN	NS	ns.elitetorrent.net.
+ns.elitetorrent.net.	518400	IN	A	2.16.130.64
+
+alarabiya.net.	86400	IN	NS	ns.alarabiya.net.
+ns.alarabiya.net.	518400	IN	A	2.16.130.64
+
+manhunt.net.	86400	IN	NS	ns.manhunt.net.
+ns.manhunt.net.	518400	IN	A	2.16.130.64
+
+eenadu.net.	86400	IN	NS	ns.eenadu.net.
+ns.eenadu.net.	518400	IN	A	2.16.130.64
+
+newsmth.net.	86400	IN	NS	ns.newsmth.net.
+ns.newsmth.net.	518400	IN	A	2.16.130.64
+
+eurogamer.net.	86400	IN	NS	ns.eurogamer.net.
+ns.eurogamer.net.	518400	IN	A	2.16.130.64
+
+whois.net.	86400	IN	NS	ns.whois.net.
+ns.whois.net.	518400	IN	A	2.16.130.64
+
+popads.net.	86400	IN	NS	ns.popads.net.
+ns.popads.net.	518400	IN	A	2.16.130.64
+
+seriesflv.net.	86400	IN	NS	ns.seriesflv.net.
+ns.seriesflv.net.	518400	IN	A	2.16.130.64
+
+serebii.net.	86400	IN	NS	ns.serebii.net.
+ns.serebii.net.	518400	IN	A	2.16.130.64
+
+graphicriver.net.	86400	IN	NS	ns.graphicriver.net.
+ns.graphicriver.net.	518400	IN	A	2.16.130.64
+
+commentcamarche.net.	86400	IN	NS	ns.commentcamarche.net.
+ns.commentcamarche.net.	518400	IN	A	2.16.130.64
+
+leadpages.net.	86400	IN	NS	ns.leadpages.net.
+ns.leadpages.net.	518400	IN	A	2.16.130.64
+
+i-gamer.net.	86400	IN	NS	ns.i-gamer.net.
+ns.i-gamer.net.	518400	IN	A	2.16.130.64
+
+adssend.net.	86400	IN	NS	ns.adssend.net.
+ns.adssend.net.	518400	IN	A	23.211.61.66
+
+shufoo.net.	86400	IN	NS	ns.shufoo.net.
+ns.shufoo.net.	518400	IN	A	23.211.61.66
+
+explosm.net.	86400	IN	NS	ns.explosm.net.
+ns.explosm.net.	518400	IN	A	23.211.61.66
+
+jalan.net.	86400	IN	NS	ns.jalan.net.
+ns.jalan.net.	518400	IN	A	23.211.61.66
+
+earthlink.net.	86400	IN	NS	ns.earthlink.net.
+ns.earthlink.net.	518400	IN	A	23.211.61.66
+
+fmworld.net.	86400	IN	NS	ns.fmworld.net.
+ns.fmworld.net.	518400	IN	A	23.211.61.66
+
+notebookcheck.net.	86400	IN	NS	ns.notebookcheck.net.
+ns.notebookcheck.net.	518400	IN	A	23.211.61.66
+
+trackingclick.net.	86400	IN	NS	ns.trackingclick.net.
+ns.trackingclick.net.	518400	IN	A	23.211.61.66
+
+speedtest.net.	86400	IN	NS	ns.speedtest.net.
+ns.speedtest.net.	518400	IN	A	23.211.61.66
+
+filmix.net.	86400	IN	NS	ns.filmix.net.
+ns.filmix.net.	518400	IN	A	23.211.61.66
+
+chinaunix.net.	86400	IN	NS	ns.chinaunix.net.
+ns.chinaunix.net.	518400	IN	A	23.211.61.66
+
+comenity.net.	86400	IN	NS	ns.comenity.net.
+ns.comenity.net.	518400	IN	A	23.211.61.66
+
+eenadu.net.	86400	IN	NS	ns.eenadu.net.
+ns.eenadu.net.	518400	IN	A	23.211.61.66
+
+hinet.net.	86400	IN	NS	ns.hinet.net.
+ns.hinet.net.	518400	IN	A	23.211.61.66
+
+cqmama.net.	86400	IN	NS	ns.cqmama.net.
+ns.cqmama.net.	518400	IN	A	23.211.61.66
+
+edline.net.	86400	IN	NS	ns.edline.net.
+ns.edline.net.	518400	IN	A	36.51.252.8
+
+gmx.net.	86400	IN	NS	ns.gmx.net.
+ns.gmx.net.	518400	IN	A	36.51.252.8
+
+eenadu.net.	86400	IN	NS	ns.eenadu.net.
+ns.eenadu.net.	518400	IN	A	36.51.252.8
+
+cosme.net.	86400	IN	NS	ns.cosme.net.
+ns.cosme.net.	518400	IN	A	36.51.252.8
+
+serebii.net.	86400	IN	NS	ns.serebii.net.
+ns.serebii.net.	518400	IN	A	36.51.252.8
+
+39.net.	86400	IN	NS	ns.39.net.
+ns.39.net.	518400	IN	A	36.51.252.8
+
+alarab.net.	86400	IN	NS	ns.alarab.net.
+ns.alarab.net.	518400	IN	A	36.51.252.8
+
+graphicriver.net.	86400	IN	NS	ns.graphicriver.net.
+ns.graphicriver.net.	518400	IN	A	36.51.252.8
+
+mafiashare.net.	86400	IN	NS	ns.mafiashare.net.
+ns.mafiashare.net.	518400	IN	A	36.51.252.8
+
+pixiv.net.	86400	IN	NS	ns.pixiv.net.
+ns.pixiv.net.	518400	IN	A	36.51.252.8
+
+launchpad.net.	86400	IN	NS	ns.launchpad.net.
+ns.launchpad.net.	518400	IN	A	36.51.252.8
+
+desitvforum.net.	86400	IN	NS	ns.desitvforum.net.
+ns.desitvforum.net.	518400	IN	A	36.51.252.8
+
+vnexpress.net.	86400	IN	NS	ns.vnexpress.net.
+ns.vnexpress.net.	518400	IN	A	36.51.252.8
+
+eroterest.net.	86400	IN	NS	ns.eroterest.net.
+ns.eroterest.net.	518400	IN	A	36.51.252.8
+
+adsrvmedia.net.	86400	IN	NS	ns.adsrvmedia.net.
+ns.adsrvmedia.net.	518400	IN	A	36.51.252.8
+
+gossip1.net.	86400	IN	NS	ns.gossip1.net.
+ns.gossip1.net.	518400	IN	A	36.51.252.8
+
+akhbarak.net.	86400	IN	NS	ns.akhbarak.net.
+ns.akhbarak.net.	518400	IN	A	52.164.230.183
+
+fmworld.net.	86400	IN	NS	ns.fmworld.net.
+ns.fmworld.net.	518400	IN	A	52.164.230.183
+
+dopr.net.	86400	IN	NS	ns.dopr.net.
+ns.dopr.net.	518400	IN	A	52.164.230.183
+
+coolenjoy.net.	86400	IN	NS	ns.coolenjoy.net.
+ns.coolenjoy.net.	518400	IN	A	52.164.230.183
+
+hinet.net.	86400	IN	NS	ns.hinet.net.
+ns.hinet.net.	518400	IN	A	52.164.230.183
+
+mightytext.net.	86400	IN	NS	ns.mightytext.net.
+ns.mightytext.net.	518400	IN	A	52.164.230.183
+
+thelisticles.net.	86400	IN	NS	ns.thelisticles.net.
+ns.thelisticles.net.	518400	IN	A	52.164.230.183
+
+hackforums.net.	86400	IN	NS	ns.hackforums.net.
+ns.hackforums.net.	518400	IN	A	52.164.230.183
+
+webassign.net.	86400	IN	NS	ns.webassign.net.
+ns.webassign.net.	518400	IN	A	52.164.230.183
+
+ero-video.net.	86400	IN	NS	ns.ero-video.net.
+ns.ero-video.net.	518400	IN	A	52.164.230.183
+
+jandan.net.	86400	IN	NS	ns.jandan.net.
+ns.jandan.net.	518400	IN	A	52.164.230.183
+
+imgchili.net.	86400	IN	NS	ns.imgchili.net.
+ns.imgchili.net.	518400	IN	A	52.164.230.183
+
+tympanus.net.	86400	IN	NS	ns.tympanus.net.
+ns.tympanus.net.	518400	IN	A	52.164.230.183
+
+dytt8.net.	86400	IN	NS	ns.dytt8.net.
+ns.dytt8.net.	518400	IN	A	58.180.27.231
+
+iis.net.	86400	IN	NS	ns.iis.net.
+ns.iis.net.	518400	IN	A	58.180.27.231
+
+coolenjoy.net.	86400	IN	NS	ns.coolenjoy.net.
+ns.coolenjoy.net.	518400	IN	A	58.180.27.231
+
+turbobit.net.	86400	IN	NS	ns.turbobit.net.
+ns.turbobit.net.	518400	IN	A	58.180.27.231
+
+ntvspor.net.	86400	IN	NS	ns.ntvspor.net.
+ns.ntvspor.net.	518400	IN	A	58.180.27.231
+
+full-stream.net.	86400	IN	NS	ns.full-stream.net.
+ns.full-stream.net.	518400	IN	A	58.180.27.231
+
+default-search.net.	86400	IN	NS	ns.default-search.net.
+ns.default-search.net.	518400	IN	A	58.180.27.231
+
+fishki.net.	86400	IN	NS	ns.fishki.net.
+ns.fishki.net.	518400	IN	A	58.180.27.231
+
+unian.net.	86400	IN	NS	ns.unian.net.
+ns.unian.net.	518400	IN	A	58.180.27.231
+
+surrenderat20.net.	86400	IN	NS	ns.surrenderat20.net.
+ns.surrenderat20.net.	518400	IN	A	58.180.27.231
+
+madpandatv.net.	86400	IN	NS	ns.madpandatv.net.
+ns.madpandatv.net.	518400	IN	A	58.180.27.231
+
+xuite.net.	86400	IN	NS	ns.xuite.net.
+ns.xuite.net.	518400	IN	A	58.180.27.231
+
+serebii.net.	86400	IN	NS	ns.serebii.net.
+ns.serebii.net.	518400	IN	A	58.180.27.231
+
+minecraftforum.net.	86400	IN	NS	ns.minecraftforum.net.
+ns.minecraftforum.net.	518400	IN	A	58.180.27.231
+
+pornolab.net.	86400	IN	NS	ns.pornolab.net.
+ns.pornolab.net.	518400	IN	A	58.180.27.231
+
+17track.net.	86400	IN	NS	ns.17track.net.
+ns.17track.net.	518400	IN	A	58.180.27.231
+
+discas.net.	86400	IN	NS	ns.discas.net.
+ns.discas.net.	518400	IN	A	58.180.27.231
+
+elitetorrent.net.	86400	IN	NS	ns.elitetorrent.net.
+ns.elitetorrent.net.	518400	IN	A	58.180.27.226
+
+att.net.	86400	IN	NS	ns.att.net.
+ns.att.net.	518400	IN	A	58.180.27.226
+
+championselect.net.	86400	IN	NS	ns.championselect.net.
+ns.championselect.net.	518400	IN	A	58.180.27.226
+
+almaghribtoday.net.	86400	IN	NS	ns.almaghribtoday.net.
+ns.almaghribtoday.net.	518400	IN	A	58.180.27.226
+
+eroterest.net.	86400	IN	NS	ns.eroterest.net.
+ns.eroterest.net.	518400	IN	A	58.180.27.226
+
+creativecow.net.	86400	IN	NS	ns.creativecow.net.
+ns.creativecow.net.	518400	IN	A	58.180.27.226
+
+zamunda.net.	86400	IN	NS	ns.zamunda.net.
+ns.zamunda.net.	518400	IN	A	58.180.27.226
+
+recode.net.	86400	IN	NS	ns.recode.net.
+ns.recode.net.	518400	IN	A	58.180.27.226
+
+fakku.net.	86400	IN	NS	ns.fakku.net.
+ns.fakku.net.	518400	IN	A	58.180.27.226
+
+questionablecontent.net.	86400	IN	NS	ns.questionablecontent.net.
+ns.questionablecontent.net.	518400	IN	A	58.180.27.226
+
+infojobs.net.	86400	IN	NS	ns.infojobs.net.
+ns.infojobs.net.	518400	IN	A	58.180.27.226
+
+cnki.net.	86400	IN	NS	ns.cnki.net.
+ns.cnki.net.	518400	IN	A	58.180.27.226
+
+muji.net.	86400	IN	NS	ns.muji.net.
+ns.muji.net.	518400	IN	A	58.180.27.226
+
+paheal.net.	86400	IN	NS	ns.paheal.net.
+ns.paheal.net.	518400	IN	A	58.180.27.226
+
+footmercato.net.	86400	IN	NS	ns.footmercato.net.
+ns.footmercato.net.	518400	IN	A	58.180.27.226
+
+linkshrink.net.	86400	IN	NS	ns.linkshrink.net.
+ns.linkshrink.net.	518400	IN	A	64.106.209.186
+
+acads.net.	86400	IN	NS	ns.acads.net.
+ns.acads.net.	518400	IN	A	64.106.209.186
+
+aljazeera.net.	86400	IN	NS	ns.aljazeera.net.
+ns.aljazeera.net.	518400	IN	A	64.106.209.186
+
+traidnt.net.	86400	IN	NS	ns.traidnt.net.
+ns.traidnt.net.	518400	IN	A	64.106.209.186
+
+filmix.net.	86400	IN	NS	ns.filmix.net.
+ns.filmix.net.	518400	IN	A	64.106.209.186
+
+minecraftforum.net.	86400	IN	NS	ns.minecraftforum.net.
+ns.minecraftforum.net.	518400	IN	A	64.106.209.186
+
+pornolab.net.	86400	IN	NS	ns.pornolab.net.
+ns.pornolab.net.	518400	IN	A	64.106.209.186
+
+imgchili.net.	86400	IN	NS	ns.imgchili.net.
+ns.imgchili.net.	518400	IN	A	64.106.209.186
+
+atlassian.net.	86400	IN	NS	ns.atlassian.net.
+ns.atlassian.net.	518400	IN	A	64.106.209.186
+
+coches.net.	86400	IN	NS	ns.coches.net.
+ns.coches.net.	518400	IN	A	64.106.209.186
+
+gossip1.net.	86400	IN	NS	ns.gossip1.net.
+ns.gossip1.net.	518400	IN	A	64.106.209.186
+
+footmercato.net.	86400	IN	NS	ns.footmercato.net.
+ns.footmercato.net.	518400	IN	A	64.106.209.186
+
+tiexue.net.	86400	IN	NS	ns.tiexue.net.
+ns.tiexue.net.	518400	IN	A	64.106.209.186
+
+akhbarak.net.	86400	IN	NS	ns.akhbarak.net.
+ns.akhbarak.net.	518400	IN	A	64.106.209.186
+
+creativecow.net.	86400	IN	NS	ns.creativecow.net.
+ns.creativecow.net.	518400	IN	A	64.106.209.186
+
+questionablecontent.net.	86400	IN	NS	ns.questionablecontent.net.
+ns.questionablecontent.net.	518400	IN	A	64.106.209.186
+
+coolenjoy.net.	86400	IN	NS	ns.coolenjoy.net.
+ns.coolenjoy.net.	518400	IN	A	64.106.209.186
+
+999120.net.	86400	IN	NS	ns.999120.net.
+ns.999120.net.	518400	IN	A	77.88.55.50
+
+cosme.net.	86400	IN	NS	ns.cosme.net.
+ns.cosme.net.	518400	IN	A	77.88.55.50
+
+isimtescil.net.	86400	IN	NS	ns.isimtescil.net.
+ns.isimtescil.net.	518400	IN	A	77.88.55.50
+
+kdnet.net.	86400	IN	NS	ns.kdnet.net.
+ns.kdnet.net.	518400	IN	A	77.88.55.50
+
+helpscout.net.	86400	IN	NS	ns.helpscout.net.
+ns.helpscout.net.	518400	IN	A	77.88.55.50
+
+ero-video.net.	86400	IN	NS	ns.ero-video.net.
+ns.ero-video.net.	518400	IN	A	77.88.55.50
+
+windows.net.	86400	IN	NS	ns.windows.net.
+ns.windows.net.	518400	IN	A	77.88.55.50
+
+eenadu.net.	86400	IN	NS	ns.eenadu.net.
+ns.eenadu.net.	518400	IN	A	77.88.55.50
+
+comenity.net.	86400	IN	NS	ns.comenity.net.
+ns.comenity.net.	518400	IN	A	77.88.55.50
+
+inquirer.net.	86400	IN	NS	ns.inquirer.net.
+ns.inquirer.net.	518400	IN	A	77.88.55.50
+
+daum.net.	86400	IN	NS	ns.daum.net.
+ns.daum.net.	518400	IN	A	78.40.125.184
+
+kdnet.net.	86400	IN	NS	ns.kdnet.net.
+ns.kdnet.net.	518400	IN	A	78.40.125.184
+
+torcache.net.	86400	IN	NS	ns.torcache.net.
+ns.torcache.net.	518400	IN	A	78.40.125.184
+
+trackingclick.net.	86400	IN	NS	ns.trackingclick.net.
+ns.trackingclick.net.	518400	IN	A	78.40.125.184
+
+tosarang.net.	86400	IN	NS	ns.tosarang.net.
+ns.tosarang.net.	518400	IN	A	78.40.125.184
+
+themeforest.net.	86400	IN	NS	ns.themeforest.net.
+ns.themeforest.net.	518400	IN	A	78.40.125.184
+
+animeflv.net.	86400	IN	NS	ns.animeflv.net.
+ns.animeflv.net.	518400	IN	A	78.40.125.184
+
+footmercato.net.	86400	IN	NS	ns.footmercato.net.
+ns.footmercato.net.	518400	IN	A	78.40.125.184
+
+gogetlinks.net.	86400	IN	NS	ns.gogetlinks.net.
+ns.gogetlinks.net.	518400	IN	A	78.40.125.184
+
+finanzen.net.	86400	IN	NS	ns.finanzen.net.
+ns.finanzen.net.	518400	IN	A	78.40.125.184
+
+helpscout.net.	86400	IN	NS	ns.helpscout.net.
+ns.helpscout.net.	518400	IN	A	78.40.125.184
+
+oneplus.net.	86400	IN	NS	ns.oneplus.net.
+ns.oneplus.net.	518400	IN	A	78.40.125.184
+
+imgchili.net.	86400	IN	NS	ns.imgchili.net.
+ns.imgchili.net.	518400	IN	A	81.19.73.180
+
+mightytext.net.	86400	IN	NS	ns.mightytext.net.
+ns.mightytext.net.	518400	IN	A	81.19.73.180
+
+themeforest.net.	86400	IN	NS	ns.themeforest.net.
+ns.themeforest.net.	518400	IN	A	81.19.73.180
+
+gmx.net.	86400	IN	NS	ns.gmx.net.
+ns.gmx.net.	518400	IN	A	81.19.73.180
+
+desitvforum.net.	86400	IN	NS	ns.desitvforum.net.
+ns.desitvforum.net.	518400	IN	A	81.19.73.180
+
+photodune.net.	86400	IN	NS	ns.photodune.net.
+ns.photodune.net.	518400	IN	A	81.19.73.180
+
+speedtest.net.	86400	IN	NS	ns.speedtest.net.
+ns.speedtest.net.	518400	IN	A	81.19.73.180
+
+cosme.net.	86400	IN	NS	ns.cosme.net.
+ns.cosme.net.	518400	IN	A	81.19.73.180
+
+paheal.net.	86400	IN	NS	ns.paheal.net.
+ns.paheal.net.	518400	IN	A	81.19.73.180
+
+slickdeals.net.	86400	IN	NS	ns.slickdeals.net.
+ns.slickdeals.net.	518400	IN	A	81.19.73.180
+
+taleo.net.	86400	IN	NS	ns.taleo.net.
+ns.taleo.net.	518400	IN	A	81.19.73.180
+
+2ch.net.	86400	IN	NS	ns.2ch.net.
+ns.2ch.net.	518400	IN	A	81.19.73.180
+
+kdnet.net.	86400	IN	NS	ns.kdnet.net.
+ns.kdnet.net.	518400	IN	A	81.19.82.2
+
+checkpagerank.net.	86400	IN	NS	ns.checkpagerank.net.
+ns.checkpagerank.net.	518400	IN	A	81.19.82.2
+
+letitbit.net.	86400	IN	NS	ns.letitbit.net.
+ns.letitbit.net.	518400	IN	A	81.19.82.2
+
+dpstream.net.	86400	IN	NS	ns.dpstream.net.
+ns.dpstream.net.	518400	IN	A	81.19.82.2
+
+id.net.	86400	IN	NS	ns.id.net.
+ns.id.net.	518400	IN	A	81.19.82.2
+
+f-picture.net.	86400	IN	NS	ns.f-picture.net.
+ns.f-picture.net.	518400	IN	A	81.19.82.2
+
+webassign.net.	86400	IN	NS	ns.webassign.net.
+ns.webassign.net.	518400	IN	A	81.19.82.2
+
+oschina.net.	86400	IN	NS	ns.oschina.net.
+ns.oschina.net.	518400	IN	A	81.19.82.2
+
+videohive.net.	86400	IN	NS	ns.videohive.net.
+ns.videohive.net.	518400	IN	A	81.19.82.2
+
+hypergames.net.	86400	IN	NS	ns.hypergames.net.
+ns.hypergames.net.	518400	IN	A	81.19.82.2
+
+minecraftforum.net.	86400	IN	NS	ns.minecraftforum.net.
+ns.minecraftforum.net.	518400	IN	A	81.19.82.2
+
+hugefiles.net.	86400	IN	NS	ns.hugefiles.net.
+ns.hugefiles.net.	518400	IN	A	81.19.82.2
+
+alternativeto.net.	86400	IN	NS	ns.alternativeto.net.
+ns.alternativeto.net.	518400	IN	A	81.19.82.2
+
+desirulez.net.	86400	IN	NS	ns.desirulez.net.
+ns.desirulez.net.	518400	IN	A	81.19.82.2
+
+finanzen.net.	86400	IN	NS	ns.finanzen.net.
+ns.finanzen.net.	518400	IN	A	81.19.82.2
+
+fmworld.net.	86400	IN	NS	ns.fmworld.net.
+ns.fmworld.net.	518400	IN	A	81.19.82.2
+
+expireddomains.net.	86400	IN	NS	ns.expireddomains.net.
+ns.expireddomains.net.	518400	IN	A	83.143.25.220
+
+fmworld.net.	86400	IN	NS	ns.fmworld.net.
+ns.fmworld.net.	518400	IN	A	83.143.25.220
+
+thelisticles.net.	86400	IN	NS	ns.thelisticles.net.
+ns.thelisticles.net.	518400	IN	A	83.143.25.220
+
+codecanyon.net.	86400	IN	NS	ns.codecanyon.net.
+ns.codecanyon.net.	518400	IN	A	83.143.25.220
+
+windows.net.	86400	IN	NS	ns.windows.net.
+ns.windows.net.	518400	IN	A	83.143.25.220
+
+hackforums.net.	86400	IN	NS	ns.hackforums.net.
+ns.hackforums.net.	518400	IN	A	83.143.25.220
+
+mafiashare.net.	86400	IN	NS	ns.mafiashare.net.
+ns.mafiashare.net.	518400	IN	A	83.143.25.220
+
+tobogo.net.	86400	IN	NS	ns.tobogo.net.
+ns.tobogo.net.	518400	IN	A	83.143.25.220
+
+taleo.net.	86400	IN	NS	ns.taleo.net.
+ns.taleo.net.	518400	IN	A	83.143.25.220
+
+infojobs.net.	86400	IN	NS	ns.infojobs.net.
+ns.infojobs.net.	518400	IN	A	83.143.25.220
+
+ngoisao.net.	86400	IN	NS	ns.ngoisao.net.
+ns.ngoisao.net.	518400	IN	A	83.143.25.220
+
+lowyat.net.	86400	IN	NS	ns.lowyat.net.
+ns.lowyat.net.	518400	IN	A	83.143.25.220
+
+tusfiles.net.	86400	IN	NS	ns.tusfiles.net.
+ns.tusfiles.net.	518400	IN	A	83.143.25.220
+
+daum.net.	86400	IN	NS	ns.daum.net.
+ns.daum.net.	518400	IN	A	83.143.25.220
+
+ettoday.net.	86400	IN	NS	ns.ettoday.net.
+ns.ettoday.net.	518400	IN	A	83.143.25.220
+
+edline.net.	86400	IN	NS	ns.edline.net.
+ns.edline.net.	518400	IN	A	83.143.25.220
+
+fanfiction.net.	86400	IN	NS	ns.fanfiction.net.
+ns.fanfiction.net.	518400	IN	A	83.143.25.220
+
+pixiv.net.	86400	IN	NS	ns.pixiv.net.
+ns.pixiv.net.	518400	IN	A	83.143.25.220
+
+adsrvmedia.net.	86400	IN	NS	ns.adsrvmedia.net.
+ns.adsrvmedia.net.	518400	IN	A	83.143.25.220
+
+bestones.net.	86400	IN	NS	ns.bestones.net.
+ns.bestones.net.	518400	IN	A	83.143.25.220
+
+turbobit.net.	86400	IN	NS	ns.turbobit.net.
+ns.turbobit.net.	518400	IN	A	83.143.25.220
+
+popcash.net.	86400	IN	NS	ns.popcash.net.
+ns.popcash.net.	518400	IN	A	83.143.25.220
+
+cqmama.net.	86400	IN	NS	ns.cqmama.net.
+ns.cqmama.net.	518400	IN	A	83.143.25.220
+
+alarabiya.net.	86400	IN	NS	ns.alarabiya.net.
+ns.alarabiya.net.	518400	IN	A	87.240.131.131
+
+2ch.net.	86400	IN	NS	ns.2ch.net.
+ns.2ch.net.	518400	IN	A	87.240.131.131
+
+ngoisao.net.	86400	IN	NS	ns.ngoisao.net.
+ns.ngoisao.net.	518400	IN	A	87.240.131.131
+
+letitbit.net.	86400	IN	NS	ns.letitbit.net.
+ns.letitbit.net.	518400	IN	A	87.240.131.131
+
+pornolab.net.	86400	IN	NS	ns.pornolab.net.
+ns.pornolab.net.	518400	IN	A	87.240.131.131
+
+paheal.net.	86400	IN	NS	ns.paheal.net.
+ns.paheal.net.	518400	IN	A	87.240.131.131
+
+adssend.net.	86400	IN	NS	ns.adssend.net.
+ns.adssend.net.	518400	IN	A	87.240.131.131
+
+elitetorrent.net.	86400	IN	NS	ns.elitetorrent.net.
+ns.elitetorrent.net.	518400	IN	A	87.240.131.131
+
+linkshrink.net.	86400	IN	NS	ns.linkshrink.net.
+ns.linkshrink.net.	518400	IN	A	87.240.131.131
+
+dpstream.net.	86400	IN	NS	ns.dpstream.net.
+ns.dpstream.net.	518400	IN	A	87.240.131.131
+
+nicozon.net.	86400	IN	NS	ns.nicozon.net.
+ns.nicozon.net.	518400	IN	A	87.240.131.131
+
+overclock.net.	86400	IN	NS	ns.overclock.net.
+ns.overclock.net.	518400	IN	A	87.240.131.131
+
+megaoferta.net.	86400	IN	NS	ns.megaoferta.net.
+ns.megaoferta.net.	518400	IN	A	87.240.131.131
+
+filmix.net.	86400	IN	NS	ns.filmix.net.
+ns.filmix.net.	518400	IN	A	87.240.131.131
+
+filmesonlinegratis.net.	86400	IN	NS	ns.filmesonlinegratis.net.
+ns.filmesonlinegratis.net.	518400	IN	A	87.250.250.1
+
+desirulez.net.	86400	IN	NS	ns.desirulez.net.
+ns.desirulez.net.	518400	IN	A	87.250.250.1
+
+turbobit.net.	86400	IN	NS	ns.turbobit.net.
+ns.turbobit.net.	518400	IN	A	87.250.250.1
+
+ali213.net.	86400	IN	NS	ns.ali213.net.
+ns.ali213.net.	518400	IN	A	87.250.250.1
+
+optimum.net.	86400	IN	NS	ns.optimum.net.
+ns.optimum.net.	518400	IN	A	87.250.250.1
+
+ecplaza.net.	86400	IN	NS	ns.ecplaza.net.
+ns.ecplaza.net.	518400	IN	A	87.250.250.1
+
+coneco.net.	86400	IN	NS	ns.coneco.net.
+ns.coneco.net.	518400	IN	A	87.250.250.1
+
+earthlink.net.	86400	IN	NS	ns.earthlink.net.
+ns.earthlink.net.	518400	IN	A	87.250.250.1
+
+acads.net.	86400	IN	NS	ns.acads.net.
+ns.acads.net.	518400	IN	A	87.250.250.1
+
+csdn.net.	86400	IN	NS	ns.csdn.net.
+ns.csdn.net.	518400	IN	A	87.250.250.1
+
+consumer-feedback.net.	86400	IN	NS	ns.consumer-feedback.net.
+ns.consumer-feedback.net.	518400	IN	A	87.250.250.1
+
+gigazine.net.	86400	IN	NS	ns.gigazine.net.
+ns.gigazine.net.	518400	IN	A	87.250.250.1
+
+php.net.	86400	IN	NS	ns.php.net.
+ns.php.net.	518400	IN	A	87.250.250.1
+
+tobogo.net.	86400	IN	NS	ns.tobogo.net.
+ns.tobogo.net.	518400	IN	A	87.250.250.1
+
+notebookcheck.net.	86400	IN	NS	ns.notebookcheck.net.
+ns.notebookcheck.net.	518400	IN	A	87.250.250.1
+
+p5w.net.	86400	IN	NS	ns.p5w.net.
+ns.p5w.net.	518400	IN	A	87.250.250.1
+
+kinogo.net.	86400	IN	NS	ns.kinogo.net.
+ns.kinogo.net.	518400	IN	A	87.250.250.1
+
+toyokeizai.net.	86400	IN	NS	ns.toyokeizai.net.
+ns.toyokeizai.net.	518400	IN	A	87.250.250.1
+
+atlassian.net.	86400	IN	NS	ns.atlassian.net.
+ns.atlassian.net.	518400	IN	A	92.242.43.216
+
+tympanus.net.	86400	IN	NS	ns.tympanus.net.
+ns.tympanus.net.	518400	IN	A	92.242.43.216
+
+mediatemple.net.	86400	IN	NS	ns.mediatemple.net.
+ns.mediatemple.net.	518400	IN	A	92.242.43.216
+
+full-stream.net.	86400	IN	NS	ns.full-stream.net.
+ns.full-stream.net.	518400	IN	A	92.242.43.216
+
+tebyan.net.	86400	IN	NS	ns.tebyan.net.
+ns.tebyan.net.	518400	IN	A	92.242.43.216
+
+gfxtra1.net.	86400	IN	NS	ns.gfxtra1.net.
+ns.gfxtra1.net.	518400	IN	A	92.242.43.216
+
+dytt8.net.	86400	IN	NS	ns.dytt8.net.
+ns.dytt8.net.	518400	IN	A	92.242.43.216
+
+oschina.net.	86400	IN	NS	ns.oschina.net.
+ns.oschina.net.	518400	IN	A	92.242.43.216
+
+tweakers.net.	86400	IN	NS	ns.tweakers.net.
+ns.tweakers.net.	518400	IN	A	92.242.43.216
+
+girlschannel.net.	86400	IN	NS	ns.girlschannel.net.
+ns.girlschannel.net.	518400	IN	A	92.242.43.216
+
+onclickads.net.	86400	IN	NS	ns.onclickads.net.
+ns.onclickads.net.	518400	IN	A	92.242.43.216
+
+dopr.net.	86400	IN	NS	ns.dopr.net.
+ns.dopr.net.	518400	IN	A	92.242.43.216
+
+traidnt.net.	86400	IN	NS	ns.traidnt.net.
+ns.traidnt.net.	518400	IN	A	92.242.43.216
+
+hypergames.net.	86400	IN	NS	ns.hypergames.net.
+ns.hypergames.net.	518400	IN	A	92.242.43.216
+
+lolking.net.	86400	IN	NS	ns.lolking.net.
+ns.lolking.net.	518400	IN	A	93.186.225.193
+
+overclock.net.	86400	IN	NS	ns.overclock.net.
+ns.overclock.net.	518400	IN	A	93.186.225.193
+
+turbobit.net.	86400	IN	NS	ns.turbobit.net.
+ns.turbobit.net.	518400	IN	A	93.186.225.193
+
+fanfiction.net.	86400	IN	NS	ns.fanfiction.net.
+ns.fanfiction.net.	518400	IN	A	93.186.225.193
+
+championselect.net.	86400	IN	NS	ns.championselect.net.
+ns.championselect.net.	518400	IN	A	93.186.225.193
+
+popads.net.	86400	IN	NS	ns.popads.net.
+ns.popads.net.	518400	IN	A	93.186.225.193
+
+webassign.net.	86400	IN	NS	ns.webassign.net.
+ns.webassign.net.	518400	IN	A	93.186.225.193
+
+seesaa.net.	86400	IN	NS	ns.seesaa.net.
+ns.seesaa.net.	518400	IN	A	93.186.225.193
+
+linkshrink.net.	86400	IN	NS	ns.linkshrink.net.
+ns.linkshrink.net.	518400	IN	A	93.186.225.193
+
+launchpad.net.	86400	IN	NS	ns.launchpad.net.
+ns.launchpad.net.	518400	IN	A	93.186.225.193
+
+megafilmeshd.net.	86400	IN	NS	ns.megafilmeshd.net.
+ns.megafilmeshd.net.	518400	IN	A	93.186.225.193
+
+full-stream.net.	86400	IN	NS	ns.full-stream.net.
+ns.full-stream.net.	518400	IN	A	93.186.225.193
+
+eenadu.net.	86400	IN	NS	ns.eenadu.net.
+ns.eenadu.net.	518400	IN	A	104.40.210.25
+
+explosm.net.	86400	IN	NS	ns.explosm.net.
+ns.explosm.net.	518400	IN	A	104.40.210.25
+
+thelisticles.net.	86400	IN	NS	ns.thelisticles.net.
+ns.thelisticles.net.	518400	IN	A	104.40.210.25
+
+commentcamarche.net.	86400	IN	NS	ns.commentcamarche.net.
+ns.commentcamarche.net.	518400	IN	A	104.40.210.25
+
+f-picture.net.	86400	IN	NS	ns.f-picture.net.
+ns.f-picture.net.	518400	IN	A	104.40.210.25
+
+sucuri.net.	86400	IN	NS	ns.sucuri.net.
+ns.sucuri.net.	518400	IN	A	104.40.210.25
+
+memurlar.net.	86400	IN	NS	ns.memurlar.net.
+ns.memurlar.net.	518400	IN	A	104.40.210.25
+
+neowin.net.	86400	IN	NS	ns.neowin.net.
+ns.neowin.net.	518400	IN	A	104.40.210.25
+
+leadpages.net.	86400	IN	NS	ns.leadpages.net.
+ns.leadpages.net.	518400	IN	A	104.40.210.25
+
+i-gamer.net.	86400	IN	NS	ns.i-gamer.net.
+ns.i-gamer.net.	518400	IN	A	104.40.210.25
+
+girlschannel.net.	86400	IN	NS	ns.girlschannel.net.
+ns.girlschannel.net.	518400	IN	A	104.40.210.25
+
+notebookcheck.net.	86400	IN	NS	ns.notebookcheck.net.
+ns.notebookcheck.net.	518400	IN	A	104.40.210.25
+
+earthlink.net.	86400	IN	NS	ns.earthlink.net.
+ns.earthlink.net.	518400	IN	A	104.40.210.25
+
+p5w.net.	86400	IN	NS	ns.p5w.net.
+ns.p5w.net.	518400	IN	A	104.40.210.25
+
+linkshrink.net.	86400	IN	NS	ns.linkshrink.net.
+ns.linkshrink.net.	518400	IN	A	104.40.210.25
+
+reverso.net.	86400	IN	NS	ns.reverso.net.
+ns.reverso.net.	518400	IN	A	104.40.210.25
+
+footmercato.net.	86400	IN	NS	ns.footmercato.net.
+ns.footmercato.net.	518400	IN	A	104.40.210.25
+
+checkpagerank.net.	86400	IN	NS	ns.checkpagerank.net.
+ns.checkpagerank.net.	518400	IN	A	104.40.210.25
+
+paheal.net.	86400	IN	NS	ns.paheal.net.
+ns.paheal.net.	518400	IN	A	111.202.126.2
+
+almaghribtoday.net.	86400	IN	NS	ns.almaghribtoday.net.
+ns.almaghribtoday.net.	518400	IN	A	111.202.126.2
+
+webassign.net.	86400	IN	NS	ns.webassign.net.
+ns.webassign.net.	518400	IN	A	111.202.126.2
+
+overclock.net.	86400	IN	NS	ns.overclock.net.
+ns.overclock.net.	518400	IN	A	111.202.126.2
+
+pchome.net.	86400	IN	NS	ns.pchome.net.
+ns.pchome.net.	518400	IN	A	111.202.126.2
+
+bulbagarden.net.	86400	IN	NS	ns.bulbagarden.net.
+ns.bulbagarden.net.	518400	IN	A	111.202.126.2
+
+jsfiddle.net.	86400	IN	NS	ns.jsfiddle.net.
+ns.jsfiddle.net.	518400	IN	A	111.202.126.2
+
+tweakers.net.	86400	IN	NS	ns.tweakers.net.
+ns.tweakers.net.	518400	IN	A	111.202.126.2
+
+jkforum.net.	86400	IN	NS	ns.jkforum.net.
+ns.jkforum.net.	518400	IN	A	111.202.126.2
+
+popcash.net.	86400	IN	NS	ns.popcash.net.
+ns.popcash.net.	518400	IN	A	111.202.126.2
+
+lavozdelmuro.net.	86400	IN	NS	ns.lavozdelmuro.net.
+ns.lavozdelmuro.net.	518400	IN	A	111.202.126.2
+
+muji.net.	86400	IN	NS	ns.muji.net.
+ns.muji.net.	518400	IN	A	111.202.126.2
+
+thelisticles.net.	86400	IN	NS	ns.thelisticles.net.
+ns.thelisticles.net.	518400	IN	A	111.202.126.2
+
+cnki.net.	86400	IN	NS	ns.cnki.net.
+ns.cnki.net.	518400	IN	A	111.202.126.2
+
+17track.net.	86400	IN	NS	ns.17track.net.
+ns.17track.net.	518400	IN	A	111.206.53.6
+
+checkpagerank.net.	86400	IN	NS	ns.checkpagerank.net.
+ns.checkpagerank.net.	518400	IN	A	111.206.53.6
+
+ngoisao.net.	86400	IN	NS	ns.ngoisao.net.
+ns.ngoisao.net.	518400	IN	A	111.206.53.6
+
+imgchili.net.	86400	IN	NS	ns.imgchili.net.
+ns.imgchili.net.	518400	IN	A	111.206.53.6
+
+39.net.	86400	IN	NS	ns.39.net.
+ns.39.net.	518400	IN	A	111.206.53.6
+
+ero-video.net.	86400	IN	NS	ns.ero-video.net.
+ns.ero-video.net.	518400	IN	A	111.206.53.6
+
+animeflv.net.	86400	IN	NS	ns.animeflv.net.
+ns.animeflv.net.	518400	IN	A	111.206.53.6
+
+movshare.net.	86400	IN	NS	ns.movshare.net.
+ns.movshare.net.	518400	IN	A	111.206.53.6
+
+adssend.net.	86400	IN	NS	ns.adssend.net.
+ns.adssend.net.	518400	IN	A	111.206.53.6
+
+nicozon.net.	86400	IN	NS	ns.nicozon.net.
+ns.nicozon.net.	518400	IN	A	111.206.53.6
+
+bulbagarden.net.	86400	IN	NS	ns.bulbagarden.net.
+ns.bulbagarden.net.	518400	IN	A	111.206.53.6
+
+sourceforge.net.	86400	IN	NS	ns.sourceforge.net.
+ns.sourceforge.net.	518400	IN	A	111.206.53.6
+
+desitvforum.net.	86400	IN	NS	ns.desitvforum.net.
+ns.desitvforum.net.	518400	IN	A	111.206.53.6
+
+gogetlinks.net.	86400	IN	NS	ns.gogetlinks.net.
+ns.gogetlinks.net.	518400	IN	A	112.133.230.192
+
+seriesflv.net.	86400	IN	NS	ns.seriesflv.net.
+ns.seriesflv.net.	518400	IN	A	112.133.230.192
+
+desirulez.net.	86400	IN	NS	ns.desirulez.net.
+ns.desirulez.net.	518400	IN	A	112.133.230.192
+
+taringa.net.	86400	IN	NS	ns.taringa.net.
+ns.taringa.net.	518400	IN	A	112.133.230.192
+
+bestones.net.	86400	IN	NS	ns.bestones.net.
+ns.bestones.net.	518400	IN	A	112.133.230.192
+
+codecanyon.net.	86400	IN	NS	ns.codecanyon.net.
+ns.codecanyon.net.	518400	IN	A	112.133.230.192
+
+bravotube.net.	86400	IN	NS	ns.bravotube.net.
+ns.bravotube.net.	518400	IN	A	112.133.230.192
+
+ero-video.net.	86400	IN	NS	ns.ero-video.net.
+ns.ero-video.net.	518400	IN	A	112.133.230.192
+
+gamgos.net.	86400	IN	NS	ns.gamgos.net.
+ns.gamgos.net.	518400	IN	A	112.133.230.192
+
+championselect.net.	86400	IN	NS	ns.championselect.net.
+ns.championselect.net.	518400	IN	A	112.133.230.192
+
+edline.net.	86400	IN	NS	ns.edline.net.
+ns.edline.net.	518400	IN	A	112.133.230.192
+
+clien.net.	86400	IN	NS	ns.clien.net.
+ns.clien.net.	518400	IN	A	112.133.230.192
+
+mangareader.net.	86400	IN	NS	ns.mangareader.net.
+ns.mangareader.net.	518400	IN	A	112.133.230.192
+
+optimum.net.	86400	IN	NS	ns.optimum.net.
+ns.optimum.net.	518400	IN	A	125.208.45.1
+
+allmyvideos.net.	86400	IN	NS	ns.allmyvideos.net.
+ns.allmyvideos.net.	518400	IN	A	125.208.45.1
+
+gfxtra1.net.	86400	IN	NS	ns.gfxtra1.net.
+ns.gfxtra1.net.	518400	IN	A	125.208.45.1
+
+xuite.net.	86400	IN	NS	ns.xuite.net.
+ns.xuite.net.	518400	IN	A	125.208.45.1
+
+stylene.net.	86400	IN	NS	ns.stylene.net.
+ns.stylene.net.	518400	IN	A	125.208.45.1
+
+graphicriver.net.	86400	IN	NS	ns.graphicriver.net.
+ns.graphicriver.net.	518400	IN	A	125.208.45.1
+
+tobogo.net.	86400	IN	NS	ns.tobogo.net.
+ns.tobogo.net.	518400	IN	A	125.208.45.1
+
+webassign.net.	86400	IN	NS	ns.webassign.net.
+ns.webassign.net.	518400	IN	A	125.208.45.1
+
+adssend.net.	86400	IN	NS	ns.adssend.net.
+ns.adssend.net.	518400	IN	A	125.208.45.1
+
+seosprint.net.	86400	IN	NS	ns.seosprint.net.
+ns.seosprint.net.	518400	IN	A	125.208.45.1
+
+expireddomains.net.	86400	IN	NS	ns.expireddomains.net.
+ns.expireddomains.net.	518400	IN	A	125.208.45.1
+
+tusfiles.net.	86400	IN	NS	ns.tusfiles.net.
+ns.tusfiles.net.	518400	IN	A	125.208.45.1
+
+asp.net.	86400	IN	NS	ns.asp.net.
+ns.asp.net.	518400	IN	A	125.208.45.1
+
+daum.net.	86400	IN	NS	ns.daum.net.
+ns.daum.net.	518400	IN	A	125.208.45.1
+
+kdnet.net.	86400	IN	NS	ns.kdnet.net.
+ns.kdnet.net.	518400	IN	A	125.209.248.6
+
+allmyvideos.net.	86400	IN	NS	ns.allmyvideos.net.
+ns.allmyvideos.net.	518400	IN	A	125.209.248.6
+
+cqmama.net.	86400	IN	NS	ns.cqmama.net.
+ns.cqmama.net.	518400	IN	A	125.209.248.6
+
+reverso.net.	86400	IN	NS	ns.reverso.net.
+ns.reverso.net.	518400	IN	A	125.209.248.6
+
+appbank.net.	86400	IN	NS	ns.appbank.net.
+ns.appbank.net.	518400	IN	A	125.209.248.6
+
+photodune.net.	86400	IN	NS	ns.photodune.net.
+ns.photodune.net.	518400	IN	A	125.209.248.6
+
+r10.net.	86400	IN	NS	ns.r10.net.
+ns.r10.net.	518400	IN	A	125.209.248.6
+
+whois.net.	86400	IN	NS	ns.whois.net.
+ns.whois.net.	518400	IN	A	131.0.24.26
+
+sucuri.net.	86400	IN	NS	ns.sucuri.net.
+ns.sucuri.net.	518400	IN	A	131.0.24.26
+
+explosm.net.	86400	IN	NS	ns.explosm.net.
+ns.explosm.net.	518400	IN	A	131.0.24.26
+
+pornolab.net.	86400	IN	NS	ns.pornolab.net.
+ns.pornolab.net.	518400	IN	A	131.0.24.26
+
+bnpparibas.net.	86400	IN	NS	ns.bnpparibas.net.
+ns.bnpparibas.net.	518400	IN	A	131.0.24.26
+
+hypergames.net.	86400	IN	NS	ns.hypergames.net.
+ns.hypergames.net.	518400	IN	A	131.0.24.26
+
+savefrom.net.	86400	IN	NS	ns.savefrom.net.
+ns.savefrom.net.	518400	IN	A	131.0.24.26
+
+akhbarak.net.	86400	IN	NS	ns.akhbarak.net.
+ns.akhbarak.net.	518400	IN	A	131.0.24.26
+
+audiojungle.net.	86400	IN	NS	ns.audiojungle.net.
+ns.audiojungle.net.	518400	IN	A	131.0.24.26
+
+att.net.	86400	IN	NS	ns.att.net.
+ns.att.net.	518400	IN	A	131.0.24.26
+
+n-mobile.net.	86400	IN	NS	ns.n-mobile.net.
+ns.n-mobile.net.	518400	IN	A	132.207.144.12
+
+manhunt.net.	86400	IN	NS	ns.manhunt.net.
+ns.manhunt.net.	518400	IN	A	132.207.144.12
+
+secureserver.net.	86400	IN	NS	ns.secureserver.net.
+ns.secureserver.net.	518400	IN	A	132.207.144.12
+
+17track.net.	86400	IN	NS	ns.17track.net.
+ns.17track.net.	518400	IN	A	132.207.144.12
+
+jalan.net.	86400	IN	NS	ns.jalan.net.
+ns.jalan.net.	518400	IN	A	132.207.144.12
+
+mbc.net.	86400	IN	NS	ns.mbc.net.
+ns.mbc.net.	518400	IN	A	132.207.144.12
+
+windows.net.	86400	IN	NS	ns.windows.net.
+ns.windows.net.	518400	IN	A	132.207.144.12
+
+surrenderat20.net.	86400	IN	NS	ns.surrenderat20.net.
+ns.surrenderat20.net.	518400	IN	A	132.207.144.12
+
+cpanel.net.	86400	IN	NS	ns.cpanel.net.
+ns.cpanel.net.	518400	IN	A	132.207.144.12
+
+shufoo.net.	86400	IN	NS	ns.shufoo.net.
+ns.shufoo.net.	518400	IN	A	132.207.144.12
+
+hypergames.net.	86400	IN	NS	ns.hypergames.net.
+ns.hypergames.net.	518400	IN	A	132.207.144.12
+
+pcanalysis.net.	86400	IN	NS	ns.pcanalysis.net.
+ns.pcanalysis.net.	518400	IN	A	132.207.144.12
+
+slideshare.net.	86400	IN	NS	ns.slideshare.net.
+ns.slideshare.net.	518400	IN	A	132.207.144.12
+
+cox.net.	86400	IN	NS	ns.cox.net.
+ns.cox.net.	518400	IN	A	132.207.144.12
+
+am15.net.	86400	IN	NS	ns.am15.net.
+ns.am15.net.	518400	IN	A	132.207.144.12
+
+reverso.net.	86400	IN	NS	ns.reverso.net.
+ns.reverso.net.	518400	IN	A	132.207.144.12
+
+allmyvideos.net.	86400	IN	NS	ns.allmyvideos.net.
+ns.allmyvideos.net.	518400	IN	A	140.205.67.253
+
+cosme.net.	86400	IN	NS	ns.cosme.net.
+ns.cosme.net.	518400	IN	A	140.205.67.253
+
+dpstream.net.	86400	IN	NS	ns.dpstream.net.
+ns.dpstream.net.	518400	IN	A	140.205.67.253
+
+creativecow.net.	86400	IN	NS	ns.creativecow.net.
+ns.creativecow.net.	518400	IN	A	140.205.67.253
+
+adssend.net.	86400	IN	NS	ns.adssend.net.
+ns.adssend.net.	518400	IN	A	140.205.67.253
+
+seesaa.net.	86400	IN	NS	ns.seesaa.net.
+ns.seesaa.net.	518400	IN	A	140.205.67.253
+
+kioskea.net.	86400	IN	NS	ns.kioskea.net.
+ns.kioskea.net.	518400	IN	A	140.205.67.253
+
+imgchili.net.	86400	IN	NS	ns.imgchili.net.
+ns.imgchili.net.	518400	IN	A	140.205.67.253
+
+torrentbest.net.	86400	IN	NS	ns.torrentbest.net.
+ns.torrentbest.net.	518400	IN	A	140.205.67.253
+
+fbcdn.net.	86400	IN	NS	ns.fbcdn.net.
+ns.fbcdn.net.	518400	IN	A	140.205.67.253
+
+ali213.net.	86400	IN	NS	ns.ali213.net.
+ns.ali213.net.	518400	IN	A	140.205.67.253
+
+webassign.net.	86400	IN	NS	ns.webassign.net.
+ns.webassign.net.	518400	IN	A	140.205.67.253
+
+xuite.net.	86400	IN	NS	ns.xuite.net.
+ns.xuite.net.	518400	IN	A	140.205.67.253
+
+filmix.net.	86400	IN	NS	ns.filmix.net.
+ns.filmix.net.	518400	IN	A	140.205.67.253
+
+babal.net.	86400	IN	NS	ns.babal.net.
+ns.babal.net.	518400	IN	A	145.14.134.108
+
+cityheaven.net.	86400	IN	NS	ns.cityheaven.net.
+ns.cityheaven.net.	518400	IN	A	145.14.134.108
+
+notebookcheck.net.	86400	IN	NS	ns.notebookcheck.net.
+ns.notebookcheck.net.	518400	IN	A	145.14.134.108
+
+dopr.net.	86400	IN	NS	ns.dopr.net.
+ns.dopr.net.	518400	IN	A	145.14.134.108
+
+tusfiles.net.	86400	IN	NS	ns.tusfiles.net.
+ns.tusfiles.net.	518400	IN	A	145.14.134.108
+
+pixnet.net.	86400	IN	NS	ns.pixnet.net.
+ns.pixnet.net.	518400	IN	A	145.14.134.108
+
+hugefiles.net.	86400	IN	NS	ns.hugefiles.net.
+ns.hugefiles.net.	518400	IN	A	145.14.134.108
+
+php.net.	86400	IN	NS	ns.php.net.
+ns.php.net.	518400	IN	A	145.14.134.108
+
+daum.net.	86400	IN	NS	ns.daum.net.
+ns.daum.net.	518400	IN	A	145.14.134.108
+
+mbc.net.	86400	IN	NS	ns.mbc.net.
+ns.mbc.net.	518400	IN	A	157.255.246.101
+
+comenity.net.	86400	IN	NS	ns.comenity.net.
+ns.comenity.net.	518400	IN	A	157.255.246.101
+
+att.net.	86400	IN	NS	ns.att.net.
+ns.att.net.	518400	IN	A	157.255.246.101
+
+desirulez.net.	86400	IN	NS	ns.desirulez.net.
+ns.desirulez.net.	518400	IN	A	157.255.246.101
+
+n-mobile.net.	86400	IN	NS	ns.n-mobile.net.
+ns.n-mobile.net.	518400	IN	A	157.255.246.101
+
+checkpagerank.net.	86400	IN	NS	ns.checkpagerank.net.
+ns.checkpagerank.net.	518400	IN	A	157.255.246.101
+
+akhbarak.net.	86400	IN	NS	ns.akhbarak.net.
+ns.akhbarak.net.	518400	IN	A	157.255.246.101
+
+oneplus.net.	86400	IN	NS	ns.oneplus.net.
+ns.oneplus.net.	518400	IN	A	157.255.246.101
+
+am15.net.	86400	IN	NS	ns.am15.net.
+ns.am15.net.	518400	IN	A	157.255.246.101
+
+creativecow.net.	86400	IN	NS	ns.creativecow.net.
+ns.creativecow.net.	518400	IN	A	157.255.246.101
+
+islamweb.net.	86400	IN	NS	ns.islamweb.net.
+ns.islamweb.net.	518400	IN	A	157.255.246.101
+
+isimtescil.net.	86400	IN	NS	ns.isimtescil.net.
+ns.isimtescil.net.	518400	IN	A	157.255.246.101
+
+r10.net.	86400	IN	NS	ns.r10.net.
+ns.r10.net.	518400	IN	A	165.160.15.20
+
+windows.net.	86400	IN	NS	ns.windows.net.
+ns.windows.net.	518400	IN	A	165.160.15.20
+
+ecplaza.net.	86400	IN	NS	ns.ecplaza.net.
+ns.ecplaza.net.	518400	IN	A	165.160.15.20
+
+atlassian.net.	86400	IN	NS	ns.atlassian.net.
+ns.atlassian.net.	518400	IN	A	165.160.15.20
+
+p5w.net.	86400	IN	NS	ns.p5w.net.
+ns.p5w.net.	518400	IN	A	165.160.15.20
+
+consequenceofsound.net.	86400	IN	NS	ns.consequenceofsound.net.
+ns.consequenceofsound.net.	518400	IN	A	165.160.15.20
+
+programme-tv.net.	86400	IN	NS	ns.programme-tv.net.
+ns.programme-tv.net.	518400	IN	A	165.160.15.20
+
+themeforest.net.	86400	IN	NS	ns.themeforest.net.
+ns.themeforest.net.	518400	IN	A	165.160.15.20
+
+allmyvideos.net.	86400	IN	NS	ns.allmyvideos.net.
+ns.allmyvideos.net.	518400	IN	A	165.160.15.20
+
+gigazine.net.	86400	IN	NS	ns.gigazine.net.
+ns.gigazine.net.	518400	IN	A	165.160.15.20
+
+paheal.net.	86400	IN	NS	ns.paheal.net.
+ns.paheal.net.	518400	IN	A	173.245.58.159
+
+notebookcheck.net.	86400	IN	NS	ns.notebookcheck.net.
+ns.notebookcheck.net.	518400	IN	A	173.245.58.159
+
+am15.net.	86400	IN	NS	ns.am15.net.
+ns.am15.net.	518400	IN	A	173.245.58.159
+
+creativecow.net.	86400	IN	NS	ns.creativecow.net.
+ns.creativecow.net.	518400	IN	A	173.245.58.159
+
+jandan.net.	86400	IN	NS	ns.jandan.net.
+ns.jandan.net.	518400	IN	A	173.245.58.159
+
+slideshare.net.	86400	IN	NS	ns.slideshare.net.
+ns.slideshare.net.	518400	IN	A	173.245.58.159
+
+bola.net.	86400	IN	NS	ns.bola.net.
+ns.bola.net.	518400	IN	A	173.245.58.159
+
+yandex.net.	86400	IN	NS	ns.yandex.net.
+ns.yandex.net.	518400	IN	A	173.245.58.159
+
+allmyvideos.net.	86400	IN	NS	ns.allmyvideos.net.
+ns.allmyvideos.net.	518400	IN	A	173.245.58.159
+
+cox.net.	86400	IN	NS	ns.cox.net.
+ns.cox.net.	518400	IN	A	173.245.58.159
+
+liga.net.	86400	IN	NS	ns.liga.net.
+ns.liga.net.	518400	IN	A	173.245.58.159
+
+coolenjoy.net.	86400	IN	NS	ns.coolenjoy.net.
+ns.coolenjoy.net.	518400	IN	A	173.245.58.159
+
+2ch.net.	86400	IN	NS	ns.2ch.net.
+ns.2ch.net.	518400	IN	A	173.245.58.159
+
+tiexue.net.	86400	IN	NS	ns.tiexue.net.
+ns.tiexue.net.	518400	IN	A	173.245.58.159
+
+isimtescil.net.	86400	IN	NS	ns.isimtescil.net.
+ns.isimtescil.net.	518400	IN	A	173.245.58.159
+
+chinaunix.net.	86400	IN	NS	ns.chinaunix.net.
+ns.chinaunix.net.	518400	IN	A	173.245.58.159
+
+reverso.net.	86400	IN	NS	ns.reverso.net.
+ns.reverso.net.	518400	IN	A	173.245.58.159
+
+optimum.net.	86400	IN	NS	ns.optimum.net.
+ns.optimum.net.	518400	IN	A	173.245.58.159
+
+windows.net.	86400	IN	NS	ns.windows.net.
+ns.windows.net.	518400	IN	A	173.245.59.130
+
+helpscout.net.	86400	IN	NS	ns.helpscout.net.
+ns.helpscout.net.	518400	IN	A	173.245.59.130
+
+gutefrage.net.	86400	IN	NS	ns.gutefrage.net.
+ns.gutefrage.net.	518400	IN	A	173.245.59.130
+
+alarab.net.	86400	IN	NS	ns.alarab.net.
+ns.alarab.net.	518400	IN	A	173.245.59.130
+
+fbcdn.net.	86400	IN	NS	ns.fbcdn.net.
+ns.fbcdn.net.	518400	IN	A	173.245.59.130
+
+bigmir.net.	86400	IN	NS	ns.bigmir.net.
+ns.bigmir.net.	518400	IN	A	173.245.59.130
+
+carsensor.net.	86400	IN	NS	ns.carsensor.net.
+ns.carsensor.net.	518400	IN	A	173.245.59.130
+
+shiftdelete.net.	86400	IN	NS	ns.shiftdelete.net.
+ns.shiftdelete.net.	518400	IN	A	173.245.59.130
+
+streaming-illimite.net.	86400	IN	NS	ns.streaming-illimite.net.
+ns.streaming-illimite.net.	518400	IN	A	173.245.59.130
+
+stylene.net.	86400	IN	NS	ns.stylene.net.
+ns.stylene.net.	518400	IN	A	173.245.59.130
+
+tiexue.net.	86400	IN	NS	ns.tiexue.net.
+ns.tiexue.net.	518400	IN	A	173.245.59.130
+
+f-picture.net.	86400	IN	NS	ns.f-picture.net.
+ns.f-picture.net.	518400	IN	A	173.245.59.130
+
+photodune.net.	86400	IN	NS	ns.photodune.net.
+ns.photodune.net.	518400	IN	A	173.245.59.130
+
+jandan.net.	86400	IN	NS	ns.jandan.net.
+ns.jandan.net.	518400	IN	A	173.245.59.130
+
+commentcamarche.net.	86400	IN	NS	ns.commentcamarche.net.
+ns.commentcamarche.net.	518400	IN	A	173.245.59.130
+
+comingsoon.net.	86400	IN	NS	ns.comingsoon.net.
+ns.comingsoon.net.	518400	IN	A	173.245.59.115
+
+alarabiya.net.	86400	IN	NS	ns.alarabiya.net.
+ns.alarabiya.net.	518400	IN	A	173.245.59.115
+
+vnexpress.net.	86400	IN	NS	ns.vnexpress.net.
+ns.vnexpress.net.	518400	IN	A	173.245.59.115
+
+researchgate.net.	86400	IN	NS	ns.researchgate.net.
+ns.researchgate.net.	518400	IN	A	173.245.59.115
+
+tobogo.net.	86400	IN	NS	ns.tobogo.net.
+ns.tobogo.net.	518400	IN	A	173.245.59.115
+
+questionablecontent.net.	86400	IN	NS	ns.questionablecontent.net.
+ns.questionablecontent.net.	518400	IN	A	173.245.59.115
+
+letitbit.net.	86400	IN	NS	ns.letitbit.net.
+ns.letitbit.net.	518400	IN	A	173.245.59.115
+
+dpstream.net.	86400	IN	NS	ns.dpstream.net.
+ns.dpstream.net.	518400	IN	A	173.245.59.115
+
+bestones.net.	86400	IN	NS	ns.bestones.net.
+ns.bestones.net.	518400	IN	A	173.245.59.115
+
+17track.net.	86400	IN	NS	ns.17track.net.
+ns.17track.net.	518400	IN	A	173.245.59.115
+
+csdn.net.	86400	IN	NS	ns.csdn.net.
+ns.csdn.net.	518400	IN	A	173.245.59.115
+
+fmworld.net.	86400	IN	NS	ns.fmworld.net.
+ns.fmworld.net.	518400	IN	A	173.245.59.115
+
+taringa.net.	86400	IN	NS	ns.taringa.net.
+ns.taringa.net.	518400	IN	A	173.245.59.160
+
+alarabiya.net.	86400	IN	NS	ns.alarabiya.net.
+ns.alarabiya.net.	518400	IN	A	173.245.59.160
+
+gosugamers.net.	86400	IN	NS	ns.gosugamers.net.
+ns.gosugamers.net.	518400	IN	A	173.245.59.160
+
+elitetorrent.net.	86400	IN	NS	ns.elitetorrent.net.
+ns.elitetorrent.net.	518400	IN	A	173.245.59.160
+
+consequenceofsound.net.	86400	IN	NS	ns.consequenceofsound.net.
+ns.consequenceofsound.net.	518400	IN	A	173.245.59.160
+
+audiojungle.net.	86400	IN	NS	ns.audiojungle.net.
+ns.audiojungle.net.	518400	IN	A	173.245.59.160
+
+comingsoon.net.	86400	IN	NS	ns.comingsoon.net.
+ns.comingsoon.net.	518400	IN	A	173.245.59.160
+
+savefrom.net.	86400	IN	NS	ns.savefrom.net.
+ns.savefrom.net.	518400	IN	A	173.245.59.160
+
+hinet.net.	86400	IN	NS	ns.hinet.net.
+ns.hinet.net.	518400	IN	A	173.245.59.160
+
+cnki.net.	86400	IN	NS	ns.cnki.net.
+ns.cnki.net.	518400	IN	A	173.245.59.160
+
+ettoday.net.	86400	IN	NS	ns.ettoday.net.
+ns.ettoday.net.	518400	IN	A	173.245.59.160
+
+furaffinity.net.	86400	IN	NS	ns.furaffinity.net.
+ns.furaffinity.net.	518400	IN	A	173.245.59.160
+
+cox.net.	86400	IN	NS	ns.cox.net.
+ns.cox.net.	518400	IN	A	173.245.59.160
+
+earthlink.net.	86400	IN	NS	ns.earthlink.net.
+ns.earthlink.net.	518400	IN	A	173.245.59.160
+
+i-gamer.net.	86400	IN	NS	ns.i-gamer.net.
+ns.i-gamer.net.	518400	IN	A	173.245.58.138
+
+gmx.net.	86400	IN	NS	ns.gmx.net.
+ns.gmx.net.	518400	IN	A	173.245.58.138
+
+bestreams.net.	86400	IN	NS	ns.bestreams.net.
+ns.bestreams.net.	518400	IN	A	173.245.58.138
+
+mightytext.net.	86400	IN	NS	ns.mightytext.net.
+ns.mightytext.net.	518400	IN	A	173.245.58.138
+
+lolking.net.	86400	IN	NS	ns.lolking.net.
+ns.lolking.net.	518400	IN	A	173.245.58.138
+
+wargaming.net.	86400	IN	NS	ns.wargaming.net.
+ns.wargaming.net.	518400	IN	A	173.245.58.138
+
+docusign.net.	86400	IN	NS	ns.docusign.net.
+ns.docusign.net.	518400	IN	A	173.245.58.138
+
+iis.net.	86400	IN	NS	ns.iis.net.
+ns.iis.net.	518400	IN	A	173.245.58.138
+
+architecturendesign.net.	86400	IN	NS	ns.architecturendesign.net.
+ns.architecturendesign.net.	518400	IN	A	173.245.58.138
+
+am15.net.	86400	IN	NS	ns.am15.net.
+ns.am15.net.	518400	IN	A	173.245.58.138
+
+checkpagerank.net.	86400	IN	NS	ns.checkpagerank.net.
+ns.checkpagerank.net.	518400	IN	A	173.245.58.138
+
+perfectgirls.net.	86400	IN	NS	ns.perfectgirls.net.
+ns.perfectgirls.net.	518400	IN	A	173.245.58.138
+
+pcanalysis.net.	86400	IN	NS	ns.pcanalysis.net.
+ns.pcanalysis.net.	518400	IN	A	173.245.58.138
+
+bravotube.net.	86400	IN	NS	ns.bravotube.net.
+ns.bravotube.net.	518400	IN	A	173.245.58.138
+
+programme-tv.net.	86400	IN	NS	ns.programme-tv.net.
+ns.programme-tv.net.	518400	IN	A	173.245.58.138
+
+full-stream.net.	86400	IN	NS	ns.full-stream.net.
+ns.full-stream.net.	518400	IN	A	173.245.58.138
+
+seriesflv.net.	86400	IN	NS	ns.seriesflv.net.
+ns.seriesflv.net.	518400	IN	A	173.245.58.138
+
+gogetlinks.net.	86400	IN	NS	ns.gogetlinks.net.
+ns.gogetlinks.net.	518400	IN	A	173.245.58.138
+
+jkforum.net.	86400	IN	NS	ns.jkforum.net.
+ns.jkforum.net.	518400	IN	A	173.245.58.138
+
+memurlar.net.	86400	IN	NS	ns.memurlar.net.
+ns.memurlar.net.	518400	IN	A	173.245.58.138
+
+ero-video.net.	86400	IN	NS	ns.ero-video.net.
+ns.ero-video.net.	518400	IN	A	173.245.58.138
+
+pchome.net.	86400	IN	NS	ns.pchome.net.
+ns.pchome.net.	518400	IN	A	173.245.58.201
+
+muji.net.	86400	IN	NS	ns.muji.net.
+ns.muji.net.	518400	IN	A	173.245.58.201
+
+ngoisao.net.	86400	IN	NS	ns.ngoisao.net.
+ns.ngoisao.net.	518400	IN	A	173.245.58.201
+
+pcanalysis.net.	86400	IN	NS	ns.pcanalysis.net.
+ns.pcanalysis.net.	518400	IN	A	173.245.58.201
+
+adsrvmedia.net.	86400	IN	NS	ns.adsrvmedia.net.
+ns.adsrvmedia.net.	518400	IN	A	173.245.58.201
+
+39.net.	86400	IN	NS	ns.39.net.
+ns.39.net.	518400	IN	A	173.245.58.201
+
+jb51.net.	86400	IN	NS	ns.jb51.net.
+ns.jb51.net.	518400	IN	A	173.245.58.201
+
+tweakers.net.	86400	IN	NS	ns.tweakers.net.
+ns.tweakers.net.	518400	IN	A	173.245.58.201
+
+infojobs.net.	86400	IN	NS	ns.infojobs.net.
+ns.infojobs.net.	518400	IN	A	173.245.58.201
+
+lavozdelmuro.net.	86400	IN	NS	ns.lavozdelmuro.net.
+ns.lavozdelmuro.net.	518400	IN	A	173.245.58.201
+
+cnki.net.	86400	IN	NS	ns.cnki.net.
+ns.cnki.net.	518400	IN	A	173.245.58.89
+
+fanfiction.net.	86400	IN	NS	ns.fanfiction.net.
+ns.fanfiction.net.	518400	IN	A	173.245.58.89
+
+pixnet.net.	86400	IN	NS	ns.pixnet.net.
+ns.pixnet.net.	518400	IN	A	173.245.58.89
+
+mangareader.net.	86400	IN	NS	ns.mangareader.net.
+ns.mangareader.net.	518400	IN	A	173.245.58.89
+
+movshare.net.	86400	IN	NS	ns.movshare.net.
+ns.movshare.net.	518400	IN	A	173.245.58.89
+
+cosme.net.	86400	IN	NS	ns.cosme.net.
+ns.cosme.net.	518400	IN	A	173.245.58.89
+
+aljazeera.net.	86400	IN	NS	ns.aljazeera.net.
+ns.aljazeera.net.	518400	IN	A	173.245.58.89
+
+discas.net.	86400	IN	NS	ns.discas.net.
+ns.discas.net.	518400	IN	A	173.245.58.89
+
+s0ftpedia.net.	86400	IN	NS	ns.s0ftpedia.net.
+ns.s0ftpedia.net.	518400	IN	A	173.245.58.89
+
+att.net.	86400	IN	NS	ns.att.net.
+ns.att.net.	518400	IN	A	173.245.58.89
+
+popcash.net.	86400	IN	NS	ns.popcash.net.
+ns.popcash.net.	518400	IN	A	173.245.58.89
+
+default-search.net.	86400	IN	NS	ns.default-search.net.
+ns.default-search.net.	518400	IN	A	173.245.58.89
+
+dpstream.net.	86400	IN	NS	ns.dpstream.net.
+ns.dpstream.net.	518400	IN	A	173.245.58.89
+
+dytt8.net.	86400	IN	NS	ns.dytt8.net.
+ns.dytt8.net.	518400	IN	A	173.245.58.100
+
+with2.net.	86400	IN	NS	ns.with2.net.
+ns.with2.net.	518400	IN	A	173.245.58.100
+
+turbobit.net.	86400	IN	NS	ns.turbobit.net.
+ns.turbobit.net.	518400	IN	A	173.245.58.100
+
+letitbit.net.	86400	IN	NS	ns.letitbit.net.
+ns.letitbit.net.	518400	IN	A	173.245.58.100
+
+streaming-illimite.net.	86400	IN	NS	ns.streaming-illimite.net.
+ns.streaming-illimite.net.	518400	IN	A	173.245.58.100
+
+leadpages.net.	86400	IN	NS	ns.leadpages.net.
+ns.leadpages.net.	518400	IN	A	173.245.58.100
+
+unian.net.	86400	IN	NS	ns.unian.net.
+ns.unian.net.	518400	IN	A	173.245.58.100
+
+webassign.net.	86400	IN	NS	ns.webassign.net.
+ns.webassign.net.	518400	IN	A	173.245.58.100
+
+islamweb.net.	86400	IN	NS	ns.islamweb.net.
+ns.islamweb.net.	518400	IN	A	173.245.58.100
+
+gogetlinks.net.	86400	IN	NS	ns.gogetlinks.net.
+ns.gogetlinks.net.	518400	IN	A	173.245.58.100
+
+lowyat.net.	86400	IN	NS	ns.lowyat.net.
+ns.lowyat.net.	518400	IN	A	173.245.58.100
+
+allmyvideos.net.	86400	IN	NS	ns.allmyvideos.net.
+ns.allmyvideos.net.	518400	IN	A	173.245.59.100
+
+islamweb.net.	86400	IN	NS	ns.islamweb.net.
+ns.islamweb.net.	518400	IN	A	173.245.59.100
+
+pornolab.net.	86400	IN	NS	ns.pornolab.net.
+ns.pornolab.net.	518400	IN	A	173.245.59.100
+
+torcache.net.	86400	IN	NS	ns.torcache.net.
+ns.torcache.net.	518400	IN	A	173.245.59.100
+
+id.net.	86400	IN	NS	ns.id.net.
+ns.id.net.	518400	IN	A	173.245.59.100
+
+architecturendesign.net.	86400	IN	NS	ns.architecturendesign.net.
+ns.architecturendesign.net.	518400	IN	A	173.245.59.100
+
+dopr.net.	86400	IN	NS	ns.dopr.net.
+ns.dopr.net.	518400	IN	A	173.245.59.100
+
+championselect.net.	86400	IN	NS	ns.championselect.net.
+ns.championselect.net.	518400	IN	A	173.245.59.100
+
+zamunda.net.	86400	IN	NS	ns.zamunda.net.
+ns.zamunda.net.	518400	IN	A	173.245.59.100
+
+surrenderat20.net.	86400	IN	NS	ns.surrenderat20.net.
+ns.surrenderat20.net.	518400	IN	A	173.245.59.100
+
+expireddomains.net.	86400	IN	NS	ns.expireddomains.net.
+ns.expireddomains.net.	518400	IN	A	173.245.59.100
+
+almaghribtoday.net.	86400	IN	NS	ns.almaghribtoday.net.
+ns.almaghribtoday.net.	518400	IN	A	174.35.55.22
+
+graphicriver.net.	86400	IN	NS	ns.graphicriver.net.
+ns.graphicriver.net.	518400	IN	A	174.35.55.22
+
+forumcommunity.net.	86400	IN	NS	ns.forumcommunity.net.
+ns.forumcommunity.net.	518400	IN	A	174.35.55.22
+
+overclock.net.	86400	IN	NS	ns.overclock.net.
+ns.overclock.net.	518400	IN	A	174.35.55.22
+
+full-stream.net.	86400	IN	NS	ns.full-stream.net.
+ns.full-stream.net.	518400	IN	A	174.35.55.22
+
+n-mobile.net.	86400	IN	NS	ns.n-mobile.net.
+ns.n-mobile.net.	518400	IN	A	174.35.55.22
+
+bungie.net.	86400	IN	NS	ns.bungie.net.
+ns.bungie.net.	518400	IN	A	174.35.55.22
+
+gmx.net.	86400	IN	NS	ns.gmx.net.
+ns.gmx.net.	518400	IN	A	174.35.55.22
+
+animeflv.net.	86400	IN	NS	ns.animeflv.net.
+ns.animeflv.net.	518400	IN	A	174.35.55.22
+
+finanzen.net.	86400	IN	NS	ns.finanzen.net.
+ns.finanzen.net.	518400	IN	A	175.126.117.211
+
+coolenjoy.net.	86400	IN	NS	ns.coolenjoy.net.
+ns.coolenjoy.net.	518400	IN	A	175.126.117.211
+
+ngoisao.net.	86400	IN	NS	ns.ngoisao.net.
+ns.ngoisao.net.	518400	IN	A	175.126.117.211
+
+ali213.net.	86400	IN	NS	ns.ali213.net.
+ns.ali213.net.	518400	IN	A	175.126.117.211
+
+lowyat.net.	86400	IN	NS	ns.lowyat.net.
+ns.lowyat.net.	518400	IN	A	175.126.117.211
+
+ecplaza.net.	86400	IN	NS	ns.ecplaza.net.
+ns.ecplaza.net.	518400	IN	A	175.126.117.211
+
+rapidgator.net.	86400	IN	NS	ns.rapidgator.net.
+ns.rapidgator.net.	518400	IN	A	175.126.117.211
+
+discas.net.	86400	IN	NS	ns.discas.net.
+ns.discas.net.	518400	IN	A	175.126.117.211
+
+programme-tv.net.	86400	IN	NS	ns.programme-tv.net.
+ns.programme-tv.net.	518400	IN	A	175.126.117.211
+
+tympanus.net.	86400	IN	NS	ns.tympanus.net.
+ns.tympanus.net.	518400	IN	A	175.126.117.211
+
+chinaunix.net.	86400	IN	NS	ns.chinaunix.net.
+ns.chinaunix.net.	518400	IN	A	175.126.117.211
+
+alarab.net.	86400	IN	NS	ns.alarab.net.
+ns.alarab.net.	518400	IN	A	175.126.117.211
+
+mediatemple.net.	86400	IN	NS	ns.mediatemple.net.
+ns.mediatemple.net.	518400	IN	A	175.126.117.211
+
+letitbit.net.	86400	IN	NS	ns.letitbit.net.
+ns.letitbit.net.	518400	IN	A	180.149.156.12
+
+coneco.net.	86400	IN	NS	ns.coneco.net.
+ns.coneco.net.	518400	IN	A	180.149.156.12
+
+i-gamer.net.	86400	IN	NS	ns.i-gamer.net.
+ns.i-gamer.net.	518400	IN	A	180.149.156.12
+
+fakku.net.	86400	IN	NS	ns.fakku.net.
+ns.fakku.net.	518400	IN	A	180.149.156.12
+
+elitetorrent.net.	86400	IN	NS	ns.elitetorrent.net.
+ns.elitetorrent.net.	518400	IN	A	180.149.156.12
+
+trackingclick.net.	86400	IN	NS	ns.trackingclick.net.
+ns.trackingclick.net.	518400	IN	A	180.149.156.12
+
+popcash.net.	86400	IN	NS	ns.popcash.net.
+ns.popcash.net.	518400	IN	A	180.149.156.12
+
+999120.net.	86400	IN	NS	ns.999120.net.
+ns.999120.net.	518400	IN	A	180.149.156.12
+
+am15.net.	86400	IN	NS	ns.am15.net.
+ns.am15.net.	518400	IN	A	180.149.156.12
+
+pchome.net.	86400	IN	NS	ns.pchome.net.
+ns.pchome.net.	518400	IN	A	183.3.226.207
+
+39.net.	86400	IN	NS	ns.39.net.
+ns.39.net.	518400	IN	A	183.3.226.207
+
+optimum.net.	86400	IN	NS	ns.optimum.net.
+ns.optimum.net.	518400	IN	A	183.3.226.207
+
+codecanyon.net.	86400	IN	NS	ns.codecanyon.net.
+ns.codecanyon.net.	518400	IN	A	183.3.226.207
+
+edline.net.	86400	IN	NS	ns.edline.net.
+ns.edline.net.	518400	IN	A	183.3.226.207
+
+explosm.net.	86400	IN	NS	ns.explosm.net.
+ns.explosm.net.	518400	IN	A	183.3.226.207
+
+cqmama.net.	86400	IN	NS	ns.cqmama.net.
+ns.cqmama.net.	518400	IN	A	183.3.226.207
+
+aljazeera.net.	86400	IN	NS	ns.aljazeera.net.
+ns.aljazeera.net.	518400	IN	A	183.3.226.207
+
+with2.net.	86400	IN	NS	ns.with2.net.
+ns.with2.net.	518400	IN	A	183.3.226.207
+
+checkpagerank.net.	86400	IN	NS	ns.checkpagerank.net.
+ns.checkpagerank.net.	518400	IN	A	183.3.226.207
+
+oschina.net.	86400	IN	NS	ns.oschina.net.
+ns.oschina.net.	518400	IN	A	183.3.226.207
+
+themeforest.net.	86400	IN	NS	ns.themeforest.net.
+ns.themeforest.net.	518400	IN	A	187.18.60.242
+
+nicozon.net.	86400	IN	NS	ns.nicozon.net.
+ns.nicozon.net.	518400	IN	A	187.18.60.242
+
+newsmth.net.	86400	IN	NS	ns.newsmth.net.
+ns.newsmth.net.	518400	IN	A	187.18.60.242
+
+almaghribtoday.net.	86400	IN	NS	ns.almaghribtoday.net.
+ns.almaghribtoday.net.	518400	IN	A	187.18.60.242
+
+appbank.net.	86400	IN	NS	ns.appbank.net.
+ns.appbank.net.	518400	IN	A	187.18.60.242
+
+ntvspor.net.	86400	IN	NS	ns.ntvspor.net.
+ns.ntvspor.net.	518400	IN	A	187.18.60.242
+
+cosme.net.	86400	IN	NS	ns.cosme.net.
+ns.cosme.net.	518400	IN	A	187.18.60.242
+
+att.net.	86400	IN	NS	ns.att.net.
+ns.att.net.	518400	IN	A	187.18.60.242
+
+codecanyon.net.	86400	IN	NS	ns.codecanyon.net.
+ns.codecanyon.net.	518400	IN	A	187.18.60.242
+
+pchome.net.	86400	IN	NS	ns.pchome.net.
+ns.pchome.net.	518400	IN	A	187.18.60.242
+
+helpscout.net.	86400	IN	NS	ns.helpscout.net.
+ns.helpscout.net.	518400	IN	A	187.18.60.242
+
+vnexpress.net.	86400	IN	NS	ns.vnexpress.net.
+ns.vnexpress.net.	518400	IN	A	187.18.60.242
+
+thelisticles.net.	86400	IN	NS	ns.thelisticles.net.
+ns.thelisticles.net.	518400	IN	A	187.18.60.242
+
+jsfiddle.net.	86400	IN	NS	ns.jsfiddle.net.
+ns.jsfiddle.net.	518400	IN	A	187.18.60.242
+
+notebookcheck.net.	86400	IN	NS	ns.notebookcheck.net.
+ns.notebookcheck.net.	518400	IN	A	187.18.60.242
+
+39.net.	86400	IN	NS	ns.39.net.
+ns.39.net.	518400	IN	A	193.108.91.127
+
+ngoisao.net.	86400	IN	NS	ns.ngoisao.net.
+ns.ngoisao.net.	518400	IN	A	193.108.91.127
+
+creativecow.net.	86400	IN	NS	ns.creativecow.net.
+ns.creativecow.net.	518400	IN	A	193.108.91.127
+
+sourceforge.net.	86400	IN	NS	ns.sourceforge.net.
+ns.sourceforge.net.	518400	IN	A	193.108.91.127
+
+megaoferta.net.	86400	IN	NS	ns.megaoferta.net.
+ns.megaoferta.net.	518400	IN	A	193.108.91.127
+
+islamweb.net.	86400	IN	NS	ns.islamweb.net.
+ns.islamweb.net.	518400	IN	A	193.108.91.127
+
+videohive.net.	86400	IN	NS	ns.videohive.net.
+ns.videohive.net.	518400	IN	A	193.108.91.127
+
+pornolab.net.	86400	IN	NS	ns.pornolab.net.
+ns.pornolab.net.	518400	IN	A	193.108.91.127
+
+bnpparibas.net.	86400	IN	NS	ns.bnpparibas.net.
+ns.bnpparibas.net.	518400	IN	A	193.108.91.127
+
+slickdeals.net.	86400	IN	NS	ns.slickdeals.net.
+ns.slickdeals.net.	518400	IN	A	193.108.91.127
+
+bungie.net.	86400	IN	NS	ns.bungie.net.
+ns.bungie.net.	518400	IN	A	193.108.91.127
+
+cnki.net.	86400	IN	NS	ns.cnki.net.
+ns.cnki.net.	518400	IN	A	193.232.156.17
+
+memurlar.net.	86400	IN	NS	ns.memurlar.net.
+ns.memurlar.net.	518400	IN	A	193.232.156.17
+
+tebyan.net.	86400	IN	NS	ns.tebyan.net.
+ns.tebyan.net.	518400	IN	A	193.232.156.17
+
+allmyvideos.net.	86400	IN	NS	ns.allmyvideos.net.
+ns.allmyvideos.net.	518400	IN	A	193.232.156.17
+
+consumer-feedback.net.	86400	IN	NS	ns.consumer-feedback.net.
+ns.consumer-feedback.net.	518400	IN	A	193.232.156.17
+
+discas.net.	86400	IN	NS	ns.discas.net.
+ns.discas.net.	518400	IN	A	193.232.156.17
+
+wargaming.net.	86400	IN	NS	ns.wargaming.net.
+ns.wargaming.net.	518400	IN	A	193.232.156.17
+
+consequenceofsound.net.	86400	IN	NS	ns.consequenceofsound.net.
+ns.consequenceofsound.net.	518400	IN	A	193.232.156.17
+
+xuite.net.	86400	IN	NS	ns.xuite.net.
+ns.xuite.net.	518400	IN	A	193.232.156.17
+
+id.net.	86400	IN	NS	ns.id.net.
+ns.id.net.	518400	IN	A	193.232.156.17
+
+mbc.net.	86400	IN	NS	ns.mbc.net.
+ns.mbc.net.	518400	IN	A	193.232.156.17
+
+jsfiddle.net.	86400	IN	NS	ns.jsfiddle.net.
+ns.jsfiddle.net.	518400	IN	A	193.232.156.17
+
+speedtest.net.	86400	IN	NS	ns.speedtest.net.
+ns.speedtest.net.	518400	IN	A	193.232.156.17
+
+akhbarak.net.	86400	IN	NS	ns.akhbarak.net.
+ns.akhbarak.net.	518400	IN	A	193.232.142.17
+
+almaghribtoday.net.	86400	IN	NS	ns.almaghribtoday.net.
+ns.almaghribtoday.net.	518400	IN	A	193.232.142.17
+
+bravotube.net.	86400	IN	NS	ns.bravotube.net.
+ns.bravotube.net.	518400	IN	A	193.232.142.17
+
+bigmir.net.	86400	IN	NS	ns.bigmir.net.
+ns.bigmir.net.	518400	IN	A	193.232.142.17
+
+jandan.net.	86400	IN	NS	ns.jandan.net.
+ns.jandan.net.	518400	IN	A	193.232.142.17
+
+teamliquid.net.	86400	IN	NS	ns.teamliquid.net.
+ns.teamliquid.net.	518400	IN	A	193.232.142.17
+
+clien.net.	86400	IN	NS	ns.clien.net.
+ns.clien.net.	518400	IN	A	193.232.142.17
+
+madpandatv.net.	86400	IN	NS	ns.madpandatv.net.
+ns.madpandatv.net.	518400	IN	A	193.232.142.17
+
+mosaiquefm.net.	86400	IN	NS	ns.mosaiquefm.net.
+ns.mosaiquefm.net.	518400	IN	A	193.232.142.17
+
+pixnet.net.	86400	IN	NS	ns.pixnet.net.
+ns.pixnet.net.	518400	IN	A	193.232.142.17
+
+jalan.net.	86400	IN	NS	ns.jalan.net.
+ns.jalan.net.	518400	IN	A	193.232.142.17
+
+checkpagerank.net.	86400	IN	NS	ns.checkpagerank.net.
+ns.checkpagerank.net.	518400	IN	A	193.232.142.17
+
+mangareader.net.	86400	IN	NS	ns.mangareader.net.
+ns.mangareader.net.	518400	IN	A	198.11.138.245
+
+liga.net.	86400	IN	NS	ns.liga.net.
+ns.liga.net.	518400	IN	A	198.11.138.245
+
+minecraftforum.net.	86400	IN	NS	ns.minecraftforum.net.
+ns.minecraftforum.net.	518400	IN	A	198.11.138.245
+
+4gamer.net.	86400	IN	NS	ns.4gamer.net.
+ns.4gamer.net.	518400	IN	A	198.11.138.245
+
+megaoferta.net.	86400	IN	NS	ns.megaoferta.net.
+ns.megaoferta.net.	518400	IN	A	198.11.138.245
+
+pixnet.net.	86400	IN	NS	ns.pixnet.net.
+ns.pixnet.net.	518400	IN	A	198.11.138.245
+
+clien.net.	86400	IN	NS	ns.clien.net.
+ns.clien.net.	518400	IN	A	198.11.138.245
+
+trackingclick.net.	86400	IN	NS	ns.trackingclick.net.
+ns.trackingclick.net.	518400	IN	A	198.11.138.245
+
+bungie.net.	86400	IN	NS	ns.bungie.net.
+ns.bungie.net.	518400	IN	A	198.11.138.245
+
+full-stream.net.	86400	IN	NS	ns.full-stream.net.
+ns.full-stream.net.	518400	IN	A	198.11.138.249
+
+trackingclick.net.	86400	IN	NS	ns.trackingclick.net.
+ns.trackingclick.net.	518400	IN	A	198.11.138.249
+
+eroterest.net.	86400	IN	NS	ns.eroterest.net.
+ns.eroterest.net.	518400	IN	A	198.11.138.249
+
+am15.net.	86400	IN	NS	ns.am15.net.
+ns.am15.net.	518400	IN	A	198.11.138.249
+
+lowyat.net.	86400	IN	NS	ns.lowyat.net.
+ns.lowyat.net.	518400	IN	A	198.11.138.249
+
+carsensor.net.	86400	IN	NS	ns.carsensor.net.
+ns.carsensor.net.	518400	IN	A	198.11.138.249
+
+finanzen.net.	86400	IN	NS	ns.finanzen.net.
+ns.finanzen.net.	518400	IN	A	198.11.138.249
+
+seesaa.net.	86400	IN	NS	ns.seesaa.net.
+ns.seesaa.net.	518400	IN	A	198.11.138.249
+
+gamgos.net.	86400	IN	NS	ns.gamgos.net.
+ns.gamgos.net.	518400	IN	A	198.11.138.249
+
+desirulez.net.	86400	IN	NS	ns.desirulez.net.
+ns.desirulez.net.	518400	IN	A	198.11.138.249
+
+ovh.net.	86400	IN	NS	ns.ovh.net.
+ns.ovh.net.	518400	IN	A	198.11.138.249
+
+turbobit.net.	86400	IN	NS	ns.turbobit.net.
+ns.turbobit.net.	518400	IN	A	198.11.138.249
+
+yandex.net.	86400	IN	NS	ns.yandex.net.
+ns.yandex.net.	518400	IN	A	198.11.138.249
+
+streaming-illimite.net.	86400	IN	NS	ns.streaming-illimite.net.
+ns.streaming-illimite.net.	518400	IN	A	198.11.138.249
+
+lowyat.net.	86400	IN	NS	ns.lowyat.net.
+ns.lowyat.net.	518400	IN	A	198.100.156.181
+
+paheal.net.	86400	IN	NS	ns.paheal.net.
+ns.paheal.net.	518400	IN	A	198.100.156.181
+
+letitbit.net.	86400	IN	NS	ns.letitbit.net.
+ns.letitbit.net.	518400	IN	A	198.100.156.181
+
+linkshrink.net.	86400	IN	NS	ns.linkshrink.net.
+ns.linkshrink.net.	518400	IN	A	198.100.156.181
+
+bulbagarden.net.	86400	IN	NS	ns.bulbagarden.net.
+ns.bulbagarden.net.	518400	IN	A	198.100.156.181
+
+streaming-illimite.net.	86400	IN	NS	ns.streaming-illimite.net.
+ns.streaming-illimite.net.	518400	IN	A	198.100.156.181
+
+fishki.net.	86400	IN	NS	ns.fishki.net.
+ns.fishki.net.	518400	IN	A	198.100.156.181
+
+am15.net.	86400	IN	NS	ns.am15.net.
+ns.am15.net.	518400	IN	A	198.100.156.181
+
+popads.net.	86400	IN	NS	ns.popads.net.
+ns.popads.net.	518400	IN	A	198.100.156.181
+
+manhunt.net.	86400	IN	NS	ns.manhunt.net.
+ns.manhunt.net.	518400	IN	A	198.100.156.181
+
+jalan.net.	86400	IN	NS	ns.jalan.net.
+ns.jalan.net.	518400	IN	A	198.100.156.181
+
+thelisticles.net.	86400	IN	NS	ns.thelisticles.net.
+ns.thelisticles.net.	518400	IN	A	198.100.156.181
+
+slideshare.net.	86400	IN	NS	ns.slideshare.net.
+ns.slideshare.net.	518400	IN	A	200.221.11.98
+
+vnexpress.net.	86400	IN	NS	ns.vnexpress.net.
+ns.vnexpress.net.	518400	IN	A	200.221.11.98
+
+tiexue.net.	86400	IN	NS	ns.tiexue.net.
+ns.tiexue.net.	518400	IN	A	200.221.11.98
+
+bulbagarden.net.	86400	IN	NS	ns.bulbagarden.net.
+ns.bulbagarden.net.	518400	IN	A	200.221.11.98
+
+popcash.net.	86400	IN	NS	ns.popcash.net.
+ns.popcash.net.	518400	IN	A	200.221.11.98
+
+themeforest.net.	86400	IN	NS	ns.themeforest.net.
+ns.themeforest.net.	518400	IN	A	200.221.11.98
+
+reverso.net.	86400	IN	NS	ns.reverso.net.
+ns.reverso.net.	518400	IN	A	200.221.11.98
+
+popads.net.	86400	IN	NS	ns.popads.net.
+ns.popads.net.	518400	IN	A	200.221.11.98
+
+creativecow.net.	86400	IN	NS	ns.creativecow.net.
+ns.creativecow.net.	518400	IN	A	200.221.11.98
+
+am15.net.	86400	IN	NS	ns.am15.net.
+ns.am15.net.	518400	IN	A	200.221.11.98
+
+allmyvideos.net.	86400	IN	NS	ns.allmyvideos.net.
+ns.allmyvideos.net.	518400	IN	A	200.201.161.22
+
+serebii.net.	86400	IN	NS	ns.serebii.net.
+ns.serebii.net.	518400	IN	A	200.201.161.22
+
+fmworld.net.	86400	IN	NS	ns.fmworld.net.
+ns.fmworld.net.	518400	IN	A	200.201.161.22
+
+megafilmeshd.net.	86400	IN	NS	ns.megafilmeshd.net.
+ns.megafilmeshd.net.	518400	IN	A	200.201.161.22
+
+madpandatv.net.	86400	IN	NS	ns.madpandatv.net.
+ns.madpandatv.net.	518400	IN	A	200.201.161.22
+
+explosm.net.	86400	IN	NS	ns.explosm.net.
+ns.explosm.net.	518400	IN	A	200.201.161.22
+
+torcache.net.	86400	IN	NS	ns.torcache.net.
+ns.torcache.net.	518400	IN	A	200.201.161.22
+
+slickdeals.net.	86400	IN	NS	ns.slickdeals.net.
+ns.slickdeals.net.	518400	IN	A	200.201.161.22
+
+desitvforum.net.	86400	IN	NS	ns.desitvforum.net.
+ns.desitvforum.net.	518400	IN	A	200.201.161.22
+
+s0ftpedia.net.	86400	IN	NS	ns.s0ftpedia.net.
+ns.s0ftpedia.net.	518400	IN	A	200.201.161.22
+
+oschina.net.	86400	IN	NS	ns.oschina.net.
+ns.oschina.net.	518400	IN	A	200.201.165.253
+
+gosugamers.net.	86400	IN	NS	ns.gosugamers.net.
+ns.gosugamers.net.	518400	IN	A	200.201.165.253
+
+creativecow.net.	86400	IN	NS	ns.creativecow.net.
+ns.creativecow.net.	518400	IN	A	200.201.165.253
+
+gogetlinks.net.	86400	IN	NS	ns.gogetlinks.net.
+ns.gogetlinks.net.	518400	IN	A	200.201.165.253
+
+csdn.net.	86400	IN	NS	ns.csdn.net.
+ns.csdn.net.	518400	IN	A	200.201.165.253
+
+checkpagerank.net.	86400	IN	NS	ns.checkpagerank.net.
+ns.checkpagerank.net.	518400	IN	A	200.201.165.253
+
+audiojungle.net.	86400	IN	NS	ns.audiojungle.net.
+ns.audiojungle.net.	518400	IN	A	200.201.165.253
+
+tusfiles.net.	86400	IN	NS	ns.tusfiles.net.
+ns.tusfiles.net.	518400	IN	A	200.201.165.253
+
+babal.net.	86400	IN	NS	ns.babal.net.
+ns.babal.net.	518400	IN	A	200.201.165.253
+
+bigmir.net.	86400	IN	NS	ns.bigmir.net.
+ns.bigmir.net.	518400	IN	A	200.201.165.253
+
+appbank.net.	86400	IN	NS	ns.appbank.net.
+ns.appbank.net.	518400	IN	A	200.201.165.253
+
+filmix.net.	86400	IN	NS	ns.filmix.net.
+ns.filmix.net.	518400	IN	A	200.201.165.253
+
+toyokeizai.net.	86400	IN	NS	ns.toyokeizai.net.
+ns.toyokeizai.net.	518400	IN	A	200.201.165.253
+
+researchgate.net.	86400	IN	NS	ns.researchgate.net.
+ns.researchgate.net.	518400	IN	A	200.219.154.10
+
+checkpagerank.net.	86400	IN	NS	ns.checkpagerank.net.
+ns.checkpagerank.net.	518400	IN	A	200.219.154.10
+
+taringa.net.	86400	IN	NS	ns.taringa.net.
+ns.taringa.net.	518400	IN	A	200.219.154.10
+
+i-gamer.net.	86400	IN	NS	ns.i-gamer.net.
+ns.i-gamer.net.	518400	IN	A	200.219.154.10
+
+speedtest.net.	86400	IN	NS	ns.speedtest.net.
+ns.speedtest.net.	518400	IN	A	200.219.154.10
+
+teamliquid.net.	86400	IN	NS	ns.teamliquid.net.
+ns.teamliquid.net.	518400	IN	A	200.219.154.10
+
+vnexpress.net.	86400	IN	NS	ns.vnexpress.net.
+ns.vnexpress.net.	518400	IN	A	200.219.154.10
+
+shufoo.net.	86400	IN	NS	ns.shufoo.net.
+ns.shufoo.net.	518400	IN	A	200.219.154.10
+
+pchome.net.	86400	IN	NS	ns.pchome.net.
+ns.pchome.net.	518400	IN	A	200.219.154.10
+
+popcash.net.	86400	IN	NS	ns.popcash.net.
+ns.popcash.net.	518400	IN	A	200.219.154.10
+
+coches.net.	86400	IN	NS	ns.coches.net.
+ns.coches.net.	518400	IN	A	200.219.154.10
+
+pcanalysis.net.	86400	IN	NS	ns.pcanalysis.net.
+ns.pcanalysis.net.	518400	IN	A	200.219.154.10
+
+coches.net.	86400	IN	NS	ns.coches.net.
+ns.coches.net.	518400	IN	A	202.108.22.220
+
+bravotube.net.	86400	IN	NS	ns.bravotube.net.
+ns.bravotube.net.	518400	IN	A	202.108.22.220
+
+tosarang.net.	86400	IN	NS	ns.tosarang.net.
+ns.tosarang.net.	518400	IN	A	202.108.22.220
+
+overclock.net.	86400	IN	NS	ns.overclock.net.
+ns.overclock.net.	518400	IN	A	202.108.22.220
+
+tympanus.net.	86400	IN	NS	ns.tympanus.net.
+ns.tympanus.net.	518400	IN	A	202.108.22.220
+
+cqmama.net.	86400	IN	NS	ns.cqmama.net.
+ns.cqmama.net.	518400	IN	A	202.108.22.220
+
+appbank.net.	86400	IN	NS	ns.appbank.net.
+ns.appbank.net.	518400	IN	A	202.108.22.220
+
+2ch.net.	86400	IN	NS	ns.2ch.net.
+ns.2ch.net.	518400	IN	A	202.108.22.220
+
+jb51.net.	86400	IN	NS	ns.jb51.net.
+ns.jb51.net.	518400	IN	A	202.108.22.220
+
+docusign.net.	86400	IN	NS	ns.docusign.net.
+ns.docusign.net.	518400	IN	A	202.108.22.220
+
+explosm.net.	86400	IN	NS	ns.explosm.net.
+ns.explosm.net.	518400	IN	A	202.108.22.220
+
+adssend.net.	86400	IN	NS	ns.adssend.net.
+ns.adssend.net.	518400	IN	A	202.108.22.220
+
+whois.net.	86400	IN	NS	ns.whois.net.
+ns.whois.net.	518400	IN	A	202.108.22.220
+
+pcanalysis.net.	86400	IN	NS	ns.pcanalysis.net.
+ns.pcanalysis.net.	518400	IN	A	202.108.22.220
+
+forumcommunity.net.	86400	IN	NS	ns.forumcommunity.net.
+ns.forumcommunity.net.	518400	IN	A	202.108.22.220
+
+fakku.net.	86400	IN	NS	ns.fakku.net.
+ns.fakku.net.	518400	IN	A	202.56.230.5
+
+mbc.net.	86400	IN	NS	ns.mbc.net.
+ns.mbc.net.	518400	IN	A	202.56.230.5
+
+footmercato.net.	86400	IN	NS	ns.footmercato.net.
+ns.footmercato.net.	518400	IN	A	202.56.230.5
+
+graphicriver.net.	86400	IN	NS	ns.graphicriver.net.
+ns.graphicriver.net.	518400	IN	A	202.56.230.5
+
+eurogamer.net.	86400	IN	NS	ns.eurogamer.net.
+ns.eurogamer.net.	518400	IN	A	202.56.230.5
+
+cox.net.	86400	IN	NS	ns.cox.net.
+ns.cox.net.	518400	IN	A	202.56.230.5
+
+audiojungle.net.	86400	IN	NS	ns.audiojungle.net.
+ns.audiojungle.net.	518400	IN	A	202.56.230.5
+
+xici.net.	86400	IN	NS	ns.xici.net.
+ns.xici.net.	518400	IN	A	203.153.43.65
+
+att.net.	86400	IN	NS	ns.att.net.
+ns.att.net.	518400	IN	A	203.153.43.65
+
+questionablecontent.net.	86400	IN	NS	ns.questionablecontent.net.
+ns.questionablecontent.net.	518400	IN	A	203.153.43.65
+
+chinaunix.net.	86400	IN	NS	ns.chinaunix.net.
+ns.chinaunix.net.	518400	IN	A	203.153.43.65
+
+tusfiles.net.	86400	IN	NS	ns.tusfiles.net.
+ns.tusfiles.net.	518400	IN	A	203.153.43.65
+
+bnpparibas.net.	86400	IN	NS	ns.bnpparibas.net.
+ns.bnpparibas.net.	518400	IN	A	203.153.43.65
+
+jalan.net.	86400	IN	NS	ns.jalan.net.
+ns.jalan.net.	518400	IN	A	203.153.43.65
+
+realitatea.net.	86400	IN	NS	ns.realitatea.net.
+ns.realitatea.net.	518400	IN	A	203.153.43.65
+
+docusign.net.	86400	IN	NS	ns.docusign.net.
+ns.docusign.net.	518400	IN	A	203.153.43.65
+
+taringa.net.	86400	IN	NS	ns.taringa.net.
+ns.taringa.net.	518400	IN	A	203.153.43.65
+
+creativecow.net.	86400	IN	NS	ns.creativecow.net.
+ns.creativecow.net.	518400	IN	A	203.153.43.65
+
+isimtescil.net.	86400	IN	NS	ns.isimtescil.net.
+ns.isimtescil.net.	518400	IN	A	203.153.43.65
+
+eenadu.net.	86400	IN	NS	ns.eenadu.net.
+ns.eenadu.net.	518400	IN	A	203.153.43.65
+
+ngoisao.net.	86400	IN	NS	ns.ngoisao.net.
+ns.ngoisao.net.	518400	IN	A	203.153.43.65
+
+animeflv.net.	86400	IN	NS	ns.animeflv.net.
+ns.animeflv.net.	518400	IN	A	203.153.43.65
+
+xuite.net.	86400	IN	NS	ns.xuite.net.
+ns.xuite.net.	518400	IN	A	204.74.108.1
+
+hugefiles.net.	86400	IN	NS	ns.hugefiles.net.
+ns.hugefiles.net.	518400	IN	A	204.74.108.1
+
+tobogo.net.	86400	IN	NS	ns.tobogo.net.
+ns.tobogo.net.	518400	IN	A	204.74.108.1
+
+imgchili.net.	86400	IN	NS	ns.imgchili.net.
+ns.imgchili.net.	518400	IN	A	204.74.108.1
+
+seriesflv.net.	86400	IN	NS	ns.seriesflv.net.
+ns.seriesflv.net.	518400	IN	A	204.74.108.1
+
+cqmama.net.	86400	IN	NS	ns.cqmama.net.
+ns.cqmama.net.	518400	IN	A	204.74.108.1
+
+traidnt.net.	86400	IN	NS	ns.traidnt.net.
+ns.traidnt.net.	518400	IN	A	204.74.108.1
+
+teamliquid.net.	86400	IN	NS	ns.teamliquid.net.
+ns.teamliquid.net.	518400	IN	A	204.74.108.1
+
+jsfiddle.net.	86400	IN	NS	ns.jsfiddle.net.
+ns.jsfiddle.net.	518400	IN	A	204.74.108.1
+
+pixnet.net.	86400	IN	NS	ns.pixnet.net.
+ns.pixnet.net.	518400	IN	A	204.74.108.1
+
+999120.net.	86400	IN	NS	ns.999120.net.
+ns.999120.net.	518400	IN	A	204.74.108.1
+
+championselect.net.	86400	IN	NS	ns.championselect.net.
+ns.championselect.net.	518400	IN	A	204.69.234.1
+
+reverso.net.	86400	IN	NS	ns.reverso.net.
+ns.reverso.net.	518400	IN	A	204.69.234.1
+
+notebookcheck.net.	86400	IN	NS	ns.notebookcheck.net.
+ns.notebookcheck.net.	518400	IN	A	204.69.234.1
+
+trackingclick.net.	86400	IN	NS	ns.trackingclick.net.
+ns.trackingclick.net.	518400	IN	A	204.69.234.1
+
+torrentbest.net.	86400	IN	NS	ns.torrentbest.net.
+ns.torrentbest.net.	518400	IN	A	204.69.234.1
+
+consumer-feedback.net.	86400	IN	NS	ns.consumer-feedback.net.
+ns.consumer-feedback.net.	518400	IN	A	204.69.234.1
+
+imgchili.net.	86400	IN	NS	ns.imgchili.net.
+ns.imgchili.net.	518400	IN	A	204.69.234.1
+
+f-picture.net.	86400	IN	NS	ns.f-picture.net.
+ns.f-picture.net.	518400	IN	A	204.69.234.1
+
+babal.net.	86400	IN	NS	ns.babal.net.
+ns.babal.net.	518400	IN	A	204.69.234.1
+
+consequenceofsound.net.	86400	IN	NS	ns.consequenceofsound.net.
+ns.consequenceofsound.net.	518400	IN	A	204.69.234.1
+
+ntvspor.net.	86400	IN	NS	ns.ntvspor.net.
+ns.ntvspor.net.	518400	IN	A	204.69.234.1
+
+xuite.net.	86400	IN	NS	ns.xuite.net.
+ns.xuite.net.	518400	IN	A	204.69.234.1
+
+with2.net.	86400	IN	NS	ns.with2.net.
+ns.with2.net.	518400	IN	A	204.69.234.1
+
+52pk.net.	86400	IN	NS	ns.52pk.net.
+ns.52pk.net.	518400	IN	A	205.251.192.29
+
+r10.net.	86400	IN	NS	ns.r10.net.
+ns.r10.net.	518400	IN	A	205.251.192.29
+
+jalan.net.	86400	IN	NS	ns.jalan.net.
+ns.jalan.net.	518400	IN	A	205.251.192.29
+
+jsfiddle.net.	86400	IN	NS	ns.jsfiddle.net.
+ns.jsfiddle.net.	518400	IN	A	205.251.192.29
+
+commentcamarche.net.	86400	IN	NS	ns.commentcamarche.net.
+ns.commentcamarche.net.	518400	IN	A	205.251.192.29
+
+almaghribtoday.net.	86400	IN	NS	ns.almaghribtoday.net.
+ns.almaghribtoday.net.	518400	IN	A	205.251.192.29
+
+fishki.net.	86400	IN	NS	ns.fishki.net.
+ns.fishki.net.	518400	IN	A	205.251.192.29
+
+popcash.net.	86400	IN	NS	ns.popcash.net.
+ns.popcash.net.	518400	IN	A	205.251.192.29
+
+mangareader.net.	86400	IN	NS	ns.mangareader.net.
+ns.mangareader.net.	518400	IN	A	205.251.192.29
+
+neowin.net.	86400	IN	NS	ns.neowin.net.
+ns.neowin.net.	518400	IN	A	205.251.197.107
+
+allmyvideos.net.	86400	IN	NS	ns.allmyvideos.net.
+ns.allmyvideos.net.	518400	IN	A	205.251.197.107
+
+cox.net.	86400	IN	NS	ns.cox.net.
+ns.cox.net.	518400	IN	A	205.251.197.107
+
+coolenjoy.net.	86400	IN	NS	ns.coolenjoy.net.
+ns.coolenjoy.net.	518400	IN	A	205.251.197.107
+
+emuch.net.	86400	IN	NS	ns.emuch.net.
+ns.emuch.net.	518400	IN	A	205.251.197.107
+
+realitatea.net.	86400	IN	NS	ns.realitatea.net.
+ns.realitatea.net.	518400	IN	A	205.251.197.107
+
+reverso.net.	86400	IN	NS	ns.reverso.net.
+ns.reverso.net.	518400	IN	A	205.251.197.107
+
+filmix.net.	86400	IN	NS	ns.filmix.net.
+ns.filmix.net.	518400	IN	A	205.251.197.107
+
+lolking.net.	86400	IN	NS	ns.lolking.net.
+ns.lolking.net.	518400	IN	A	205.251.197.107
+
+fbcdn.net.	86400	IN	NS	ns.fbcdn.net.
+ns.fbcdn.net.	518400	IN	A	205.251.197.107
+
+adsrvmedia.net.	86400	IN	NS	ns.adsrvmedia.net.
+ns.adsrvmedia.net.	518400	IN	A	205.251.197.107
+
+gigazine.net.	86400	IN	NS	ns.gigazine.net.
+ns.gigazine.net.	518400	IN	A	205.251.197.107
+
+xuite.net.	86400	IN	NS	ns.xuite.net.
+ns.xuite.net.	518400	IN	A	205.251.197.107
+
+ali213.net.	86400	IN	NS	ns.ali213.net.
+ns.ali213.net.	518400	IN	A	205.251.197.107
+
+unian.net.	86400	IN	NS	ns.unian.net.
+ns.unian.net.	518400	IN	A	205.251.197.107
+
+ecplaza.net.	86400	IN	NS	ns.ecplaza.net.
+ns.ecplaza.net.	518400	IN	A	205.251.197.107
+
+comenity.net.	86400	IN	NS	ns.comenity.net.
+ns.comenity.net.	518400	IN	A	205.251.197.107
+
+serebii.net.	86400	IN	NS	ns.serebii.net.
+ns.serebii.net.	518400	IN	A	205.251.197.107
+
+4gamer.net.	86400	IN	NS	ns.4gamer.net.
+ns.4gamer.net.	518400	IN	A	205.251.194.1
+
+kinogo.net.	86400	IN	NS	ns.kinogo.net.
+ns.kinogo.net.	518400	IN	A	205.251.194.1
+
+infojobs.net.	86400	IN	NS	ns.infojobs.net.
+ns.infojobs.net.	518400	IN	A	205.251.194.1
+
+filmix.net.	86400	IN	NS	ns.filmix.net.
+ns.filmix.net.	518400	IN	A	205.251.194.1
+
+chinaunix.net.	86400	IN	NS	ns.chinaunix.net.
+ns.chinaunix.net.	518400	IN	A	205.251.194.1
+
+gutefrage.net.	86400	IN	NS	ns.gutefrage.net.
+ns.gutefrage.net.	518400	IN	A	205.251.194.1
+
+zamunda.net.	86400	IN	NS	ns.zamunda.net.
+ns.zamunda.net.	518400	IN	A	205.251.194.1
+
+desitvforum.net.	86400	IN	NS	ns.desitvforum.net.
+ns.desitvforum.net.	518400	IN	A	205.251.194.1
+
+rapidgator.net.	86400	IN	NS	ns.rapidgator.net.
+ns.rapidgator.net.	518400	IN	A	205.251.194.1
+
+kariyer.net.	86400	IN	NS	ns.kariyer.net.
+ns.kariyer.net.	518400	IN	A	205.251.194.1
+
+trackingclick.net.	86400	IN	NS	ns.trackingclick.net.
+ns.trackingclick.net.	518400	IN	A	205.251.194.1
+
+tobogo.net.	86400	IN	NS	ns.tobogo.net.
+ns.tobogo.net.	518400	IN	A	205.251.199.254
+
+adsrvmedia.net.	86400	IN	NS	ns.adsrvmedia.net.
+ns.adsrvmedia.net.	518400	IN	A	205.251.199.254
+
+yandex.net.	86400	IN	NS	ns.yandex.net.
+ns.yandex.net.	518400	IN	A	205.251.199.254
+
+secureserver.net.	86400	IN	NS	ns.secureserver.net.
+ns.secureserver.net.	518400	IN	A	205.251.199.254
+
+pixiv.net.	86400	IN	NS	ns.pixiv.net.
+ns.pixiv.net.	518400	IN	A	205.251.199.254
+
+themeforest.net.	86400	IN	NS	ns.themeforest.net.
+ns.themeforest.net.	518400	IN	A	205.251.199.254
+
+stylene.net.	86400	IN	NS	ns.stylene.net.
+ns.stylene.net.	518400	IN	A	205.251.199.254
+
+savefrom.net.	86400	IN	NS	ns.savefrom.net.
+ns.savefrom.net.	518400	IN	A	205.251.199.254
+
+reverso.net.	86400	IN	NS	ns.reverso.net.
+ns.reverso.net.	518400	IN	A	205.251.199.254
+
+tympanus.net.	86400	IN	NS	ns.tympanus.net.
+ns.tympanus.net.	518400	IN	A	205.251.199.254
+
+cnki.net.	86400	IN	NS	ns.cnki.net.
+ns.cnki.net.	518400	IN	A	205.251.199.254
+
+webassign.net.	86400	IN	NS	ns.webassign.net.
+ns.webassign.net.	518400	IN	A	205.251.199.254
+
+i-gamer.net.	86400	IN	NS	ns.i-gamer.net.
+ns.i-gamer.net.	518400	IN	A	205.251.195.203
+
+popcash.net.	86400	IN	NS	ns.popcash.net.
+ns.popcash.net.	518400	IN	A	205.251.195.203
+
+islamweb.net.	86400	IN	NS	ns.islamweb.net.
+ns.islamweb.net.	518400	IN	A	205.251.195.203
+
+infojobs.net.	86400	IN	NS	ns.infojobs.net.
+ns.infojobs.net.	518400	IN	A	205.251.195.203
+
+newsmth.net.	86400	IN	NS	ns.newsmth.net.
+ns.newsmth.net.	518400	IN	A	205.251.195.203
+
+rapidgator.net.	86400	IN	NS	ns.rapidgator.net.
+ns.rapidgator.net.	518400	IN	A	205.251.195.203
+
+seriesflv.net.	86400	IN	NS	ns.seriesflv.net.
+ns.seriesflv.net.	518400	IN	A	205.251.195.203
+
+trackingclick.net.	86400	IN	NS	ns.trackingclick.net.
+ns.trackingclick.net.	518400	IN	A	205.251.195.203
+
+desirulez.net.	86400	IN	NS	ns.desirulez.net.
+ns.desirulez.net.	518400	IN	A	205.251.195.203
+
+bungie.net.	86400	IN	NS	ns.bungie.net.
+ns.bungie.net.	518400	IN	A	205.251.195.203
+
+eurogamer.net.	86400	IN	NS	ns.eurogamer.net.
+ns.eurogamer.net.	518400	IN	A	205.251.195.203
+
+ero-video.net.	86400	IN	NS	ns.ero-video.net.
+ns.ero-video.net.	518400	IN	A	205.251.195.203
+
+architecturendesign.net.	86400	IN	NS	ns.architecturendesign.net.
+ns.architecturendesign.net.	518400	IN	A	205.251.195.203
+
+pchome.net.	86400	IN	NS	ns.pchome.net.
+ns.pchome.net.	518400	IN	A	205.251.195.203
+
+coolenjoy.net.	86400	IN	NS	ns.coolenjoy.net.
+ns.coolenjoy.net.	518400	IN	A	205.251.195.203
+
+dpstream.net.	86400	IN	NS	ns.dpstream.net.
+ns.dpstream.net.	518400	IN	A	206.128.173.109
+
+taleo.net.	86400	IN	NS	ns.taleo.net.
+ns.taleo.net.	518400	IN	A	206.128.173.109
+
+popads.net.	86400	IN	NS	ns.popads.net.
+ns.popads.net.	518400	IN	A	206.128.173.109
+
+carsensor.net.	86400	IN	NS	ns.carsensor.net.
+ns.carsensor.net.	518400	IN	A	206.128.173.109
+
+pchome.net.	86400	IN	NS	ns.pchome.net.
+ns.pchome.net.	518400	IN	A	206.128.173.109
+
+ero-video.net.	86400	IN	NS	ns.ero-video.net.
+ns.ero-video.net.	518400	IN	A	206.128.173.109
+
+imgserve.net.	86400	IN	NS	ns.imgserve.net.
+ns.imgserve.net.	518400	IN	A	206.128.173.109
+
+filmesonlinegratis.net.	86400	IN	NS	ns.filmesonlinegratis.net.
+ns.filmesonlinegratis.net.	518400	IN	A	206.128.173.109
+
+cnki.net.	86400	IN	NS	ns.cnki.net.
+ns.cnki.net.	518400	IN	A	206.128.173.109
+
+mightytext.net.	86400	IN	NS	ns.mightytext.net.
+ns.mightytext.net.	518400	IN	A	206.128.173.109
+
+explosm.net.	86400	IN	NS	ns.explosm.net.
+ns.explosm.net.	518400	IN	A	206.128.173.109
+
+cqmama.net.	86400	IN	NS	ns.cqmama.net.
+ns.cqmama.net.	518400	IN	A	206.128.173.109
+
+mafiashare.net.	86400	IN	NS	ns.mafiashare.net.
+ns.mafiashare.net.	518400	IN	A	206.128.173.109
+
+ettoday.net.	86400	IN	NS	ns.ettoday.net.
+ns.ettoday.net.	518400	IN	A	206.128.173.109
+
+docusign.net.	86400	IN	NS	ns.docusign.net.
+ns.docusign.net.	518400	IN	A	206.128.173.109
+
+photodune.net.	86400	IN	NS	ns.photodune.net.
+ns.photodune.net.	518400	IN	A	206.128.173.109
+
+serebii.net.	86400	IN	NS	ns.serebii.net.
+ns.serebii.net.	518400	IN	A	206.128.173.109
+
+recode.net.	86400	IN	NS	ns.recode.net.
+ns.recode.net.	518400	IN	A	206.128.173.109
+
+researchgate.net.	86400	IN	NS	ns.researchgate.net.
+ns.researchgate.net.	518400	IN	A	208.78.70.47
+
+jkforum.net.	86400	IN	NS	ns.jkforum.net.
+ns.jkforum.net.	518400	IN	A	208.78.70.47
+
+paheal.net.	86400	IN	NS	ns.paheal.net.
+ns.paheal.net.	518400	IN	A	208.78.70.47
+
+csdn.net.	86400	IN	NS	ns.csdn.net.
+ns.csdn.net.	518400	IN	A	208.78.70.47
+
+atlassian.net.	86400	IN	NS	ns.atlassian.net.
+ns.atlassian.net.	518400	IN	A	208.78.70.47
+
+dytt8.net.	86400	IN	NS	ns.dytt8.net.
+ns.dytt8.net.	518400	IN	A	208.78.70.47
+
+mbc.net.	86400	IN	NS	ns.mbc.net.
+ns.mbc.net.	518400	IN	A	208.78.70.47
+
+bnpparibas.net.	86400	IN	NS	ns.bnpparibas.net.
+ns.bnpparibas.net.	518400	IN	A	208.78.70.47
+
+gossip1.net.	86400	IN	NS	ns.gossip1.net.
+ns.gossip1.net.	518400	IN	A	208.78.70.47
+
+interpals.net.	86400	IN	NS	ns.interpals.net.
+ns.interpals.net.	518400	IN	A	208.78.70.47
+
+streaming-illimite.net.	86400	IN	NS	ns.streaming-illimite.net.
+ns.streaming-illimite.net.	518400	IN	A	208.78.70.47
+
+surrenderat20.net.	86400	IN	NS	ns.surrenderat20.net.
+ns.surrenderat20.net.	518400	IN	A	213.180.193.1
+
+megaoferta.net.	86400	IN	NS	ns.megaoferta.net.
+ns.megaoferta.net.	518400	IN	A	213.180.193.1
+
+gutefrage.net.	86400	IN	NS	ns.gutefrage.net.
+ns.gutefrage.net.	518400	IN	A	213.180.193.1
+
+videohive.net.	86400	IN	NS	ns.videohive.net.
+ns.videohive.net.	518400	IN	A	213.180.193.1
+
+streaming-illimite.net.	86400	IN	NS	ns.streaming-illimite.net.
+ns.streaming-illimite.net.	518400	IN	A	213.180.193.1
+
+full-stream.net.	86400	IN	NS	ns.full-stream.net.
+ns.full-stream.net.	518400	IN	A	213.180.193.1
+
+pixiv.net.	86400	IN	NS	ns.pixiv.net.
+ns.pixiv.net.	518400	IN	A	213.180.193.1
+
+torcache.net.	86400	IN	NS	ns.torcache.net.
+ns.torcache.net.	518400	IN	A	213.180.193.1
+
+fakku.net.	86400	IN	NS	ns.fakku.net.
+ns.fakku.net.	518400	IN	A	213.180.193.1
+
+clien.net.	86400	IN	NS	ns.clien.net.
+ns.clien.net.	518400	IN	A	213.180.193.1
+
+i-gamer.net.	86400	IN	NS	ns.i-gamer.net.
+ns.i-gamer.net.	518400	IN	A	213.180.193.1
+
+creativecow.net.	86400	IN	NS	ns.creativecow.net.
+ns.creativecow.net.	518400	IN	A	213.180.204.242
+
+pornolab.net.	86400	IN	NS	ns.pornolab.net.
+ns.pornolab.net.	518400	IN	A	213.180.204.242
+
+ero-video.net.	86400	IN	NS	ns.ero-video.net.
+ns.ero-video.net.	518400	IN	A	213.180.204.242
+
+dopr.net.	86400	IN	NS	ns.dopr.net.
+ns.dopr.net.	518400	IN	A	213.180.204.242
+
+shiftdelete.net.	86400	IN	NS	ns.shiftdelete.net.
+ns.shiftdelete.net.	518400	IN	A	213.180.204.242
+
+islamweb.net.	86400	IN	NS	ns.islamweb.net.
+ns.islamweb.net.	518400	IN	A	213.180.204.242
+
+mightytext.net.	86400	IN	NS	ns.mightytext.net.
+ns.mightytext.net.	518400	IN	A	213.180.204.242
+
+realitatea.net.	86400	IN	NS	ns.realitatea.net.
+ns.realitatea.net.	518400	IN	A	213.180.204.242
+
+imgchili.net.	86400	IN	NS	ns.imgchili.net.
+ns.imgchili.net.	518400	IN	A	213.180.204.242
+
+turbobit.net.	86400	IN	NS	ns.turbobit.net.
+ns.turbobit.net.	518400	IN	A	213.180.204.242
+
+edline.net.	86400	IN	NS	ns.edline.net.
+ns.edline.net.	518400	IN	A	213.180.204.242
+
+footmercato.net.	86400	IN	NS	ns.footmercato.net.
+ns.footmercato.net.	518400	IN	A	213.180.204.242
+
+almaghribtoday.net.	86400	IN	NS	ns.almaghribtoday.net.
+ns.almaghribtoday.net.	518400	IN	A	213.180.204.242
+
+carsensor.net.	86400	IN	NS	ns.carsensor.net.
+ns.carsensor.net.	518400	IN	A	213.180.204.242
+
+photodune.net.	86400	IN	NS	ns.photodune.net.
+ns.photodune.net.	518400	IN	A	213.180.204.242
+
+ntvspor.net.	86400	IN	NS	ns.ntvspor.net.
+ns.ntvspor.net.	518400	IN	A	213.180.204.242
+
+cpanel.net.	86400	IN	NS	ns.cpanel.net.
+ns.cpanel.net.	518400	IN	A	213.180.204.242
+
+overclock.net.	86400	IN	NS	ns.overclock.net.
+ns.overclock.net.	518400	IN	A	213.180.204.242
+
+bulbagarden.net.	86400	IN	NS	ns.bulbagarden.net.
+ns.bulbagarden.net.	518400	IN	A	213.180.204.242
+
+17track.net.	86400	IN	NS	ns.17track.net.
+ns.17track.net.	518400	IN	A	216.239.32.10
+
+secureserver.net.	86400	IN	NS	ns.secureserver.net.
+ns.secureserver.net.	518400	IN	A	216.239.32.10
+
+docusign.net.	86400	IN	NS	ns.docusign.net.
+ns.docusign.net.	518400	IN	A	216.239.32.10
+
+photodune.net.	86400	IN	NS	ns.photodune.net.
+ns.photodune.net.	518400	IN	A	216.239.32.10
+
+pcanalysis.net.	86400	IN	NS	ns.pcanalysis.net.
+ns.pcanalysis.net.	518400	IN	A	216.239.32.10
+
+babal.net.	86400	IN	NS	ns.babal.net.
+ns.babal.net.	518400	IN	A	216.239.32.10
+
+bungie.net.	86400	IN	NS	ns.bungie.net.
+ns.bungie.net.	518400	IN	A	216.239.32.10
+
+n-mobile.net.	86400	IN	NS	ns.n-mobile.net.
+ns.n-mobile.net.	518400	IN	A	216.239.32.10
+
+explosm.net.	86400	IN	NS	ns.explosm.net.
+ns.explosm.net.	518400	IN	A	216.239.32.10
+
+jsfiddle.net.	86400	IN	NS	ns.jsfiddle.net.
+ns.jsfiddle.net.	518400	IN	A	216.239.32.10
+
+fmworld.net.	86400	IN	NS	ns.fmworld.net.
+ns.fmworld.net.	518400	IN	A	216.239.32.10
+
+ntvspor.net.	86400	IN	NS	ns.ntvspor.net.
+ns.ntvspor.net.	518400	IN	A	216.239.32.10
+
+4gamer.net.	86400	IN	NS	ns.4gamer.net.
+ns.4gamer.net.	518400	IN	A	216.239.32.10
+
+akhbarak.net.	86400	IN	NS	ns.akhbarak.net.
+ns.akhbarak.net.	518400	IN	A	216.239.32.10
+
+mangareader.net.	86400	IN	NS	ns.mangareader.net.
+ns.mangareader.net.	518400	IN	A	216.239.32.106
+
+animeflv.net.	86400	IN	NS	ns.animeflv.net.
+ns.animeflv.net.	518400	IN	A	216.239.32.106
+
+mightytext.net.	86400	IN	NS	ns.mightytext.net.
+ns.mightytext.net.	518400	IN	A	216.239.32.106
+
+furaffinity.net.	86400	IN	NS	ns.furaffinity.net.
+ns.furaffinity.net.	518400	IN	A	216.239.32.106
+
+bulbagarden.net.	86400	IN	NS	ns.bulbagarden.net.
+ns.bulbagarden.net.	518400	IN	A	216.239.32.106
+
+discas.net.	86400	IN	NS	ns.discas.net.
+ns.discas.net.	518400	IN	A	216.239.32.106
+
+popads.net.	86400	IN	NS	ns.popads.net.
+ns.popads.net.	518400	IN	A	216.239.32.106
+
+jsfiddle.net.	86400	IN	NS	ns.jsfiddle.net.
+ns.jsfiddle.net.	518400	IN	A	216.239.32.106
+
+oschina.net.	86400	IN	NS	ns.oschina.net.
+ns.oschina.net.	518400	IN	A	216.239.32.106
+
+stylene.net.	86400	IN	NS	ns.stylene.net.
+ns.stylene.net.	518400	IN	A	216.239.32.106
+
+streaming-illimite.net.	86400	IN	NS	ns.streaming-illimite.net.
+ns.streaming-illimite.net.	518400	IN	A	216.239.32.106
+
+bungie.net.	86400	IN	NS	ns.bungie.net.
+ns.bungie.net.	518400	IN	A	216.239.32.106
+
+recode.net.	86400	IN	NS	ns.recode.net.
+ns.recode.net.	518400	IN	A	216.239.32.106
+
+unian.net.	86400	IN	NS	ns.unian.net.
+ns.unian.net.	518400	IN	A	216.239.32.106
+
+linkshrink.net.	86400	IN	NS	ns.linkshrink.net.
+ns.linkshrink.net.	518400	IN	A	216.58.200.238
+
+creativecow.net.	86400	IN	NS	ns.creativecow.net.
+ns.creativecow.net.	518400	IN	A	216.58.200.238
+
+comingsoon.net.	86400	IN	NS	ns.comingsoon.net.
+ns.comingsoon.net.	518400	IN	A	216.58.200.238
+
+audiojungle.net.	86400	IN	NS	ns.audiojungle.net.
+ns.audiojungle.net.	518400	IN	A	216.58.200.238
+
+programme-tv.net.	86400	IN	NS	ns.programme-tv.net.
+ns.programme-tv.net.	518400	IN	A	216.58.200.238
+
+traidnt.net.	86400	IN	NS	ns.traidnt.net.
+ns.traidnt.net.	518400	IN	A	216.58.200.238
+
+yandex.net.	86400	IN	NS	ns.yandex.net.
+ns.yandex.net.	518400	IN	A	216.58.200.238
+
+hinet.net.	86400	IN	NS	ns.hinet.net.
+ns.hinet.net.	518400	IN	A	216.58.200.238
+
+coneco.net.	86400	IN	NS	ns.coneco.net.
+ns.coneco.net.	518400	IN	A	216.58.200.238
+
+themeforest.net.	86400	IN	NS	ns.themeforest.net.
+ns.themeforest.net.	518400	IN	A	216.58.200.238
+
+leadpages.net.	86400	IN	NS	ns.leadpages.net.
+ns.leadpages.net.	518400	IN	A	216.239.32.29
+
+i-gamer.net.	86400	IN	NS	ns.i-gamer.net.
+ns.i-gamer.net.	518400	IN	A	216.239.32.29
+
+earthlink.net.	86400	IN	NS	ns.earthlink.net.
+ns.earthlink.net.	518400	IN	A	216.239.32.29
+
+stylene.net.	86400	IN	NS	ns.stylene.net.
+ns.stylene.net.	518400	IN	A	216.239.32.29
+
+appbank.net.	86400	IN	NS	ns.appbank.net.
+ns.appbank.net.	518400	IN	A	216.239.32.29
+
+helpscout.net.	86400	IN	NS	ns.helpscout.net.
+ns.helpscout.net.	518400	IN	A	216.239.32.29
+
+cpanel.net.	86400	IN	NS	ns.cpanel.net.
+ns.cpanel.net.	518400	IN	A	216.239.32.29
+
+taleo.net.	86400	IN	NS	ns.taleo.net.
+ns.taleo.net.	518400	IN	A	216.239.32.29
+
+alternativeto.net.	86400	IN	NS	ns.alternativeto.net.
+ns.alternativeto.net.	518400	IN	A	216.239.32.29
+
+cox.net.	86400	IN	NS	ns.cox.net.
+ns.cox.net.	518400	IN	A	216.239.32.29
+
+carsensor.net.	86400	IN	NS	ns.carsensor.net.
+ns.carsensor.net.	518400	IN	A	216.239.32.29
+
+toyokeizai.net.	86400	IN	NS	ns.toyokeizai.net.
+ns.toyokeizai.net.	518400	IN	A	216.239.32.29
+
+trackingclick.net.	86400	IN	NS	ns.trackingclick.net.
+ns.trackingclick.net.	518400	IN	A	216.239.32.29
+
+kioskea.net.	86400	IN	NS	ns.kioskea.net.
+ns.kioskea.net.	518400	IN	A	216.239.32.29
+
+photodune.net.	86400	IN	NS	ns.photodune.net.
+ns.photodune.net.	518400	IN	A	216.239.32.29
+
+girlschannel.net.	86400	IN	NS	ns.girlschannel.net.
+ns.girlschannel.net.	518400	IN	A	216.239.32.29
+
+eurogamer.net.	86400	IN	NS	ns.eurogamer.net.
+ns.eurogamer.net.	518400	IN	A	217.69.139.112
+
+graphicriver.net.	86400	IN	NS	ns.graphicriver.net.
+ns.graphicriver.net.	518400	IN	A	217.69.139.112
+
+slideshare.net.	86400	IN	NS	ns.slideshare.net.
+ns.slideshare.net.	518400	IN	A	217.69.139.112
+
+dopr.net.	86400	IN	NS	ns.dopr.net.
+ns.dopr.net.	518400	IN	A	217.69.139.112
+
+gamgos.net.	86400	IN	NS	ns.gamgos.net.
+ns.gamgos.net.	518400	IN	A	217.69.139.112
+
+architecturendesign.net.	86400	IN	NS	ns.architecturendesign.net.
+ns.architecturendesign.net.	518400	IN	A	217.69.139.112
+
+coneco.net.	86400	IN	NS	ns.coneco.net.
+ns.coneco.net.	518400	IN	A	217.69.139.112
+
+pixnet.net.	86400	IN	NS	ns.pixnet.net.
+ns.pixnet.net.	518400	IN	A	217.69.139.112
+
+sucuri.net.	86400	IN	NS	ns.sucuri.net.
+ns.sucuri.net.	518400	IN	A	217.69.139.112
+
+fbcdn.net.	86400	IN	NS	ns.fbcdn.net.
+ns.fbcdn.net.	518400	IN	A	217.69.139.112
+
+vitorrent.net.	86400	IN	NS	ns.vitorrent.net.
+ns.vitorrent.net.	518400	IN	A	217.69.139.112
+
+savefrom.net.	86400	IN	NS	ns.savefrom.net.
+ns.savefrom.net.	518400	IN	A	217.69.139.112
+
+fakku.net.	86400	IN	NS	ns.fakku.net.
+ns.fakku.net.	518400	IN	A	217.69.139.202
+
+clien.net.	86400	IN	NS	ns.clien.net.
+ns.clien.net.	518400	IN	A	217.69.139.202
+
+comenity.net.	86400	IN	NS	ns.comenity.net.
+ns.comenity.net.	518400	IN	A	217.69.139.202
+
+whois.net.	86400	IN	NS	ns.whois.net.
+ns.whois.net.	518400	IN	A	217.69.139.202
+
+hypergames.net.	86400	IN	NS	ns.hypergames.net.
+ns.hypergames.net.	518400	IN	A	217.69.139.202
+
+isimtescil.net.	86400	IN	NS	ns.isimtescil.net.
+ns.isimtescil.net.	518400	IN	A	217.69.139.202
+
+bungie.net.	86400	IN	NS	ns.bungie.net.
+ns.bungie.net.	518400	IN	A	217.69.139.202
+
+launchpad.net.	86400	IN	NS	ns.launchpad.net.
+ns.launchpad.net.	518400	IN	A	217.69.139.202
+
+shufoo.net.	86400	IN	NS	ns.shufoo.net.
+ns.shufoo.net.	518400	IN	A	217.69.139.202
+
+allmyvideos.net.	86400	IN	NS	ns.allmyvideos.net.
+ns.allmyvideos.net.	518400	IN	A	217.69.139.202
+
+mbc.net.	86400	IN	NS	ns.mbc.net.
+ns.mbc.net.	518400	IN	A	217.69.139.202
+
+lolking.net.	86400	IN	NS	ns.lolking.net.
+ns.lolking.net.	518400	IN	A	217.69.139.202
+
+webassign.net.	86400	IN	NS	ns.webassign.net.
+ns.webassign.net.	518400	IN	A	217.69.139.202

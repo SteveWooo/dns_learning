@@ -1,0 +1,6 @@
+
+t-nation.com.	86400	IN	SOA	ns.t-nation.com.	mail	2019061702 1800 900 604800 86400
+t-nation.com.	86400	IN	NS	ns.t-nation.com.
+ns.t-nation.com.	518400	IN	A	204.69.234.1
+
+t-nation.com.	518400	IN	A	192.207.255.238

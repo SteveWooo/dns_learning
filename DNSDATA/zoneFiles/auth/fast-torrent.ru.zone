@@ -1,0 +1,6 @@
+
+fast-torrent.ru.	86400	IN	SOA	ns.fast-torrent.ru.	mail	2019061702 1800 900 604800 86400
+fast-torrent.ru.	86400	IN	NS	ns.fast-torrent.ru.
+ns.fast-torrent.ru.	518400	IN	A	205.251.194.1
+
+fast-torrent.ru.	518400	IN	A	52.15.96.207

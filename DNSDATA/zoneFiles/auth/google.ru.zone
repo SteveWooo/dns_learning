@@ -1,0 +1,6 @@
+
+google.ru.	86400	IN	SOA	ns.google.ru.	mail	2019061702 1800 900 604800 86400
+google.ru.	86400	IN	NS	ns.google.ru.
+ns.google.ru.	518400	IN	A	204.69.234.1
+
+google.ru.	518400	IN	A	67.228.37.26

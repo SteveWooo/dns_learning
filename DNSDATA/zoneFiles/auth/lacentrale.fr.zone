@@ -1,0 +1,6 @@
+
+lacentrale.fr.	86400	IN	SOA	ns.lacentrale.fr.	mail	2019061702 1800 900 604800 86400
+lacentrale.fr.	86400	IN	NS	ns.lacentrale.fr.
+ns.lacentrale.fr.	518400	IN	A	205.251.192.29
+
+lacentrale.fr.	518400	IN	A	54.229.73.8

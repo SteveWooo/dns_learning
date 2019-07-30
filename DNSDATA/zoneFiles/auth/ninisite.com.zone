@@ -1,0 +1,6 @@
+
+ninisite.com.	86400	IN	SOA	ns.ninisite.com.	mail	2019061702 1800 900 604800 86400
+ninisite.com.	86400	IN	NS	ns.ninisite.com.
+ns.ninisite.com.	518400	IN	A	216.239.32.106
+
+ninisite.com.	518400	IN	A	104.20.68.156

@@ -1,0 +1,6 @@
+
+aircanada.com.	86400	IN	SOA	ns.aircanada.com.	mail	2019061702 1800 900 604800 86400
+aircanada.com.	86400	IN	NS	ns.aircanada.com.
+ns.aircanada.com.	518400	IN	A	217.69.139.112
+
+aircanada.com.	518400	IN	A	2.23.141.108

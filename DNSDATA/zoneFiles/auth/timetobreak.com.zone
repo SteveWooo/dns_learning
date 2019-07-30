@@ -1,0 +1,6 @@
+
+timetobreak.com.	86400	IN	SOA	ns.timetobreak.com.	mail	2019061702 1800 900 604800 86400
+timetobreak.com.	86400	IN	NS	ns.timetobreak.com.
+ns.timetobreak.com.	518400	IN	A	193.232.142.17
+
+timetobreak.com.	518400	IN	A	185.199.110.153

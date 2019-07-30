@@ -1,0 +1,4 @@
+
+select.	86400	IN	SOA	ns.select.	mail	2019061702 1800 900 604800 86400
+select.	86400	IN	NS	ns.select.
+ns.select.	518400	IN	A	37.209.196.9

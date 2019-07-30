@@ -1,0 +1,6 @@
+
+accenture.com.	86400	IN	SOA	ns.accenture.com.	mail	2019061702 1800 900 604800 86400
+accenture.com.	86400	IN	NS	ns.accenture.com.
+ns.accenture.com.	518400	IN	A	216.239.32.29
+
+accenture.com.	518400	IN	A	170.248.56.9

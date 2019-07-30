@@ -1,0 +1,6 @@
+
+indiocasino.com.	86400	IN	SOA	ns.indiocasino.com.	mail	2019061702 1800 900 604800 86400
+indiocasino.com.	86400	IN	NS	ns.indiocasino.com.
+ns.indiocasino.com.	518400	IN	A	202.56.230.5
+
+indiocasino.com.	518400	IN	A	190.4.89.45

@@ -1,0 +1,6 @@
+
+xkcd.com.	86400	IN	SOA	ns.xkcd.com.	mail	2019061702 1800 900 604800 86400
+xkcd.com.	86400	IN	NS	ns.xkcd.com.
+ns.xkcd.com.	518400	IN	A	213.180.193.1
+
+xkcd.com.	518400	IN	A	151.101.64.67

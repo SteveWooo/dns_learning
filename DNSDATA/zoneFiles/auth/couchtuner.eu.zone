@@ -1,0 +1,6 @@
+
+couchtuner.eu.	86400	IN	SOA	ns.couchtuner.eu.	mail	2019061702 1800 900 604800 86400
+couchtuner.eu.	86400	IN	NS	ns.couchtuner.eu.
+ns.couchtuner.eu.	518400	IN	A	204.74.108.1
+
+couchtuner.eu.	518400	IN	A	199.59.242.151

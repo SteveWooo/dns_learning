@@ -1,0 +1,6 @@
+
+suumo.jp.	86400	IN	SOA	ns.suumo.jp.	mail	2019061702 1800 900 604800 86400
+suumo.jp.	86400	IN	NS	ns.suumo.jp.
+ns.suumo.jp.	518400	IN	A	198.100.156.181
+
+suumo.jp.	518400	IN	A	160.17.3.13

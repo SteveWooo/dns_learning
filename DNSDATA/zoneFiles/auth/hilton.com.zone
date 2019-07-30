@@ -1,0 +1,6 @@
+
+hilton.com.	86400	IN	SOA	ns.hilton.com.	mail	2019061702 1800 900 604800 86400
+hilton.com.	86400	IN	NS	ns.hilton.com.
+ns.hilton.com.	518400	IN	A	175.126.117.211
+
+hilton.com.	518400	IN	A	167.187.200.23

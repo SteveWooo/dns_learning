@@ -1,0 +1,6 @@
+
+chainreactioncycles.com.	86400	IN	SOA	ns.chainreactioncycles.com.	mail	2019061702 1800 900 604800 86400
+chainreactioncycles.com.	86400	IN	NS	ns.chainreactioncycles.com.
+ns.chainreactioncycles.com.	518400	IN	A	216.239.32.29
+
+chainreactioncycles.com.	518400	IN	A	107.6.172.221

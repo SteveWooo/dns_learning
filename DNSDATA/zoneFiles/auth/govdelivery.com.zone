@@ -1,0 +1,6 @@
+
+govdelivery.com.	86400	IN	SOA	ns.govdelivery.com.	mail	2019061702 1800 900 604800 86400
+govdelivery.com.	86400	IN	NS	ns.govdelivery.com.
+ns.govdelivery.com.	518400	IN	A	200.201.161.22
+
+govdelivery.com.	518400	IN	A	23.185.0.4

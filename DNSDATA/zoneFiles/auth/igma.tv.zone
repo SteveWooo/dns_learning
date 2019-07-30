@@ -1,0 +1,6 @@
+
+igma.tv.	86400	IN	SOA	ns.igma.tv.	mail	2019061702 1800 900 604800 86400
+igma.tv.	86400	IN	NS	ns.igma.tv.
+ns.igma.tv.	518400	IN	A	205.251.197.107
+
+igma.tv.	518400	IN	A	52.74.223.93

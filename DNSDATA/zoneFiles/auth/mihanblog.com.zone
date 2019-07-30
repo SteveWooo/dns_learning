@@ -1,0 +1,6 @@
+
+mihanblog.com.	86400	IN	SOA	ns.mihanblog.com.	mail	2019061702 1800 900 604800 86400
+mihanblog.com.	86400	IN	NS	ns.mihanblog.com.
+ns.mihanblog.com.	518400	IN	A	216.239.32.29
+
+mihanblog.com.	518400	IN	A	5.144.133.146

@@ -1,0 +1,6 @@
+
+searchengines.guru.	86400	IN	SOA	ns.searchengines.guru.	mail	2019061702 1800 900 604800 86400
+searchengines.guru.	86400	IN	NS	ns.searchengines.guru.
+ns.searchengines.guru.	518400	IN	A	187.18.60.242
+
+searchengines.guru.	518400	IN	A	88.212.233.188

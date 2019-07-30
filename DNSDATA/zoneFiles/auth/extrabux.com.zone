@@ -1,0 +1,6 @@
+
+extrabux.com.	86400	IN	SOA	ns.extrabux.com.	mail	2019061702 1800 900 604800 86400
+extrabux.com.	86400	IN	NS	ns.extrabux.com.
+ns.extrabux.com.	518400	IN	A	217.69.139.112
+
+extrabux.com.	518400	IN	A	54.175.110.23

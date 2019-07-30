@@ -1,0 +1,4 @@
+
+ngo.	86400	IN	SOA	ns.ngo.	mail	2019061702 1800 900 604800 86400
+ngo.	86400	IN	NS	ns.ngo.
+ns.ngo.	518400	IN	A	199.249.120.1

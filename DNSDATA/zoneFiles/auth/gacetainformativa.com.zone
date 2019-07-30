@@ -1,0 +1,6 @@
+
+gacetainformativa.com.	86400	IN	SOA	ns.gacetainformativa.com.	mail	2019061702 1800 900 604800 86400
+gacetainformativa.com.	86400	IN	NS	ns.gacetainformativa.com.
+ns.gacetainformativa.com.	518400	IN	A	183.3.226.207
+
+gacetainformativa.com.	518400	IN	A	67.227.173.104

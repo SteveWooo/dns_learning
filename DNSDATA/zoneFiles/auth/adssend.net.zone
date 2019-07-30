@@ -1,0 +1,6 @@
+
+adssend.net.	86400	IN	SOA	ns.adssend.net.	mail	2019061702 1800 900 604800 86400
+adssend.net.	86400	IN	NS	ns.adssend.net.
+ns.adssend.net.	518400	IN	A	202.108.22.220
+
+adssend.net.	518400	IN	A	173.239.5.6

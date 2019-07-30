@@ -1,0 +1,6 @@
+
+chomikuj.pl.	86400	IN	SOA	ns.chomikuj.pl.	mail	2019061702 1800 900 604800 86400
+chomikuj.pl.	86400	IN	NS	ns.chomikuj.pl.
+ns.chomikuj.pl.	518400	IN	A	216.239.32.106
+
+chomikuj.pl.	518400	IN	A	104.20.45.120

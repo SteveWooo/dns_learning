@@ -1,0 +1,6 @@
+
+dmoz.org.	86400	IN	SOA	ns.dmoz.org.	mail	2019061702 1800 900 604800 86400
+dmoz.org.	86400	IN	NS	ns.dmoz.org.
+ns.dmoz.org.	518400	IN	A	205.251.195.203
+
+dmoz.org.	518400	IN	A	124.108.115.100

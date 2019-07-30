@@ -1,0 +1,6 @@
+
+news247.gr.	86400	IN	SOA	ns.news247.gr.	mail	2019061702 1800 900 604800 86400
+news247.gr.	86400	IN	NS	ns.news247.gr.
+ns.news247.gr.	518400	IN	A	213.180.193.1
+
+news247.gr.	518400	IN	A	77.235.56.22

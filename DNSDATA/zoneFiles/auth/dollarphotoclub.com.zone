@@ -1,0 +1,6 @@
+
+dollarphotoclub.com.	86400	IN	SOA	ns.dollarphotoclub.com.	mail	2019061702 1800 900 604800 86400
+dollarphotoclub.com.	86400	IN	NS	ns.dollarphotoclub.com.
+ns.dollarphotoclub.com.	518400	IN	A	216.239.32.29
+
+dollarphotoclub.com.	518400	IN	A	31.25.82.10

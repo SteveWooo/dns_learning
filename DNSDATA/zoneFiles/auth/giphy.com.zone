@@ -1,0 +1,6 @@
+
+giphy.com.	86400	IN	SOA	ns.giphy.com.	mail	2019061702 1800 900 604800 86400
+giphy.com.	86400	IN	NS	ns.giphy.com.
+ns.giphy.com.	518400	IN	A	202.56.230.5
+
+giphy.com.	518400	IN	A	151.101.193.185

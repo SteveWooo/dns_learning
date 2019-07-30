@@ -1,0 +1,6 @@
+
+irr.ru.	86400	IN	SOA	ns.irr.ru.	mail	2019061702 1800 900 604800 86400
+irr.ru.	86400	IN	NS	ns.irr.ru.
+ns.irr.ru.	518400	IN	A	217.69.139.112
+
+irr.ru.	518400	IN	A	212.193.157.119

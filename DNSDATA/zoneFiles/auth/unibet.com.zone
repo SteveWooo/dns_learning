@@ -1,0 +1,6 @@
+
+unibet.com.	86400	IN	SOA	ns.unibet.com.	mail	2019061702 1800 900 604800 86400
+unibet.com.	86400	IN	NS	ns.unibet.com.
+ns.unibet.com.	518400	IN	A	193.108.91.127
+
+unibet.com.	518400	IN	A	85.184.96.20

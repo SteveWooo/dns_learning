@@ -1,0 +1,6 @@
+
+journaldesfemmes.com.	86400	IN	SOA	ns.journaldesfemmes.com.	mail	2019061702 1800 900 604800 86400
+journaldesfemmes.com.	86400	IN	NS	ns.journaldesfemmes.com.
+ns.journaldesfemmes.com.	518400	IN	A	208.78.70.47
+
+journaldesfemmes.com.	518400	IN	A	104.107.5.41

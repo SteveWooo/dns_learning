@@ -1,0 +1,6 @@
+
+bollywoodlife.com.	86400	IN	SOA	ns.bollywoodlife.com.	mail	2019061702 1800 900 604800 86400
+bollywoodlife.com.	86400	IN	NS	ns.bollywoodlife.com.
+ns.bollywoodlife.com.	518400	IN	A	198.11.138.245
+
+bollywoodlife.com.	518400	IN	A	54.173.62.149

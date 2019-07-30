@@ -1,0 +1,6 @@
+
+meetme.com.	86400	IN	SOA	ns.meetme.com.	mail	2019061702 1800 900 604800 86400
+meetme.com.	86400	IN	NS	ns.meetme.com.
+ns.meetme.com.	518400	IN	A	204.69.234.1
+
+meetme.com.	518400	IN	A	75.126.135.131

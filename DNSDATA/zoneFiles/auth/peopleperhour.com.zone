@@ -1,0 +1,6 @@
+
+peopleperhour.com.	86400	IN	SOA	ns.peopleperhour.com.	mail	2019061702 1800 900 604800 86400
+peopleperhour.com.	86400	IN	NS	ns.peopleperhour.com.
+ns.peopleperhour.com.	518400	IN	A	200.201.165.253
+
+peopleperhour.com.	518400	IN	A	54.230.71.125

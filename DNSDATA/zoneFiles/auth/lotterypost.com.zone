@@ -1,0 +1,6 @@
+
+lotterypost.com.	86400	IN	SOA	ns.lotterypost.com.	mail	2019061702 1800 900 604800 86400
+lotterypost.com.	86400	IN	NS	ns.lotterypost.com.
+ns.lotterypost.com.	518400	IN	A	173.245.58.100
+
+lotterypost.com.	518400	IN	A	69.13.244.21

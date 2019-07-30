@@ -1,0 +1,6 @@
+
+kissanime.com.	86400	IN	SOA	ns.kissanime.com.	mail	2019061702 1800 900 604800 86400
+kissanime.com.	86400	IN	NS	ns.kissanime.com.
+ns.kissanime.com.	518400	IN	A	198.100.156.181
+
+kissanime.com.	518400	IN	A	104.25.24.19

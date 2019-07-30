@@ -1,0 +1,6 @@
+
+filezilla-project.org.	86400	IN	SOA	ns.filezilla-project.org.	mail	2019061702 1800 900 604800 86400
+filezilla-project.org.	86400	IN	NS	ns.filezilla-project.org.
+ns.filezilla-project.org.	518400	IN	A	205.251.199.254
+
+filezilla-project.org.	518400	IN	A	136.243.154.86

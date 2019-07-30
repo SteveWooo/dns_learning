@@ -1,0 +1,6 @@
+
+cpanel.net.	86400	IN	SOA	ns.cpanel.net.	mail	2019061702 1800 900 604800 86400
+cpanel.net.	86400	IN	NS	ns.cpanel.net.
+ns.cpanel.net.	518400	IN	A	216.239.32.29
+
+cpanel.net.	518400	IN	A	208.74.121.151

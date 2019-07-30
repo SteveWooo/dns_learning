@@ -1,0 +1,6 @@
+
+yourdictionary.com.	86400	IN	SOA	ns.yourdictionary.com.	mail	2019061702 1800 900 604800 86400
+yourdictionary.com.	86400	IN	NS	ns.yourdictionary.com.
+ns.yourdictionary.com.	518400	IN	A	93.186.225.193
+
+yourdictionary.com.	518400	IN	A	13.32.90.94

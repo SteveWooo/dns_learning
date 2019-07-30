@@ -1,0 +1,6 @@
+
+joyclub.de.	86400	IN	SOA	ns.joyclub.de.	mail	2019061702 1800 900 604800 86400
+joyclub.de.	86400	IN	NS	ns.joyclub.de.
+ns.joyclub.de.	518400	IN	A	216.239.32.106
+
+joyclub.de.	518400	IN	A	80.237.186.220

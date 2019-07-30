@@ -1,0 +1,6 @@
+
+monster.com.	86400	IN	SOA	ns.monster.com.	mail	2019061702 1800 900 604800 86400
+monster.com.	86400	IN	NS	ns.monster.com.
+ns.monster.com.	518400	IN	A	202.56.230.5
+
+monster.com.	518400	IN	A	63.121.30.147

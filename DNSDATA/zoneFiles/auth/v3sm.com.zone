@@ -1,0 +1,6 @@
+
+v3sm.com.	86400	IN	SOA	ns.v3sm.com.	mail	2019061702 1800 900 604800 86400
+v3sm.com.	86400	IN	NS	ns.v3sm.com.
+ns.v3sm.com.	518400	IN	A	205.251.199.254
+
+v3sm.com.	518400	IN	A	94.124.118.103

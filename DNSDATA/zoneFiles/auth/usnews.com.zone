@@ -1,0 +1,6 @@
+
+usnews.com.	86400	IN	SOA	ns.usnews.com.	mail	2019061702 1800 900 604800 86400
+usnews.com.	86400	IN	NS	ns.usnews.com.
+ns.usnews.com.	518400	IN	A	205.251.195.203
+
+usnews.com.	518400	IN	A	23.8.180.246

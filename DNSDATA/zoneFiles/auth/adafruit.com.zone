@@ -1,0 +1,6 @@
+
+adafruit.com.	86400	IN	SOA	ns.adafruit.com.	mail	2019061702 1800 900 604800 86400
+adafruit.com.	86400	IN	NS	ns.adafruit.com.
+ns.adafruit.com.	518400	IN	A	216.239.32.29
+
+adafruit.com.	518400	IN	A	104.20.38.240

@@ -1,0 +1,6 @@
+
+unity3d.com.	86400	IN	SOA	ns.unity3d.com.	mail	2019061702 1800 900 604800 86400
+unity3d.com.	86400	IN	NS	ns.unity3d.com.
+ns.unity3d.com.	518400	IN	A	216.239.32.10
+
+unity3d.com.	518400	IN	A	104.119.39.41

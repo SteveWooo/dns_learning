@@ -1,0 +1,6 @@
+
+17track.net.	86400	IN	SOA	ns.17track.net.	mail	2019061702 1800 900 604800 86400
+17track.net.	86400	IN	NS	ns.17track.net.
+ns.17track.net.	518400	IN	A	216.239.32.10
+
+17track.net.	518400	IN	A	202.181.145.137

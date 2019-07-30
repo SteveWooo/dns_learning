@@ -1,0 +1,6 @@
+
+wp.pl.	86400	IN	SOA	ns.wp.pl.	mail	2019061702 1800 900 604800 86400
+wp.pl.	86400	IN	NS	ns.wp.pl.
+ns.wp.pl.	518400	IN	A	206.128.173.109
+
+wp.pl.	518400	IN	A	212.77.98.9

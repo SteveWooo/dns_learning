@@ -1,0 +1,6 @@
+
+ellechina.com.	86400	IN	SOA	ns.ellechina.com.	mail	2019061702 1800 900 604800 86400
+ellechina.com.	86400	IN	NS	ns.ellechina.com.
+ns.ellechina.com.	518400	IN	A	200.221.11.98
+
+ellechina.com.	518400	IN	A	52.81.38.150

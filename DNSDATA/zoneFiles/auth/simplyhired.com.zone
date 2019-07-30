@@ -1,0 +1,6 @@
+
+simplyhired.com.	86400	IN	SOA	ns.simplyhired.com.	mail	2019061702 1800 900 604800 86400
+simplyhired.com.	86400	IN	NS	ns.simplyhired.com.
+ns.simplyhired.com.	518400	IN	A	183.3.226.207
+
+simplyhired.com.	518400	IN	A	169.44.139.17

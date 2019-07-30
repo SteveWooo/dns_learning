@@ -1,0 +1,6 @@
+
+deezer.com.	86400	IN	SOA	ns.deezer.com.	mail	2019061702 1800 900 604800 86400
+deezer.com.	86400	IN	NS	ns.deezer.com.
+ns.deezer.com.	518400	IN	A	173.245.58.201
+
+deezer.com.	518400	IN	A	78.40.123.183

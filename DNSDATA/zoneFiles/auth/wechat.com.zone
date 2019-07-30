@@ -1,0 +1,6 @@
+
+wechat.com.	86400	IN	SOA	ns.wechat.com.	mail	2019061702 1800 900 604800 86400
+wechat.com.	86400	IN	NS	ns.wechat.com.
+ns.wechat.com.	518400	IN	A	204.69.234.1
+
+wechat.com.	518400	IN	A	203.205.143.159

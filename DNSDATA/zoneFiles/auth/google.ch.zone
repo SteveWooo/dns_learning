@@ -1,0 +1,6 @@
+
+google.ch.	86400	IN	SOA	ns.google.ch.	mail	2019061702 1800 900 604800 86400
+google.ch.	86400	IN	NS	ns.google.ch.
+ns.google.ch.	518400	IN	A	205.251.197.107
+
+google.ch.	518400	IN	A	69.171.232.21

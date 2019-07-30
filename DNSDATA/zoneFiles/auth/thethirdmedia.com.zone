@@ -1,0 +1,6 @@
+
+thethirdmedia.com.	86400	IN	SOA	ns.thethirdmedia.com.	mail	2019061702 1800 900 604800 86400
+thethirdmedia.com.	86400	IN	NS	ns.thethirdmedia.com.
+ns.thethirdmedia.com.	518400	IN	A	216.239.32.10
+
+thethirdmedia.com.	518400	IN	A	210.51.160.128

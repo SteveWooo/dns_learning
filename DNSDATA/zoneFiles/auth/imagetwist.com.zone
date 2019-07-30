@@ -1,0 +1,6 @@
+
+imagetwist.com.	86400	IN	SOA	ns.imagetwist.com.	mail	2019061702 1800 900 604800 86400
+imagetwist.com.	86400	IN	NS	ns.imagetwist.com.
+ns.imagetwist.com.	518400	IN	A	217.69.139.112
+
+imagetwist.com.	518400	IN	A	104.20.53.177

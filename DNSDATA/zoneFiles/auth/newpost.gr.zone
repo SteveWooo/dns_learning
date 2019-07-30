@@ -1,0 +1,6 @@
+
+newpost.gr.	86400	IN	SOA	ns.newpost.gr.	mail	2019061702 1800 900 604800 86400
+newpost.gr.	86400	IN	NS	ns.newpost.gr.
+ns.newpost.gr.	518400	IN	A	200.201.161.22
+
+newpost.gr.	518400	IN	A	104.27.138.4

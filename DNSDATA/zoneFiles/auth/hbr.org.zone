@@ -1,0 +1,6 @@
+
+hbr.org.	86400	IN	SOA	ns.hbr.org.	mail	2019061702 1800 900 604800 86400
+hbr.org.	86400	IN	NS	ns.hbr.org.
+ns.hbr.org.	518400	IN	A	206.128.173.109
+
+hbr.org.	518400	IN	A	52.222.211.117

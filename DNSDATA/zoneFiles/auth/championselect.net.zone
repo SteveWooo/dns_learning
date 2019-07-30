@@ -1,0 +1,6 @@
+
+championselect.net.	86400	IN	SOA	ns.championselect.net.	mail	2019061702 1800 900 604800 86400
+championselect.net.	86400	IN	NS	ns.championselect.net.
+ns.championselect.net.	518400	IN	A	204.69.234.1
+
+championselect.net.	518400	IN	A	104.27.140.107

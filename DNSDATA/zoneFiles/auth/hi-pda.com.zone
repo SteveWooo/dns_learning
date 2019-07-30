@@ -1,0 +1,6 @@
+
+hi-pda.com.	86400	IN	SOA	ns.hi-pda.com.	mail	2019061702 1800 900 604800 86400
+hi-pda.com.	86400	IN	NS	ns.hi-pda.com.
+ns.hi-pda.com.	518400	IN	A	198.100.156.181
+
+hi-pda.com.	518400	IN	A	58.215.45.20

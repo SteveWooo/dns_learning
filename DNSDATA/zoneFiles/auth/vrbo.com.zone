@@ -1,0 +1,6 @@
+
+vrbo.com.	86400	IN	SOA	ns.vrbo.com.	mail	2019061702 1800 900 604800 86400
+vrbo.com.	86400	IN	NS	ns.vrbo.com.
+ns.vrbo.com.	518400	IN	A	193.108.91.127
+
+vrbo.com.	518400	IN	A	199.247.90.18

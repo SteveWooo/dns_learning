@@ -1,0 +1,6 @@
+
+chekb.com.	86400	IN	SOA	ns.chekb.com.	mail	2019061702 1800 900 604800 86400
+chekb.com.	86400	IN	NS	ns.chekb.com.
+ns.chekb.com.	518400	IN	A	173.245.59.100
+
+chekb.com.	518400	IN	A	122.49.35.165

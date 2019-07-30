@@ -1,0 +1,6 @@
+
+xiami.com.	86400	IN	SOA	ns.xiami.com.	mail	2019061702 1800 900 604800 86400
+xiami.com.	86400	IN	NS	ns.xiami.com.
+ns.xiami.com.	518400	IN	A	217.69.139.202
+
+xiami.com.	518400	IN	A	203.119.217.18

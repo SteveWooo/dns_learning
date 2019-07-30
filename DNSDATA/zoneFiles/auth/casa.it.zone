@@ -1,0 +1,6 @@
+
+casa.it.	86400	IN	SOA	ns.casa.it.	mail	2019061702 1800 900 604800 86400
+casa.it.	86400	IN	NS	ns.casa.it.
+ns.casa.it.	518400	IN	A	216.239.32.106
+
+casa.it.	518400	IN	A	52.222.240.90

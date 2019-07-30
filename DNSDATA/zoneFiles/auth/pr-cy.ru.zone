@@ -1,0 +1,6 @@
+
+pr-cy.ru.	86400	IN	SOA	ns.pr-cy.ru.	mail	2019061702 1800 900 604800 86400
+pr-cy.ru.	86400	IN	NS	ns.pr-cy.ru.
+ns.pr-cy.ru.	518400	IN	A	202.108.22.220
+
+pr-cy.ru.	518400	IN	A	93.171.200.4

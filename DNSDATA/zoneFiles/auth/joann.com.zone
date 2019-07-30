@@ -1,0 +1,6 @@
+
+joann.com.	86400	IN	SOA	ns.joann.com.	mail	2019061702 1800 900 604800 86400
+joann.com.	86400	IN	NS	ns.joann.com.
+ns.joann.com.	518400	IN	A	140.205.67.253
+
+joann.com.	518400	IN	A	64.71.161.64

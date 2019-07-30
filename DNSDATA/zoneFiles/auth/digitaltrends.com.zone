@@ -1,0 +1,6 @@
+
+digitaltrends.com.	86400	IN	SOA	ns.digitaltrends.com.	mail	2019061702 1800 900 604800 86400
+digitaltrends.com.	86400	IN	NS	ns.digitaltrends.com.
+ns.digitaltrends.com.	518400	IN	A	205.251.195.203
+
+digitaltrends.com.	518400	IN	A	207.198.114.123

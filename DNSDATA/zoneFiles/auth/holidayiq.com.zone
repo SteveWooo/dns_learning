@@ -1,0 +1,6 @@
+
+holidayiq.com.	86400	IN	SOA	ns.holidayiq.com.	mail	2019061702 1800 900 604800 86400
+holidayiq.com.	86400	IN	NS	ns.holidayiq.com.
+ns.holidayiq.com.	518400	IN	A	216.58.200.238
+
+holidayiq.com.	518400	IN	A	124.153.116.210

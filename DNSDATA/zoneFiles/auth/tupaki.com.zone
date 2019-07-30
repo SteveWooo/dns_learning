@@ -1,0 +1,6 @@
+
+tupaki.com.	86400	IN	SOA	ns.tupaki.com.	mail	2019061702 1800 900 604800 86400
+tupaki.com.	86400	IN	NS	ns.tupaki.com.
+ns.tupaki.com.	518400	IN	A	173.245.58.201
+
+tupaki.com.	518400	IN	A	192.155.253.110

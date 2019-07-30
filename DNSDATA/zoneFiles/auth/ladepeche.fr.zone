@@ -1,0 +1,6 @@
+
+ladepeche.fr.	86400	IN	SOA	ns.ladepeche.fr.	mail	2019061702 1800 900 604800 86400
+ladepeche.fr.	86400	IN	NS	ns.ladepeche.fr.
+ns.ladepeche.fr.	518400	IN	A	193.232.156.17
+
+ladepeche.fr.	518400	IN	A	212.95.74.60

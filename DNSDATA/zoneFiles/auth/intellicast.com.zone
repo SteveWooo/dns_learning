@@ -1,0 +1,6 @@
+
+intellicast.com.	86400	IN	SOA	ns.intellicast.com.	mail	2019061702 1800 900 604800 86400
+intellicast.com.	86400	IN	NS	ns.intellicast.com.
+ns.intellicast.com.	518400	IN	A	206.128.173.109
+
+intellicast.com.	518400	IN	A	96.8.93.198

@@ -1,0 +1,6 @@
+
+bestbuy.ca.	86400	IN	SOA	ns.bestbuy.ca.	mail	2019061702 1800 900 604800 86400
+bestbuy.ca.	86400	IN	NS	ns.bestbuy.ca.
+ns.bestbuy.ca.	518400	IN	A	204.74.108.1
+
+bestbuy.ca.	518400	IN	A	104.127.59.163

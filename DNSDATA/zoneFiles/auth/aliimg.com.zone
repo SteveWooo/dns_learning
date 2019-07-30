@@ -1,0 +1,6 @@
+
+aliimg.com.	86400	IN	SOA	ns.aliimg.com.	mail	2019061702 1800 900 604800 86400
+aliimg.com.	86400	IN	NS	ns.aliimg.com.
+ns.aliimg.com.	518400	IN	A	173.245.58.100
+
+aliimg.com.	518400	IN	A	106.11.211.254

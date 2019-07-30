@@ -1,0 +1,6 @@
+
+qoo10.jp.	86400	IN	SOA	ns.qoo10.jp.	mail	2019061702 1800 900 604800 86400
+qoo10.jp.	86400	IN	NS	ns.qoo10.jp.
+ns.qoo10.jp.	518400	IN	A	198.100.156.181
+
+qoo10.jp.	518400	IN	A	52.74.251.10

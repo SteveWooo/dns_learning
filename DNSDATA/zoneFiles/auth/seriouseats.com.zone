@@ -1,0 +1,6 @@
+
+seriouseats.com.	86400	IN	SOA	ns.seriouseats.com.	mail	2019061702 1800 900 604800 86400
+seriouseats.com.	86400	IN	NS	ns.seriouseats.com.
+ns.seriouseats.com.	518400	IN	A	216.239.32.29
+
+seriouseats.com.	518400	IN	A	104.20.200.57

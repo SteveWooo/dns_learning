@@ -1,0 +1,6 @@
+
+moneysavingexpert.com.	86400	IN	SOA	ns.moneysavingexpert.com.	mail	2019061702 1800 900 604800 86400
+moneysavingexpert.com.	86400	IN	NS	ns.moneysavingexpert.com.
+ns.moneysavingexpert.com.	518400	IN	A	216.239.32.106
+
+moneysavingexpert.com.	518400	IN	A	104.16.250.108

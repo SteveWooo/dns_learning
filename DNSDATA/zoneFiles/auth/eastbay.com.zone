@@ -1,0 +1,6 @@
+
+eastbay.com.	86400	IN	SOA	ns.eastbay.com.	mail	2019061702 1800 900 604800 86400
+eastbay.com.	86400	IN	NS	ns.eastbay.com.
+ns.eastbay.com.	518400	IN	A	216.239.32.10
+
+eastbay.com.	518400	IN	A	92.122.9.251

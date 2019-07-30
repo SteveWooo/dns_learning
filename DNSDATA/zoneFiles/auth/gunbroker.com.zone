@@ -1,0 +1,6 @@
+
+gunbroker.com.	86400	IN	SOA	ns.gunbroker.com.	mail	2019061702 1800 900 604800 86400
+gunbroker.com.	86400	IN	NS	ns.gunbroker.com.
+ns.gunbroker.com.	518400	IN	A	213.180.193.1
+
+gunbroker.com.	518400	IN	A	67.220.119.45

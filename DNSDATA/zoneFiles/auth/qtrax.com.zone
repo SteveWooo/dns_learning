@@ -1,0 +1,6 @@
+
+qtrax.com.	86400	IN	SOA	ns.qtrax.com.	mail	2019061702 1800 900 604800 86400
+qtrax.com.	86400	IN	NS	ns.qtrax.com.
+ns.qtrax.com.	518400	IN	A	174.35.55.22
+
+qtrax.com.	518400	IN	A	50.63.202.55

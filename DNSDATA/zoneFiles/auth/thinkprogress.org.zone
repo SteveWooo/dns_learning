@@ -1,0 +1,6 @@
+
+thinkprogress.org.	86400	IN	SOA	ns.thinkprogress.org.	mail	2019061702 1800 900 604800 86400
+thinkprogress.org.	86400	IN	NS	ns.thinkprogress.org.
+ns.thinkprogress.org.	518400	IN	A	183.3.226.207
+
+thinkprogress.org.	518400	IN	A	192.0.66.2

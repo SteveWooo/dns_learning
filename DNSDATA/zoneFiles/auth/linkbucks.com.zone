@@ -1,0 +1,6 @@
+
+linkbucks.com.	86400	IN	SOA	ns.linkbucks.com.	mail	2019061702 1800 900 604800 86400
+linkbucks.com.	86400	IN	NS	ns.linkbucks.com.
+ns.linkbucks.com.	518400	IN	A	193.232.156.17
+
+linkbucks.com.	518400	IN	A	104.20.13.25

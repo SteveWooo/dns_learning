@@ -1,0 +1,6 @@
+
+zoomit.ir.	86400	IN	SOA	ns.zoomit.ir.	mail	2019061702 1800 900 604800 86400
+zoomit.ir.	86400	IN	NS	ns.zoomit.ir.
+ns.zoomit.ir.	518400	IN	A	216.239.32.10
+
+zoomit.ir.	518400	IN	A	185.143.235.5

@@ -1,0 +1,6 @@
+
+pccomponentes.com.	86400	IN	SOA	ns.pccomponentes.com.	mail	2019061702 1800 900 604800 86400
+pccomponentes.com.	86400	IN	NS	ns.pccomponentes.com.
+ns.pccomponentes.com.	518400	IN	A	111.202.126.2
+
+pccomponentes.com.	518400	IN	A	104.16.161.71

@@ -1,0 +1,6 @@
+
+iqiyi.com.	86400	IN	SOA	ns.iqiyi.com.	mail	2019061702 1800 900 604800 86400
+iqiyi.com.	86400	IN	NS	ns.iqiyi.com.
+ns.iqiyi.com.	518400	IN	A	216.239.32.106
+
+iqiyi.com.	518400	IN	A	101.227.188.174

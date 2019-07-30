@@ -1,0 +1,6 @@
+
+vanguardngr.com.	86400	IN	SOA	ns.vanguardngr.com.	mail	2019061702 1800 900 604800 86400
+vanguardngr.com.	86400	IN	NS	ns.vanguardngr.com.
+ns.vanguardngr.com.	518400	IN	A	216.239.32.106
+
+vanguardngr.com.	518400	IN	A	104.28.6.135

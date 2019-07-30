@@ -1,0 +1,6 @@
+
+teamviewer.com.	86400	IN	SOA	ns.teamviewer.com.	mail	2019061702 1800 900 604800 86400
+teamviewer.com.	86400	IN	NS	ns.teamviewer.com.
+ns.teamviewer.com.	518400	IN	A	217.69.139.202
+
+teamviewer.com.	518400	IN	A	13.95.16.245

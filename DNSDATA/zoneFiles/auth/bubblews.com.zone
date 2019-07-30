@@ -1,0 +1,6 @@
+
+bubblews.com.	86400	IN	SOA	ns.bubblews.com.	mail	2019061702 1800 900 604800 86400
+bubblews.com.	86400	IN	NS	ns.bubblews.com.
+ns.bubblews.com.	518400	IN	A	216.58.200.238
+
+bubblews.com.	518400	IN	A	207.226.183.187

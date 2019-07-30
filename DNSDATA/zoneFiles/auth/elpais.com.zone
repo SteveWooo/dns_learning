@@ -1,0 +1,6 @@
+
+elpais.com.	86400	IN	SOA	ns.elpais.com.	mail	2019061702 1800 900 604800 86400
+elpais.com.	86400	IN	NS	ns.elpais.com.
+ns.elpais.com.	518400	IN	A	216.239.32.10
+
+elpais.com.	518400	IN	A	69.171.229.28

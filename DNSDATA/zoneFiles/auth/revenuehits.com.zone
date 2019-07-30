@@ -1,0 +1,6 @@
+
+revenuehits.com.	86400	IN	SOA	ns.revenuehits.com.	mail	2019061702 1800 900 604800 86400
+revenuehits.com.	86400	IN	NS	ns.revenuehits.com.
+ns.revenuehits.com.	518400	IN	A	205.251.194.1
+
+revenuehits.com.	518400	IN	A	75.126.223.165

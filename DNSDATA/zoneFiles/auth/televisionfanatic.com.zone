@@ -1,0 +1,6 @@
+
+televisionfanatic.com.	86400	IN	SOA	ns.televisionfanatic.com.	mail	2019061702 1800 900 604800 86400
+televisionfanatic.com.	86400	IN	NS	ns.televisionfanatic.com.
+ns.televisionfanatic.com.	518400	IN	A	213.180.204.242
+
+televisionfanatic.com.	518400	IN	A	74.113.237.222

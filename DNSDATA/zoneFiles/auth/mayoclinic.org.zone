@@ -1,0 +1,6 @@
+
+mayoclinic.org.	86400	IN	SOA	ns.mayoclinic.org.	mail	2019061702 1800 900 604800 86400
+mayoclinic.org.	86400	IN	NS	ns.mayoclinic.org.
+ns.mayoclinic.org.	518400	IN	A	216.58.200.238
+
+mayoclinic.org.	518400	IN	A	129.176.217.220

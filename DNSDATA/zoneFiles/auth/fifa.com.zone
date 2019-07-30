@@ -1,0 +1,6 @@
+
+fifa.com.	86400	IN	SOA	ns.fifa.com.	mail	2019061702 1800 900 604800 86400
+fifa.com.	86400	IN	NS	ns.fifa.com.
+ns.fifa.com.	518400	IN	A	217.69.139.112
+
+fifa.com.	518400	IN	A	104.117.24.77

@@ -1,0 +1,6 @@
+
+repubblica.it.	86400	IN	SOA	ns.repubblica.it.	mail	2019061702 1800 900 604800 86400
+repubblica.it.	86400	IN	NS	ns.repubblica.it.
+ns.repubblica.it.	518400	IN	A	213.180.193.1
+
+repubblica.it.	518400	IN	A	213.92.16.101

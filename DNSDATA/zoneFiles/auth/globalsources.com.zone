@@ -1,0 +1,6 @@
+
+globalsources.com.	86400	IN	SOA	ns.globalsources.com.	mail	2019061702 1800 900 604800 86400
+globalsources.com.	86400	IN	NS	ns.globalsources.com.
+ns.globalsources.com.	518400	IN	A	205.251.194.1
+
+globalsources.com.	518400	IN	A	203.92.211.31

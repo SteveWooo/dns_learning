@@ -1,0 +1,6 @@
+
+sfgate.com.	86400	IN	SOA	ns.sfgate.com.	mail	2019061702 1800 900 604800 86400
+sfgate.com.	86400	IN	NS	ns.sfgate.com.
+ns.sfgate.com.	518400	IN	A	216.239.32.10
+
+sfgate.com.	518400	IN	A	98.129.228.59

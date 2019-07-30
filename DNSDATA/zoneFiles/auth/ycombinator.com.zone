@@ -1,0 +1,6 @@
+
+ycombinator.com.	86400	IN	SOA	ns.ycombinator.com.	mail	2019061702 1800 900 604800 86400
+ycombinator.com.	86400	IN	NS	ns.ycombinator.com.
+ns.ycombinator.com.	518400	IN	A	216.239.32.10
+
+ycombinator.com.	518400	IN	A	13.225.224.107

@@ -1,0 +1,6 @@
+
+iranecar.com.	86400	IN	SOA	ns.iranecar.com.	mail	2019061702 1800 900 604800 86400
+iranecar.com.	86400	IN	NS	ns.iranecar.com.
+ns.iranecar.com.	518400	IN	A	2.16.130.64
+
+iranecar.com.	518400	IN	A	185.129.169.227

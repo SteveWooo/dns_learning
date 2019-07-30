@@ -1,0 +1,6 @@
+
+ameritrade.com.	86400	IN	SOA	ns.ameritrade.com.	mail	2019061702 1800 900 604800 86400
+ameritrade.com.	86400	IN	NS	ns.ameritrade.com.
+ns.ameritrade.com.	518400	IN	A	132.207.144.12
+
+ameritrade.com.	518400	IN	A	198.200.171.204

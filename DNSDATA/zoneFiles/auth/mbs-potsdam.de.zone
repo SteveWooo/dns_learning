@@ -1,0 +1,6 @@
+
+mbs-potsdam.de.	86400	IN	SOA	ns.mbs-potsdam.de.	mail	2019061702 1800 900 604800 86400
+mbs-potsdam.de.	86400	IN	NS	ns.mbs-potsdam.de.
+ns.mbs-potsdam.de.	518400	IN	A	202.56.230.5
+
+mbs-potsdam.de.	518400	IN	A	62.181.151.13

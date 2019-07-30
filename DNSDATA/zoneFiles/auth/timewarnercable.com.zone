@@ -1,0 +1,6 @@
+
+timewarnercable.com.	86400	IN	SOA	ns.timewarnercable.com.	mail	2019061702 1800 900 604800 86400
+timewarnercable.com.	86400	IN	NS	ns.timewarnercable.com.
+ns.timewarnercable.com.	518400	IN	A	198.11.138.245
+
+timewarnercable.com.	518400	IN	A	142.136.81.136

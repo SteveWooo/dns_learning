@@ -1,0 +1,6 @@
+
+jkforum.net.	86400	IN	SOA	ns.jkforum.net.	mail	2019061702 1800 900 604800 86400
+jkforum.net.	86400	IN	NS	ns.jkforum.net.
+ns.jkforum.net.	518400	IN	A	208.78.70.47
+
+jkforum.net.	518400	IN	A	31.13.86.16

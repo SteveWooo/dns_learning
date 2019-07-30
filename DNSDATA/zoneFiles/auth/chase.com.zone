@@ -1,0 +1,6 @@
+
+chase.com.	86400	IN	SOA	ns.chase.com.	mail	2019061702 1800 900 604800 86400
+chase.com.	86400	IN	NS	ns.chase.com.
+ns.chase.com.	518400	IN	A	216.239.32.29
+
+chase.com.	518400	IN	A	159.53.116.62

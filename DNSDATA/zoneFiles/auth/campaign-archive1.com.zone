@@ -1,0 +1,6 @@
+
+campaign-archive1.com.	86400	IN	SOA	ns.campaign-archive1.com.	mail	2019061702 1800 900 604800 86400
+campaign-archive1.com.	86400	IN	NS	ns.campaign-archive1.com.
+ns.campaign-archive1.com.	518400	IN	A	206.128.173.109
+
+campaign-archive1.com.	518400	IN	A	104.74.154.45

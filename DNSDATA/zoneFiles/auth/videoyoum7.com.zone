@@ -1,0 +1,6 @@
+
+videoyoum7.com.	86400	IN	SOA	ns.videoyoum7.com.	mail	2019061702 1800 900 604800 86400
+videoyoum7.com.	86400	IN	NS	ns.videoyoum7.com.
+ns.videoyoum7.com.	518400	IN	A	216.239.32.106
+
+videoyoum7.com.	518400	IN	A	104.17.137.92

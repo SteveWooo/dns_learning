@@ -1,0 +1,6 @@
+
+gingersoftware.com.	86400	IN	SOA	ns.gingersoftware.com.	mail	2019061702 1800 900 604800 86400
+gingersoftware.com.	86400	IN	NS	ns.gingersoftware.com.
+ns.gingersoftware.com.	518400	IN	A	180.149.156.12
+
+gingersoftware.com.	518400	IN	A	95.183.2.130

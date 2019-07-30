@@ -1,0 +1,6 @@
+
+thevideo.me.	86400	IN	SOA	ns.thevideo.me.	mail	2019061702 1800 900 604800 86400
+thevideo.me.	86400	IN	NS	ns.thevideo.me.
+ns.thevideo.me.	518400	IN	A	217.69.139.112
+
+thevideo.me.	518400	IN	A	188.240.220.201

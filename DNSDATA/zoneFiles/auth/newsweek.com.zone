@@ -1,0 +1,6 @@
+
+newsweek.com.	86400	IN	SOA	ns.newsweek.com.	mail	2019061702 1800 900 604800 86400
+newsweek.com.	86400	IN	NS	ns.newsweek.com.
+ns.newsweek.com.	518400	IN	A	216.239.32.29
+
+newsweek.com.	518400	IN	A	100.24.220.106

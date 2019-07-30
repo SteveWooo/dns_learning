@@ -1,0 +1,6 @@
+
+2ememain.be.	86400	IN	SOA	ns.2ememain.be.	mail	2019061702 1800 900 604800 86400
+2ememain.be.	86400	IN	NS	ns.2ememain.be.
+ns.2ememain.be.	518400	IN	A	200.219.154.10
+
+2ememain.be.	518400	IN	A	34.96.103.161

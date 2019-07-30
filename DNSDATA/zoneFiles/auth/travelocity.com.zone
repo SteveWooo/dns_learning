@@ -1,0 +1,6 @@
+
+travelocity.com.	86400	IN	SOA	ns.travelocity.com.	mail	2019061702 1800 900 604800 86400
+travelocity.com.	86400	IN	NS	ns.travelocity.com.
+ns.travelocity.com.	518400	IN	A	217.69.139.112
+
+travelocity.com.	518400	IN	A	52.40.56.178

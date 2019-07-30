@@ -1,0 +1,6 @@
+
+strato.de.	86400	IN	SOA	ns.strato.de.	mail	2019061702 1800 900 604800 86400
+strato.de.	86400	IN	NS	ns.strato.de.
+ns.strato.de.	518400	IN	A	173.245.58.138
+
+strato.de.	518400	IN	A	192.67.198.33

@@ -1,0 +1,6 @@
+
+calameo.com.	86400	IN	SOA	ns.calameo.com.	mail	2019061702 1800 900 604800 86400
+calameo.com.	86400	IN	NS	ns.calameo.com.
+ns.calameo.com.	518400	IN	A	217.69.139.202
+
+calameo.com.	518400	IN	A	85.233.202.179

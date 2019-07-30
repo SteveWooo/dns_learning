@@ -1,0 +1,6 @@
+
+psychologytoday.com.	86400	IN	SOA	ns.psychologytoday.com.	mail	2019061702 1800 900 604800 86400
+psychologytoday.com.	86400	IN	NS	ns.psychologytoday.com.
+ns.psychologytoday.com.	518400	IN	A	208.78.70.47
+
+psychologytoday.com.	518400	IN	A	54.165.17.100

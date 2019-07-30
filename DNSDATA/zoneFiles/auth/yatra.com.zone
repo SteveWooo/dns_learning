@@ -1,0 +1,6 @@
+
+yatra.com.	86400	IN	SOA	ns.yatra.com.	mail	2019061702 1800 900 604800 86400
+yatra.com.	86400	IN	NS	ns.yatra.com.
+ns.yatra.com.	518400	IN	A	216.239.32.106
+
+yatra.com.	518400	IN	A	72.9.105.30

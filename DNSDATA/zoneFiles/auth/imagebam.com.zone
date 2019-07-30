@@ -1,0 +1,6 @@
+
+imagebam.com.	86400	IN	SOA	ns.imagebam.com.	mail	2019061702 1800 900 604800 86400
+imagebam.com.	86400	IN	NS	ns.imagebam.com.
+ns.imagebam.com.	518400	IN	A	208.78.70.47
+
+imagebam.com.	518400	IN	A	46.166.142.171

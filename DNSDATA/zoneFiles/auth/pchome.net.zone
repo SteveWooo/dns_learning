@@ -1,0 +1,6 @@
+
+pchome.net.	86400	IN	SOA	ns.pchome.net.	mail	2019061702 1800 900 604800 86400
+pchome.net.	86400	IN	NS	ns.pchome.net.
+ns.pchome.net.	518400	IN	A	206.128.173.109
+
+pchome.net.	518400	IN	A	139.196.177.242

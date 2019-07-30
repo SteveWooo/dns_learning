@@ -1,0 +1,6 @@
+
+forexfactory.com.	86400	IN	SOA	ns.forexfactory.com.	mail	2019061702 1800 900 604800 86400
+forexfactory.com.	86400	IN	NS	ns.forexfactory.com.
+ns.forexfactory.com.	518400	IN	A	203.153.43.65
+
+forexfactory.com.	518400	IN	A	67.192.106.159

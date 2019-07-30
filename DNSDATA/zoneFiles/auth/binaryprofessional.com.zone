@@ -1,0 +1,6 @@
+
+binaryprofessional.com.	86400	IN	SOA	ns.binaryprofessional.com.	mail	2019061702 1800 900 604800 86400
+binaryprofessional.com.	86400	IN	NS	ns.binaryprofessional.com.
+ns.binaryprofessional.com.	518400	IN	A	205.251.197.107
+
+binaryprofessional.com.	518400	IN	A	127.0.0.11

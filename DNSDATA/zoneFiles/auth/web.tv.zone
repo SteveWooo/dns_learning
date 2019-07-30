@@ -1,0 +1,6 @@
+
+web.tv.	86400	IN	SOA	ns.web.tv.	mail	2019061702 1800 900 604800 86400
+web.tv.	86400	IN	NS	ns.web.tv.
+ns.web.tv.	518400	IN	A	205.251.192.29
+
+web.tv.	518400	IN	A	31.186.24.252

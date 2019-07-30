@@ -1,0 +1,6 @@
+
+travelandleisure.com.	86400	IN	SOA	ns.travelandleisure.com.	mail	2019061702 1800 900 604800 86400
+travelandleisure.com.	86400	IN	NS	ns.travelandleisure.com.
+ns.travelandleisure.com.	518400	IN	A	216.239.32.106
+
+travelandleisure.com.	518400	IN	A	216.146.46.10

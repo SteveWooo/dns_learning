@@ -1,0 +1,6 @@
+
+sport.es.	86400	IN	SOA	ns.sport.es.	mail	2019061702 1800 900 604800 86400
+sport.es.	86400	IN	NS	ns.sport.es.
+ns.sport.es.	518400	IN	A	216.239.32.29
+
+sport.es.	518400	IN	A	213.4.61.165

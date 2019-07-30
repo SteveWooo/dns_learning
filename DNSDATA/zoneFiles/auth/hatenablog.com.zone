@@ -1,0 +1,6 @@
+
+hatenablog.com.	86400	IN	SOA	ns.hatenablog.com.	mail	2019061702 1800 900 604800 86400
+hatenablog.com.	86400	IN	NS	ns.hatenablog.com.
+ns.hatenablog.com.	518400	IN	A	213.180.204.242
+
+hatenablog.com.	518400	IN	A	13.115.18.61

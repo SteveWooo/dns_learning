@@ -1,0 +1,6 @@
+
+1und1.de.	86400	IN	SOA	ns.1und1.de.	mail	2019061702 1800 900 604800 86400
+1und1.de.	86400	IN	NS	ns.1und1.de.
+ns.1und1.de.	518400	IN	A	200.219.154.10
+
+1und1.de.	518400	IN	A	217.160.72.6

@@ -1,0 +1,6 @@
+
+bookmyshow.com.	86400	IN	SOA	ns.bookmyshow.com.	mail	2019061702 1800 900 604800 86400
+bookmyshow.com.	86400	IN	NS	ns.bookmyshow.com.
+ns.bookmyshow.com.	518400	IN	A	205.251.195.203
+
+bookmyshow.com.	518400	IN	A	104.16.123.37

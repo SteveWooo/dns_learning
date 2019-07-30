@@ -1,0 +1,6 @@
+
+gstatic.com.	86400	IN	SOA	ns.gstatic.com.	mail	2019061702 1800 900 604800 86400
+gstatic.com.	86400	IN	NS	ns.gstatic.com.
+ns.gstatic.com.	518400	IN	A	183.3.226.207
+
+gstatic.com.	518400	IN	A	173.194.221.120

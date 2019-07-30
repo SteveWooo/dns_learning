@@ -1,0 +1,6 @@
+
+symbaloo.com.	86400	IN	SOA	ns.symbaloo.com.	mail	2019061702 1800 900 604800 86400
+symbaloo.com.	86400	IN	NS	ns.symbaloo.com.
+ns.symbaloo.com.	518400	IN	A	173.245.59.115
+
+symbaloo.com.	518400	IN	A	87.233.242.240

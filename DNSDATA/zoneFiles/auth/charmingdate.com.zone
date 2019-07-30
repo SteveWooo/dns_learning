@@ -1,0 +1,6 @@
+
+charmingdate.com.	86400	IN	SOA	ns.charmingdate.com.	mail	2019061702 1800 900 604800 86400
+charmingdate.com.	86400	IN	NS	ns.charmingdate.com.
+ns.charmingdate.com.	518400	IN	A	205.251.194.1
+
+charmingdate.com.	518400	IN	A	52.197.164.196

@@ -1,0 +1,6 @@
+
+finalfantasyxiv.com.	86400	IN	SOA	ns.finalfantasyxiv.com.	mail	2019061702 1800 900 604800 86400
+finalfantasyxiv.com.	86400	IN	NS	ns.finalfantasyxiv.com.
+ns.finalfantasyxiv.com.	518400	IN	A	208.78.70.47
+
+finalfantasyxiv.com.	518400	IN	A	202.67.60.79

@@ -1,0 +1,6 @@
+
+kicker.de.	86400	IN	SOA	ns.kicker.de.	mail	2019061702 1800 900 604800 86400
+kicker.de.	86400	IN	NS	ns.kicker.de.
+ns.kicker.de.	518400	IN	A	204.74.108.1
+
+kicker.de.	518400	IN	A	86.109.250.101

@@ -1,0 +1,6 @@
+
+antenam.info.	86400	IN	SOA	ns.antenam.info.	mail	2019061702 1800 900 604800 86400
+antenam.info.	86400	IN	NS	ns.antenam.info.
+ns.antenam.info.	518400	IN	A	216.58.200.238
+
+antenam.info.	518400	IN	A	133.242.51.119

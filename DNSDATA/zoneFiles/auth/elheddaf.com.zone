@@ -1,0 +1,6 @@
+
+elheddaf.com.	86400	IN	SOA	ns.elheddaf.com.	mail	2019061702 1800 900 604800 86400
+elheddaf.com.	86400	IN	NS	ns.elheddaf.com.
+ns.elheddaf.com.	518400	IN	A	93.186.225.193
+
+elheddaf.com.	518400	IN	A	104.31.10.171

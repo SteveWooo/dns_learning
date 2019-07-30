@@ -1,0 +1,6 @@
+
+mgpyh.com.	86400	IN	SOA	ns.mgpyh.com.	mail	2019061702 1800 900 604800 86400
+mgpyh.com.	86400	IN	NS	ns.mgpyh.com.
+ns.mgpyh.com.	518400	IN	A	205.251.199.254
+
+mgpyh.com.	518400	IN	A	116.62.97.239

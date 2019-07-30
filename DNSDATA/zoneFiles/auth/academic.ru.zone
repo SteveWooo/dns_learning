@@ -1,0 +1,6 @@
+
+academic.ru.	86400	IN	SOA	ns.academic.ru.	mail	2019061702 1800 900 604800 86400
+academic.ru.	86400	IN	NS	ns.academic.ru.
+ns.academic.ru.	518400	IN	A	202.56.230.5
+
+academic.ru.	518400	IN	A	84.16.247.103

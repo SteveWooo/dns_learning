@@ -1,0 +1,6 @@
+
+linguee.fr.	86400	IN	SOA	ns.linguee.fr.	mail	2019061702 1800 900 604800 86400
+linguee.fr.	86400	IN	NS	ns.linguee.fr.
+ns.linguee.fr.	518400	IN	A	198.11.138.249
+
+linguee.fr.	518400	IN	A	78.138.112.36

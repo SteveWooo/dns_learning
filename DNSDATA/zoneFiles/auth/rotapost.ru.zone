@@ -1,0 +1,6 @@
+
+rotapost.ru.	86400	IN	SOA	ns.rotapost.ru.	mail	2019061702 1800 900 604800 86400
+rotapost.ru.	86400	IN	NS	ns.rotapost.ru.
+ns.rotapost.ru.	518400	IN	A	217.69.139.202
+
+rotapost.ru.	518400	IN	A	162.221.224.91

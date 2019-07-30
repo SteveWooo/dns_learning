@@ -1,0 +1,6 @@
+
+poncan.jp.	86400	IN	SOA	ns.poncan.jp.	mail	2019061702 1800 900 604800 86400
+poncan.jp.	86400	IN	NS	ns.poncan.jp.
+ns.poncan.jp.	518400	IN	A	216.58.200.238
+
+poncan.jp.	518400	IN	A	153.126.185.113

@@ -1,0 +1,6 @@
+
+legendas.tv.	86400	IN	SOA	ns.legendas.tv.	mail	2019061702 1800 900 604800 86400
+legendas.tv.	86400	IN	NS	ns.legendas.tv.
+ns.legendas.tv.	518400	IN	A	216.58.200.238
+
+legendas.tv.	518400	IN	A	159.148.186.139

@@ -1,0 +1,6 @@
+
+ya.ru.	86400	IN	SOA	ns.ya.ru.	mail	2019061702 1800 900 604800 86400
+ya.ru.	86400	IN	NS	ns.ya.ru.
+ns.ya.ru.	518400	IN	A	217.69.139.112
+
+ya.ru.	518400	IN	A	87.250.250.242

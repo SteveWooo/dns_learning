@@ -1,0 +1,6 @@
+
+seobook.com.	86400	IN	SOA	ns.seobook.com.	mail	2019061702 1800 900 604800 86400
+seobook.com.	86400	IN	NS	ns.seobook.com.
+ns.seobook.com.	518400	IN	A	216.239.32.10
+
+seobook.com.	518400	IN	A	45.79.65.120

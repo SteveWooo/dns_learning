@@ -1,0 +1,6 @@
+
+hizliresim.com.	86400	IN	SOA	ns.hizliresim.com.	mail	2019061702 1800 900 604800 86400
+hizliresim.com.	86400	IN	NS	ns.hizliresim.com.
+ns.hizliresim.com.	518400	IN	A	217.69.139.112
+
+hizliresim.com.	518400	IN	A	148.251.128.206

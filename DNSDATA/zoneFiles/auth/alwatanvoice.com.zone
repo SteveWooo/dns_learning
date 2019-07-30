@@ -1,0 +1,6 @@
+
+alwatanvoice.com.	86400	IN	SOA	ns.alwatanvoice.com.	mail	2019061702 1800 900 604800 86400
+alwatanvoice.com.	86400	IN	NS	ns.alwatanvoice.com.
+ns.alwatanvoice.com.	518400	IN	A	198.11.138.249
+
+alwatanvoice.com.	518400	IN	A	104.25.143.101

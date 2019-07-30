@@ -1,0 +1,6 @@
+
+ehowenespanol.com.	86400	IN	SOA	ns.ehowenespanol.com.	mail	2019061702 1800 900 604800 86400
+ehowenespanol.com.	86400	IN	NS	ns.ehowenespanol.com.
+ns.ehowenespanol.com.	518400	IN	A	205.251.192.29
+
+ehowenespanol.com.	518400	IN	A	23.227.13.179

@@ -1,0 +1,6 @@
+
+stripe.com.	86400	IN	SOA	ns.stripe.com.	mail	2019061702 1800 900 604800 86400
+stripe.com.	86400	IN	NS	ns.stripe.com.
+ns.stripe.com.	518400	IN	A	198.11.138.249
+
+stripe.com.	518400	IN	A	54.186.23.98

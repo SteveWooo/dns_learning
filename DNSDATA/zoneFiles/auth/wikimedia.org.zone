@@ -1,0 +1,6 @@
+
+wikimedia.org.	86400	IN	SOA	ns.wikimedia.org.	mail	2019061702 1800 900 604800 86400
+wikimedia.org.	86400	IN	NS	ns.wikimedia.org.
+ns.wikimedia.org.	518400	IN	A	216.239.32.29
+
+wikimedia.org.	518400	IN	A	103.102.166.224

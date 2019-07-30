@@ -1,0 +1,6 @@
+
+funweek.it.	86400	IN	SOA	ns.funweek.it.	mail	2019061702 1800 900 604800 86400
+funweek.it.	86400	IN	NS	ns.funweek.it.
+ns.funweek.it.	518400	IN	A	173.245.58.159
+
+funweek.it.	518400	IN	A	52.18.119.184

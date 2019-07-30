@@ -1,0 +1,6 @@
+
+thehindu.com.	86400	IN	SOA	ns.thehindu.com.	mail	2019061702 1800 900 604800 86400
+thehindu.com.	86400	IN	NS	ns.thehindu.com.
+ns.thehindu.com.	518400	IN	A	202.56.230.5
+
+thehindu.com.	518400	IN	A	78.16.49.15

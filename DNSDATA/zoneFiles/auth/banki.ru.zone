@@ -1,0 +1,6 @@
+
+banki.ru.	86400	IN	SOA	ns.banki.ru.	mail	2019061702 1800 900 604800 86400
+banki.ru.	86400	IN	NS	ns.banki.ru.
+ns.banki.ru.	518400	IN	A	203.153.43.65
+
+banki.ru.	518400	IN	A	185.10.61.111

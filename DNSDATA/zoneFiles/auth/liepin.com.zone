@@ -1,0 +1,6 @@
+
+liepin.com.	86400	IN	SOA	ns.liepin.com.	mail	2019061702 1800 900 604800 86400
+liepin.com.	86400	IN	NS	ns.liepin.com.
+ns.liepin.com.	518400	IN	A	208.78.70.47
+
+liepin.com.	518400	IN	A	211.151.18.66

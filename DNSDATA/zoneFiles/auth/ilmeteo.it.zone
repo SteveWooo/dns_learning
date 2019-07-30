@@ -1,0 +1,6 @@
+
+ilmeteo.it.	86400	IN	SOA	ns.ilmeteo.it.	mail	2019061702 1800 900 604800 86400
+ilmeteo.it.	86400	IN	NS	ns.ilmeteo.it.
+ns.ilmeteo.it.	518400	IN	A	165.160.15.20
+
+ilmeteo.it.	518400	IN	A	104.20.143.17

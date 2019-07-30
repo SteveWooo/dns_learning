@@ -1,0 +1,6 @@
+
+ouest-france.fr.	86400	IN	SOA	ns.ouest-france.fr.	mail	2019061702 1800 900 604800 86400
+ouest-france.fr.	86400	IN	NS	ns.ouest-france.fr.
+ns.ouest-france.fr.	518400	IN	A	125.208.45.1
+
+ouest-france.fr.	518400	IN	A	217.70.184.38

@@ -1,0 +1,6 @@
+
+travelzoo.com.	86400	IN	SOA	ns.travelzoo.com.	mail	2019061702 1800 900 604800 86400
+travelzoo.com.	86400	IN	NS	ns.travelzoo.com.
+ns.travelzoo.com.	518400	IN	A	206.128.173.109
+
+travelzoo.com.	518400	IN	A	23.37.149.198

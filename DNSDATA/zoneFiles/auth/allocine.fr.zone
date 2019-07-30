@@ -1,0 +1,6 @@
+
+allocine.fr.	86400	IN	SOA	ns.allocine.fr.	mail	2019061702 1800 900 604800 86400
+allocine.fr.	86400	IN	NS	ns.allocine.fr.
+ns.allocine.fr.	518400	IN	A	208.78.70.47
+
+allocine.fr.	518400	IN	A	185.129.44.23

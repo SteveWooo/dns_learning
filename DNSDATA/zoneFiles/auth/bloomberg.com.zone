@@ -1,0 +1,6 @@
+
+bloomberg.com.	86400	IN	SOA	ns.bloomberg.com.	mail	2019061702 1800 900 604800 86400
+bloomberg.com.	86400	IN	NS	ns.bloomberg.com.
+ns.bloomberg.com.	518400	IN	A	208.78.70.47
+
+bloomberg.com.	518400	IN	A	69.63.181.12

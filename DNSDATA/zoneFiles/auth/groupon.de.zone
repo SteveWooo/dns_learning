@@ -1,0 +1,6 @@
+
+groupon.de.	86400	IN	SOA	ns.groupon.de.	mail	2019061702 1800 900 604800 86400
+groupon.de.	86400	IN	NS	ns.groupon.de.
+ns.groupon.de.	518400	IN	A	111.202.126.2
+
+groupon.de.	518400	IN	A	104.82.204.124

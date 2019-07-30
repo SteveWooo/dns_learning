@@ -1,0 +1,6 @@
+
+fuli.ba.	86400	IN	SOA	ns.fuli.ba.	mail	2019061702 1800 900 604800 86400
+fuli.ba.	86400	IN	NS	ns.fuli.ba.
+ns.fuli.ba.	518400	IN	A	216.58.200.238
+
+fuli.ba.	518400	IN	A	35.201.254.28

@@ -1,0 +1,6 @@
+
+intodns.com.	86400	IN	SOA	ns.intodns.com.	mail	2019061702 1800 900 604800 86400
+intodns.com.	86400	IN	NS	ns.intodns.com.
+ns.intodns.com.	518400	IN	A	200.219.154.10
+
+intodns.com.	518400	IN	A	93.113.174.225

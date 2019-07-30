@@ -1,0 +1,6 @@
+
+wiktionary.org.	86400	IN	SOA	ns.wiktionary.org.	mail	2019061702 1800 900 604800 86400
+wiktionary.org.	86400	IN	NS	ns.wiktionary.org.
+ns.wiktionary.org.	518400	IN	A	216.239.32.29
+
+wiktionary.org.	518400	IN	A	103.102.166.224

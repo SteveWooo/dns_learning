@@ -1,0 +1,6 @@
+
+tomtom.com.	86400	IN	SOA	ns.tomtom.com.	mail	2019061702 1800 900 604800 86400
+tomtom.com.	86400	IN	NS	ns.tomtom.com.
+ns.tomtom.com.	518400	IN	A	203.153.43.65
+
+tomtom.com.	518400	IN	A	185.5.121.19

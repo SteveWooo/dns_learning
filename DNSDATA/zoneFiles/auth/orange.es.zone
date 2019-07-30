@@ -1,0 +1,6 @@
+
+orange.es.	86400	IN	SOA	ns.orange.es.	mail	2019061702 1800 900 604800 86400
+orange.es.	86400	IN	NS	ns.orange.es.
+ns.orange.es.	518400	IN	A	217.69.139.112
+
+orange.es.	518400	IN	A	62.36.20.46

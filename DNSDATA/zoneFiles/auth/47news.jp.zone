@@ -1,0 +1,6 @@
+
+47news.jp.	86400	IN	SOA	ns.47news.jp.	mail	2019061702 1800 900 604800 86400
+47news.jp.	86400	IN	NS	ns.47news.jp.
+ns.47news.jp.	518400	IN	A	203.153.43.65
+
+47news.jp.	518400	IN	A	54.92.86.212

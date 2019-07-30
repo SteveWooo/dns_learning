@@ -1,0 +1,6 @@
+
+livetv.sx.	86400	IN	SOA	ns.livetv.sx.	mail	2019061702 1800 900 604800 86400
+livetv.sx.	86400	IN	NS	ns.livetv.sx.
+ns.livetv.sx.	518400	IN	A	205.251.194.1
+
+livetv.sx.	518400	IN	A	185.39.10.6

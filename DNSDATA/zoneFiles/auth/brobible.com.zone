@@ -1,0 +1,6 @@
+
+brobible.com.	86400	IN	SOA	ns.brobible.com.	mail	2019061702 1800 900 604800 86400
+brobible.com.	86400	IN	NS	ns.brobible.com.
+ns.brobible.com.	518400	IN	A	204.74.108.1
+
+brobible.com.	518400	IN	A	192.0.78.24

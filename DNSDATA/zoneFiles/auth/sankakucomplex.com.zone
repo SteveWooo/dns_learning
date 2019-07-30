@@ -1,0 +1,6 @@
+
+sankakucomplex.com.	86400	IN	SOA	ns.sankakucomplex.com.	mail	2019061702 1800 900 604800 86400
+sankakucomplex.com.	86400	IN	NS	ns.sankakucomplex.com.
+ns.sankakucomplex.com.	518400	IN	A	173.245.59.115
+
+sankakucomplex.com.	518400	IN	A	208.100.24.252

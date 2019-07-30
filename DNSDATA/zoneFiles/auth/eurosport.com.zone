@@ -1,0 +1,6 @@
+
+eurosport.com.	86400	IN	SOA	ns.eurosport.com.	mail	2019061702 1800 900 604800 86400
+eurosport.com.	86400	IN	NS	ns.eurosport.com.
+ns.eurosport.com.	518400	IN	A	205.251.194.1
+
+eurosport.com.	518400	IN	A	91.212.202.12

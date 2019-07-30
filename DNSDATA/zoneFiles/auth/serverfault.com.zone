@@ -1,0 +1,6 @@
+
+serverfault.com.	86400	IN	SOA	ns.serverfault.com.	mail	2019061702 1800 900 604800 86400
+serverfault.com.	86400	IN	NS	ns.serverfault.com.
+ns.serverfault.com.	518400	IN	A	216.239.32.106
+
+serverfault.com.	518400	IN	A	151.101.1.69

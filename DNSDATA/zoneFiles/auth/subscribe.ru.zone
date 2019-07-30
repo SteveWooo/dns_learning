@@ -1,0 +1,6 @@
+
+subscribe.ru.	86400	IN	SOA	ns.subscribe.ru.	mail	2019061702 1800 900 604800 86400
+subscribe.ru.	86400	IN	NS	ns.subscribe.ru.
+ns.subscribe.ru.	518400	IN	A	204.74.108.1
+
+subscribe.ru.	518400	IN	A	185.76.234.230

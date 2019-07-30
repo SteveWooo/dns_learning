@@ -1,0 +1,6 @@
+
+trendytraveller.com.	86400	IN	SOA	ns.trendytraveller.com.	mail	2019061702 1800 900 604800 86400
+trendytraveller.com.	86400	IN	NS	ns.trendytraveller.com.
+ns.trendytraveller.com.	518400	IN	A	187.18.60.242
+
+trendytraveller.com.	518400	IN	A	104.200.22.130

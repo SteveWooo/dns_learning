@@ -1,0 +1,6 @@
+
+urbanspoon.com.	86400	IN	SOA	ns.urbanspoon.com.	mail	2019061702 1800 900 604800 86400
+urbanspoon.com.	86400	IN	NS	ns.urbanspoon.com.
+ns.urbanspoon.com.	518400	IN	A	216.239.32.106
+
+urbanspoon.com.	518400	IN	A	54.169.62.102

@@ -1,0 +1,6 @@
+
+dn.se.	86400	IN	SOA	ns.dn.se.	mail	2019061702 1800 900 604800 86400
+dn.se.	86400	IN	NS	ns.dn.se.
+ns.dn.se.	518400	IN	A	216.58.200.238
+
+dn.se.	518400	IN	A	52.59.56.233

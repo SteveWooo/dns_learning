@@ -1,0 +1,6 @@
+
+philips.com.	86400	IN	SOA	ns.philips.com.	mail	2019061702 1800 900 604800 86400
+philips.com.	86400	IN	NS	ns.philips.com.
+ns.philips.com.	518400	IN	A	205.251.199.254
+
+philips.com.	518400	IN	A	23.97.194.38

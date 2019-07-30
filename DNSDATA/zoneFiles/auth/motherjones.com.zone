@@ -1,0 +1,6 @@
+
+motherjones.com.	86400	IN	SOA	ns.motherjones.com.	mail	2019061702 1800 900 604800 86400
+motherjones.com.	86400	IN	NS	ns.motherjones.com.
+ns.motherjones.com.	518400	IN	A	216.239.32.106
+
+motherjones.com.	518400	IN	A	69.171.224.12

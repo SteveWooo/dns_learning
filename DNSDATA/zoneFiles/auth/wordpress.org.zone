@@ -1,0 +1,6 @@
+
+wordpress.org.	86400	IN	SOA	ns.wordpress.org.	mail	2019061702 1800 900 604800 86400
+wordpress.org.	86400	IN	NS	ns.wordpress.org.
+ns.wordpress.org.	518400	IN	A	198.11.138.249
+
+wordpress.org.	518400	IN	A	198.143.164.252

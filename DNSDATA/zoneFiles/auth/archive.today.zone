@@ -1,0 +1,6 @@
+
+archive.today.	86400	IN	SOA	ns.archive.today.	mail	2019061702 1800 900 604800 86400
+archive.today.	86400	IN	NS	ns.archive.today.
+ns.archive.today.	518400	IN	A	193.232.142.17
+
+archive.today.	518400	IN	A	89.163.224.67

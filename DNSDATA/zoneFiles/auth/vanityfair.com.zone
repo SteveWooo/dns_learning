@@ -1,0 +1,6 @@
+
+vanityfair.com.	86400	IN	SOA	ns.vanityfair.com.	mail	2019061702 1800 900 604800 86400
+vanityfair.com.	86400	IN	NS	ns.vanityfair.com.
+ns.vanityfair.com.	518400	IN	A	206.128.173.109
+
+vanityfair.com.	518400	IN	A	151.101.192.239

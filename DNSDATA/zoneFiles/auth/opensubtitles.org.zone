@@ -1,0 +1,6 @@
+
+opensubtitles.org.	86400	IN	SOA	ns.opensubtitles.org.	mail	2019061702 1800 900 604800 86400
+opensubtitles.org.	86400	IN	NS	ns.opensubtitles.org.
+ns.opensubtitles.org.	518400	IN	A	198.11.138.245
+
+opensubtitles.org.	518400	IN	A	92.240.234.122

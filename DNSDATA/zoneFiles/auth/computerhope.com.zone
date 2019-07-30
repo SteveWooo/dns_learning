@@ -1,0 +1,6 @@
+
+computerhope.com.	86400	IN	SOA	ns.computerhope.com.	mail	2019061702 1800 900 604800 86400
+computerhope.com.	86400	IN	NS	ns.computerhope.com.
+ns.computerhope.com.	518400	IN	A	200.221.11.98
+
+computerhope.com.	518400	IN	A	104.20.50.118

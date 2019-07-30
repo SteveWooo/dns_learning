@@ -1,0 +1,6 @@
+
+yahoo-mbga.jp.	86400	IN	SOA	ns.yahoo-mbga.jp.	mail	2019061702 1800 900 604800 86400
+yahoo-mbga.jp.	86400	IN	NS	ns.yahoo-mbga.jp.
+ns.yahoo-mbga.jp.	518400	IN	A	205.251.197.107
+
+yahoo-mbga.jp.	518400	IN	A	103.23.4.38

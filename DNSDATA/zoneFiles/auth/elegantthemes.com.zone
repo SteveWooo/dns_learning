@@ -1,0 +1,6 @@
+
+elegantthemes.com.	86400	IN	SOA	ns.elegantthemes.com.	mail	2019061702 1800 900 604800 86400
+elegantthemes.com.	86400	IN	NS	ns.elegantthemes.com.
+ns.elegantthemes.com.	518400	IN	A	200.219.154.10
+
+elegantthemes.com.	518400	IN	A	104.16.96.106

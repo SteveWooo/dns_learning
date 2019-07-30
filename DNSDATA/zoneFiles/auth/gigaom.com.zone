@@ -1,0 +1,6 @@
+
+gigaom.com.	86400	IN	SOA	ns.gigaom.com.	mail	2019061702 1800 900 604800 86400
+gigaom.com.	86400	IN	NS	ns.gigaom.com.
+ns.gigaom.com.	518400	IN	A	216.239.32.29
+
+gigaom.com.	518400	IN	A	18.204.62.154

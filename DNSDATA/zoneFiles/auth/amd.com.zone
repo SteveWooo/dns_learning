@@ -1,0 +1,6 @@
+
+amd.com.	86400	IN	SOA	ns.amd.com.	mail	2019061702 1800 900 604800 86400
+amd.com.	86400	IN	NS	ns.amd.com.
+ns.amd.com.	518400	IN	A	173.245.58.201
+
+amd.com.	518400	IN	A	54.225.70.54

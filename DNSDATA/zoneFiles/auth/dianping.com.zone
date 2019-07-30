@@ -1,0 +1,6 @@
+
+dianping.com.	86400	IN	SOA	ns.dianping.com.	mail	2019061702 1800 900 604800 86400
+dianping.com.	86400	IN	NS	ns.dianping.com.
+ns.dianping.com.	518400	IN	A	205.251.194.1
+
+dianping.com.	518400	IN	A	203.76.216.1

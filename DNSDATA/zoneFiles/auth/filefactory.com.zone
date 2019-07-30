@@ -1,0 +1,6 @@
+
+filefactory.com.	86400	IN	SOA	ns.filefactory.com.	mail	2019061702 1800 900 604800 86400
+filefactory.com.	86400	IN	NS	ns.filefactory.com.
+ns.filefactory.com.	518400	IN	A	216.239.32.106
+
+filefactory.com.	518400	IN	A	69.63.178.13

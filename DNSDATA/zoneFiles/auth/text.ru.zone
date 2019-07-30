@@ -1,0 +1,6 @@
+
+text.ru.	86400	IN	SOA	ns.text.ru.	mail	2019061702 1800 900 604800 86400
+text.ru.	86400	IN	NS	ns.text.ru.
+ns.text.ru.	518400	IN	A	217.69.139.202
+
+text.ru.	518400	IN	A	104.25.46.35

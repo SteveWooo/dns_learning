@@ -1,0 +1,6 @@
+
+macrumors.com.	86400	IN	SOA	ns.macrumors.com.	mail	2019061702 1800 900 604800 86400
+macrumors.com.	86400	IN	NS	ns.macrumors.com.
+ns.macrumors.com.	518400	IN	A	205.251.199.254
+
+macrumors.com.	518400	IN	A	162.254.116.23

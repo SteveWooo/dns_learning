@@ -1,0 +1,6 @@
+
+comdotgame.com.	86400	IN	SOA	ns.comdotgame.com.	mail	2019061702 1800 900 604800 86400
+comdotgame.com.	86400	IN	NS	ns.comdotgame.com.
+ns.comdotgame.com.	518400	IN	A	204.74.108.1
+
+comdotgame.com.	518400	IN	A	67.15.129.210

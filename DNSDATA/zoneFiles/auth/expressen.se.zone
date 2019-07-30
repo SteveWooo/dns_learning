@@ -1,0 +1,6 @@
+
+expressen.se.	86400	IN	SOA	ns.expressen.se.	mail	2019061702 1800 900 604800 86400
+expressen.se.	86400	IN	NS	ns.expressen.se.
+ns.expressen.se.	518400	IN	A	205.251.195.203
+
+expressen.se.	518400	IN	A	52.59.56.233

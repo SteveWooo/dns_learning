@@ -1,0 +1,6 @@
+
+backcountry.com.	86400	IN	SOA	ns.backcountry.com.	mail	2019061702 1800 900 604800 86400
+backcountry.com.	86400	IN	NS	ns.backcountry.com.
+ns.backcountry.com.	518400	IN	A	216.239.32.10
+
+backcountry.com.	518400	IN	A	104.91.171.135

@@ -1,0 +1,6 @@
+
+mosaiquefm.net.	86400	IN	SOA	ns.mosaiquefm.net.	mail	2019061702 1800 900 604800 86400
+mosaiquefm.net.	86400	IN	NS	ns.mosaiquefm.net.
+ns.mosaiquefm.net.	518400	IN	A	193.232.142.17
+
+mosaiquefm.net.	518400	IN	A	197.13.10.22

@@ -1,0 +1,6 @@
+
+bitcointalk.org.	86400	IN	SOA	ns.bitcointalk.org.	mail	2019061702 1800 900 604800 86400
+bitcointalk.org.	86400	IN	NS	ns.bitcointalk.org.
+ns.bitcointalk.org.	518400	IN	A	216.58.200.238
+
+bitcointalk.org.	518400	IN	A	8.7.198.45

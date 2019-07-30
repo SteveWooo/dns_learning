@@ -1,0 +1,6 @@
+
+ouedkniss.com.	86400	IN	SOA	ns.ouedkniss.com.	mail	2019061702 1800 900 604800 86400
+ouedkniss.com.	86400	IN	NS	ns.ouedkniss.com.
+ns.ouedkniss.com.	518400	IN	A	200.201.165.253
+
+ouedkniss.com.	518400	IN	A	51.38.63.232

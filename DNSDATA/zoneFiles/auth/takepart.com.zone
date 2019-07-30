@@ -1,0 +1,6 @@
+
+takepart.com.	86400	IN	SOA	ns.takepart.com.	mail	2019061702 1800 900 604800 86400
+takepart.com.	86400	IN	NS	ns.takepart.com.
+ns.takepart.com.	518400	IN	A	165.160.15.20
+
+takepart.com.	518400	IN	A	54.86.138.205

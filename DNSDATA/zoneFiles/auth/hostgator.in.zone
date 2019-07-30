@@ -1,0 +1,6 @@
+
+hostgator.in.	86400	IN	SOA	ns.hostgator.in.	mail	2019061702 1800 900 604800 86400
+hostgator.in.	86400	IN	NS	ns.hostgator.in.
+ns.hostgator.in.	518400	IN	A	165.160.15.20
+
+hostgator.in.	518400	IN	A	104.17.83.10

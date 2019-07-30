@@ -1,0 +1,6 @@
+
+tubegalore.com.	86400	IN	SOA	ns.tubegalore.com.	mail	2019061702 1800 900 604800 86400
+tubegalore.com.	86400	IN	NS	ns.tubegalore.com.
+ns.tubegalore.com.	518400	IN	A	217.69.139.112
+
+tubegalore.com.	518400	IN	A	74.86.3.208

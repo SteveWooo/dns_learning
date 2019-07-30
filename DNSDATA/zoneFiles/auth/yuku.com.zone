@@ -1,0 +1,6 @@
+
+yuku.com.	86400	IN	SOA	ns.yuku.com.	mail	2019061702 1800 900 604800 86400
+yuku.com.	86400	IN	NS	ns.yuku.com.
+ns.yuku.com.	518400	IN	A	111.206.53.6
+
+yuku.com.	518400	IN	A	104.16.223.71

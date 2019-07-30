@@ -1,0 +1,6 @@
+
+mtv.com.	86400	IN	SOA	ns.mtv.com.	mail	2019061702 1800 900 604800 86400
+mtv.com.	86400	IN	NS	ns.mtv.com.
+ns.mtv.com.	518400	IN	A	202.108.22.220
+
+mtv.com.	518400	IN	A	216.87.148.114

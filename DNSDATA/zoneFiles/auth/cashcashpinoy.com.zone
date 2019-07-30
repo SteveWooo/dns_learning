@@ -1,0 +1,6 @@
+
+cashcashpinoy.com.	86400	IN	SOA	ns.cashcashpinoy.com.	mail	2019061702 1800 900 604800 86400
+cashcashpinoy.com.	86400	IN	NS	ns.cashcashpinoy.com.
+ns.cashcashpinoy.com.	518400	IN	A	216.239.32.106
+
+cashcashpinoy.com.	518400	IN	A	188.166.205.173

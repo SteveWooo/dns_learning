@@ -1,0 +1,6 @@
+
+svoboda.org.	86400	IN	SOA	ns.svoboda.org.	mail	2019061702 1800 900 604800 86400
+svoboda.org.	86400	IN	NS	ns.svoboda.org.
+ns.svoboda.org.	518400	IN	A	205.251.195.203
+
+svoboda.org.	518400	IN	A	104.126.163.54

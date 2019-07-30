@@ -1,0 +1,6 @@
+
+thumbtack.com.	86400	IN	SOA	ns.thumbtack.com.	mail	2019061702 1800 900 604800 86400
+thumbtack.com.	86400	IN	NS	ns.thumbtack.com.
+ns.thumbtack.com.	518400	IN	A	216.239.32.10
+
+thumbtack.com.	518400	IN	A	52.71.113.235

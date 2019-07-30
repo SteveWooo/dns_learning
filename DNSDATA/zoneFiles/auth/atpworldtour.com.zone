@@ -1,0 +1,6 @@
+
+atpworldtour.com.	86400	IN	SOA	ns.atpworldtour.com.	mail	2019061702 1800 900 604800 86400
+atpworldtour.com.	86400	IN	NS	ns.atpworldtour.com.
+ns.atpworldtour.com.	518400	IN	A	157.255.246.101
+
+atpworldtour.com.	518400	IN	A	216.134.208.25

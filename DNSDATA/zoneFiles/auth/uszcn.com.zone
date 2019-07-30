@@ -1,0 +1,6 @@
+
+uszcn.com.	86400	IN	SOA	ns.uszcn.com.	mail	2019061702 1800 900 604800 86400
+uszcn.com.	86400	IN	NS	ns.uszcn.com.
+ns.uszcn.com.	518400	IN	A	206.128.173.109
+
+uszcn.com.	518400	IN	A	114.215.200.61

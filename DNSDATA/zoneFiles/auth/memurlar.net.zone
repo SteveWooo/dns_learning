@@ -1,0 +1,6 @@
+
+memurlar.net.	86400	IN	SOA	ns.memurlar.net.	mail	2019061702 1800 900 604800 86400
+memurlar.net.	86400	IN	NS	ns.memurlar.net.
+ns.memurlar.net.	518400	IN	A	193.232.156.17
+
+memurlar.net.	518400	IN	A	176.53.59.97

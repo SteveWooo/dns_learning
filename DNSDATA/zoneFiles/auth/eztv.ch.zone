@@ -1,0 +1,6 @@
+
+eztv.ch.	86400	IN	SOA	ns.eztv.ch.	mail	2019061702 1800 900 604800 86400
+eztv.ch.	86400	IN	NS	ns.eztv.ch.
+ns.eztv.ch.	518400	IN	A	198.11.138.249
+
+eztv.ch.	518400	IN	A	104.31.16.3

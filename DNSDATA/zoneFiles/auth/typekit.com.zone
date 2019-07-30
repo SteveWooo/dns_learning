@@ -1,0 +1,6 @@
+
+typekit.com.	86400	IN	SOA	ns.typekit.com.	mail	2019061702 1800 900 604800 86400
+typekit.com.	86400	IN	NS	ns.typekit.com.
+ns.typekit.com.	518400	IN	A	157.255.246.101
+
+typekit.com.	518400	IN	A	35.169.161.115

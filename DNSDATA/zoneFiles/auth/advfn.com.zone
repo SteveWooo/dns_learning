@@ -1,0 +1,6 @@
+
+advfn.com.	86400	IN	SOA	ns.advfn.com.	mail	2019061702 1800 900 604800 86400
+advfn.com.	86400	IN	NS	ns.advfn.com.
+ns.advfn.com.	518400	IN	A	202.108.22.220
+
+advfn.com.	518400	IN	A	104.24.115.81

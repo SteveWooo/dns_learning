@@ -1,0 +1,6 @@
+
+tsite.jp.	86400	IN	SOA	ns.tsite.jp.	mail	2019061702 1800 900 604800 86400
+tsite.jp.	86400	IN	NS	ns.tsite.jp.
+ns.tsite.jp.	518400	IN	A	125.209.248.6
+
+tsite.jp.	518400	IN	A	210.170.110.129

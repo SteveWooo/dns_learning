@@ -1,0 +1,6 @@
+
+hirufm.lk.	86400	IN	SOA	ns.hirufm.lk.	mail	2019061702 1800 900 604800 86400
+hirufm.lk.	86400	IN	NS	ns.hirufm.lk.
+ns.hirufm.lk.	518400	IN	A	216.239.32.10
+
+hirufm.lk.	518400	IN	A	66.55.147.11

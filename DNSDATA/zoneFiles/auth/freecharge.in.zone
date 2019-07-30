@@ -1,0 +1,6 @@
+
+freecharge.in.	86400	IN	SOA	ns.freecharge.in.	mail	2019061702 1800 900 604800 86400
+freecharge.in.	86400	IN	NS	ns.freecharge.in.
+ns.freecharge.in.	518400	IN	A	208.78.70.47
+
+freecharge.in.	518400	IN	A	13.234.235.145

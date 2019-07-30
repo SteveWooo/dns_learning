@@ -1,0 +1,6 @@
+
+money.pl.	86400	IN	SOA	ns.money.pl.	mail	2019061702 1800 900 604800 86400
+money.pl.	86400	IN	NS	ns.money.pl.
+ns.money.pl.	518400	IN	A	205.251.192.29
+
+money.pl.	518400	IN	A	212.77.101.20

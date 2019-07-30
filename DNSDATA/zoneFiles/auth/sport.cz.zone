@@ -1,0 +1,6 @@
+
+sport.cz.	86400	IN	SOA	ns.sport.cz.	mail	2019061702 1800 900 604800 86400
+sport.cz.	86400	IN	NS	ns.sport.cz.
+ns.sport.cz.	518400	IN	A	83.143.25.220
+
+sport.cz.	518400	IN	A	77.75.76.63

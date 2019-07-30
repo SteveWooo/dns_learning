@@ -1,0 +1,6 @@
+
+youth.cn.	86400	IN	SOA	ns.youth.cn.	mail	2019061702 1800 900 604800 86400
+youth.cn.	86400	IN	NS	ns.youth.cn.
+ns.youth.cn.	518400	IN	A	200.221.11.98
+
+youth.cn.	518400	IN	A	123.103.5.94

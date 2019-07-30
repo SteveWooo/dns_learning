@@ -1,0 +1,6 @@
+
+vod.pl.	86400	IN	SOA	ns.vod.pl.	mail	2019061702 1800 900 604800 86400
+vod.pl.	86400	IN	NS	ns.vod.pl.
+ns.vod.pl.	518400	IN	A	173.245.58.100
+
+vod.pl.	518400	IN	A	213.180.141.154

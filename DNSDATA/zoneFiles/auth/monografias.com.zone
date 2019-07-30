@@ -1,0 +1,6 @@
+
+monografias.com.	86400	IN	SOA	ns.monografias.com.	mail	2019061702 1800 900 604800 86400
+monografias.com.	86400	IN	NS	ns.monografias.com.
+ns.monografias.com.	518400	IN	A	193.232.156.17
+
+monografias.com.	518400	IN	A	13.226.15.118

@@ -1,0 +1,6 @@
+
+ca.gov.	86400	IN	SOA	ns.ca.gov.	mail	2019061702 1800 900 604800 86400
+ca.gov.	86400	IN	NS	ns.ca.gov.
+ns.ca.gov.	518400	IN	A	200.219.154.10
+
+ca.gov.	518400	IN	A	104.42.152.82

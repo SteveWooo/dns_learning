@@ -1,0 +1,6 @@
+
+express.pk.	86400	IN	SOA	ns.express.pk.	mail	2019061702 1800 900 604800 86400
+express.pk.	86400	IN	NS	ns.express.pk.
+ns.express.pk.	518400	IN	A	58.180.27.226
+
+express.pk.	518400	IN	A	104.16.207.87

@@ -1,0 +1,6 @@
+
+craigslist.ca.	86400	IN	SOA	ns.craigslist.ca.	mail	2019061702 1800 900 604800 86400
+craigslist.ca.	86400	IN	NS	ns.craigslist.ca.
+ns.craigslist.ca.	518400	IN	A	216.239.32.10
+
+craigslist.ca.	518400	IN	A	208.82.237.226

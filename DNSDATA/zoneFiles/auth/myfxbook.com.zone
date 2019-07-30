@@ -1,0 +1,6 @@
+
+myfxbook.com.	86400	IN	SOA	ns.myfxbook.com.	mail	2019061702 1800 900 604800 86400
+myfxbook.com.	86400	IN	NS	ns.myfxbook.com.
+ns.myfxbook.com.	518400	IN	A	183.3.226.207
+
+myfxbook.com.	518400	IN	A	52.144.44.142

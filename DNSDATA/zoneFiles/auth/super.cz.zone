@@ -1,0 +1,6 @@
+
+super.cz.	86400	IN	SOA	ns.super.cz.	mail	2019061702 1800 900 604800 86400
+super.cz.	86400	IN	NS	ns.super.cz.
+ns.super.cz.	518400	IN	A	213.180.193.1
+
+super.cz.	518400	IN	A	77.75.78.57

@@ -1,0 +1,6 @@
+
+pinterest.com.	86400	IN	SOA	ns.pinterest.com.	mail	2019061702 1800 900 604800 86400
+pinterest.com.	86400	IN	NS	ns.pinterest.com.
+ns.pinterest.com.	518400	IN	A	131.0.24.26
+
+pinterest.com.	518400	IN	A	8.7.198.45

@@ -1,0 +1,6 @@
+
+linuxquestions.org.	86400	IN	SOA	ns.linuxquestions.org.	mail	2019061702 1800 900 604800 86400
+linuxquestions.org.	86400	IN	NS	ns.linuxquestions.org.
+ns.linuxquestions.org.	518400	IN	A	200.201.165.253
+
+linuxquestions.org.	518400	IN	A	35.244.195.25

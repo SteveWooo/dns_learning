@@ -1,0 +1,6 @@
+
+netease.com.	86400	IN	SOA	ns.netease.com.	mail	2019061702 1800 900 604800 86400
+netease.com.	86400	IN	NS	ns.netease.com.
+ns.netease.com.	518400	IN	A	217.69.139.202
+
+netease.com.	518400	IN	A	223.252.199.70

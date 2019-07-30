@@ -1,0 +1,6 @@
+
+barstoolsports.com.	86400	IN	SOA	ns.barstoolsports.com.	mail	2019061702 1800 900 604800 86400
+barstoolsports.com.	86400	IN	NS	ns.barstoolsports.com.
+ns.barstoolsports.com.	518400	IN	A	216.239.32.10
+
+barstoolsports.com.	518400	IN	A	104.17.37.92

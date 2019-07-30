@@ -1,0 +1,6 @@
+
+lavozdelmuro.net.	86400	IN	SOA	ns.lavozdelmuro.net.	mail	2019061702 1800 900 604800 86400
+lavozdelmuro.net.	86400	IN	NS	ns.lavozdelmuro.net.
+ns.lavozdelmuro.net.	518400	IN	A	173.245.58.201
+
+lavozdelmuro.net.	518400	IN	A	104.24.5.3

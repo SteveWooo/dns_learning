@@ -1,0 +1,6 @@
+
+iis.net.	86400	IN	SOA	ns.iis.net.	mail	2019061702 1800 900 604800 86400
+iis.net.	86400	IN	NS	ns.iis.net.
+ns.iis.net.	518400	IN	A	173.245.58.138
+
+iis.net.	518400	IN	A	40.118.185.161

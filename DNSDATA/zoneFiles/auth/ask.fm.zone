@@ -1,0 +1,6 @@
+
+ask.fm.	86400	IN	SOA	ns.ask.fm.	mail	2019061702 1800 900 604800 86400
+ask.fm.	86400	IN	NS	ns.ask.fm.
+ns.ask.fm.	518400	IN	A	205.251.199.254
+
+ask.fm.	518400	IN	A	193.138.77.142

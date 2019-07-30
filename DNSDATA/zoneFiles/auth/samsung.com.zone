@@ -1,0 +1,6 @@
+
+samsung.com.	86400	IN	SOA	ns.samsung.com.	mail	2019061702 1800 900 604800 86400
+samsung.com.	86400	IN	NS	ns.samsung.com.
+ns.samsung.com.	518400	IN	A	180.149.156.12
+
+samsung.com.	518400	IN	A	211.45.27.231

@@ -1,0 +1,6 @@
+
+gogoanime.com.	86400	IN	SOA	ns.gogoanime.com.	mail	2019061702 1800 900 604800 86400
+gogoanime.com.	86400	IN	NS	ns.gogoanime.com.
+ns.gogoanime.com.	518400	IN	A	200.219.154.10
+
+gogoanime.com.	518400	IN	A	104.27.148.41

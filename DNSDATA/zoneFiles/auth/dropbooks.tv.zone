@@ -1,0 +1,6 @@
+
+dropbooks.tv.	86400	IN	SOA	ns.dropbooks.tv.	mail	2019061702 1800 900 604800 86400
+dropbooks.tv.	86400	IN	NS	ns.dropbooks.tv.
+ns.dropbooks.tv.	518400	IN	A	208.78.70.47
+
+dropbooks.tv.	518400	IN	A	54.157.221.129

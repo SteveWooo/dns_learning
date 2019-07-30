@@ -1,0 +1,6 @@
+
+shmoop.com.	86400	IN	SOA	ns.shmoop.com.	mail	2019061702 1800 900 604800 86400
+shmoop.com.	86400	IN	NS	ns.shmoop.com.
+ns.shmoop.com.	518400	IN	A	216.239.32.29
+
+shmoop.com.	518400	IN	A	18.214.13.96

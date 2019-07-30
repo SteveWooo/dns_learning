@@ -1,0 +1,6 @@
+
+indiatvnews.com.	86400	IN	SOA	ns.indiatvnews.com.	mail	2019061702 1800 900 604800 86400
+indiatvnews.com.	86400	IN	NS	ns.indiatvnews.com.
+ns.indiatvnews.com.	518400	IN	A	202.56.230.5
+
+indiatvnews.com.	518400	IN	A	13.235.145.10

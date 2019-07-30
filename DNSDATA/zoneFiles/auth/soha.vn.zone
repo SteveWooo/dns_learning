@@ -1,0 +1,6 @@
+
+soha.vn.	86400	IN	SOA	ns.soha.vn.	mail	2019061702 1800 900 604800 86400
+soha.vn.	86400	IN	NS	ns.soha.vn.
+ns.soha.vn.	518400	IN	A	200.221.11.98
+
+soha.vn.	518400	IN	A	123.30.151.92

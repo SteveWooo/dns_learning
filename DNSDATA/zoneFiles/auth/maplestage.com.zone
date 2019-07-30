@@ -1,0 +1,6 @@
+
+maplestage.com.	86400	IN	SOA	ns.maplestage.com.	mail	2019061702 1800 900 604800 86400
+maplestage.com.	86400	IN	NS	ns.maplestage.com.
+ns.maplestage.com.	518400	IN	A	216.58.200.238
+
+maplestage.com.	518400	IN	A	104.17.5.38

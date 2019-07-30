@@ -1,0 +1,4 @@
+
+beer.	86400	IN	SOA	ns.beer.	mail	2019061702 1800 900 604800 86400
+beer.	86400	IN	NS	ns.beer.
+ns.beer.	518400	IN	A	156.154.100.3

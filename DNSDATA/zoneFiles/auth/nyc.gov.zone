@@ -1,0 +1,6 @@
+
+nyc.gov.	86400	IN	SOA	ns.nyc.gov.	mail	2019061702 1800 900 604800 86400
+nyc.gov.	86400	IN	NS	ns.nyc.gov.
+ns.nyc.gov.	518400	IN	A	198.100.156.181
+
+nyc.gov.	518400	IN	A	161.185.30.156

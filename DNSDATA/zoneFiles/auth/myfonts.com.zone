@@ -1,0 +1,6 @@
+
+myfonts.com.	86400	IN	SOA	ns.myfonts.com.	mail	2019061702 1800 900 604800 86400
+myfonts.com.	86400	IN	NS	ns.myfonts.com.
+ns.myfonts.com.	518400	IN	A	173.245.58.138
+
+myfonts.com.	518400	IN	A	104.17.4.21

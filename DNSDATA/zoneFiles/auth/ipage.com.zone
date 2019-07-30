@@ -1,0 +1,6 @@
+
+ipage.com.	86400	IN	SOA	ns.ipage.com.	mail	2019061702 1800 900 604800 86400
+ipage.com.	86400	IN	NS	ns.ipage.com.
+ns.ipage.com.	518400	IN	A	216.58.200.238
+
+ipage.com.	518400	IN	A	65.254.244.120

@@ -1,0 +1,6 @@
+
+wemakeprice.com.	86400	IN	SOA	ns.wemakeprice.com.	mail	2019061702 1800 900 604800 86400
+wemakeprice.com.	86400	IN	NS	ns.wemakeprice.com.
+ns.wemakeprice.com.	518400	IN	A	198.100.156.181
+
+wemakeprice.com.	518400	IN	A	211.233.45.178

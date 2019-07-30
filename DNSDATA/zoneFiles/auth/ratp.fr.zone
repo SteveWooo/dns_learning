@@ -1,0 +1,6 @@
+
+ratp.fr.	86400	IN	SOA	ns.ratp.fr.	mail	2019061702 1800 900 604800 86400
+ratp.fr.	86400	IN	NS	ns.ratp.fr.
+ns.ratp.fr.	518400	IN	A	206.128.173.109
+
+ratp.fr.	518400	IN	A	195.200.228.170

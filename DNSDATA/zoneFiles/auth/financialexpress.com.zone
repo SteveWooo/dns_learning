@@ -1,0 +1,6 @@
+
+financialexpress.com.	86400	IN	SOA	ns.financialexpress.com.	mail	2019061702 1800 900 604800 86400
+financialexpress.com.	86400	IN	NS	ns.financialexpress.com.
+ns.financialexpress.com.	518400	IN	A	206.128.173.109
+
+financialexpress.com.	518400	IN	A	104.121.232.34

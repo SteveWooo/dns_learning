@@ -1,0 +1,6 @@
+
+com-annualsurvey.info.	86400	IN	SOA	ns.com-annualsurvey.info.	mail	2019061702 1800 900 604800 86400
+com-annualsurvey.info.	86400	IN	NS	ns.com-annualsurvey.info.
+ns.com-annualsurvey.info.	518400	IN	A	173.245.58.201
+
+com-annualsurvey.info.	518400	IN	A	46.166.182.109

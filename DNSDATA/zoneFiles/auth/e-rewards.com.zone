@@ -1,0 +1,6 @@
+
+e-rewards.com.	86400	IN	SOA	ns.e-rewards.com.	mail	2019061702 1800 900 604800 86400
+e-rewards.com.	86400	IN	NS	ns.e-rewards.com.
+ns.e-rewards.com.	518400	IN	A	187.18.60.242
+
+e-rewards.com.	518400	IN	A	63.241.211.118

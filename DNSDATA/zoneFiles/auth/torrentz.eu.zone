@@ -1,0 +1,6 @@
+
+torrentz.eu.	86400	IN	SOA	ns.torrentz.eu.	mail	2019061702 1800 900 604800 86400
+torrentz.eu.	86400	IN	NS	ns.torrentz.eu.
+ns.torrentz.eu.	518400	IN	A	173.245.59.160
+
+torrentz.eu.	518400	IN	A	199.59.150.11

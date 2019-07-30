@@ -1,0 +1,6 @@
+
+plotek.pl.	86400	IN	SOA	ns.plotek.pl.	mail	2019061702 1800 900 604800 86400
+plotek.pl.	86400	IN	NS	ns.plotek.pl.
+ns.plotek.pl.	518400	IN	A	173.245.59.115
+
+plotek.pl.	518400	IN	A	80.252.0.135

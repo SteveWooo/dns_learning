@@ -1,0 +1,6 @@
+
+91jm.com.	86400	IN	SOA	ns.91jm.com.	mail	2019061702 1800 900 604800 86400
+91jm.com.	86400	IN	NS	ns.91jm.com.
+ns.91jm.com.	518400	IN	A	217.69.139.112
+
+91jm.com.	518400	IN	A	127.0.0.1

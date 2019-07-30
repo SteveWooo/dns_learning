@@ -1,0 +1,6 @@
+
+demotywatory.pl.	86400	IN	SOA	ns.demotywatory.pl.	mail	2019061702 1800 900 604800 86400
+demotywatory.pl.	86400	IN	NS	ns.demotywatory.pl.
+ns.demotywatory.pl.	518400	IN	A	213.180.193.1
+
+demotywatory.pl.	518400	IN	A	95.211.149.164

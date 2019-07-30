@@ -1,0 +1,6 @@
+
+ravelry.com.	86400	IN	SOA	ns.ravelry.com.	mail	2019061702 1800 900 604800 86400
+ravelry.com.	86400	IN	NS	ns.ravelry.com.
+ns.ravelry.com.	518400	IN	A	58.180.27.226
+
+ravelry.com.	518400	IN	A	38.111.37.100

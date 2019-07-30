@@ -1,0 +1,6 @@
+
+mouthshut.com.	86400	IN	SOA	ns.mouthshut.com.	mail	2019061702 1800 900 604800 86400
+mouthshut.com.	86400	IN	NS	ns.mouthshut.com.
+ns.mouthshut.com.	518400	IN	A	217.69.139.112
+
+mouthshut.com.	518400	IN	A	180.179.174.241

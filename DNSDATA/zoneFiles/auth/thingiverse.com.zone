@@ -1,0 +1,6 @@
+
+thingiverse.com.	86400	IN	SOA	ns.thingiverse.com.	mail	2019061702 1800 900 604800 86400
+thingiverse.com.	86400	IN	NS	ns.thingiverse.com.
+ns.thingiverse.com.	518400	IN	A	140.205.67.253
+
+thingiverse.com.	518400	IN	A	18.213.96.109

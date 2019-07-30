@@ -1,0 +1,6 @@
+
+itar-tass.com.	86400	IN	SOA	ns.itar-tass.com.	mail	2019061702 1800 900 604800 86400
+itar-tass.com.	86400	IN	NS	ns.itar-tass.com.
+ns.itar-tass.com.	518400	IN	A	111.202.126.2
+
+itar-tass.com.	518400	IN	A	82.202.190.76

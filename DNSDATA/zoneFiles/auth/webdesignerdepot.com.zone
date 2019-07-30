@@ -1,0 +1,6 @@
+
+webdesignerdepot.com.	86400	IN	SOA	ns.webdesignerdepot.com.	mail	2019061702 1800 900 604800 86400
+webdesignerdepot.com.	86400	IN	NS	ns.webdesignerdepot.com.
+ns.webdesignerdepot.com.	518400	IN	A	64.106.209.186
+
+webdesignerdepot.com.	518400	IN	A	104.25.229.5

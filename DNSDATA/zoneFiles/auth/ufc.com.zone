@@ -1,0 +1,6 @@
+
+ufc.com.	86400	IN	SOA	ns.ufc.com.	mail	2019061702 1800 900 604800 86400
+ufc.com.	86400	IN	NS	ns.ufc.com.
+ns.ufc.com.	518400	IN	A	205.251.195.203
+
+ufc.com.	518400	IN	A	23.185.0.4

@@ -1,0 +1,6 @@
+
+washington.edu.	86400	IN	SOA	ns.washington.edu.	mail	2019061702 1800 900 604800 86400
+washington.edu.	86400	IN	NS	ns.washington.edu.
+ns.washington.edu.	518400	IN	A	173.245.58.159
+
+washington.edu.	518400	IN	A	128.95.155.197

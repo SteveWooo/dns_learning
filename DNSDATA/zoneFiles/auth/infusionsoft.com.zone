@@ -1,0 +1,6 @@
+
+infusionsoft.com.	86400	IN	SOA	ns.infusionsoft.com.	mail	2019061702 1800 900 604800 86400
+infusionsoft.com.	86400	IN	NS	ns.infusionsoft.com.
+ns.infusionsoft.com.	518400	IN	A	173.245.58.100
+
+infusionsoft.com.	518400	IN	A	104.16.159.106

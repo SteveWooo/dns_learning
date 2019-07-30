@@ -1,0 +1,6 @@
+
+adscale.de.	86400	IN	SOA	ns.adscale.de.	mail	2019061702 1800 900 604800 86400
+adscale.de.	86400	IN	NS	ns.adscale.de.
+ns.adscale.de.	518400	IN	A	216.58.200.238
+
+adscale.de.	518400	IN	A	195.88.45.56

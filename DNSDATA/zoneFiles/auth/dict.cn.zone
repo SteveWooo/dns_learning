@@ -1,0 +1,6 @@
+
+dict.cn.	86400	IN	SOA	ns.dict.cn.	mail	2019061702 1800 900 604800 86400
+dict.cn.	86400	IN	NS	ns.dict.cn.
+ns.dict.cn.	518400	IN	A	193.108.91.127
+
+dict.cn.	518400	IN	A	47.254.56.80

@@ -1,0 +1,6 @@
+
+sporx.com.	86400	IN	SOA	ns.sporx.com.	mail	2019061702 1800 900 604800 86400
+sporx.com.	86400	IN	NS	ns.sporx.com.
+ns.sporx.com.	518400	IN	A	193.232.156.17
+
+sporx.com.	518400	IN	A	35.206.135.44

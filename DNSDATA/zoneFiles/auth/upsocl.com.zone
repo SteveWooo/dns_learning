@@ -1,0 +1,6 @@
+
+upsocl.com.	86400	IN	SOA	ns.upsocl.com.	mail	2019061702 1800 900 604800 86400
+upsocl.com.	86400	IN	NS	ns.upsocl.com.
+ns.upsocl.com.	518400	IN	A	81.19.82.2
+
+upsocl.com.	518400	IN	A	162.242.198.179

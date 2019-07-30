@@ -1,0 +1,6 @@
+
+lofter.com.	86400	IN	SOA	ns.lofter.com.	mail	2019061702 1800 900 604800 86400
+lofter.com.	86400	IN	NS	ns.lofter.com.
+ns.lofter.com.	518400	IN	A	213.180.193.1
+
+lofter.com.	518400	IN	A	52.221.183.152

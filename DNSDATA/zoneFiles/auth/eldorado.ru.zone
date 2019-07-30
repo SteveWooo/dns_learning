@@ -1,0 +1,6 @@
+
+eldorado.ru.	86400	IN	SOA	ns.eldorado.ru.	mail	2019061702 1800 900 604800 86400
+eldorado.ru.	86400	IN	NS	ns.eldorado.ru.
+ns.eldorado.ru.	518400	IN	A	131.0.24.26
+
+eldorado.ru.	518400	IN	A	185.71.67.56

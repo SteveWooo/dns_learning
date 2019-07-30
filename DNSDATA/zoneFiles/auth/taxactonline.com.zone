@@ -1,0 +1,6 @@
+
+taxactonline.com.	86400	IN	SOA	ns.taxactonline.com.	mail	2019061702 1800 900 604800 86400
+taxactonline.com.	86400	IN	NS	ns.taxactonline.com.
+ns.taxactonline.com.	518400	IN	A	216.239.32.10
+
+taxactonline.com.	518400	IN	A	107.162.137.174

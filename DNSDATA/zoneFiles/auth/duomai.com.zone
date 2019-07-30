@@ -1,0 +1,6 @@
+
+duomai.com.	86400	IN	SOA	ns.duomai.com.	mail	2019061702 1800 900 604800 86400
+duomai.com.	86400	IN	NS	ns.duomai.com.
+ns.duomai.com.	518400	IN	A	204.69.234.1
+
+duomai.com.	518400	IN	A	115.236.16.38

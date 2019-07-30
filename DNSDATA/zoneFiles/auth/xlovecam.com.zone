@@ -1,0 +1,6 @@
+
+xlovecam.com.	86400	IN	SOA	ns.xlovecam.com.	mail	2019061702 1800 900 604800 86400
+xlovecam.com.	86400	IN	NS	ns.xlovecam.com.
+ns.xlovecam.com.	518400	IN	A	173.245.58.138
+
+xlovecam.com.	518400	IN	A	69.171.244.11

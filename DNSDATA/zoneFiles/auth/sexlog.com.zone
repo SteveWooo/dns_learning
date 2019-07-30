@@ -1,0 +1,6 @@
+
+sexlog.com.	86400	IN	SOA	ns.sexlog.com.	mail	2019061702 1800 900 604800 86400
+sexlog.com.	86400	IN	NS	ns.sexlog.com.
+ns.sexlog.com.	518400	IN	A	216.239.32.29
+
+sexlog.com.	518400	IN	A	104.17.135.107

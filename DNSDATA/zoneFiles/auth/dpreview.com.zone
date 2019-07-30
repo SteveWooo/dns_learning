@@ -1,0 +1,6 @@
+
+dpreview.com.	86400	IN	SOA	ns.dpreview.com.	mail	2019061702 1800 900 604800 86400
+dpreview.com.	86400	IN	NS	ns.dpreview.com.
+ns.dpreview.com.	518400	IN	A	183.3.226.207
+
+dpreview.com.	518400	IN	A	100.25.206.216

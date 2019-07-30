@@ -1,0 +1,6 @@
+
+pointtown.com.	86400	IN	SOA	ns.pointtown.com.	mail	2019061702 1800 900 604800 86400
+pointtown.com.	86400	IN	NS	ns.pointtown.com.
+ns.pointtown.com.	518400	IN	A	204.69.234.1
+
+pointtown.com.	518400	IN	A	45.60.3.176

@@ -1,0 +1,6 @@
+
+soundcloud.com.	86400	IN	SOA	ns.soundcloud.com.	mail	2019061702 1800 900 604800 86400
+soundcloud.com.	86400	IN	NS	ns.soundcloud.com.
+ns.soundcloud.com.	518400	IN	A	204.74.108.1
+
+soundcloud.com.	518400	IN	A	69.63.180.173

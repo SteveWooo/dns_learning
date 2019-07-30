@@ -1,0 +1,6 @@
+
+worldoftanks.eu.	86400	IN	SOA	ns.worldoftanks.eu.	mail	2019061702 1800 900 604800 86400
+worldoftanks.eu.	86400	IN	NS	ns.worldoftanks.eu.
+ns.worldoftanks.eu.	518400	IN	A	203.153.43.65
+
+worldoftanks.eu.	518400	IN	A	92.223.20.123

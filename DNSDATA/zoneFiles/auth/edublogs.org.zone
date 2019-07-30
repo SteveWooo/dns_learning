@@ -1,0 +1,6 @@
+
+edublogs.org.	86400	IN	SOA	ns.edublogs.org.	mail	2019061702 1800 900 604800 86400
+edublogs.org.	86400	IN	NS	ns.edublogs.org.
+ns.edublogs.org.	518400	IN	A	87.250.250.1
+
+edublogs.org.	518400	IN	A	104.16.1.23

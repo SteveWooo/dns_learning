@@ -1,0 +1,6 @@
+
+bouyguestelecom.fr.	86400	IN	SOA	ns.bouyguestelecom.fr.	mail	2019061702 1800 900 604800 86400
+bouyguestelecom.fr.	86400	IN	NS	ns.bouyguestelecom.fr.
+ns.bouyguestelecom.fr.	518400	IN	A	213.180.193.1
+
+bouyguestelecom.fr.	518400	IN	A	194.158.122.212

@@ -1,0 +1,6 @@
+
+cntv.cn.	86400	IN	SOA	ns.cntv.cn.	mail	2019061702 1800 900 604800 86400
+cntv.cn.	86400	IN	NS	ns.cntv.cn.
+ns.cntv.cn.	518400	IN	A	200.219.154.10
+
+cntv.cn.	518400	IN	A	202.108.8.151

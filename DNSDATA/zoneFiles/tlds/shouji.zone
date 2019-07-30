@@ -1,0 +1,4 @@
+
+shouji.	86400	IN	SOA	ns.shouji.	mail	2019061702 1800 900 604800 86400
+shouji.	86400	IN	NS	ns.shouji.
+ns.shouji.	518400	IN	A	103.61.63.1

@@ -1,0 +1,6 @@
+
+santabanta.com.	86400	IN	SOA	ns.santabanta.com.	mail	2019061702 1800 900 604800 86400
+santabanta.com.	86400	IN	NS	ns.santabanta.com.
+ns.santabanta.com.	518400	IN	A	205.251.195.203
+
+santabanta.com.	518400	IN	A	64.68.200.46

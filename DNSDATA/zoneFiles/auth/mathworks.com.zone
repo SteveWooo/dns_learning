@@ -1,0 +1,6 @@
+
+mathworks.com.	86400	IN	SOA	ns.mathworks.com.	mail	2019061702 1800 900 604800 86400
+mathworks.com.	86400	IN	NS	ns.mathworks.com.
+ns.mathworks.com.	518400	IN	A	174.35.55.22
+
+mathworks.com.	518400	IN	A	144.212.130.17

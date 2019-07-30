@@ -1,0 +1,6 @@
+
+doctissimo.fr.	86400	IN	SOA	ns.doctissimo.fr.	mail	2019061702 1800 900 604800 86400
+doctissimo.fr.	86400	IN	NS	ns.doctissimo.fr.
+ns.doctissimo.fr.	518400	IN	A	206.128.173.109
+
+doctissimo.fr.	518400	IN	A	13.32.253.19

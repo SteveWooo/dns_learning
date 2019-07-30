@@ -1,0 +1,6 @@
+
+olx.ua.	86400	IN	SOA	ns.olx.ua.	mail	2019061702 1800 900 604800 86400
+olx.ua.	86400	IN	NS	ns.olx.ua.
+ns.olx.ua.	518400	IN	A	205.251.195.203
+
+olx.ua.	518400	IN	A	13.33.131.49

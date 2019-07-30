@@ -1,0 +1,6 @@
+
+adsmarket.com.	86400	IN	SOA	ns.adsmarket.com.	mail	2019061702 1800 900 604800 86400
+adsmarket.com.	86400	IN	NS	ns.adsmarket.com.
+ns.adsmarket.com.	518400	IN	A	198.100.156.181
+
+adsmarket.com.	518400	IN	A	209.182.232.128

@@ -1,0 +1,6 @@
+
+auto.ru.	86400	IN	SOA	ns.auto.ru.	mail	2019061702 1800 900 604800 86400
+auto.ru.	86400	IN	NS	ns.auto.ru.
+ns.auto.ru.	518400	IN	A	216.58.200.238
+
+auto.ru.	518400	IN	A	213.180.204.188

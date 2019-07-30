@@ -1,0 +1,6 @@
+
+streeteasy.com.	86400	IN	SOA	ns.streeteasy.com.	mail	2019061702 1800 900 604800 86400
+streeteasy.com.	86400	IN	NS	ns.streeteasy.com.
+ns.streeteasy.com.	518400	IN	A	217.69.139.202
+
+streeteasy.com.	518400	IN	A	52.45.91.230

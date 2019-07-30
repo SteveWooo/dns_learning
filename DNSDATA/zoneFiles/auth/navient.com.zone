@@ -1,0 +1,6 @@
+
+navient.com.	86400	IN	SOA	ns.navient.com.	mail	2019061702 1800 900 604800 86400
+navient.com.	86400	IN	NS	ns.navient.com.
+ns.navient.com.	518400	IN	A	173.245.59.130
+
+navient.com.	518400	IN	A	104.76.73.179

@@ -1,0 +1,6 @@
+
+voici.fr.	86400	IN	SOA	ns.voici.fr.	mail	2019061702 1800 900 604800 86400
+voici.fr.	86400	IN	NS	ns.voici.fr.
+ns.voici.fr.	518400	IN	A	213.180.193.1
+
+voici.fr.	518400	IN	A	54.93.78.41

@@ -1,0 +1,6 @@
+
+khabarfarsi.com.	86400	IN	SOA	ns.khabarfarsi.com.	mail	2019061702 1800 900 604800 86400
+khabarfarsi.com.	86400	IN	NS	ns.khabarfarsi.com.
+ns.khabarfarsi.com.	518400	IN	A	205.251.199.254
+
+khabarfarsi.com.	518400	IN	A	136.243.68.125

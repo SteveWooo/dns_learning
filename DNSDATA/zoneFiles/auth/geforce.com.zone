@@ -1,0 +1,6 @@
+
+geforce.com.	86400	IN	SOA	ns.geforce.com.	mail	2019061702 1800 900 604800 86400
+geforce.com.	86400	IN	NS	ns.geforce.com.
+ns.geforce.com.	518400	IN	A	205.251.195.203
+
+geforce.com.	518400	IN	A	216.228.121.95

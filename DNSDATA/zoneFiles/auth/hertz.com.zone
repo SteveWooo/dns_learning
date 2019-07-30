@@ -1,0 +1,6 @@
+
+hertz.com.	86400	IN	SOA	ns.hertz.com.	mail	2019061702 1800 900 604800 86400
+hertz.com.	86400	IN	NS	ns.hertz.com.
+ns.hertz.com.	518400	IN	A	217.69.139.202
+
+hertz.com.	518400	IN	A	12.5.245.11

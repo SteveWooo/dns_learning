@@ -1,0 +1,6 @@
+
+costco.com.	86400	IN	SOA	ns.costco.com.	mail	2019061702 1800 900 604800 86400
+costco.com.	86400	IN	NS	ns.costco.com.
+ns.costco.com.	518400	IN	A	216.239.32.106
+
+costco.com.	518400	IN	A	170.167.117.81

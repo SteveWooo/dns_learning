@@ -1,0 +1,6 @@
+
+tuoitre.vn.	86400	IN	SOA	ns.tuoitre.vn.	mail	2019061702 1800 900 604800 86400
+tuoitre.vn.	86400	IN	NS	ns.tuoitre.vn.
+ns.tuoitre.vn.	518400	IN	A	205.251.197.107
+
+tuoitre.vn.	518400	IN	A	222.255.239.80

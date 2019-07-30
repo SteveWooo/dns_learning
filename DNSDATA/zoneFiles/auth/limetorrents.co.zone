@@ -1,0 +1,6 @@
+
+limetorrents.co.	86400	IN	SOA	ns.limetorrents.co.	mail	2019061702 1800 900 604800 86400
+limetorrents.co.	86400	IN	NS	ns.limetorrents.co.
+ns.limetorrents.co.	518400	IN	A	112.133.230.192
+
+limetorrents.co.	518400	IN	A	104.31.18.30

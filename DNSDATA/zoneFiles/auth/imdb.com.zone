@@ -1,0 +1,6 @@
+
+imdb.com.	86400	IN	SOA	ns.imdb.com.	mail	2019061702 1800 900 604800 86400
+imdb.com.	86400	IN	NS	ns.imdb.com.
+ns.imdb.com.	518400	IN	A	216.58.200.238
+
+imdb.com.	518400	IN	A	52.94.225.248

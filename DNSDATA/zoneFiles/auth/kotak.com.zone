@@ -1,0 +1,6 @@
+
+kotak.com.	86400	IN	SOA	ns.kotak.com.	mail	2019061702 1800 900 604800 86400
+kotak.com.	86400	IN	NS	ns.kotak.com.
+ns.kotak.com.	518400	IN	A	217.69.139.202
+
+kotak.com.	518400	IN	A	203.196.200.28

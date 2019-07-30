@@ -1,0 +1,6 @@
+
+playstation.com.	86400	IN	SOA	ns.playstation.com.	mail	2019061702 1800 900 604800 86400
+playstation.com.	86400	IN	NS	ns.playstation.com.
+ns.playstation.com.	518400	IN	A	205.251.192.29
+
+playstation.com.	518400	IN	A	209.200.152.199

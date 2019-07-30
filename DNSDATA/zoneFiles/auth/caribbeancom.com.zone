@@ -1,0 +1,6 @@
+
+caribbeancom.com.	86400	IN	SOA	ns.caribbeancom.com.	mail	2019061702 1800 900 604800 86400
+caribbeancom.com.	86400	IN	NS	ns.caribbeancom.com.
+ns.caribbeancom.com.	518400	IN	A	204.74.108.1
+
+caribbeancom.com.	518400	IN	A	38.91.108.49

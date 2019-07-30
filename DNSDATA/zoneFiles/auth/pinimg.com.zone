@@ -1,0 +1,6 @@
+
+pinimg.com.	86400	IN	SOA	ns.pinimg.com.	mail	2019061702 1800 900 604800 86400
+pinimg.com.	86400	IN	NS	ns.pinimg.com.
+ns.pinimg.com.	518400	IN	A	216.239.32.29
+
+pinimg.com.	518400	IN	A	151.101.0.84

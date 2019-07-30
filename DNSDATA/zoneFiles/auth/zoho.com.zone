@@ -1,0 +1,6 @@
+
+zoho.com.	86400	IN	SOA	ns.zoho.com.	mail	2019061702 1800 900 604800 86400
+zoho.com.	86400	IN	NS	ns.zoho.com.
+ns.zoho.com.	518400	IN	A	216.58.200.238
+
+zoho.com.	518400	IN	A	204.141.32.155

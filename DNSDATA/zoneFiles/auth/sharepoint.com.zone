@@ -1,0 +1,6 @@
+
+sharepoint.com.	86400	IN	SOA	ns.sharepoint.com.	mail	2019061702 1800 900 604800 86400
+sharepoint.com.	86400	IN	NS	ns.sharepoint.com.
+ns.sharepoint.com.	518400	IN	A	204.74.108.1
+
+sharepoint.com.	518400	IN	A	13.107.6.168

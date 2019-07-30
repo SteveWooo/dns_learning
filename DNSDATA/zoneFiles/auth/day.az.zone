@@ -1,0 +1,6 @@
+
+day.az.	86400	IN	SOA	ns.day.az.	mail	2019061702 1800 900 604800 86400
+day.az.	86400	IN	NS	ns.day.az.
+ns.day.az.	518400	IN	A	213.180.193.1
+
+day.az.	518400	IN	A	95.86.135.37

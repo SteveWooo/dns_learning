@@ -1,0 +1,6 @@
+
+socialblade.com.	86400	IN	SOA	ns.socialblade.com.	mail	2019061702 1800 900 604800 86400
+socialblade.com.	86400	IN	NS	ns.socialblade.com.
+ns.socialblade.com.	518400	IN	A	216.239.32.10
+
+socialblade.com.	518400	IN	A	31.13.66.6

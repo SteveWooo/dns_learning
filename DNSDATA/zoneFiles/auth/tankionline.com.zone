@@ -1,0 +1,6 @@
+
+tankionline.com.	86400	IN	SOA	ns.tankionline.com.	mail	2019061702 1800 900 604800 86400
+tankionline.com.	86400	IN	NS	ns.tankionline.com.
+ns.tankionline.com.	518400	IN	A	200.221.11.98
+
+tankionline.com.	518400	IN	A	37.48.68.15

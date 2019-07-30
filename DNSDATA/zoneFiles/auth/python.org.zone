@@ -1,0 +1,6 @@
+
+python.org.	86400	IN	SOA	ns.python.org.	mail	2019061702 1800 900 604800 86400
+python.org.	86400	IN	NS	ns.python.org.
+ns.python.org.	518400	IN	A	216.239.32.29
+
+python.org.	518400	IN	A	45.55.99.72

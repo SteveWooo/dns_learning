@@ -1,0 +1,6 @@
+
+pasionlibertadores.com.	86400	IN	SOA	ns.pasionlibertadores.com.	mail	2019061702 1800 900 604800 86400
+pasionlibertadores.com.	86400	IN	NS	ns.pasionlibertadores.com.
+ns.pasionlibertadores.com.	518400	IN	A	157.255.246.101
+
+pasionlibertadores.com.	518400	IN	A	104.17.160.37

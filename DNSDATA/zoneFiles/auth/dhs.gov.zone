@@ -1,0 +1,6 @@
+
+dhs.gov.	86400	IN	SOA	ns.dhs.gov.	mail	2019061702 1800 900 604800 86400
+dhs.gov.	86400	IN	NS	ns.dhs.gov.
+ns.dhs.gov.	518400	IN	A	217.69.139.112
+
+dhs.gov.	518400	IN	A	75.126.100.25

@@ -1,0 +1,6 @@
+
+jetbrains.com.	86400	IN	SOA	ns.jetbrains.com.	mail	2019061702 1800 900 604800 86400
+jetbrains.com.	86400	IN	NS	ns.jetbrains.com.
+ns.jetbrains.com.	518400	IN	A	204.74.108.1
+
+jetbrains.com.	518400	IN	A	13.32.253.23

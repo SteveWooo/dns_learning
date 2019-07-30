@@ -1,0 +1,6 @@
+
+dish.com.	86400	IN	SOA	ns.dish.com.	mail	2019061702 1800 900 604800 86400
+dish.com.	86400	IN	NS	ns.dish.com.
+ns.dish.com.	518400	IN	A	205.251.192.29
+
+dish.com.	518400	IN	A	66.170.250.4

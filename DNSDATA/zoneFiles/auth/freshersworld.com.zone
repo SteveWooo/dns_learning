@@ -1,0 +1,6 @@
+
+freshersworld.com.	86400	IN	SOA	ns.freshersworld.com.	mail	2019061702 1800 900 604800 86400
+freshersworld.com.	86400	IN	NS	ns.freshersworld.com.
+ns.freshersworld.com.	518400	IN	A	173.245.58.100
+
+freshersworld.com.	518400	IN	A	35.172.52.101

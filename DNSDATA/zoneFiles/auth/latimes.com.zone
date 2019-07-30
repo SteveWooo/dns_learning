@@ -1,0 +1,6 @@
+
+latimes.com.	86400	IN	SOA	ns.latimes.com.	mail	2019061702 1800 900 604800 86400
+latimes.com.	86400	IN	NS	ns.latimes.com.
+ns.latimes.com.	518400	IN	A	206.128.173.109
+
+latimes.com.	518400	IN	A	34.216.117.150

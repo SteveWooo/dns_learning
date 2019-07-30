@@ -1,0 +1,6 @@
+
+stamplive.com.	86400	IN	SOA	ns.stamplive.com.	mail	2019061702 1800 900 604800 86400
+stamplive.com.	86400	IN	NS	ns.stamplive.com.
+ns.stamplive.com.	518400	IN	A	183.3.226.207
+
+stamplive.com.	518400	IN	A	103.224.182.251

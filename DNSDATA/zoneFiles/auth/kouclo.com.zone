@@ -1,0 +1,6 @@
+
+kouclo.com.	86400	IN	SOA	ns.kouclo.com.	mail	2019061702 1800 900 604800 86400
+kouclo.com.	86400	IN	NS	ns.kouclo.com.
+ns.kouclo.com.	518400	IN	A	216.239.32.10
+
+kouclo.com.	518400	IN	A	123.207.164.208

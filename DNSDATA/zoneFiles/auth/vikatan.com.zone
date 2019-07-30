@@ -1,0 +1,6 @@
+
+vikatan.com.	86400	IN	SOA	ns.vikatan.com.	mail	2019061702 1800 900 604800 86400
+vikatan.com.	86400	IN	NS	ns.vikatan.com.
+ns.vikatan.com.	518400	IN	A	81.19.82.2
+
+vikatan.com.	518400	IN	A	23.20.179.164

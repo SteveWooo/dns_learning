@@ -1,0 +1,6 @@
+
+norwegian.com.	86400	IN	SOA	ns.norwegian.com.	mail	2019061702 1800 900 604800 86400
+norwegian.com.	86400	IN	NS	ns.norwegian.com.
+ns.norwegian.com.	518400	IN	A	206.128.173.109
+
+norwegian.com.	518400	IN	A	81.93.171.69

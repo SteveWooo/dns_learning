@@ -1,0 +1,6 @@
+
+bomb01.com.	86400	IN	SOA	ns.bomb01.com.	mail	2019061702 1800 900 604800 86400
+bomb01.com.	86400	IN	NS	ns.bomb01.com.
+ns.bomb01.com.	518400	IN	A	206.128.173.109
+
+bomb01.com.	518400	IN	A	31.13.65.1

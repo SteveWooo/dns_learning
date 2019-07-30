@@ -1,0 +1,6 @@
+
+sueddeutsche.de.	86400	IN	SOA	ns.sueddeutsche.de.	mail	2019061702 1800 900 604800 86400
+sueddeutsche.de.	86400	IN	NS	ns.sueddeutsche.de.
+ns.sueddeutsche.de.	518400	IN	A	217.69.139.112
+
+sueddeutsche.de.	518400	IN	A	31.13.84.1

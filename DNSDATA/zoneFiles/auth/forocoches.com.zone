@@ -1,0 +1,6 @@
+
+forocoches.com.	86400	IN	SOA	ns.forocoches.com.	mail	2019061702 1800 900 604800 86400
+forocoches.com.	86400	IN	NS	ns.forocoches.com.
+ns.forocoches.com.	518400	IN	A	213.180.193.1
+
+forocoches.com.	518400	IN	A	104.20.49.239

@@ -1,0 +1,6 @@
+
+dilbert.com.	86400	IN	SOA	ns.dilbert.com.	mail	2019061702 1800 900 604800 86400
+dilbert.com.	86400	IN	NS	ns.dilbert.com.
+ns.dilbert.com.	518400	IN	A	202.56.230.5
+
+dilbert.com.	518400	IN	A	66.6.101.171

@@ -1,0 +1,6 @@
+
+education.com.	86400	IN	SOA	ns.education.com.	mail	2019061702 1800 900 604800 86400
+education.com.	86400	IN	NS	ns.education.com.
+ns.education.com.	518400	IN	A	216.58.200.238
+
+education.com.	518400	IN	A	34.204.207.223

@@ -1,0 +1,6 @@
+
+naturalnews.com.	86400	IN	SOA	ns.naturalnews.com.	mail	2019061702 1800 900 604800 86400
+naturalnews.com.	86400	IN	NS	ns.naturalnews.com.
+ns.naturalnews.com.	518400	IN	A	200.201.165.253
+
+naturalnews.com.	518400	IN	A	104.16.134.70

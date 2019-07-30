@@ -1,0 +1,6 @@
+
+forbes.ru.	86400	IN	SOA	ns.forbes.ru.	mail	2019061702 1800 900 604800 86400
+forbes.ru.	86400	IN	NS	ns.forbes.ru.
+ns.forbes.ru.	518400	IN	A	173.245.58.138
+
+forbes.ru.	518400	IN	A	185.99.11.9

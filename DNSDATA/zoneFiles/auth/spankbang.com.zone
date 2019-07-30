@@ -1,0 +1,6 @@
+
+spankbang.com.	86400	IN	SOA	ns.spankbang.com.	mail	2019061702 1800 900 604800 86400
+spankbang.com.	86400	IN	NS	ns.spankbang.com.
+ns.spankbang.com.	518400	IN	A	216.239.32.10
+
+spankbang.com.	518400	IN	A	174.37.54.20

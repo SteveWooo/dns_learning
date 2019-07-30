@@ -1,0 +1,6 @@
+
+nps.gov.	86400	IN	SOA	ns.nps.gov.	mail	2019061702 1800 900 604800 86400
+nps.gov.	86400	IN	NS	ns.nps.gov.
+ns.nps.gov.	518400	IN	A	213.180.193.1
+
+nps.gov.	518400	IN	A	107.23.116.164

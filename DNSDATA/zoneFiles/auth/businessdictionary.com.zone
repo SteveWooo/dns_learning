@@ -1,0 +1,6 @@
+
+businessdictionary.com.	86400	IN	SOA	ns.businessdictionary.com.	mail	2019061702 1800 900 604800 86400
+businessdictionary.com.	86400	IN	NS	ns.businessdictionary.com.
+ns.businessdictionary.com.	518400	IN	A	217.69.139.202
+
+businessdictionary.com.	518400	IN	A	23.21.58.102

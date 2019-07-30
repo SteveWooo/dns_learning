@@ -1,0 +1,6 @@
+
+designtaxi.com.	86400	IN	SOA	ns.designtaxi.com.	mail	2019061702 1800 900 604800 86400
+designtaxi.com.	86400	IN	NS	ns.designtaxi.com.
+ns.designtaxi.com.	518400	IN	A	216.239.32.106
+
+designtaxi.com.	518400	IN	A	104.25.190.27

@@ -1,0 +1,6 @@
+
+ancestry.com.	86400	IN	SOA	ns.ancestry.com.	mail	2019061702 1800 900 604800 86400
+ancestry.com.	86400	IN	NS	ns.ancestry.com.
+ns.ancestry.com.	518400	IN	A	200.201.161.22
+
+ancestry.com.	518400	IN	A	45.60.169.132

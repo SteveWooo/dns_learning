@@ -1,0 +1,6 @@
+
+csfd.cz.	86400	IN	SOA	ns.csfd.cz.	mail	2019061702 1800 900 604800 86400
+csfd.cz.	86400	IN	NS	ns.csfd.cz.
+ns.csfd.cz.	518400	IN	A	216.239.32.10
+
+csfd.cz.	518400	IN	A	93.185.98.100

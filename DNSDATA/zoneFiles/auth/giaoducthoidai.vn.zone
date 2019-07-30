@@ -1,0 +1,6 @@
+
+giaoducthoidai.vn.	86400	IN	SOA	ns.giaoducthoidai.vn.	mail	2019061702 1800 900 604800 86400
+giaoducthoidai.vn.	86400	IN	NS	ns.giaoducthoidai.vn.
+ns.giaoducthoidai.vn.	518400	IN	A	216.239.32.29
+
+giaoducthoidai.vn.	518400	IN	A	49.213.110.83

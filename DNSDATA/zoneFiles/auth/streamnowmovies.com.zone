@@ -1,0 +1,6 @@
+
+streamnowmovies.com.	86400	IN	SOA	ns.streamnowmovies.com.	mail	2019061702 1800 900 604800 86400
+streamnowmovies.com.	86400	IN	NS	ns.streamnowmovies.com.
+ns.streamnowmovies.com.	518400	IN	A	23.211.61.66
+
+streamnowmovies.com.	518400	IN	A	52.221.118.222

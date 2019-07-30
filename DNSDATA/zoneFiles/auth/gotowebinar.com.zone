@@ -1,0 +1,6 @@
+
+gotowebinar.com.	86400	IN	SOA	ns.gotowebinar.com.	mail	2019061702 1800 900 604800 86400
+gotowebinar.com.	86400	IN	NS	ns.gotowebinar.com.
+ns.gotowebinar.com.	518400	IN	A	198.100.156.181
+
+gotowebinar.com.	518400	IN	A	216.115.208.242

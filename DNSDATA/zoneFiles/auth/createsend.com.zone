@@ -1,0 +1,6 @@
+
+createsend.com.	86400	IN	SOA	ns.createsend.com.	mail	2019061702 1800 900 604800 86400
+createsend.com.	86400	IN	NS	ns.createsend.com.
+ns.createsend.com.	518400	IN	A	140.205.67.253
+
+createsend.com.	518400	IN	A	103.28.41.12

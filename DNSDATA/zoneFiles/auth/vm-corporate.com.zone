@@ -1,0 +1,6 @@
+
+vm-corporate.com.	86400	IN	SOA	ns.vm-corporate.com.	mail	2019061702 1800 900 604800 86400
+vm-corporate.com.	86400	IN	NS	ns.vm-corporate.com.
+ns.vm-corporate.com.	518400	IN	A	213.180.193.1
+
+vm-corporate.com.	518400	IN	A	72.9.105.30

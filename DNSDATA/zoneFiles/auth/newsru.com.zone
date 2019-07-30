@@ -1,0 +1,6 @@
+
+newsru.com.	86400	IN	SOA	ns.newsru.com.	mail	2019061702 1800 900 604800 86400
+newsru.com.	86400	IN	NS	ns.newsru.com.
+ns.newsru.com.	518400	IN	A	205.251.194.1
+
+newsru.com.	518400	IN	A	216.41.223.54

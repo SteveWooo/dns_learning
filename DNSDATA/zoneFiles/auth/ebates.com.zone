@@ -1,0 +1,6 @@
+
+ebates.com.	86400	IN	SOA	ns.ebates.com.	mail	2019061702 1800 900 604800 86400
+ebates.com.	86400	IN	NS	ns.ebates.com.
+ns.ebates.com.	518400	IN	A	205.251.199.254
+
+ebates.com.	518400	IN	A	192.107.237.22

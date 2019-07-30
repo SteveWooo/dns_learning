@@ -1,0 +1,6 @@
+
+todoist.com.	86400	IN	SOA	ns.todoist.com.	mail	2019061702 1800 900 604800 86400
+todoist.com.	86400	IN	NS	ns.todoist.com.
+ns.todoist.com.	518400	IN	A	183.3.226.207
+
+todoist.com.	518400	IN	A	13.224.166.126

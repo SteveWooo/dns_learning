@@ -1,0 +1,6 @@
+
+accuweather.com.	86400	IN	SOA	ns.accuweather.com.	mail	2019061702 1800 900 604800 86400
+accuweather.com.	86400	IN	NS	ns.accuweather.com.
+ns.accuweather.com.	518400	IN	A	217.69.139.202
+
+accuweather.com.	518400	IN	A	104.122.241.35

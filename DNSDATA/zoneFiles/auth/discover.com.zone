@@ -1,0 +1,6 @@
+
+discover.com.	86400	IN	SOA	ns.discover.com.	mail	2019061702 1800 900 604800 86400
+discover.com.	86400	IN	NS	ns.discover.com.
+ns.discover.com.	518400	IN	A	204.74.108.1
+
+discover.com.	518400	IN	A	88.221.186.169

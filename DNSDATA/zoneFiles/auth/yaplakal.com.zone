@@ -1,0 +1,6 @@
+
+yaplakal.com.	86400	IN	SOA	ns.yaplakal.com.	mail	2019061702 1800 900 604800 86400
+yaplakal.com.	86400	IN	NS	ns.yaplakal.com.
+ns.yaplakal.com.	518400	IN	A	204.74.108.1
+
+yaplakal.com.	518400	IN	A	5.187.1.122

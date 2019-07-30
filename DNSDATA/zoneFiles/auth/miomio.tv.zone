@@ -1,0 +1,6 @@
+
+miomio.tv.	86400	IN	SOA	ns.miomio.tv.	mail	2019061702 1800 900 604800 86400
+miomio.tv.	86400	IN	NS	ns.miomio.tv.
+ns.miomio.tv.	518400	IN	A	202.56.230.5
+
+miomio.tv.	518400	IN	A	218.28.198.177

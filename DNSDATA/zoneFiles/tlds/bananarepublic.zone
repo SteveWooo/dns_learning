@@ -1,0 +1,4 @@
+
+bananarepublic.	86400	IN	SOA	ns.bananarepublic.	mail	2019061702 1800 900 604800 86400
+bananarepublic.	86400	IN	NS	ns.bananarepublic.
+ns.bananarepublic.	518400	IN	A	156.154.159.22

@@ -1,0 +1,6 @@
+
+noticias24.com.	86400	IN	SOA	ns.noticias24.com.	mail	2019061702 1800 900 604800 86400
+noticias24.com.	86400	IN	NS	ns.noticias24.com.
+ns.noticias24.com.	518400	IN	A	200.221.11.98
+
+noticias24.com.	518400	IN	A	146.20.200.72

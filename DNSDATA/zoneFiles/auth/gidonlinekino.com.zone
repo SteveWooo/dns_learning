@@ -1,0 +1,6 @@
+
+gidonlinekino.com.	86400	IN	SOA	ns.gidonlinekino.com.	mail	2019061702 1800 900 604800 86400
+gidonlinekino.com.	86400	IN	NS	ns.gidonlinekino.com.
+ns.gidonlinekino.com.	518400	IN	A	206.128.173.109
+
+gidonlinekino.com.	518400	IN	A	69.16.230.42

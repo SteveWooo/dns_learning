@@ -1,0 +1,6 @@
+
+google.hr.	86400	IN	SOA	ns.google.hr.	mail	2019061702 1800 900 604800 86400
+google.hr.	86400	IN	NS	ns.google.hr.
+ns.google.hr.	518400	IN	A	104.40.210.25
+
+google.hr.	518400	IN	A	74.86.3.208

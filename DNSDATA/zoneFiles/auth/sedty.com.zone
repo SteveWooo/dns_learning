@@ -1,0 +1,6 @@
+
+sedty.com.	86400	IN	SOA	ns.sedty.com.	mail	2019061702 1800 900 604800 86400
+sedty.com.	86400	IN	NS	ns.sedty.com.
+ns.sedty.com.	518400	IN	A	111.206.53.6
+
+sedty.com.	518400	IN	A	184.168.131.241

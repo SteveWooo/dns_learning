@@ -1,0 +1,6 @@
+
+teamwork.com.	86400	IN	SOA	ns.teamwork.com.	mail	2019061702 1800 900 604800 86400
+teamwork.com.	86400	IN	NS	ns.teamwork.com.
+ns.teamwork.com.	518400	IN	A	198.11.138.249
+
+teamwork.com.	518400	IN	A	52.207.94.67

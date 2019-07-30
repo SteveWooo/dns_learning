@@ -1,0 +1,6 @@
+
+searchnu.com.	86400	IN	SOA	ns.searchnu.com.	mail	2019061702 1800 900 604800 86400
+searchnu.com.	86400	IN	NS	ns.searchnu.com.
+ns.searchnu.com.	518400	IN	A	208.78.70.47
+
+searchnu.com.	518400	IN	A	82.163.48.60

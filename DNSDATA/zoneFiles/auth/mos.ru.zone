@@ -1,0 +1,6 @@
+
+mos.ru.	86400	IN	SOA	ns.mos.ru.	mail	2019061702 1800 900 604800 86400
+mos.ru.	86400	IN	NS	ns.mos.ru.
+ns.mos.ru.	518400	IN	A	216.58.200.238
+
+mos.ru.	518400	IN	A	212.11.152.217

@@ -1,0 +1,6 @@
+
+searchenginewatch.com.	86400	IN	SOA	ns.searchenginewatch.com.	mail	2019061702 1800 900 604800 86400
+searchenginewatch.com.	86400	IN	NS	ns.searchenginewatch.com.
+ns.searchenginewatch.com.	518400	IN	A	193.108.91.127
+
+searchenginewatch.com.	518400	IN	A	8.7.198.45

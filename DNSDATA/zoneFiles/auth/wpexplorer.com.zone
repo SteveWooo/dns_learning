@@ -1,0 +1,6 @@
+
+wpexplorer.com.	86400	IN	SOA	ns.wpexplorer.com.	mail	2019061702 1800 900 604800 86400
+wpexplorer.com.	86400	IN	NS	ns.wpexplorer.com.
+ns.wpexplorer.com.	518400	IN	A	205.251.199.254
+
+wpexplorer.com.	518400	IN	A	104.22.2.182

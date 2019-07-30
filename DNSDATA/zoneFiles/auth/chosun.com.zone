@@ -1,0 +1,6 @@
+
+chosun.com.	86400	IN	SOA	ns.chosun.com.	mail	2019061702 1800 900 604800 86400
+chosun.com.	86400	IN	NS	ns.chosun.com.
+ns.chosun.com.	518400	IN	A	206.128.173.109
+
+chosun.com.	518400	IN	A	13.209.227.83

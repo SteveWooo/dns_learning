@@ -1,0 +1,6 @@
+
+porn.com.	86400	IN	SOA	ns.porn.com.	mail	2019061702 1800 900 604800 86400
+porn.com.	86400	IN	NS	ns.porn.com.
+ns.porn.com.	518400	IN	A	173.245.58.100
+
+porn.com.	518400	IN	A	69.171.232.21

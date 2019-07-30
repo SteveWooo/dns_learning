@@ -1,0 +1,6 @@
+
+ojooo.com.	86400	IN	SOA	ns.ojooo.com.	mail	2019061702 1800 900 604800 86400
+ojooo.com.	86400	IN	NS	ns.ojooo.com.
+ns.ojooo.com.	518400	IN	A	200.201.165.253
+
+ojooo.com.	518400	IN	A	104.25.202.16

@@ -1,0 +1,6 @@
+
+blogger.com.	86400	IN	SOA	ns.blogger.com.	mail	2019061702 1800 900 604800 86400
+blogger.com.	86400	IN	NS	ns.blogger.com.
+ns.blogger.com.	518400	IN	A	198.100.156.181
+
+blogger.com.	518400	IN	A	74.86.235.236

@@ -1,0 +1,6 @@
+
+majestic.com.	86400	IN	SOA	ns.majestic.com.	mail	2019061702 1800 900 604800 86400
+majestic.com.	86400	IN	NS	ns.majestic.com.
+ns.majestic.com.	518400	IN	A	217.69.139.112
+
+majestic.com.	518400	IN	A	212.74.50.1

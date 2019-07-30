@@ -1,0 +1,6 @@
+
+tagesschau.de.	86400	IN	SOA	ns.tagesschau.de.	mail	2019061702 1800 900 604800 86400
+tagesschau.de.	86400	IN	NS	ns.tagesschau.de.
+ns.tagesschau.de.	518400	IN	A	205.251.194.1
+
+tagesschau.de.	518400	IN	A	8.7.198.45

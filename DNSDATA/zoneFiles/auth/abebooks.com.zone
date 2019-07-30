@@ -1,0 +1,6 @@
+
+abebooks.com.	86400	IN	SOA	ns.abebooks.com.	mail	2019061702 1800 900 604800 86400
+abebooks.com.	86400	IN	NS	ns.abebooks.com.
+ns.abebooks.com.	518400	IN	A	213.180.193.1
+
+abebooks.com.	518400	IN	A	74.86.3.208

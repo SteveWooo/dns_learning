@@ -1,0 +1,6 @@
+
+media-fire.org.	86400	IN	SOA	ns.media-fire.org.	mail	2019061702 1800 900 604800 86400
+media-fire.org.	86400	IN	NS	ns.media-fire.org.
+ns.media-fire.org.	518400	IN	A	193.232.156.17
+
+media-fire.org.	518400	IN	A	104.20.1.146

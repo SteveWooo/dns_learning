@@ -1,0 +1,6 @@
+
+voanews.com.	86400	IN	SOA	ns.voanews.com.	mail	2019061702 1800 900 604800 86400
+voanews.com.	86400	IN	NS	ns.voanews.com.
+ns.voanews.com.	518400	IN	A	217.69.139.112
+
+voanews.com.	518400	IN	A	203.98.7.65

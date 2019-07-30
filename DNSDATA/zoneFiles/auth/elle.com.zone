@@ -1,0 +1,6 @@
+
+elle.com.	86400	IN	SOA	ns.elle.com.	mail	2019061702 1800 900 604800 86400
+elle.com.	86400	IN	NS	ns.elle.com.
+ns.elle.com.	518400	IN	A	216.239.32.10
+
+elle.com.	518400	IN	A	151.101.128.155

@@ -1,0 +1,6 @@
+
+labnol.org.	86400	IN	SOA	ns.labnol.org.	mail	2019061702 1800 900 604800 86400
+labnol.org.	86400	IN	NS	ns.labnol.org.
+ns.labnol.org.	518400	IN	A	200.201.165.253
+
+labnol.org.	518400	IN	A	208.113.143.67

@@ -1,0 +1,6 @@
+
+only-search.com.	86400	IN	SOA	ns.only-search.com.	mail	2019061702 1800 900 604800 86400
+only-search.com.	86400	IN	NS	ns.only-search.com.
+ns.only-search.com.	518400	IN	A	217.69.139.112
+
+only-search.com.	518400	IN	A	66.96.131.12

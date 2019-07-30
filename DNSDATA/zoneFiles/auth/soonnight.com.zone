@@ -1,0 +1,6 @@
+
+soonnight.com.	86400	IN	SOA	ns.soonnight.com.	mail	2019061702 1800 900 604800 86400
+soonnight.com.	86400	IN	NS	ns.soonnight.com.
+ns.soonnight.com.	518400	IN	A	205.251.194.1
+
+soonnight.com.	518400	IN	A	104.25.46.4

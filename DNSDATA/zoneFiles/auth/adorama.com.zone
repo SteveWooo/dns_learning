@@ -1,0 +1,6 @@
+
+adorama.com.	86400	IN	SOA	ns.adorama.com.	mail	2019061702 1800 900 604800 86400
+adorama.com.	86400	IN	NS	ns.adorama.com.
+ns.adorama.com.	518400	IN	A	81.19.82.2
+
+adorama.com.	518400	IN	A	8.14.113.35

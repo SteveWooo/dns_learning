@@ -1,0 +1,6 @@
+
+herezera.com.	86400	IN	SOA	ns.herezera.com.	mail	2019061702 1800 900 604800 86400
+herezera.com.	86400	IN	NS	ns.herezera.com.
+ns.herezera.com.	518400	IN	A	206.128.173.109
+
+herezera.com.	518400	IN	A	104.28.24.47

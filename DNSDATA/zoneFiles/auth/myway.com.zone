@@ -1,0 +1,6 @@
+
+myway.com.	86400	IN	SOA	ns.myway.com.	mail	2019061702 1800 900 604800 86400
+myway.com.	86400	IN	NS	ns.myway.com.
+ns.myway.com.	518400	IN	A	216.239.32.106
+
+myway.com.	518400	IN	A	72.9.105.30

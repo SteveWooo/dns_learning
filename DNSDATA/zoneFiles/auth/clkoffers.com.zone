@@ -1,0 +1,6 @@
+
+clkoffers.com.	86400	IN	SOA	ns.clkoffers.com.	mail	2019061702 1800 900 604800 86400
+clkoffers.com.	86400	IN	NS	ns.clkoffers.com.
+ns.clkoffers.com.	518400	IN	A	216.58.200.238
+
+clkoffers.com.	518400	IN	A	173.192.101.28

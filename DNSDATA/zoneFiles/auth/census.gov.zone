@@ -1,0 +1,6 @@
+
+census.gov.	86400	IN	SOA	ns.census.gov.	mail	2019061702 1800 900 604800 86400
+census.gov.	86400	IN	NS	ns.census.gov.
+ns.census.gov.	518400	IN	A	202.56.230.5
+
+census.gov.	518400	IN	A	148.129.75.218

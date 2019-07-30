@@ -1,0 +1,6 @@
+
+geenstijl.nl.	86400	IN	SOA	ns.geenstijl.nl.	mail	2019061702 1800 900 604800 86400
+geenstijl.nl.	86400	IN	NS	ns.geenstijl.nl.
+ns.geenstijl.nl.	518400	IN	A	217.69.139.112
+
+geenstijl.nl.	518400	IN	A	104.27.193.88

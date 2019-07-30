@@ -1,0 +1,6 @@
+
+ganji.com.	86400	IN	SOA	ns.ganji.com.	mail	2019061702 1800 900 604800 86400
+ganji.com.	86400	IN	NS	ns.ganji.com.
+ns.ganji.com.	518400	IN	A	216.239.32.10
+
+ganji.com.	518400	IN	A	154.8.241.69

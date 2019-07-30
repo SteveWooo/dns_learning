@@ -1,0 +1,6 @@
+
+redbubble.com.	86400	IN	SOA	ns.redbubble.com.	mail	2019061702 1800 900 604800 86400
+redbubble.com.	86400	IN	NS	ns.redbubble.com.
+ns.redbubble.com.	518400	IN	A	206.128.173.109
+
+redbubble.com.	518400	IN	A	104.16.86.27

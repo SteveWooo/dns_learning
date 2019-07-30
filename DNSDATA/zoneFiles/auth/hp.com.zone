@@ -1,0 +1,6 @@
+
+hp.com.	86400	IN	SOA	ns.hp.com.	mail	2019061702 1800 900 604800 86400
+hp.com.	86400	IN	NS	ns.hp.com.
+ns.hp.com.	518400	IN	A	213.180.204.242
+
+hp.com.	518400	IN	A	15.72.228.83

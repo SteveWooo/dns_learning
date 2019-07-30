@@ -1,0 +1,6 @@
+
+dxy.cn.	86400	IN	SOA	ns.dxy.cn.	mail	2019061702 1800 900 604800 86400
+dxy.cn.	86400	IN	NS	ns.dxy.cn.
+ns.dxy.cn.	518400	IN	A	213.180.193.1
+
+dxy.cn.	518400	IN	A	112.124.103.79

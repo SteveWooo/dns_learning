@@ -1,0 +1,6 @@
+
+cnr.cn.	86400	IN	SOA	ns.cnr.cn.	mail	2019061702 1800 900 604800 86400
+cnr.cn.	86400	IN	NS	ns.cnr.cn.
+ns.cnr.cn.	518400	IN	A	217.69.139.112
+
+cnr.cn.	518400	IN	A	220.181.79.10

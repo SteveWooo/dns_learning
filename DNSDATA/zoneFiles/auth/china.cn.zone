@@ -1,0 +1,6 @@
+
+china.cn.	86400	IN	SOA	ns.china.cn.	mail	2019061702 1800 900 604800 86400
+china.cn.	86400	IN	NS	ns.china.cn.
+ns.china.cn.	518400	IN	A	217.69.139.112
+
+china.cn.	518400	IN	A	202.130.245.42

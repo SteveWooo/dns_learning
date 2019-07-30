@@ -1,0 +1,6 @@
+
+tinkoff.ru.	86400	IN	SOA	ns.tinkoff.ru.	mail	2019061702 1800 900 604800 86400
+tinkoff.ru.	86400	IN	NS	ns.tinkoff.ru.
+ns.tinkoff.ru.	518400	IN	A	198.11.138.245
+
+tinkoff.ru.	518400	IN	A	178.248.236.218

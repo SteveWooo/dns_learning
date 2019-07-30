@@ -1,0 +1,6 @@
+
+opensooq.com.	86400	IN	SOA	ns.opensooq.com.	mail	2019061702 1800 900 604800 86400
+opensooq.com.	86400	IN	NS	ns.opensooq.com.
+ns.opensooq.com.	518400	IN	A	206.128.173.109
+
+opensooq.com.	518400	IN	A	52.17.232.131

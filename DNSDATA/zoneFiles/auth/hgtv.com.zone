@@ -1,0 +1,6 @@
+
+hgtv.com.	86400	IN	SOA	ns.hgtv.com.	mail	2019061702 1800 900 604800 86400
+hgtv.com.	86400	IN	NS	ns.hgtv.com.
+ns.hgtv.com.	518400	IN	A	217.69.139.202
+
+hgtv.com.	518400	IN	A	204.78.50.82

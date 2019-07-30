@@ -1,0 +1,6 @@
+
+blogspot.ru.	86400	IN	SOA	ns.blogspot.ru.	mail	2019061702 1800 900 604800 86400
+blogspot.ru.	86400	IN	NS	ns.blogspot.ru.
+ns.blogspot.ru.	518400	IN	A	81.19.73.180
+
+blogspot.ru.	518400	IN	A	31.13.74.1

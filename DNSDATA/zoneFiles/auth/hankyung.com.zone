@@ -1,0 +1,6 @@
+
+hankyung.com.	86400	IN	SOA	ns.hankyung.com.	mail	2019061702 1800 900 604800 86400
+hankyung.com.	86400	IN	NS	ns.hankyung.com.
+ns.hankyung.com.	518400	IN	A	216.239.32.10
+
+hankyung.com.	518400	IN	A	211.53.214.11

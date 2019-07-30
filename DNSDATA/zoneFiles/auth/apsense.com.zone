@@ -1,0 +1,6 @@
+
+apsense.com.	86400	IN	SOA	ns.apsense.com.	mail	2019061702 1800 900 604800 86400
+apsense.com.	86400	IN	NS	ns.apsense.com.
+ns.apsense.com.	518400	IN	A	204.74.108.1
+
+apsense.com.	518400	IN	A	108.168.151.66

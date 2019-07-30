@@ -1,0 +1,6 @@
+
+18exgfs.com.	86400	IN	SOA	ns.18exgfs.com.	mail	2019061702 1800 900 604800 86400
+18exgfs.com.	86400	IN	NS	ns.18exgfs.com.
+ns.18exgfs.com.	518400	IN	A	193.108.91.127
+
+18exgfs.com.	518400	IN	A	66.254.103.176

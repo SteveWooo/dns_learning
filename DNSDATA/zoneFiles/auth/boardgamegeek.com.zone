@@ -1,0 +1,6 @@
+
+boardgamegeek.com.	86400	IN	SOA	ns.boardgamegeek.com.	mail	2019061702 1800 900 604800 86400
+boardgamegeek.com.	86400	IN	NS	ns.boardgamegeek.com.
+ns.boardgamegeek.com.	518400	IN	A	217.69.139.112
+
+boardgamegeek.com.	518400	IN	A	130.211.47.221

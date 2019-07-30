@@ -1,0 +1,6 @@
+
+yepi.com.	86400	IN	SOA	ns.yepi.com.	mail	2019061702 1800 900 604800 86400
+yepi.com.	86400	IN	NS	ns.yepi.com.
+ns.yepi.com.	518400	IN	A	213.180.204.242
+
+yepi.com.	518400	IN	A	34.233.213.138

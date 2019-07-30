@@ -1,0 +1,6 @@
+
+aruba.it.	86400	IN	SOA	ns.aruba.it.	mail	2019061702 1800 900 604800 86400
+aruba.it.	86400	IN	NS	ns.aruba.it.
+ns.aruba.it.	518400	IN	A	206.128.173.109
+
+aruba.it.	518400	IN	A	62.149.188.200

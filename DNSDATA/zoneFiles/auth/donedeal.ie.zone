@@ -1,0 +1,6 @@
+
+donedeal.ie.	86400	IN	SOA	ns.donedeal.ie.	mail	2019061702 1800 900 604800 86400
+donedeal.ie.	86400	IN	NS	ns.donedeal.ie.
+ns.donedeal.ie.	518400	IN	A	132.207.144.12
+
+donedeal.ie.	518400	IN	A	91.220.45.19

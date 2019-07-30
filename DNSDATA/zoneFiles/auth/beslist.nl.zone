@@ -1,0 +1,6 @@
+
+beslist.nl.	86400	IN	SOA	ns.beslist.nl.	mail	2019061702 1800 900 604800 86400
+beslist.nl.	86400	IN	NS	ns.beslist.nl.
+ns.beslist.nl.	518400	IN	A	193.232.156.17
+
+beslist.nl.	518400	IN	A	52.58.71.222

@@ -1,0 +1,6 @@
+
+videodownloadconverter.com.	86400	IN	SOA	ns.videodownloadconverter.com.	mail	2019061702 1800 900 604800 86400
+videodownloadconverter.com.	86400	IN	NS	ns.videodownloadconverter.com.
+ns.videodownloadconverter.com.	518400	IN	A	213.180.204.242
+
+videodownloadconverter.com.	518400	IN	A	35.244.218.203

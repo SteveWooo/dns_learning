@@ -1,0 +1,6 @@
+
+totaljobs.com.	86400	IN	SOA	ns.totaljobs.com.	mail	2019061702 1800 900 604800 86400
+totaljobs.com.	86400	IN	NS	ns.totaljobs.com.
+ns.totaljobs.com.	518400	IN	A	216.239.32.106
+
+totaljobs.com.	518400	IN	A	52.19.21.81

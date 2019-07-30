@@ -1,0 +1,6 @@
+
+motor-talk.de.	86400	IN	SOA	ns.motor-talk.de.	mail	2019061702 1800 900 604800 86400
+motor-talk.de.	86400	IN	NS	ns.motor-talk.de.
+ns.motor-talk.de.	518400	IN	A	187.18.60.242
+
+motor-talk.de.	518400	IN	A	194.50.69.71

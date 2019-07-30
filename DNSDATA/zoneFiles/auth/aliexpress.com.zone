@@ -1,0 +1,6 @@
+
+aliexpress.com.	86400	IN	SOA	ns.aliexpress.com.	mail	2019061702 1800 900 604800 86400
+aliexpress.com.	86400	IN	NS	ns.aliexpress.com.
+ns.aliexpress.com.	518400	IN	A	165.160.15.20
+
+aliexpress.com.	518400	IN	A	140.205.164.8

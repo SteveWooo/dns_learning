@@ -1,0 +1,6 @@
+
+xl.pt.	86400	IN	SOA	ns.xl.pt.	mail	2019061702 1800 900 604800 86400
+xl.pt.	86400	IN	NS	ns.xl.pt.
+ns.xl.pt.	518400	IN	A	216.239.32.29
+
+xl.pt.	518400	IN	A	88.157.217.144

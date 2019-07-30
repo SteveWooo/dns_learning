@@ -1,0 +1,6 @@
+
+research-panel.jp.	86400	IN	SOA	ns.research-panel.jp.	mail	2019061702 1800 900 604800 86400
+research-panel.jp.	86400	IN	NS	ns.research-panel.jp.
+ns.research-panel.jp.	518400	IN	A	173.245.59.100
+
+research-panel.jp.	518400	IN	A	54.64.13.127

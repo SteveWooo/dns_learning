@@ -1,0 +1,6 @@
+
+blockchain.info.	86400	IN	SOA	ns.blockchain.info.	mail	2019061702 1800 900 604800 86400
+blockchain.info.	86400	IN	NS	ns.blockchain.info.
+ns.blockchain.info.	518400	IN	A	202.56.230.5
+
+blockchain.info.	518400	IN	A	104.16.55.3

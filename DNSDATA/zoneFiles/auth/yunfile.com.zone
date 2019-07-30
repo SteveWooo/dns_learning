@@ -1,0 +1,6 @@
+
+yunfile.com.	86400	IN	SOA	ns.yunfile.com.	mail	2019061702 1800 900 604800 86400
+yunfile.com.	86400	IN	NS	ns.yunfile.com.
+ns.yunfile.com.	518400	IN	A	205.251.199.254
+
+yunfile.com.	518400	IN	A	66.160.146.66

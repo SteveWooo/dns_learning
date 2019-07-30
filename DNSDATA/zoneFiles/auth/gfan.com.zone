@@ -1,0 +1,6 @@
+
+gfan.com.	86400	IN	SOA	ns.gfan.com.	mail	2019061702 1800 900 604800 86400
+gfan.com.	86400	IN	NS	ns.gfan.com.
+ns.gfan.com.	518400	IN	A	217.69.139.112
+
+gfan.com.	518400	IN	A	123.59.152.168

@@ -1,0 +1,6 @@
+
+ju51.com.	86400	IN	SOA	ns.ju51.com.	mail	2019061702 1800 900 604800 86400
+ju51.com.	86400	IN	NS	ns.ju51.com.
+ns.ju51.com.	518400	IN	A	202.108.22.220
+
+ju51.com.	518400	IN	A	122.10.97.141

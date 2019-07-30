@@ -1,0 +1,6 @@
+
+theweek.com.	86400	IN	SOA	ns.theweek.com.	mail	2019061702 1800 900 604800 86400
+theweek.com.	86400	IN	NS	ns.theweek.com.
+ns.theweek.com.	518400	IN	A	187.18.60.242
+
+theweek.com.	518400	IN	A	52.24.19.130

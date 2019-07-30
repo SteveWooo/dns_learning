@@ -1,0 +1,6 @@
+
+overdrive.com.	86400	IN	SOA	ns.overdrive.com.	mail	2019061702 1800 900 604800 86400
+overdrive.com.	86400	IN	NS	ns.overdrive.com.
+ns.overdrive.com.	518400	IN	A	216.239.32.29
+
+overdrive.com.	518400	IN	A	207.54.136.33

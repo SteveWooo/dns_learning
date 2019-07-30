@@ -1,0 +1,6 @@
+
+cultofmac.com.	86400	IN	SOA	ns.cultofmac.com.	mail	2019061702 1800 900 604800 86400
+cultofmac.com.	86400	IN	NS	ns.cultofmac.com.
+ns.cultofmac.com.	518400	IN	A	198.11.138.249
+
+cultofmac.com.	518400	IN	A	108.59.8.18

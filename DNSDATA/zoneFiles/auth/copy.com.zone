@@ -1,0 +1,6 @@
+
+copy.com.	86400	IN	SOA	ns.copy.com.	mail	2019061702 1800 900 604800 86400
+copy.com.	86400	IN	NS	ns.copy.com.
+ns.copy.com.	518400	IN	A	213.180.193.1
+
+copy.com.	518400	IN	A	104.18.39.88

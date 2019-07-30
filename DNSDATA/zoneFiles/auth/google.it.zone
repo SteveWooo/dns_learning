@@ -1,0 +1,6 @@
+
+google.it.	86400	IN	SOA	ns.google.it.	mail	2019061702 1800 900 604800 86400
+google.it.	86400	IN	NS	ns.google.it.
+ns.google.it.	518400	IN	A	205.251.194.1
+
+google.it.	518400	IN	A	67.228.235.93

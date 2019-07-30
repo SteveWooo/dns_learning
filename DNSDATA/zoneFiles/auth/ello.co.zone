@@ -1,0 +1,6 @@
+
+ello.co.	86400	IN	SOA	ns.ello.co.	mail	2019061702 1800 900 604800 86400
+ello.co.	86400	IN	NS	ns.ello.co.
+ns.ello.co.	518400	IN	A	206.128.173.109
+
+ello.co.	518400	IN	A	104.20.4.32

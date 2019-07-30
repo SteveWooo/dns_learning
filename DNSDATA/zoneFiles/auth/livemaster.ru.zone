@@ -1,0 +1,6 @@
+
+livemaster.ru.	86400	IN	SOA	ns.livemaster.ru.	mail	2019061702 1800 900 604800 86400
+livemaster.ru.	86400	IN	NS	ns.livemaster.ru.
+ns.livemaster.ru.	518400	IN	A	78.40.125.184
+
+livemaster.ru.	518400	IN	A	89.108.109.102

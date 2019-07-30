@@ -1,0 +1,6 @@
+
+dx.com.	86400	IN	SOA	ns.dx.com.	mail	2019061702 1800 900 604800 86400
+dx.com.	86400	IN	NS	ns.dx.com.
+ns.dx.com.	518400	IN	A	208.78.70.47
+
+dx.com.	518400	IN	A	104.16.60.53

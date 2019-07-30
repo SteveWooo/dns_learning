@@ -1,0 +1,6 @@
+
+rtl.fr.	86400	IN	SOA	ns.rtl.fr.	mail	2019061702 1800 900 604800 86400
+rtl.fr.	86400	IN	NS	ns.rtl.fr.
+ns.rtl.fr.	518400	IN	A	173.245.58.138
+
+rtl.fr.	518400	IN	A	141.138.89.161

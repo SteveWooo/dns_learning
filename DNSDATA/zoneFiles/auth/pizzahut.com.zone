@@ -1,0 +1,6 @@
+
+pizzahut.com.	86400	IN	SOA	ns.pizzahut.com.	mail	2019061702 1800 900 604800 86400
+pizzahut.com.	86400	IN	NS	ns.pizzahut.com.
+ns.pizzahut.com.	518400	IN	A	213.180.204.242
+
+pizzahut.com.	518400	IN	A	23.8.240.31

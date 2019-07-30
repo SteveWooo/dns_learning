@@ -1,0 +1,6 @@
+
+staseraintv.com.	86400	IN	SOA	ns.staseraintv.com.	mail	2019061702 1800 900 604800 86400
+staseraintv.com.	86400	IN	NS	ns.staseraintv.com.
+ns.staseraintv.com.	518400	IN	A	213.180.204.242
+
+staseraintv.com.	518400	IN	A	62.149.128.157

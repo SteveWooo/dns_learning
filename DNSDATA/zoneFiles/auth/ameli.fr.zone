@@ -1,0 +1,6 @@
+
+ameli.fr.	86400	IN	SOA	ns.ameli.fr.	mail	2019061702 1800 900 604800 86400
+ameli.fr.	86400	IN	NS	ns.ameli.fr.
+ns.ameli.fr.	518400	IN	A	205.251.192.29
+
+ameli.fr.	518400	IN	A	31.15.27.86

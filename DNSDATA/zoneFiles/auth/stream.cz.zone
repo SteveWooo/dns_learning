@@ -1,0 +1,6 @@
+
+stream.cz.	86400	IN	SOA	ns.stream.cz.	mail	2019061702 1800 900 604800 86400
+stream.cz.	86400	IN	NS	ns.stream.cz.
+ns.stream.cz.	518400	IN	A	216.239.32.106
+
+stream.cz.	518400	IN	A	77.75.79.220

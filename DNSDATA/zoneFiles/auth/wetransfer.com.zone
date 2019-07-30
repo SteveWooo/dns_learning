@@ -1,0 +1,6 @@
+
+wetransfer.com.	86400	IN	SOA	ns.wetransfer.com.	mail	2019061702 1800 900 604800 86400
+wetransfer.com.	86400	IN	NS	ns.wetransfer.com.
+ns.wetransfer.com.	518400	IN	A	208.78.70.47
+
+wetransfer.com.	518400	IN	A	52.211.136.15

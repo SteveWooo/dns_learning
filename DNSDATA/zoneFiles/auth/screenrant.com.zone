@@ -1,0 +1,6 @@
+
+screenrant.com.	86400	IN	SOA	ns.screenrant.com.	mail	2019061702 1800 900 604800 86400
+screenrant.com.	86400	IN	NS	ns.screenrant.com.
+ns.screenrant.com.	518400	IN	A	216.239.32.10
+
+screenrant.com.	518400	IN	A	34.202.200.131

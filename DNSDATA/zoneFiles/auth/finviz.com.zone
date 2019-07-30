@@ -1,0 +1,6 @@
+
+finviz.com.	86400	IN	SOA	ns.finviz.com.	mail	2019061702 1800 900 604800 86400
+finviz.com.	86400	IN	NS	ns.finviz.com.
+ns.finviz.com.	518400	IN	A	216.239.32.106
+
+finviz.com.	518400	IN	A	92.240.234.183

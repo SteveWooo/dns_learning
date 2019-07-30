@@ -1,0 +1,4 @@
+
+compare.	86400	IN	SOA	ns.compare.	mail	2019061702 1800 900 604800 86400
+compare.	86400	IN	NS	ns.compare.
+ns.compare.	518400	IN	A	37.209.198.9

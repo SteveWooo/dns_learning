@@ -1,0 +1,6 @@
+
+cumlouder.com.	86400	IN	SOA	ns.cumlouder.com.	mail	2019061702 1800 900 604800 86400
+cumlouder.com.	86400	IN	NS	ns.cumlouder.com.
+ns.cumlouder.com.	518400	IN	A	217.69.139.112
+
+cumlouder.com.	518400	IN	A	69.63.186.31

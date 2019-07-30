@@ -1,0 +1,6 @@
+
+junbi-tracker.com.	86400	IN	SOA	ns.junbi-tracker.com.	mail	2019061702 1800 900 604800 86400
+junbi-tracker.com.	86400	IN	NS	ns.junbi-tracker.com.
+ns.junbi-tracker.com.	518400	IN	A	140.205.67.253
+
+junbi-tracker.com.	518400	IN	A	95.128.201.171

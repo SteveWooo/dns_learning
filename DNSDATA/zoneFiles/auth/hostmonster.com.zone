@@ -1,0 +1,6 @@
+
+hostmonster.com.	86400	IN	SOA	ns.hostmonster.com.	mail	2019061702 1800 900 604800 86400
+hostmonster.com.	86400	IN	NS	ns.hostmonster.com.
+ns.hostmonster.com.	518400	IN	A	206.128.173.109
+
+hostmonster.com.	518400	IN	A	13.56.134.85

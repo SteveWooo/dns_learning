@@ -1,0 +1,6 @@
+
+thethao247.vn.	86400	IN	SOA	ns.thethao247.vn.	mail	2019061702 1800 900 604800 86400
+thethao247.vn.	86400	IN	NS	ns.thethao247.vn.
+ns.thethao247.vn.	518400	IN	A	198.11.138.249
+
+thethao247.vn.	518400	IN	A	42.112.24.65

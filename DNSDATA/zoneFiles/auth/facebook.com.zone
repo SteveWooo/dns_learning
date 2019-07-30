@@ -1,0 +1,6 @@
+
+facebook.com.	86400	IN	SOA	ns.facebook.com.	mail	2019061702 1800 900 604800 86400
+facebook.com.	86400	IN	NS	ns.facebook.com.
+ns.facebook.com.	518400	IN	A	213.180.204.242
+
+facebook.com.	518400	IN	A	67.228.37.26

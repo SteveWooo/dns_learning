@@ -1,0 +1,6 @@
+
+medicalnewstoday.com.	86400	IN	SOA	ns.medicalnewstoday.com.	mail	2019061702 1800 900 604800 86400
+medicalnewstoday.com.	86400	IN	NS	ns.medicalnewstoday.com.
+ns.medicalnewstoday.com.	518400	IN	A	193.232.156.17
+
+medicalnewstoday.com.	518400	IN	A	99.86.163.55

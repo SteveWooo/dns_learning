@@ -1,0 +1,6 @@
+
+ziprecruiter.com.	86400	IN	SOA	ns.ziprecruiter.com.	mail	2019061702 1800 900 604800 86400
+ziprecruiter.com.	86400	IN	NS	ns.ziprecruiter.com.
+ns.ziprecruiter.com.	518400	IN	A	216.239.32.29
+
+ziprecruiter.com.	518400	IN	A	104.16.176.190

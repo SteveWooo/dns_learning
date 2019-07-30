@@ -1,0 +1,6 @@
+
+blesk.cz.	86400	IN	SOA	ns.blesk.cz.	mail	2019061702 1800 900 604800 86400
+blesk.cz.	86400	IN	NS	ns.blesk.cz.
+ns.blesk.cz.	518400	IN	A	216.58.200.238
+
+blesk.cz.	518400	IN	A	91.235.52.165

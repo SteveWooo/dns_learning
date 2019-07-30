@@ -1,0 +1,6 @@
+
+pizap.com.	86400	IN	SOA	ns.pizap.com.	mail	2019061702 1800 900 604800 86400
+pizap.com.	86400	IN	NS	ns.pizap.com.
+ns.pizap.com.	518400	IN	A	216.239.32.29
+
+pizap.com.	518400	IN	A	54.183.77.252

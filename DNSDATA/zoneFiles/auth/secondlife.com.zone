@@ -1,0 +1,6 @@
+
+secondlife.com.	86400	IN	SOA	ns.secondlife.com.	mail	2019061702 1800 900 604800 86400
+secondlife.com.	86400	IN	NS	ns.secondlife.com.
+ns.secondlife.com.	518400	IN	A	213.180.204.242
+
+secondlife.com.	518400	IN	A	104.94.18.208

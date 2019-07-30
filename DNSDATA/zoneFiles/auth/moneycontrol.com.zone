@@ -1,0 +1,6 @@
+
+moneycontrol.com.	86400	IN	SOA	ns.moneycontrol.com.	mail	2019061702 1800 900 604800 86400
+moneycontrol.com.	86400	IN	NS	ns.moneycontrol.com.
+ns.moneycontrol.com.	518400	IN	A	200.221.11.98
+
+moneycontrol.com.	518400	IN	A	124.153.64.100

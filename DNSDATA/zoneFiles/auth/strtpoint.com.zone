@@ -1,0 +1,6 @@
+
+strtpoint.com.	86400	IN	SOA	ns.strtpoint.com.	mail	2019061702 1800 900 604800 86400
+strtpoint.com.	86400	IN	NS	ns.strtpoint.com.
+ns.strtpoint.com.	518400	IN	A	204.74.108.1
+
+strtpoint.com.	518400	IN	A	78.138.127.8

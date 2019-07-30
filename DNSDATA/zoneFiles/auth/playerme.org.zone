@@ -1,0 +1,6 @@
+
+playerme.org.	86400	IN	SOA	ns.playerme.org.	mail	2019061702 1800 900 604800 86400
+playerme.org.	86400	IN	NS	ns.playerme.org.
+ns.playerme.org.	518400	IN	A	174.35.55.22
+
+playerme.org.	518400	IN	A	104.197.153.39

@@ -1,0 +1,6 @@
+
+massdrop.com.	86400	IN	SOA	ns.massdrop.com.	mail	2019061702 1800 900 604800 86400
+massdrop.com.	86400	IN	NS	ns.massdrop.com.
+ns.massdrop.com.	518400	IN	A	216.239.32.106
+
+massdrop.com.	518400	IN	A	52.71.151.175

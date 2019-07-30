@@ -1,0 +1,6 @@
+
+notebooksbilliger.de.	86400	IN	SOA	ns.notebooksbilliger.de.	mail	2019061702 1800 900 604800 86400
+notebooksbilliger.de.	86400	IN	NS	ns.notebooksbilliger.de.
+ns.notebooksbilliger.de.	518400	IN	A	206.128.173.109
+
+notebooksbilliger.de.	518400	IN	A	46.4.71.5

@@ -1,0 +1,6 @@
+
+docin.com.	86400	IN	SOA	ns.docin.com.	mail	2019061702 1800 900 604800 86400
+docin.com.	86400	IN	NS	ns.docin.com.
+ns.docin.com.	518400	IN	A	217.69.139.112
+
+docin.com.	518400	IN	A	221.122.132.136

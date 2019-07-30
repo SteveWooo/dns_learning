@@ -1,0 +1,6 @@
+
+hi5.com.	86400	IN	SOA	ns.hi5.com.	mail	2019061702 1800 900 604800 86400
+hi5.com.	86400	IN	NS	ns.hi5.com.
+ns.hi5.com.	518400	IN	A	216.239.32.106
+
+hi5.com.	518400	IN	A	67.221.174.31

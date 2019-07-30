@@ -1,0 +1,6 @@
+
+hvg.hu.	86400	IN	SOA	ns.hvg.hu.	mail	2019061702 1800 900 604800 86400
+hvg.hu.	86400	IN	NS	ns.hvg.hu.
+ns.hvg.hu.	518400	IN	A	206.128.173.109
+
+hvg.hu.	518400	IN	A	104.20.105.68

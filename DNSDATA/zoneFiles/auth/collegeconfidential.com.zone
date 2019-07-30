@@ -1,0 +1,6 @@
+
+collegeconfidential.com.	86400	IN	SOA	ns.collegeconfidential.com.	mail	2019061702 1800 900 604800 86400
+collegeconfidential.com.	86400	IN	NS	ns.collegeconfidential.com.
+ns.collegeconfidential.com.	518400	IN	A	198.11.138.249
+
+collegeconfidential.com.	518400	IN	A	3.215.88.48

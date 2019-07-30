@@ -1,0 +1,6 @@
+
+minus.com.	86400	IN	SOA	ns.minus.com.	mail	2019061702 1800 900 604800 86400
+minus.com.	86400	IN	NS	ns.minus.com.
+ns.minus.com.	518400	IN	A	217.69.139.202
+
+minus.com.	518400	IN	A	130.211.157.149

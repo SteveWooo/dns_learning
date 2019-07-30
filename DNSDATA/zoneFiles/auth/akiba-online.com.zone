@@ -1,0 +1,6 @@
+
+akiba-online.com.	86400	IN	SOA	ns.akiba-online.com.	mail	2019061702 1800 900 604800 86400
+akiba-online.com.	86400	IN	NS	ns.akiba-online.com.
+ns.akiba-online.com.	518400	IN	A	213.180.193.1
+
+akiba-online.com.	518400	IN	A	69.63.186.30

@@ -1,0 +1,6 @@
+
+segodnya.ua.	86400	IN	SOA	ns.segodnya.ua.	mail	2019061702 1800 900 604800 86400
+segodnya.ua.	86400	IN	NS	ns.segodnya.ua.
+ns.segodnya.ua.	518400	IN	A	173.245.58.201
+
+segodnya.ua.	518400	IN	A	91.238.195.26

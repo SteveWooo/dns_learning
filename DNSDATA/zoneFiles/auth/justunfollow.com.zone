@@ -1,0 +1,6 @@
+
+justunfollow.com.	86400	IN	SOA	ns.justunfollow.com.	mail	2019061702 1800 900 604800 86400
+justunfollow.com.	86400	IN	NS	ns.justunfollow.com.
+ns.justunfollow.com.	518400	IN	A	193.232.156.17
+
+justunfollow.com.	518400	IN	A	104.25.133.113

@@ -1,0 +1,6 @@
+
+ifixit.com.	86400	IN	SOA	ns.ifixit.com.	mail	2019061702 1800 900 604800 86400
+ifixit.com.	86400	IN	NS	ns.ifixit.com.
+ns.ifixit.com.	518400	IN	A	173.245.58.201
+
+ifixit.com.	518400	IN	A	35.176.130.221

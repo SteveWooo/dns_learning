@@ -1,0 +1,6 @@
+
+blog.ir.	86400	IN	SOA	ns.blog.ir.	mail	2019061702 1800 900 604800 86400
+blog.ir.	86400	IN	NS	ns.blog.ir.
+ns.blog.ir.	518400	IN	A	205.251.195.203
+
+blog.ir.	518400	IN	A	91.98.29.219

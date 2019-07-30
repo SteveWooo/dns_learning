@@ -1,0 +1,6 @@
+
+clubic.com.	86400	IN	SOA	ns.clubic.com.	mail	2019061702 1800 900 604800 86400
+clubic.com.	86400	IN	NS	ns.clubic.com.
+ns.clubic.com.	518400	IN	A	213.180.193.1
+
+clubic.com.	518400	IN	A	5.135.119.243

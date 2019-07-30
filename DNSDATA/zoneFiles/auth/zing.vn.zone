@@ -1,0 +1,6 @@
+
+zing.vn.	86400	IN	SOA	ns.zing.vn.	mail	2019061702 1800 900 604800 86400
+zing.vn.	86400	IN	NS	ns.zing.vn.
+ns.zing.vn.	518400	IN	A	216.239.32.29
+
+zing.vn.	518400	IN	A	118.102.1.119

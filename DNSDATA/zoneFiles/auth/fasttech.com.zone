@@ -1,0 +1,6 @@
+
+fasttech.com.	86400	IN	SOA	ns.fasttech.com.	mail	2019061702 1800 900 604800 86400
+fasttech.com.	86400	IN	NS	ns.fasttech.com.
+ns.fasttech.com.	518400	IN	A	205.251.195.203
+
+fasttech.com.	518400	IN	A	104.20.21.12

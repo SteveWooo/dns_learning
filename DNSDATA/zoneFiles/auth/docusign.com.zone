@@ -1,0 +1,6 @@
+
+docusign.com.	86400	IN	SOA	ns.docusign.com.	mail	2019061702 1800 900 604800 86400
+docusign.com.	86400	IN	NS	ns.docusign.com.
+ns.docusign.com.	518400	IN	A	198.11.138.245
+
+docusign.com.	518400	IN	A	54.203.252.122

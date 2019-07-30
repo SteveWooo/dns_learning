@@ -1,0 +1,6 @@
+
+addtoany.com.	86400	IN	SOA	ns.addtoany.com.	mail	2019061702 1800 900 604800 86400
+addtoany.com.	86400	IN	NS	ns.addtoany.com.
+ns.addtoany.com.	518400	IN	A	132.207.144.12
+
+addtoany.com.	518400	IN	A	104.20.110.39

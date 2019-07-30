@@ -1,0 +1,6 @@
+
+biblegateway.com.	86400	IN	SOA	ns.biblegateway.com.	mail	2019061702 1800 900 604800 86400
+biblegateway.com.	86400	IN	NS	ns.biblegateway.com.
+ns.biblegateway.com.	518400	IN	A	198.11.138.249
+
+biblegateway.com.	518400	IN	A	13.225.103.10

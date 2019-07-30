@@ -1,0 +1,6 @@
+
+healthline.com.	86400	IN	SOA	ns.healthline.com.	mail	2019061702 1800 900 604800 86400
+healthline.com.	86400	IN	NS	ns.healthline.com.
+ns.healthline.com.	518400	IN	A	208.78.70.47
+
+healthline.com.	518400	IN	A	13.224.2.68

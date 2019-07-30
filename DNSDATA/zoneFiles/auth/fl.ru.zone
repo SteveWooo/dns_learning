@@ -1,0 +1,6 @@
+
+fl.ru.	86400	IN	SOA	ns.fl.ru.	mail	2019061702 1800 900 604800 86400
+fl.ru.	86400	IN	NS	ns.fl.ru.
+ns.fl.ru.	518400	IN	A	198.100.156.181
+
+fl.ru.	518400	IN	A	95.213.181.38

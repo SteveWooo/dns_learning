@@ -1,0 +1,6 @@
+
+epochtimes.com.	86400	IN	SOA	ns.epochtimes.com.	mail	2019061702 1800 900 604800 86400
+epochtimes.com.	86400	IN	NS	ns.epochtimes.com.
+ns.epochtimes.com.	518400	IN	A	205.251.197.107
+
+epochtimes.com.	518400	IN	A	74.117.178.95

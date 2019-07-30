@@ -1,0 +1,6 @@
+
+theme-fusion.com.	86400	IN	SOA	ns.theme-fusion.com.	mail	2019061702 1800 900 604800 86400
+theme-fusion.com.	86400	IN	NS	ns.theme-fusion.com.
+ns.theme-fusion.com.	518400	IN	A	205.251.199.254
+
+theme-fusion.com.	518400	IN	A	104.20.55.138

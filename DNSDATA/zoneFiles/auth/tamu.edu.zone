@@ -1,0 +1,6 @@
+
+tamu.edu.	86400	IN	SOA	ns.tamu.edu.	mail	2019061702 1800 900 604800 86400
+tamu.edu.	86400	IN	NS	ns.tamu.edu.
+ns.tamu.edu.	518400	IN	A	198.11.138.245
+
+tamu.edu.	518400	IN	A	165.91.22.70

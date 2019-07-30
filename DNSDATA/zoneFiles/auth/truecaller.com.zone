@@ -1,0 +1,6 @@
+
+truecaller.com.	86400	IN	SOA	ns.truecaller.com.	mail	2019061702 1800 900 604800 86400
+truecaller.com.	86400	IN	NS	ns.truecaller.com.
+ns.truecaller.com.	518400	IN	A	131.0.24.26
+
+truecaller.com.	518400	IN	A	54.76.62.206

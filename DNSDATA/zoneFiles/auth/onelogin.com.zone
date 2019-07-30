@@ -1,0 +1,6 @@
+
+onelogin.com.	86400	IN	SOA	ns.onelogin.com.	mail	2019061702 1800 900 604800 86400
+onelogin.com.	86400	IN	NS	ns.onelogin.com.
+ns.onelogin.com.	518400	IN	A	213.180.204.242
+
+onelogin.com.	518400	IN	A	52.34.255.221

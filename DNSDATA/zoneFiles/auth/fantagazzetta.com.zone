@@ -1,0 +1,6 @@
+
+fantagazzetta.com.	86400	IN	SOA	ns.fantagazzetta.com.	mail	2019061702 1800 900 604800 86400
+fantagazzetta.com.	86400	IN	NS	ns.fantagazzetta.com.
+ns.fantagazzetta.com.	518400	IN	A	174.35.55.22
+
+fantagazzetta.com.	518400	IN	A	52.218.16.178

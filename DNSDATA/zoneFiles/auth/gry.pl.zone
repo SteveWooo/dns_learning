@@ -1,0 +1,6 @@
+
+gry.pl.	86400	IN	SOA	ns.gry.pl.	mail	2019061702 1800 900 604800 86400
+gry.pl.	86400	IN	NS	ns.gry.pl.
+ns.gry.pl.	518400	IN	A	125.208.45.1
+
+gry.pl.	518400	IN	A	35.201.104.236

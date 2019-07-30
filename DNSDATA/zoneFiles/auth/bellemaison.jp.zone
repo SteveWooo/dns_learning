@@ -1,0 +1,6 @@
+
+bellemaison.jp.	86400	IN	SOA	ns.bellemaison.jp.	mail	2019061702 1800 900 604800 86400
+bellemaison.jp.	86400	IN	NS	ns.bellemaison.jp.
+ns.bellemaison.jp.	518400	IN	A	183.3.226.207
+
+bellemaison.jp.	518400	IN	A	203.167.44.8

@@ -1,0 +1,6 @@
+
+tamin.ir.	86400	IN	SOA	ns.tamin.ir.	mail	2019061702 1800 900 604800 86400
+tamin.ir.	86400	IN	NS	ns.tamin.ir.
+ns.tamin.ir.	518400	IN	A	202.108.22.220
+
+tamin.ir.	518400	IN	A	80.191.79.45

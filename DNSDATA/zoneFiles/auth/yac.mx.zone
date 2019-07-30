@@ -1,0 +1,6 @@
+
+yac.mx.	86400	IN	SOA	ns.yac.mx.	mail	2019061702 1800 900 604800 86400
+yac.mx.	86400	IN	NS	ns.yac.mx.
+ns.yac.mx.	518400	IN	A	180.149.156.12
+
+yac.mx.	518400	IN	A	104.24.107.72

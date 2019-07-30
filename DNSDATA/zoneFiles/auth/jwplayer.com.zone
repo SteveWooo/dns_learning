@@ -1,0 +1,6 @@
+
+jwplayer.com.	86400	IN	SOA	ns.jwplayer.com.	mail	2019061702 1800 900 604800 86400
+jwplayer.com.	86400	IN	NS	ns.jwplayer.com.
+ns.jwplayer.com.	518400	IN	A	193.232.142.17
+
+jwplayer.com.	518400	IN	A	151.101.66.217

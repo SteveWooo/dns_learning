@@ -1,0 +1,6 @@
+
+crazyegg.com.	86400	IN	SOA	ns.crazyegg.com.	mail	2019061702 1800 900 604800 86400
+crazyegg.com.	86400	IN	NS	ns.crazyegg.com.
+ns.crazyegg.com.	518400	IN	A	216.58.200.238
+
+crazyegg.com.	518400	IN	A	3.211.153.94

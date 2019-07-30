@@ -1,0 +1,6 @@
+
+bartarinha.ir.	86400	IN	SOA	ns.bartarinha.ir.	mail	2019061702 1800 900 604800 86400
+bartarinha.ir.	86400	IN	NS	ns.bartarinha.ir.
+ns.bartarinha.ir.	518400	IN	A	217.69.139.112
+
+bartarinha.ir.	518400	IN	A	94.182.146.175

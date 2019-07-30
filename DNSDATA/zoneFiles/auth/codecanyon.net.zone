@@ -1,0 +1,6 @@
+
+codecanyon.net.	86400	IN	SOA	ns.codecanyon.net.	mail	2019061702 1800 900 604800 86400
+codecanyon.net.	86400	IN	NS	ns.codecanyon.net.
+ns.codecanyon.net.	518400	IN	A	187.18.60.242
+
+codecanyon.net.	518400	IN	A	104.18.24.174

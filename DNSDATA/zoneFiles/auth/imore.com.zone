@@ -1,0 +1,6 @@
+
+imore.com.	86400	IN	SOA	ns.imore.com.	mail	2019061702 1800 900 604800 86400
+imore.com.	86400	IN	NS	ns.imore.com.
+ns.imore.com.	518400	IN	A	213.180.193.1
+
+imore.com.	518400	IN	A	104.18.15.41

@@ -1,0 +1,6 @@
+
+tradedoubler.com.	86400	IN	SOA	ns.tradedoubler.com.	mail	2019061702 1800 900 604800 86400
+tradedoubler.com.	86400	IN	NS	ns.tradedoubler.com.
+ns.tradedoubler.com.	518400	IN	A	206.128.173.109
+
+tradedoubler.com.	518400	IN	A	63.33.123.109

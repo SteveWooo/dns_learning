@@ -1,0 +1,6 @@
+
+mangapanda.com.	86400	IN	SOA	ns.mangapanda.com.	mail	2019061702 1800 900 604800 86400
+mangapanda.com.	86400	IN	NS	ns.mangapanda.com.
+ns.mangapanda.com.	518400	IN	A	112.133.230.192
+
+mangapanda.com.	518400	IN	A	185.86.164.130

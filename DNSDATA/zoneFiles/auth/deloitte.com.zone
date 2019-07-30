@@ -1,0 +1,6 @@
+
+deloitte.com.	86400	IN	SOA	ns.deloitte.com.	mail	2019061702 1800 900 604800 86400
+deloitte.com.	86400	IN	NS	ns.deloitte.com.
+ns.deloitte.com.	518400	IN	A	213.180.204.242
+
+deloitte.com.	518400	IN	A	170.194.156.208

@@ -1,0 +1,6 @@
+
+jvzoo.com.	86400	IN	SOA	ns.jvzoo.com.	mail	2019061702 1800 900 604800 86400
+jvzoo.com.	86400	IN	NS	ns.jvzoo.com.
+ns.jvzoo.com.	518400	IN	A	213.180.193.1
+
+jvzoo.com.	518400	IN	A	104.20.158.44

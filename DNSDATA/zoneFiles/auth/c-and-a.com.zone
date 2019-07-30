@@ -1,0 +1,6 @@
+
+c-and-a.com.	86400	IN	SOA	ns.c-and-a.com.	mail	2019061702 1800 900 604800 86400
+c-and-a.com.	86400	IN	NS	ns.c-and-a.com.
+ns.c-and-a.com.	518400	IN	A	216.239.32.106
+
+c-and-a.com.	518400	IN	A	195.39.227.124

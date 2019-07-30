@@ -1,0 +1,6 @@
+
+fiuxy.com.	86400	IN	SOA	ns.fiuxy.com.	mail	2019061702 1800 900 604800 86400
+fiuxy.com.	86400	IN	NS	ns.fiuxy.com.
+ns.fiuxy.com.	518400	IN	A	213.180.193.1
+
+fiuxy.com.	518400	IN	A	104.24.117.114

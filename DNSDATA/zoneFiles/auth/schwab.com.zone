@@ -1,0 +1,6 @@
+
+schwab.com.	86400	IN	SOA	ns.schwab.com.	mail	2019061702 1800 900 604800 86400
+schwab.com.	86400	IN	NS	ns.schwab.com.
+ns.schwab.com.	518400	IN	A	204.74.108.1
+
+schwab.com.	518400	IN	A	162.93.215.103

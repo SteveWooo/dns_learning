@@ -1,0 +1,6 @@
+
+sciencemag.org.	86400	IN	SOA	ns.sciencemag.org.	mail	2019061702 1800 900 604800 86400
+sciencemag.org.	86400	IN	NS	ns.sciencemag.org.
+ns.sciencemag.org.	518400	IN	A	78.40.125.184
+
+sciencemag.org.	518400	IN	A	198.151.217.149

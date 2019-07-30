@@ -1,0 +1,6 @@
+
+skrill.com.	86400	IN	SOA	ns.skrill.com.	mail	2019061702 1800 900 604800 86400
+skrill.com.	86400	IN	NS	ns.skrill.com.
+ns.skrill.com.	518400	IN	A	216.239.32.29
+
+skrill.com.	518400	IN	A	93.191.174.30

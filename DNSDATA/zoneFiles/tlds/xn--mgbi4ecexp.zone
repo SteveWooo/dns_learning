@@ -1,0 +1,4 @@
+
+xn--mgbi4ecexp.	86400	IN	SOA	ns.xn--mgbi4ecexp.	mail	2019061702 1800 900 604800 86400
+xn--mgbi4ecexp.	86400	IN	NS	ns.xn--mgbi4ecexp.
+ns.xn--mgbi4ecexp.	518400	IN	A	37.209.198.9

@@ -1,0 +1,6 @@
+
+qq.com.	86400	IN	SOA	ns.qq.com.	mail	2019061702 1800 900 604800 86400
+qq.com.	86400	IN	NS	ns.qq.com.
+ns.qq.com.	518400	IN	A	180.149.156.12
+
+qq.com.	518400	IN	A	111.161.64.48

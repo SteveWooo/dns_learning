@@ -1,0 +1,6 @@
+
+wikibooks.org.	86400	IN	SOA	ns.wikibooks.org.	mail	2019061702 1800 900 604800 86400
+wikibooks.org.	86400	IN	NS	ns.wikibooks.org.
+ns.wikibooks.org.	518400	IN	A	203.153.43.65
+
+wikibooks.org.	518400	IN	A	208.80.154.224

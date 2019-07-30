@@ -1,0 +1,6 @@
+
+morningstar.com.	86400	IN	SOA	ns.morningstar.com.	mail	2019061702 1800 900 604800 86400
+morningstar.com.	86400	IN	NS	ns.morningstar.com.
+ns.morningstar.com.	518400	IN	A	213.180.204.242
+
+morningstar.com.	518400	IN	A	216.228.225.51

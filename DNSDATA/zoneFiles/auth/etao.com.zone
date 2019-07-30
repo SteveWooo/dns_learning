@@ -1,0 +1,6 @@
+
+etao.com.	86400	IN	SOA	ns.etao.com.	mail	2019061702 1800 900 604800 86400
+etao.com.	86400	IN	NS	ns.etao.com.
+ns.etao.com.	518400	IN	A	200.219.154.10
+
+etao.com.	518400	IN	A	140.205.243.64

@@ -1,0 +1,6 @@
+
+zalando.de.	86400	IN	SOA	ns.zalando.de.	mail	2019061702 1800 900 604800 86400
+zalando.de.	86400	IN	NS	ns.zalando.de.
+ns.zalando.de.	518400	IN	A	173.245.58.89
+
+zalando.de.	518400	IN	A	130.211.9.113

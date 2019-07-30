@@ -1,0 +1,6 @@
+
+mturk.com.	86400	IN	SOA	ns.mturk.com.	mail	2019061702 1800 900 604800 86400
+mturk.com.	86400	IN	NS	ns.mturk.com.
+ns.mturk.com.	518400	IN	A	198.11.138.245
+
+mturk.com.	518400	IN	A	72.21.210.29

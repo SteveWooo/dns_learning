@@ -1,0 +1,6 @@
+
+inbox.lv.	86400	IN	SOA	ns.inbox.lv.	mail	2019061702 1800 900 604800 86400
+inbox.lv.	86400	IN	NS	ns.inbox.lv.
+ns.inbox.lv.	518400	IN	A	213.180.204.242
+
+inbox.lv.	518400	IN	A	194.152.32.40

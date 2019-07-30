@@ -1,0 +1,6 @@
+
+google.fi.	86400	IN	SOA	ns.google.fi.	mail	2019061702 1800 900 604800 86400
+google.fi.	86400	IN	NS	ns.google.fi.
+ns.google.fi.	518400	IN	A	216.58.200.238
+
+google.fi.	518400	IN	A	31.13.65.17

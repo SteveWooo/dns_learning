@@ -1,0 +1,6 @@
+
+lvye.cn.	86400	IN	SOA	ns.lvye.cn.	mail	2019061702 1800 900 604800 86400
+lvye.cn.	86400	IN	NS	ns.lvye.cn.
+ns.lvye.cn.	518400	IN	A	112.133.230.192
+
+lvye.cn.	518400	IN	A	103.242.201.183

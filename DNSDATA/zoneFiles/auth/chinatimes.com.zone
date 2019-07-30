@@ -1,0 +1,6 @@
+
+chinatimes.com.	86400	IN	SOA	ns.chinatimes.com.	mail	2019061702 1800 900 604800 86400
+chinatimes.com.	86400	IN	NS	ns.chinatimes.com.
+ns.chinatimes.com.	518400	IN	A	206.128.173.109
+
+chinatimes.com.	518400	IN	A	74.86.226.234

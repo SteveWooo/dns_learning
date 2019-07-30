@@ -1,0 +1,6 @@
+
+adwingate.com.	86400	IN	SOA	ns.adwingate.com.	mail	2019061702 1800 900 604800 86400
+adwingate.com.	86400	IN	NS	ns.adwingate.com.
+ns.adwingate.com.	518400	IN	A	198.11.138.245
+
+adwingate.com.	518400	IN	A	69.16.230.43

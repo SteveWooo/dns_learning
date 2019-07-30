@@ -1,0 +1,1561 @@
+
+org.	86400	IN	SOA	ns.org.	mail	2019061702 1800 900 604800 86400
+org.	86400	IN	NS	ns.org.
+ns.org.	518400	IN	A	199.19.56.1
+
+arxiv.org.	86400	IN	NS	ns.arxiv.org.
+ns.arxiv.org.	518400	IN	A	2.16.130.64
+
+apache.org.	86400	IN	NS	ns.apache.org.
+ns.apache.org.	518400	IN	A	2.16.130.64
+
+worldcat.org.	86400	IN	NS	ns.worldcat.org.
+ns.worldcat.org.	518400	IN	A	2.16.130.64
+
+oxfordjournals.org.	86400	IN	NS	ns.oxfordjournals.org.
+ns.oxfordjournals.org.	518400	IN	A	23.211.61.66
+
+pbs.org.	86400	IN	NS	ns.pbs.org.
+ns.pbs.org.	518400	IN	A	23.211.61.66
+
+archiveofourown.org.	86400	IN	NS	ns.archiveofourown.org.
+ns.archiveofourown.org.	518400	IN	A	23.211.61.66
+
+npr.org.	86400	IN	NS	ns.npr.org.
+ns.npr.org.	518400	IN	A	23.211.61.66
+
+coursera.org.	86400	IN	NS	ns.coursera.org.
+ns.coursera.org.	518400	IN	A	23.211.61.66
+
+collegeboard.org.	86400	IN	NS	ns.collegeboard.org.
+ns.collegeboard.org.	518400	IN	A	23.211.61.66
+
+porn69.org.	86400	IN	NS	ns.porn69.org.
+ns.porn69.org.	518400	IN	A	23.211.61.66
+
+khanacademy.org.	86400	IN	NS	ns.khanacademy.org.
+ns.khanacademy.org.	518400	IN	A	23.211.61.66
+
+addictinginfo.org.	86400	IN	NS	ns.addictinginfo.org.
+ns.addictinginfo.org.	518400	IN	A	23.211.61.66
+
+say-move.org.	86400	IN	NS	ns.say-move.org.
+ns.say-move.org.	518400	IN	A	36.51.252.8
+
+gnu.org.	86400	IN	NS	ns.gnu.org.
+ns.gnu.org.	518400	IN	A	36.51.252.8
+
+wordpress.org.	86400	IN	NS	ns.wordpress.org.
+ns.wordpress.org.	518400	IN	A	36.51.252.8
+
+lifehack.org.	86400	IN	NS	ns.lifehack.org.
+ns.lifehack.org.	518400	IN	A	36.51.252.8
+
+arxiv.org.	86400	IN	NS	ns.arxiv.org.
+ns.arxiv.org.	518400	IN	A	36.51.252.8
+
+wikitravel.org.	86400	IN	NS	ns.wikitravel.org.
+ns.wikitravel.org.	518400	IN	A	36.51.252.8
+
+dmoz.org.	86400	IN	NS	ns.dmoz.org.
+ns.dmoz.org.	518400	IN	A	36.51.252.8
+
+navyfederal.org.	86400	IN	NS	ns.navyfederal.org.
+ns.navyfederal.org.	518400	IN	A	52.164.230.183
+
+tvtropes.org.	86400	IN	NS	ns.tvtropes.org.
+ns.tvtropes.org.	518400	IN	A	52.164.230.183
+
+nodejs.org.	86400	IN	NS	ns.nodejs.org.
+ns.nodejs.org.	518400	IN	A	52.164.230.183
+
+dostor.org.	86400	IN	NS	ns.dostor.org.
+ns.dostor.org.	518400	IN	A	52.164.230.183
+
+go2cloud.org.	86400	IN	NS	ns.go2cloud.org.
+ns.go2cloud.org.	518400	IN	A	52.164.230.183
+
+familysearch.org.	86400	IN	NS	ns.familysearch.org.
+ns.familysearch.org.	518400	IN	A	52.164.230.183
+
+opensubtitles.org.	86400	IN	NS	ns.opensubtitles.org.
+ns.opensubtitles.org.	518400	IN	A	52.164.230.183
+
+siteprice.org.	86400	IN	NS	ns.siteprice.org.
+ns.siteprice.org.	518400	IN	A	52.164.230.183
+
+e-hentai.org.	86400	IN	NS	ns.e-hentai.org.
+ns.e-hentai.org.	518400	IN	A	58.180.27.231
+
+npr.org.	86400	IN	NS	ns.npr.org.
+ns.npr.org.	518400	IN	A	58.180.27.231
+
+altervista.org.	86400	IN	NS	ns.altervista.org.
+ns.altervista.org.	518400	IN	A	58.180.27.231
+
+wikitravel.org.	86400	IN	NS	ns.wikitravel.org.
+ns.wikitravel.org.	518400	IN	A	58.180.27.231
+
+ifilez.org.	86400	IN	NS	ns.ifilez.org.
+ns.ifilez.org.	518400	IN	A	58.180.27.231
+
+cambridge.org.	86400	IN	NS	ns.cambridge.org.
+ns.cambridge.org.	518400	IN	A	58.180.27.231
+
+eclipse.org.	86400	IN	NS	ns.eclipse.org.
+ns.eclipse.org.	518400	IN	A	58.180.27.226
+
+thinkprogress.org.	86400	IN	NS	ns.thinkprogress.org.
+ns.thinkprogress.org.	518400	IN	A	58.180.27.226
+
+hltv.org.	86400	IN	NS	ns.hltv.org.
+ns.hltv.org.	518400	IN	A	58.180.27.226
+
+dmv.org.	86400	IN	NS	ns.dmv.org.
+ns.dmv.org.	518400	IN	A	58.180.27.226
+
+metric-conversions.org.	86400	IN	NS	ns.metric-conversions.org.
+ns.metric-conversions.org.	518400	IN	A	58.180.27.226
+
+interstats.org.	86400	IN	NS	ns.interstats.org.
+ns.interstats.org.	518400	IN	A	64.106.209.186
+
+rutracker.org.	86400	IN	NS	ns.rutracker.org.
+ns.rutracker.org.	518400	IN	A	64.106.209.186
+
+kaiserpermanente.org.	86400	IN	NS	ns.kaiserpermanente.org.
+ns.kaiserpermanente.org.	518400	IN	A	64.106.209.186
+
+brainpickings.org.	86400	IN	NS	ns.brainpickings.org.
+ns.brainpickings.org.	518400	IN	A	64.106.209.186
+
+bitcointalk.org.	86400	IN	NS	ns.bitcointalk.org.
+ns.bitcointalk.org.	518400	IN	A	64.106.209.186
+
+24smi.org.	86400	IN	NS	ns.24smi.org.
+ns.24smi.org.	518400	IN	A	64.106.209.186
+
+yify-torrent.org.	86400	IN	NS	ns.yify-torrent.org.
+ns.yify-torrent.org.	518400	IN	A	64.106.209.186
+
+hattrick.org.	86400	IN	NS	ns.hattrick.org.
+ns.hattrick.org.	518400	IN	A	64.106.209.186
+
+pbs.org.	86400	IN	NS	ns.pbs.org.
+ns.pbs.org.	518400	IN	A	64.106.209.186
+
+eclipse.org.	86400	IN	NS	ns.eclipse.org.
+ns.eclipse.org.	518400	IN	A	77.88.55.50
+
+acs.org.	86400	IN	NS	ns.acs.org.
+ns.acs.org.	518400	IN	A	77.88.55.50
+
+avaxsearch.org.	86400	IN	NS	ns.avaxsearch.org.
+ns.avaxsearch.org.	518400	IN	A	77.88.55.50
+
+consumerreports.org.	86400	IN	NS	ns.consumerreports.org.
+ns.consumerreports.org.	518400	IN	A	77.88.55.50
+
+gutenberg.org.	86400	IN	NS	ns.gutenberg.org.
+ns.gutenberg.org.	518400	IN	A	77.88.55.50
+
+wiktionary.org.	86400	IN	NS	ns.wiktionary.org.
+ns.wiktionary.org.	518400	IN	A	77.88.55.50
+
+planetsuzy.org.	86400	IN	NS	ns.planetsuzy.org.
+ns.planetsuzy.org.	518400	IN	A	77.88.55.50
+
+dmv.org.	86400	IN	NS	ns.dmv.org.
+ns.dmv.org.	518400	IN	A	77.88.55.50
+
+debian.org.	86400	IN	NS	ns.debian.org.
+ns.debian.org.	518400	IN	A	78.40.125.184
+
+sciencemag.org.	86400	IN	NS	ns.sciencemag.org.
+ns.sciencemag.org.	518400	IN	A	78.40.125.184
+
+hattrick.org.	86400	IN	NS	ns.hattrick.org.
+ns.hattrick.org.	518400	IN	A	78.40.125.184
+
+raspberrypi.org.	86400	IN	NS	ns.raspberrypi.org.
+ns.raspberrypi.org.	518400	IN	A	78.40.125.184
+
+labnol.org.	86400	IN	NS	ns.labnol.org.
+ns.labnol.org.	518400	IN	A	78.40.125.184
+
+phys.org.	86400	IN	NS	ns.phys.org.
+ns.phys.org.	518400	IN	A	78.40.125.184
+
+sanjesh.org.	86400	IN	NS	ns.sanjesh.org.
+ns.sanjesh.org.	518400	IN	A	78.40.125.184
+
+monova.org.	86400	IN	NS	ns.monova.org.
+ns.monova.org.	518400	IN	A	78.40.125.184
+
+4cdn.org.	86400	IN	NS	ns.4cdn.org.
+ns.4cdn.org.	518400	IN	A	78.40.125.184
+
+arxiv.org.	86400	IN	NS	ns.arxiv.org.
+ns.arxiv.org.	518400	IN	A	81.19.73.180
+
+joomla.org.	86400	IN	NS	ns.joomla.org.
+ns.joomla.org.	518400	IN	A	81.19.73.180
+
+britishcouncil.org.	86400	IN	NS	ns.britishcouncil.org.
+ns.britishcouncil.org.	518400	IN	A	81.19.73.180
+
+siteprice.org.	86400	IN	NS	ns.siteprice.org.
+ns.siteprice.org.	518400	IN	A	81.19.73.180
+
+interstats.org.	86400	IN	NS	ns.interstats.org.
+ns.interstats.org.	518400	IN	A	81.19.73.180
+
+wikimapia.org.	86400	IN	NS	ns.wikimapia.org.
+ns.wikimapia.org.	518400	IN	A	81.19.73.180
+
+alternet.org.	86400	IN	NS	ns.alternet.org.
+ns.alternet.org.	518400	IN	A	81.19.73.180
+
+edublogs.org.	86400	IN	NS	ns.edublogs.org.
+ns.edublogs.org.	518400	IN	A	81.19.73.180
+
+filezilla-project.org.	86400	IN	NS	ns.filezilla-project.org.
+ns.filezilla-project.org.	518400	IN	A	81.19.73.180
+
+24smi.org.	86400	IN	NS	ns.24smi.org.
+ns.24smi.org.	518400	IN	A	81.19.82.2
+
+change.org.	86400	IN	NS	ns.change.org.
+ns.change.org.	518400	IN	A	81.19.82.2
+
+oxfordjournals.org.	86400	IN	NS	ns.oxfordjournals.org.
+ns.oxfordjournals.org.	518400	IN	A	81.19.82.2
+
+4cdn.org.	86400	IN	NS	ns.4cdn.org.
+ns.4cdn.org.	518400	IN	A	81.19.82.2
+
+filezilla-project.org.	86400	IN	NS	ns.filezilla-project.org.
+ns.filezilla-project.org.	518400	IN	A	81.19.82.2
+
+usagc.org.	86400	IN	NS	ns.usagc.org.
+ns.usagc.org.	518400	IN	A	81.19.82.2
+
+alwafd.org.	86400	IN	NS	ns.alwafd.org.
+ns.alwafd.org.	518400	IN	A	81.19.82.2
+
+addictinginfo.org.	86400	IN	NS	ns.addictinginfo.org.
+ns.addictinginfo.org.	518400	IN	A	81.19.82.2
+
+dmv.org.	86400	IN	NS	ns.dmv.org.
+ns.dmv.org.	518400	IN	A	81.19.82.2
+
+exhentai.org.	86400	IN	NS	ns.exhentai.org.
+ns.exhentai.org.	518400	IN	A	81.19.82.2
+
+leo.org.	86400	IN	NS	ns.leo.org.
+ns.leo.org.	518400	IN	A	83.143.25.220
+
+avaxsearch.org.	86400	IN	NS	ns.avaxsearch.org.
+ns.avaxsearch.org.	518400	IN	A	83.143.25.220
+
+sanjesh.org.	86400	IN	NS	ns.sanjesh.org.
+ns.sanjesh.org.	518400	IN	A	83.143.25.220
+
+filezilla-project.org.	86400	IN	NS	ns.filezilla-project.org.
+ns.filezilla-project.org.	518400	IN	A	83.143.25.220
+
+alwafd.org.	86400	IN	NS	ns.alwafd.org.
+ns.alwafd.org.	518400	IN	A	83.143.25.220
+
+svoboda.org.	86400	IN	NS	ns.svoboda.org.
+ns.svoboda.org.	518400	IN	A	83.143.25.220
+
+gutenberg.org.	86400	IN	NS	ns.gutenberg.org.
+ns.gutenberg.org.	518400	IN	A	87.240.131.131
+
+edublogs.org.	86400	IN	NS	ns.edublogs.org.
+ns.edublogs.org.	518400	IN	A	87.240.131.131
+
+exhentai.org.	86400	IN	NS	ns.exhentai.org.
+ns.exhentai.org.	518400	IN	A	87.240.131.131
+
+4chan.org.	86400	IN	NS	ns.4chan.org.
+ns.4chan.org.	518400	IN	A	87.240.131.131
+
+raspberrypi.org.	86400	IN	NS	ns.raspberrypi.org.
+ns.raspberrypi.org.	518400	IN	A	87.240.131.131
+
+un.org.	86400	IN	NS	ns.un.org.
+ns.un.org.	518400	IN	A	87.240.131.131
+
+arxiv.org.	86400	IN	NS	ns.arxiv.org.
+ns.arxiv.org.	518400	IN	A	87.240.131.131
+
+rutor.org.	86400	IN	NS	ns.rutor.org.
+ns.rutor.org.	518400	IN	A	87.240.131.131
+
+alwafd.org.	86400	IN	NS	ns.alwafd.org.
+ns.alwafd.org.	518400	IN	A	87.240.131.131
+
+wikipedia.org.	86400	IN	NS	ns.wikipedia.org.
+ns.wikipedia.org.	518400	IN	A	87.240.131.131
+
+ubuntuforums.org.	86400	IN	NS	ns.ubuntuforums.org.
+ns.ubuntuforums.org.	518400	IN	A	87.240.131.131
+
+edublogs.org.	86400	IN	NS	ns.edublogs.org.
+ns.edublogs.org.	518400	IN	A	87.250.250.1
+
+dyndns.org.	86400	IN	NS	ns.dyndns.org.
+ns.dyndns.org.	518400	IN	A	87.250.250.1
+
+dereferer.org.	86400	IN	NS	ns.dereferer.org.
+ns.dereferer.org.	518400	IN	A	87.250.250.1
+
+playerme.org.	86400	IN	NS	ns.playerme.org.
+ns.playerme.org.	518400	IN	A	92.242.43.216
+
+dmhy.org.	86400	IN	NS	ns.dmhy.org.
+ns.dmhy.org.	518400	IN	A	92.242.43.216
+
+brainpickings.org.	86400	IN	NS	ns.brainpickings.org.
+ns.brainpickings.org.	518400	IN	A	92.242.43.216
+
+gnu.org.	86400	IN	NS	ns.gnu.org.
+ns.gnu.org.	518400	IN	A	92.242.43.216
+
+myfedloan.org.	86400	IN	NS	ns.myfedloan.org.
+ns.myfedloan.org.	518400	IN	A	92.242.43.216
+
+rutor.org.	86400	IN	NS	ns.rutor.org.
+ns.rutor.org.	518400	IN	A	92.242.43.216
+
+myfedloan.org.	86400	IN	NS	ns.myfedloan.org.
+ns.myfedloan.org.	518400	IN	A	93.186.225.193
+
+npr.org.	86400	IN	NS	ns.npr.org.
+ns.npr.org.	518400	IN	A	93.186.225.193
+
+centos.org.	86400	IN	NS	ns.centos.org.
+ns.centos.org.	518400	IN	A	93.186.225.193
+
+leo.org.	86400	IN	NS	ns.leo.org.
+ns.leo.org.	518400	IN	A	93.186.225.193
+
+oxfordjournals.org.	86400	IN	NS	ns.oxfordjournals.org.
+ns.oxfordjournals.org.	518400	IN	A	93.186.225.193
+
+wikipedia.org.	86400	IN	NS	ns.wikipedia.org.
+ns.wikipedia.org.	518400	IN	A	93.186.225.193
+
+svoboda.org.	86400	IN	NS	ns.svoboda.org.
+ns.svoboda.org.	518400	IN	A	93.186.225.193
+
+porn69.org.	86400	IN	NS	ns.porn69.org.
+ns.porn69.org.	518400	IN	A	93.186.225.193
+
+worldcat.org.	86400	IN	NS	ns.worldcat.org.
+ns.worldcat.org.	518400	IN	A	93.186.225.193
+
+creativecommons.org.	86400	IN	NS	ns.creativecommons.org.
+ns.creativecommons.org.	518400	IN	A	93.186.225.193
+
+dyndns.org.	86400	IN	NS	ns.dyndns.org.
+ns.dyndns.org.	518400	IN	A	104.40.210.25
+
+warez-bb.org.	86400	IN	NS	ns.warez-bb.org.
+ns.warez-bb.org.	518400	IN	A	104.40.210.25
+
+jstor.org.	86400	IN	NS	ns.jstor.org.
+ns.jstor.org.	518400	IN	A	104.40.210.25
+
+openoffice.org.	86400	IN	NS	ns.openoffice.org.
+ns.openoffice.org.	518400	IN	A	104.40.210.25
+
+thinkprogress.org.	86400	IN	NS	ns.thinkprogress.org.
+ns.thinkprogress.org.	518400	IN	A	104.40.210.25
+
+playerme.org.	86400	IN	NS	ns.playerme.org.
+ns.playerme.org.	518400	IN	A	104.40.210.25
+
+sanjesh.org.	86400	IN	NS	ns.sanjesh.org.
+ns.sanjesh.org.	518400	IN	A	104.40.210.25
+
+wikipedia.org.	86400	IN	NS	ns.wikipedia.org.
+ns.wikipedia.org.	518400	IN	A	111.202.126.2
+
+head-fi.org.	86400	IN	NS	ns.head-fi.org.
+ns.head-fi.org.	518400	IN	A	111.202.126.2
+
+arxiv.org.	86400	IN	NS	ns.arxiv.org.
+ns.arxiv.org.	518400	IN	A	111.202.126.2
+
+hattrick.org.	86400	IN	NS	ns.hattrick.org.
+ns.hattrick.org.	518400	IN	A	111.202.126.2
+
+bibsonomy.org.	86400	IN	NS	ns.bibsonomy.org.
+ns.bibsonomy.org.	518400	IN	A	111.206.53.6
+
+exhentai.org.	86400	IN	NS	ns.exhentai.org.
+ns.exhentai.org.	518400	IN	A	111.206.53.6
+
+wiktionary.org.	86400	IN	NS	ns.wiktionary.org.
+ns.wiktionary.org.	518400	IN	A	111.206.53.6
+
+raspberrypi.org.	86400	IN	NS	ns.raspberrypi.org.
+ns.raspberrypi.org.	518400	IN	A	112.133.230.192
+
+hltv.org.	86400	IN	NS	ns.hltv.org.
+ns.hltv.org.	518400	IN	A	112.133.230.192
+
+edx.org.	86400	IN	NS	ns.edx.org.
+ns.edx.org.	518400	IN	A	112.133.230.192
+
+un.org.	86400	IN	NS	ns.un.org.
+ns.un.org.	518400	IN	A	112.133.230.192
+
+nodejs.org.	86400	IN	NS	ns.nodejs.org.
+ns.nodejs.org.	518400	IN	A	112.133.230.192
+
+apache.org.	86400	IN	NS	ns.apache.org.
+ns.apache.org.	518400	IN	A	112.133.230.192
+
+avaaz.org.	86400	IN	NS	ns.avaaz.org.
+ns.avaaz.org.	518400	IN	A	112.133.230.192
+
+ap.org.	86400	IN	NS	ns.ap.org.
+ns.ap.org.	518400	IN	A	112.133.230.192
+
+jstor.org.	86400	IN	NS	ns.jstor.org.
+ns.jstor.org.	518400	IN	A	112.133.230.192
+
+alternet.org.	86400	IN	NS	ns.alternet.org.
+ns.alternet.org.	518400	IN	A	112.133.230.192
+
+eclipse.org.	86400	IN	NS	ns.eclipse.org.
+ns.eclipse.org.	518400	IN	A	112.133.230.192
+
+worldcat.org.	86400	IN	NS	ns.worldcat.org.
+ns.worldcat.org.	518400	IN	A	112.133.230.192
+
+coursera.org.	86400	IN	NS	ns.coursera.org.
+ns.coursera.org.	518400	IN	A	125.208.45.1
+
+rutracker.org.	86400	IN	NS	ns.rutracker.org.
+ns.rutracker.org.	518400	IN	A	125.208.45.1
+
+wikiquote.org.	86400	IN	NS	ns.wikiquote.org.
+ns.wikiquote.org.	518400	IN	A	125.208.45.1
+
+linuxquestions.org.	86400	IN	NS	ns.linuxquestions.org.
+ns.linuxquestions.org.	518400	IN	A	125.208.45.1
+
+bitcointalk.org.	86400	IN	NS	ns.bitcointalk.org.
+ns.bitcointalk.org.	518400	IN	A	125.208.45.1
+
+4cdn.org.	86400	IN	NS	ns.4cdn.org.
+ns.4cdn.org.	518400	IN	A	125.208.45.1
+
+mozilla.org.	86400	IN	NS	ns.mozilla.org.
+ns.mozilla.org.	518400	IN	A	125.209.248.6
+
+myfedloan.org.	86400	IN	NS	ns.myfedloan.org.
+ns.myfedloan.org.	518400	IN	A	125.209.248.6
+
+metric-conversions.org.	86400	IN	NS	ns.metric-conversions.org.
+ns.metric-conversions.org.	518400	IN	A	125.209.248.6
+
+familysearch.org.	86400	IN	NS	ns.familysearch.org.
+ns.familysearch.org.	518400	IN	A	125.209.248.6
+
+dyndns.org.	86400	IN	NS	ns.dyndns.org.
+ns.dyndns.org.	518400	IN	A	125.209.248.6
+
+kaiserpermanente.org.	86400	IN	NS	ns.kaiserpermanente.org.
+ns.kaiserpermanente.org.	518400	IN	A	125.209.248.6
+
+rutor.org.	86400	IN	NS	ns.rutor.org.
+ns.rutor.org.	518400	IN	A	131.0.24.26
+
+ubuntuforums.org.	86400	IN	NS	ns.ubuntuforums.org.
+ns.ubuntuforums.org.	518400	IN	A	131.0.24.26
+
+hltv.org.	86400	IN	NS	ns.hltv.org.
+ns.hltv.org.	518400	IN	A	131.0.24.26
+
+arxiv.org.	86400	IN	NS	ns.arxiv.org.
+ns.arxiv.org.	518400	IN	A	131.0.24.26
+
+siteprice.org.	86400	IN	NS	ns.siteprice.org.
+ns.siteprice.org.	518400	IN	A	131.0.24.26
+
+mayoclinic.org.	86400	IN	NS	ns.mayoclinic.org.
+ns.mayoclinic.org.	518400	IN	A	131.0.24.26
+
+kaiserpermanente.org.	86400	IN	NS	ns.kaiserpermanente.org.
+ns.kaiserpermanente.org.	518400	IN	A	131.0.24.26
+
+yify-torrent.org.	86400	IN	NS	ns.yify-torrent.org.
+ns.yify-torrent.org.	518400	IN	A	131.0.24.26
+
+britishcouncil.org.	86400	IN	NS	ns.britishcouncil.org.
+ns.britishcouncil.org.	518400	IN	A	132.207.144.12
+
+say-move.org.	86400	IN	NS	ns.say-move.org.
+ns.say-move.org.	518400	IN	A	132.207.144.12
+
+lds.org.	86400	IN	NS	ns.lds.org.
+ns.lds.org.	518400	IN	A	132.207.144.12
+
+cambridge.org.	86400	IN	NS	ns.cambridge.org.
+ns.cambridge.org.	518400	IN	A	132.207.144.12
+
+angularjs.org.	86400	IN	NS	ns.angularjs.org.
+ns.angularjs.org.	518400	IN	A	132.207.144.12
+
+telegram.org.	86400	IN	NS	ns.telegram.org.
+ns.telegram.org.	518400	IN	A	132.207.144.12
+
+bibsonomy.org.	86400	IN	NS	ns.bibsonomy.org.
+ns.bibsonomy.org.	518400	IN	A	132.207.144.12
+
+alternet.org.	86400	IN	NS	ns.alternet.org.
+ns.alternet.org.	518400	IN	A	132.207.144.12
+
+consumerreports.org.	86400	IN	NS	ns.consumerreports.org.
+ns.consumerreports.org.	518400	IN	A	140.205.67.253
+
+navyfederal.org.	86400	IN	NS	ns.navyfederal.org.
+ns.navyfederal.org.	518400	IN	A	140.205.67.253
+
+readthedocs.org.	86400	IN	NS	ns.readthedocs.org.
+ns.readthedocs.org.	518400	IN	A	140.205.67.253
+
+mayoclinic.org.	86400	IN	NS	ns.mayoclinic.org.
+ns.mayoclinic.org.	518400	IN	A	140.205.67.253
+
+familysearch.org.	86400	IN	NS	ns.familysearch.org.
+ns.familysearch.org.	518400	IN	A	140.205.67.253
+
+opensubtitles.org.	86400	IN	NS	ns.opensubtitles.org.
+ns.opensubtitles.org.	518400	IN	A	140.205.67.253
+
+thinkprogress.org.	86400	IN	NS	ns.thinkprogress.org.
+ns.thinkprogress.org.	518400	IN	A	140.205.67.253
+
+phys.org.	86400	IN	NS	ns.phys.org.
+ns.phys.org.	518400	IN	A	140.205.67.253
+
+acs.org.	86400	IN	NS	ns.acs.org.
+ns.acs.org.	518400	IN	A	145.14.134.108
+
+rutor.org.	86400	IN	NS	ns.rutor.org.
+ns.rutor.org.	518400	IN	A	145.14.134.108
+
+w3.org.	86400	IN	NS	ns.w3.org.
+ns.w3.org.	518400	IN	A	145.14.134.108
+
+wikibooks.org.	86400	IN	NS	ns.wikibooks.org.
+ns.wikibooks.org.	518400	IN	A	145.14.134.108
+
+openoffice.org.	86400	IN	NS	ns.openoffice.org.
+ns.openoffice.org.	518400	IN	A	145.14.134.108
+
+webpagetest.org.	86400	IN	NS	ns.webpagetest.org.
+ns.webpagetest.org.	518400	IN	A	145.14.134.108
+
+wikipedia.org.	86400	IN	NS	ns.wikipedia.org.
+ns.wikipedia.org.	518400	IN	A	145.14.134.108
+
+worldcat.org.	86400	IN	NS	ns.worldcat.org.
+ns.worldcat.org.	518400	IN	A	157.255.246.101
+
+archive.org.	86400	IN	NS	ns.archive.org.
+ns.archive.org.	518400	IN	A	157.255.246.101
+
+monova.org.	86400	IN	NS	ns.monova.org.
+ns.monova.org.	518400	IN	A	157.255.246.101
+
+change.org.	86400	IN	NS	ns.change.org.
+ns.change.org.	518400	IN	A	157.255.246.101
+
+apache.org.	86400	IN	NS	ns.apache.org.
+ns.apache.org.	518400	IN	A	165.160.15.20
+
+metric-conversions.org.	86400	IN	NS	ns.metric-conversions.org.
+ns.metric-conversions.org.	518400	IN	A	165.160.15.20
+
+un.org.	86400	IN	NS	ns.un.org.
+ns.un.org.	518400	IN	A	165.160.15.20
+
+interstats.org.	86400	IN	NS	ns.interstats.org.
+ns.interstats.org.	518400	IN	A	165.160.15.20
+
+edx.org.	86400	IN	NS	ns.edx.org.
+ns.edx.org.	518400	IN	A	165.160.15.20
+
+go2cloud.org.	86400	IN	NS	ns.go2cloud.org.
+ns.go2cloud.org.	518400	IN	A	165.160.15.20
+
+rutracker.org.	86400	IN	NS	ns.rutracker.org.
+ns.rutracker.org.	518400	IN	A	173.245.58.159
+
+openoffice.org.	86400	IN	NS	ns.openoffice.org.
+ns.openoffice.org.	518400	IN	A	173.245.58.159
+
+wikimedia.org.	86400	IN	NS	ns.wikimedia.org.
+ns.wikimedia.org.	518400	IN	A	173.245.58.159
+
+schema.org.	86400	IN	NS	ns.schema.org.
+ns.schema.org.	518400	IN	A	173.245.58.159
+
+schema.org.	86400	IN	NS	ns.schema.org.
+ns.schema.org.	518400	IN	A	173.245.59.130
+
+sabq.org.	86400	IN	NS	ns.sabq.org.
+ns.sabq.org.	518400	IN	A	173.245.59.130
+
+4chan.org.	86400	IN	NS	ns.4chan.org.
+ns.4chan.org.	518400	IN	A	173.245.59.130
+
+wordpress.org.	86400	IN	NS	ns.wordpress.org.
+ns.wordpress.org.	518400	IN	A	173.245.59.130
+
+lifehack.org.	86400	IN	NS	ns.lifehack.org.
+ns.lifehack.org.	518400	IN	A	173.245.59.130
+
+filezilla-project.org.	86400	IN	NS	ns.filezilla-project.org.
+ns.filezilla-project.org.	518400	IN	A	173.245.59.130
+
+rutor.org.	86400	IN	NS	ns.rutor.org.
+ns.rutor.org.	518400	IN	A	173.245.59.130
+
+warez-bb.org.	86400	IN	NS	ns.warez-bb.org.
+ns.warez-bb.org.	518400	IN	A	173.245.59.130
+
+pbs.org.	86400	IN	NS	ns.pbs.org.
+ns.pbs.org.	518400	IN	A	173.245.59.130
+
+change.org.	86400	IN	NS	ns.change.org.
+ns.change.org.	518400	IN	A	173.245.59.130
+
+britishcouncil.org.	86400	IN	NS	ns.britishcouncil.org.
+ns.britishcouncil.org.	518400	IN	A	173.245.59.130
+
+apache.org.	86400	IN	NS	ns.apache.org.
+ns.apache.org.	518400	IN	A	173.245.59.130
+
+metric-conversions.org.	86400	IN	NS	ns.metric-conversions.org.
+ns.metric-conversions.org.	518400	IN	A	173.245.59.115
+
+porn69.org.	86400	IN	NS	ns.porn69.org.
+ns.porn69.org.	518400	IN	A	173.245.59.115
+
+collegeboard.org.	86400	IN	NS	ns.collegeboard.org.
+ns.collegeboard.org.	518400	IN	A	173.245.59.115
+
+e-hentai.org.	86400	IN	NS	ns.e-hentai.org.
+ns.e-hentai.org.	518400	IN	A	173.245.59.160
+
+svoboda.org.	86400	IN	NS	ns.svoboda.org.
+ns.svoboda.org.	518400	IN	A	173.245.59.160
+
+oldpiratebay.org.	86400	IN	NS	ns.oldpiratebay.org.
+ns.oldpiratebay.org.	518400	IN	A	173.245.59.160
+
+npr.org.	86400	IN	NS	ns.npr.org.
+ns.npr.org.	518400	IN	A	173.245.59.160
+
+playerme.org.	86400	IN	NS	ns.playerme.org.
+ns.playerme.org.	518400	IN	A	173.245.59.160
+
+hltv.org.	86400	IN	NS	ns.hltv.org.
+ns.hltv.org.	518400	IN	A	173.245.59.160
+
+w3.org.	86400	IN	NS	ns.w3.org.
+ns.w3.org.	518400	IN	A	173.245.59.160
+
+head-fi.org.	86400	IN	NS	ns.head-fi.org.
+ns.head-fi.org.	518400	IN	A	173.245.59.160
+
+readthedocs.org.	86400	IN	NS	ns.readthedocs.org.
+ns.readthedocs.org.	518400	IN	A	173.245.58.138
+
+angularjs.org.	86400	IN	NS	ns.angularjs.org.
+ns.angularjs.org.	518400	IN	A	173.245.58.138
+
+eclipse.org.	86400	IN	NS	ns.eclipse.org.
+ns.eclipse.org.	518400	IN	A	173.245.58.138
+
+dmhy.org.	86400	IN	NS	ns.dmhy.org.
+ns.dmhy.org.	518400	IN	A	173.245.58.138
+
+linuxquestions.org.	86400	IN	NS	ns.linuxquestions.org.
+ns.linuxquestions.org.	518400	IN	A	173.245.58.138
+
+npr.org.	86400	IN	NS	ns.npr.org.
+ns.npr.org.	518400	IN	A	173.245.58.138
+
+consumerreports.org.	86400	IN	NS	ns.consumerreports.org.
+ns.consumerreports.org.	518400	IN	A	173.245.58.201
+
+change.org.	86400	IN	NS	ns.change.org.
+ns.change.org.	518400	IN	A	173.245.58.201
+
+readthedocs.org.	86400	IN	NS	ns.readthedocs.org.
+ns.readthedocs.org.	518400	IN	A	173.245.58.201
+
+media-fire.org.	86400	IN	NS	ns.media-fire.org.
+ns.media-fire.org.	518400	IN	A	173.245.58.201
+
+un.org.	86400	IN	NS	ns.un.org.
+ns.un.org.	518400	IN	A	173.245.58.201
+
+pbs.org.	86400	IN	NS	ns.pbs.org.
+ns.pbs.org.	518400	IN	A	173.245.58.201
+
+head-fi.org.	86400	IN	NS	ns.head-fi.org.
+ns.head-fi.org.	518400	IN	A	173.245.58.201
+
+ubuntuforums.org.	86400	IN	NS	ns.ubuntuforums.org.
+ns.ubuntuforums.org.	518400	IN	A	173.245.58.201
+
+wiktionary.org.	86400	IN	NS	ns.wiktionary.org.
+ns.wiktionary.org.	518400	IN	A	173.245.58.89
+
+warez-bb.org.	86400	IN	NS	ns.warez-bb.org.
+ns.warez-bb.org.	518400	IN	A	173.245.58.89
+
+oxfordjournals.org.	86400	IN	NS	ns.oxfordjournals.org.
+ns.oxfordjournals.org.	518400	IN	A	173.245.58.89
+
+dyndns.org.	86400	IN	NS	ns.dyndns.org.
+ns.dyndns.org.	518400	IN	A	173.245.58.89
+
+elfagr.org.	86400	IN	NS	ns.elfagr.org.
+ns.elfagr.org.	518400	IN	A	173.245.58.89
+
+monova.org.	86400	IN	NS	ns.monova.org.
+ns.monova.org.	518400	IN	A	173.245.58.89
+
+dmv.org.	86400	IN	NS	ns.dmv.org.
+ns.dmv.org.	518400	IN	A	173.245.58.89
+
+addictinginfo.org.	86400	IN	NS	ns.addictinginfo.org.
+ns.addictinginfo.org.	518400	IN	A	173.245.58.89
+
+coursera.org.	86400	IN	NS	ns.coursera.org.
+ns.coursera.org.	518400	IN	A	173.245.58.89
+
+eclipse.org.	86400	IN	NS	ns.eclipse.org.
+ns.eclipse.org.	518400	IN	A	173.245.58.89
+
+change.org.	86400	IN	NS	ns.change.org.
+ns.change.org.	518400	IN	A	173.245.58.100
+
+altervista.org.	86400	IN	NS	ns.altervista.org.
+ns.altervista.org.	518400	IN	A	173.245.58.100
+
+openlinkprofiler.org.	86400	IN	NS	ns.openlinkprofiler.org.
+ns.openlinkprofiler.org.	518400	IN	A	173.245.58.100
+
+leo.org.	86400	IN	NS	ns.leo.org.
+ns.leo.org.	518400	IN	A	173.245.58.100
+
+media-fire.org.	86400	IN	NS	ns.media-fire.org.
+ns.media-fire.org.	518400	IN	A	173.245.58.100
+
+dmhy.org.	86400	IN	NS	ns.dmhy.org.
+ns.dmhy.org.	518400	IN	A	173.245.58.100
+
+24smi.org.	86400	IN	NS	ns.24smi.org.
+ns.24smi.org.	518400	IN	A	173.245.58.100
+
+phys.org.	86400	IN	NS	ns.phys.org.
+ns.phys.org.	518400	IN	A	173.245.58.100
+
+familysearch.org.	86400	IN	NS	ns.familysearch.org.
+ns.familysearch.org.	518400	IN	A	173.245.58.100
+
+wikibooks.org.	86400	IN	NS	ns.wikibooks.org.
+ns.wikibooks.org.	518400	IN	A	173.245.58.100
+
+wikimedia.org.	86400	IN	NS	ns.wikimedia.org.
+ns.wikimedia.org.	518400	IN	A	173.245.58.100
+
+opensubtitles.org.	86400	IN	NS	ns.opensubtitles.org.
+ns.opensubtitles.org.	518400	IN	A	173.245.58.100
+
+svoboda.org.	86400	IN	NS	ns.svoboda.org.
+ns.svoboda.org.	518400	IN	A	173.245.59.100
+
+lifehack.org.	86400	IN	NS	ns.lifehack.org.
+ns.lifehack.org.	518400	IN	A	173.245.59.100
+
+acs.org.	86400	IN	NS	ns.acs.org.
+ns.acs.org.	518400	IN	A	173.245.59.100
+
+kaiserpermanente.org.	86400	IN	NS	ns.kaiserpermanente.org.
+ns.kaiserpermanente.org.	518400	IN	A	173.245.59.100
+
+britishcouncil.org.	86400	IN	NS	ns.britishcouncil.org.
+ns.britishcouncil.org.	518400	IN	A	173.245.59.100
+
+sabq.org.	86400	IN	NS	ns.sabq.org.
+ns.sabq.org.	518400	IN	A	173.245.59.100
+
+readthedocs.org.	86400	IN	NS	ns.readthedocs.org.
+ns.readthedocs.org.	518400	IN	A	173.245.59.100
+
+ap.org.	86400	IN	NS	ns.ap.org.
+ns.ap.org.	518400	IN	A	174.35.55.22
+
+linuxquestions.org.	86400	IN	NS	ns.linuxquestions.org.
+ns.linuxquestions.org.	518400	IN	A	174.35.55.22
+
+playerme.org.	86400	IN	NS	ns.playerme.org.
+ns.playerme.org.	518400	IN	A	174.35.55.22
+
+e-hentai.org.	86400	IN	NS	ns.e-hentai.org.
+ns.e-hentai.org.	518400	IN	A	174.35.55.22
+
+yify-torrent.org.	86400	IN	NS	ns.yify-torrent.org.
+ns.yify-torrent.org.	518400	IN	A	174.35.55.22
+
+schema.org.	86400	IN	NS	ns.schema.org.
+ns.schema.org.	518400	IN	A	174.35.55.22
+
+debian.org.	86400	IN	NS	ns.debian.org.
+ns.debian.org.	518400	IN	A	174.35.55.22
+
+24smi.org.	86400	IN	NS	ns.24smi.org.
+ns.24smi.org.	518400	IN	A	174.35.55.22
+
+python.org.	86400	IN	NS	ns.python.org.
+ns.python.org.	518400	IN	A	175.126.117.211
+
+filezilla-project.org.	86400	IN	NS	ns.filezilla-project.org.
+ns.filezilla-project.org.	518400	IN	A	175.126.117.211
+
+ifilez.org.	86400	IN	NS	ns.ifilez.org.
+ns.ifilez.org.	518400	IN	A	175.126.117.211
+
+khanacademy.org.	86400	IN	NS	ns.khanacademy.org.
+ns.khanacademy.org.	518400	IN	A	180.149.156.12
+
+sabq.org.	86400	IN	NS	ns.sabq.org.
+ns.sabq.org.	518400	IN	A	180.149.156.12
+
+telegram.org.	86400	IN	NS	ns.telegram.org.
+ns.telegram.org.	518400	IN	A	180.149.156.12
+
+python.org.	86400	IN	NS	ns.python.org.
+ns.python.org.	518400	IN	A	180.149.156.12
+
+gnu.org.	86400	IN	NS	ns.gnu.org.
+ns.gnu.org.	518400	IN	A	180.149.156.12
+
+schema.org.	86400	IN	NS	ns.schema.org.
+ns.schema.org.	518400	IN	A	180.149.156.12
+
+thinkprogress.org.	86400	IN	NS	ns.thinkprogress.org.
+ns.thinkprogress.org.	518400	IN	A	180.149.156.12
+
+ap.org.	86400	IN	NS	ns.ap.org.
+ns.ap.org.	518400	IN	A	180.149.156.12
+
+archiveofourown.org.	86400	IN	NS	ns.archiveofourown.org.
+ns.archiveofourown.org.	518400	IN	A	180.149.156.12
+
+archive.org.	86400	IN	NS	ns.archive.org.
+ns.archive.org.	518400	IN	A	180.149.156.12
+
+thinkprogress.org.	86400	IN	NS	ns.thinkprogress.org.
+ns.thinkprogress.org.	518400	IN	A	183.3.226.207
+
+linuxquestions.org.	86400	IN	NS	ns.linuxquestions.org.
+ns.linuxquestions.org.	518400	IN	A	183.3.226.207
+
+alternet.org.	86400	IN	NS	ns.alternet.org.
+ns.alternet.org.	518400	IN	A	183.3.226.207
+
+say-move.org.	86400	IN	NS	ns.say-move.org.
+ns.say-move.org.	518400	IN	A	183.3.226.207
+
+wikipedia.org.	86400	IN	NS	ns.wikipedia.org.
+ns.wikipedia.org.	518400	IN	A	183.3.226.207
+
+svoboda.org.	86400	IN	NS	ns.svoboda.org.
+ns.svoboda.org.	518400	IN	A	183.3.226.207
+
+wikipedia.org.	86400	IN	NS	ns.wikipedia.org.
+ns.wikipedia.org.	518400	IN	A	187.18.60.242
+
+4cdn.org.	86400	IN	NS	ns.4cdn.org.
+ns.4cdn.org.	518400	IN	A	187.18.60.242
+
+webpagetest.org.	86400	IN	NS	ns.webpagetest.org.
+ns.webpagetest.org.	518400	IN	A	187.18.60.242
+
+porn69.org.	86400	IN	NS	ns.porn69.org.
+ns.porn69.org.	518400	IN	A	187.18.60.242
+
+linuxquestions.org.	86400	IN	NS	ns.linuxquestions.org.
+ns.linuxquestions.org.	518400	IN	A	187.18.60.242
+
+cambridge.org.	86400	IN	NS	ns.cambridge.org.
+ns.cambridge.org.	518400	IN	A	187.18.60.242
+
+say-move.org.	86400	IN	NS	ns.say-move.org.
+ns.say-move.org.	518400	IN	A	187.18.60.242
+
+khanacademy.org.	86400	IN	NS	ns.khanacademy.org.
+ns.khanacademy.org.	518400	IN	A	187.18.60.242
+
+leo.org.	86400	IN	NS	ns.leo.org.
+ns.leo.org.	518400	IN	A	187.18.60.242
+
+lds.org.	86400	IN	NS	ns.lds.org.
+ns.lds.org.	518400	IN	A	187.18.60.242
+
+linuxquestions.org.	86400	IN	NS	ns.linuxquestions.org.
+ns.linuxquestions.org.	518400	IN	A	193.108.91.127
+
+e-hentai.org.	86400	IN	NS	ns.e-hentai.org.
+ns.e-hentai.org.	518400	IN	A	193.108.91.127
+
+nodejs.org.	86400	IN	NS	ns.nodejs.org.
+ns.nodejs.org.	518400	IN	A	193.108.91.127
+
+lds.org.	86400	IN	NS	ns.lds.org.
+ns.lds.org.	518400	IN	A	193.108.91.127
+
+syosetu.org.	86400	IN	NS	ns.syosetu.org.
+ns.syosetu.org.	518400	IN	A	193.108.91.127
+
+w3.org.	86400	IN	NS	ns.w3.org.
+ns.w3.org.	518400	IN	A	193.108.91.127
+
+python.org.	86400	IN	NS	ns.python.org.
+ns.python.org.	518400	IN	A	193.108.91.127
+
+debian.org.	86400	IN	NS	ns.debian.org.
+ns.debian.org.	518400	IN	A	193.108.91.127
+
+schema.org.	86400	IN	NS	ns.schema.org.
+ns.schema.org.	518400	IN	A	193.108.91.127
+
+consumerreports.org.	86400	IN	NS	ns.consumerreports.org.
+ns.consumerreports.org.	518400	IN	A	193.108.91.127
+
+leo.org.	86400	IN	NS	ns.leo.org.
+ns.leo.org.	518400	IN	A	193.232.156.17
+
+media-fire.org.	86400	IN	NS	ns.media-fire.org.
+ns.media-fire.org.	518400	IN	A	193.232.156.17
+
+wpmudev.org.	86400	IN	NS	ns.wpmudev.org.
+ns.wpmudev.org.	518400	IN	A	193.232.156.17
+
+tvtropes.org.	86400	IN	NS	ns.tvtropes.org.
+ns.tvtropes.org.	518400	IN	A	193.232.156.17
+
+bibsonomy.org.	86400	IN	NS	ns.bibsonomy.org.
+ns.bibsonomy.org.	518400	IN	A	193.232.156.17
+
+raspberrypi.org.	86400	IN	NS	ns.raspberrypi.org.
+ns.raspberrypi.org.	518400	IN	A	193.232.156.17
+
+myfedloan.org.	86400	IN	NS	ns.myfedloan.org.
+ns.myfedloan.org.	518400	IN	A	193.232.156.17
+
+svoboda.org.	86400	IN	NS	ns.svoboda.org.
+ns.svoboda.org.	518400	IN	A	193.232.156.17
+
+hbr.org.	86400	IN	NS	ns.hbr.org.
+ns.hbr.org.	518400	IN	A	193.232.156.17
+
+opensubtitles.org.	86400	IN	NS	ns.opensubtitles.org.
+ns.opensubtitles.org.	518400	IN	A	193.232.142.17
+
+change.org.	86400	IN	NS	ns.change.org.
+ns.change.org.	518400	IN	A	193.232.142.17
+
+acs.org.	86400	IN	NS	ns.acs.org.
+ns.acs.org.	518400	IN	A	193.232.142.17
+
+debian.org.	86400	IN	NS	ns.debian.org.
+ns.debian.org.	518400	IN	A	193.232.142.17
+
+e-hentai.org.	86400	IN	NS	ns.e-hentai.org.
+ns.e-hentai.org.	518400	IN	A	193.232.142.17
+
+like4like.org.	86400	IN	NS	ns.like4like.org.
+ns.like4like.org.	518400	IN	A	193.232.142.17
+
+opensubtitles.org.	86400	IN	NS	ns.opensubtitles.org.
+ns.opensubtitles.org.	518400	IN	A	198.11.138.245
+
+ap.org.	86400	IN	NS	ns.ap.org.
+ns.ap.org.	518400	IN	A	198.11.138.245
+
+joomla.org.	86400	IN	NS	ns.joomla.org.
+ns.joomla.org.	518400	IN	A	198.11.138.245
+
+hattrick.org.	86400	IN	NS	ns.hattrick.org.
+ns.hattrick.org.	518400	IN	A	198.11.138.245
+
+say-move.org.	86400	IN	NS	ns.say-move.org.
+ns.say-move.org.	518400	IN	A	198.11.138.245
+
+e-hentai.org.	86400	IN	NS	ns.e-hentai.org.
+ns.e-hentai.org.	518400	IN	A	198.11.138.245
+
+bitcointalk.org.	86400	IN	NS	ns.bitcointalk.org.
+ns.bitcointalk.org.	518400	IN	A	198.11.138.249
+
+lds.org.	86400	IN	NS	ns.lds.org.
+ns.lds.org.	518400	IN	A	198.11.138.249
+
+usagc.org.	86400	IN	NS	ns.usagc.org.
+ns.usagc.org.	518400	IN	A	198.11.138.249
+
+wordpress.org.	86400	IN	NS	ns.wordpress.org.
+ns.wordpress.org.	518400	IN	A	198.11.138.249
+
+elfagr.org.	86400	IN	NS	ns.elfagr.org.
+ns.elfagr.org.	518400	IN	A	198.11.138.249
+
+drupal.org.	86400	IN	NS	ns.drupal.org.
+ns.drupal.org.	518400	IN	A	198.11.138.249
+
+fb.org.	86400	IN	NS	ns.fb.org.
+ns.fb.org.	518400	IN	A	198.11.138.249
+
+dmv.org.	86400	IN	NS	ns.dmv.org.
+ns.dmv.org.	518400	IN	A	198.11.138.249
+
+usagc.org.	86400	IN	NS	ns.usagc.org.
+ns.usagc.org.	518400	IN	A	198.100.156.181
+
+24smi.org.	86400	IN	NS	ns.24smi.org.
+ns.24smi.org.	518400	IN	A	198.100.156.181
+
+lds.org.	86400	IN	NS	ns.lds.org.
+ns.lds.org.	518400	IN	A	198.100.156.181
+
+alternet.org.	86400	IN	NS	ns.alternet.org.
+ns.alternet.org.	518400	IN	A	198.100.156.181
+
+change.org.	86400	IN	NS	ns.change.org.
+ns.change.org.	518400	IN	A	198.100.156.181
+
+metric-conversions.org.	86400	IN	NS	ns.metric-conversions.org.
+ns.metric-conversions.org.	518400	IN	A	200.221.11.98
+
+bibsonomy.org.	86400	IN	NS	ns.bibsonomy.org.
+ns.bibsonomy.org.	518400	IN	A	200.221.11.98
+
+alternet.org.	86400	IN	NS	ns.alternet.org.
+ns.alternet.org.	518400	IN	A	200.221.11.98
+
+head-fi.org.	86400	IN	NS	ns.head-fi.org.
+ns.head-fi.org.	518400	IN	A	200.221.11.98
+
+wpmudev.org.	86400	IN	NS	ns.wpmudev.org.
+ns.wpmudev.org.	518400	IN	A	200.221.11.98
+
+pbs.org.	86400	IN	NS	ns.pbs.org.
+ns.pbs.org.	518400	IN	A	200.201.161.22
+
+dmhy.org.	86400	IN	NS	ns.dmhy.org.
+ns.dmhy.org.	518400	IN	A	200.201.161.22
+
+consumerreports.org.	86400	IN	NS	ns.consumerreports.org.
+ns.consumerreports.org.	518400	IN	A	200.201.161.22
+
+acs.org.	86400	IN	NS	ns.acs.org.
+ns.acs.org.	518400	IN	A	200.201.161.22
+
+tvtropes.org.	86400	IN	NS	ns.tvtropes.org.
+ns.tvtropes.org.	518400	IN	A	200.201.161.22
+
+head-fi.org.	86400	IN	NS	ns.head-fi.org.
+ns.head-fi.org.	518400	IN	A	200.201.161.22
+
+nodejs.org.	86400	IN	NS	ns.nodejs.org.
+ns.nodejs.org.	518400	IN	A	200.201.161.22
+
+hbr.org.	86400	IN	NS	ns.hbr.org.
+ns.hbr.org.	518400	IN	A	200.201.161.22
+
+oldpiratebay.org.	86400	IN	NS	ns.oldpiratebay.org.
+ns.oldpiratebay.org.	518400	IN	A	200.201.161.22
+
+bitcointalk.org.	86400	IN	NS	ns.bitcointalk.org.
+ns.bitcointalk.org.	518400	IN	A	200.201.165.253
+
+linuxquestions.org.	86400	IN	NS	ns.linuxquestions.org.
+ns.linuxquestions.org.	518400	IN	A	200.201.165.253
+
+wiktionary.org.	86400	IN	NS	ns.wiktionary.org.
+ns.wiktionary.org.	518400	IN	A	200.201.165.253
+
+navyfederal.org.	86400	IN	NS	ns.navyfederal.org.
+ns.navyfederal.org.	518400	IN	A	200.201.165.253
+
+leo.org.	86400	IN	NS	ns.leo.org.
+ns.leo.org.	518400	IN	A	200.201.165.253
+
+labnol.org.	86400	IN	NS	ns.labnol.org.
+ns.labnol.org.	518400	IN	A	200.201.165.253
+
+alternet.org.	86400	IN	NS	ns.alternet.org.
+ns.alternet.org.	518400	IN	A	200.201.165.253
+
+mayoclinic.org.	86400	IN	NS	ns.mayoclinic.org.
+ns.mayoclinic.org.	518400	IN	A	200.219.154.10
+
+jstor.org.	86400	IN	NS	ns.jstor.org.
+ns.jstor.org.	518400	IN	A	200.219.154.10
+
+dmoz.org.	86400	IN	NS	ns.dmoz.org.
+ns.dmoz.org.	518400	IN	A	200.219.154.10
+
+dostor.org.	86400	IN	NS	ns.dostor.org.
+ns.dostor.org.	518400	IN	A	200.219.154.10
+
+openoffice.org.	86400	IN	NS	ns.openoffice.org.
+ns.openoffice.org.	518400	IN	A	200.219.154.10
+
+oldpiratebay.org.	86400	IN	NS	ns.oldpiratebay.org.
+ns.oldpiratebay.org.	518400	IN	A	202.108.22.220
+
+myfedloan.org.	86400	IN	NS	ns.myfedloan.org.
+ns.myfedloan.org.	518400	IN	A	202.108.22.220
+
+dyndns.org.	86400	IN	NS	ns.dyndns.org.
+ns.dyndns.org.	518400	IN	A	202.108.22.220
+
+gutenberg.org.	86400	IN	NS	ns.gutenberg.org.
+ns.gutenberg.org.	518400	IN	A	202.108.22.220
+
+wikimapia.org.	86400	IN	NS	ns.wikimapia.org.
+ns.wikimapia.org.	518400	IN	A	202.56.230.5
+
+webpagetest.org.	86400	IN	NS	ns.webpagetest.org.
+ns.webpagetest.org.	518400	IN	A	202.56.230.5
+
+lds.org.	86400	IN	NS	ns.lds.org.
+ns.lds.org.	518400	IN	A	202.56.230.5
+
+videolan.org.	86400	IN	NS	ns.videolan.org.
+ns.videolan.org.	518400	IN	A	202.56.230.5
+
+change.org.	86400	IN	NS	ns.change.org.
+ns.change.org.	518400	IN	A	202.56.230.5
+
+w3.org.	86400	IN	NS	ns.w3.org.
+ns.w3.org.	518400	IN	A	202.56.230.5
+
+hbr.org.	86400	IN	NS	ns.hbr.org.
+ns.hbr.org.	518400	IN	A	202.56.230.5
+
+oxfordjournals.org.	86400	IN	NS	ns.oxfordjournals.org.
+ns.oxfordjournals.org.	518400	IN	A	202.56.230.5
+
+mayoclinic.org.	86400	IN	NS	ns.mayoclinic.org.
+ns.mayoclinic.org.	518400	IN	A	202.56.230.5
+
+sanjesh.org.	86400	IN	NS	ns.sanjesh.org.
+ns.sanjesh.org.	518400	IN	A	202.56.230.5
+
+worldcat.org.	86400	IN	NS	ns.worldcat.org.
+ns.worldcat.org.	518400	IN	A	202.56.230.5
+
+fb.org.	86400	IN	NS	ns.fb.org.
+ns.fb.org.	518400	IN	A	202.56.230.5
+
+dizibox.org.	86400	IN	NS	ns.dizibox.org.
+ns.dizibox.org.	518400	IN	A	202.56.230.5
+
+joomla.org.	86400	IN	NS	ns.joomla.org.
+ns.joomla.org.	518400	IN	A	202.56.230.5
+
+brainpickings.org.	86400	IN	NS	ns.brainpickings.org.
+ns.brainpickings.org.	518400	IN	A	203.153.43.65
+
+archive.org.	86400	IN	NS	ns.archive.org.
+ns.archive.org.	518400	IN	A	203.153.43.65
+
+wikibooks.org.	86400	IN	NS	ns.wikibooks.org.
+ns.wikibooks.org.	518400	IN	A	203.153.43.65
+
+tvtropes.org.	86400	IN	NS	ns.tvtropes.org.
+ns.tvtropes.org.	518400	IN	A	203.153.43.65
+
+sabq.org.	86400	IN	NS	ns.sabq.org.
+ns.sabq.org.	518400	IN	A	203.153.43.65
+
+wikiquote.org.	86400	IN	NS	ns.wikiquote.org.
+ns.wikiquote.org.	518400	IN	A	203.153.43.65
+
+ap.org.	86400	IN	NS	ns.ap.org.
+ns.ap.org.	518400	IN	A	203.153.43.65
+
+hattrick.org.	86400	IN	NS	ns.hattrick.org.
+ns.hattrick.org.	518400	IN	A	203.153.43.65
+
+dmoz.org.	86400	IN	NS	ns.dmoz.org.
+ns.dmoz.org.	518400	IN	A	203.153.43.65
+
+kaiserpermanente.org.	86400	IN	NS	ns.kaiserpermanente.org.
+ns.kaiserpermanente.org.	518400	IN	A	203.153.43.65
+
+khanacademy.org.	86400	IN	NS	ns.khanacademy.org.
+ns.khanacademy.org.	518400	IN	A	204.74.108.1
+
+exhentai.org.	86400	IN	NS	ns.exhentai.org.
+ns.exhentai.org.	518400	IN	A	204.74.108.1
+
+un.org.	86400	IN	NS	ns.un.org.
+ns.un.org.	518400	IN	A	204.74.108.1
+
+collegeboard.org.	86400	IN	NS	ns.collegeboard.org.
+ns.collegeboard.org.	518400	IN	A	204.74.108.1
+
+head-fi.org.	86400	IN	NS	ns.head-fi.org.
+ns.head-fi.org.	518400	IN	A	204.74.108.1
+
+cambridge.org.	86400	IN	NS	ns.cambridge.org.
+ns.cambridge.org.	518400	IN	A	204.74.108.1
+
+metric-conversions.org.	86400	IN	NS	ns.metric-conversions.org.
+ns.metric-conversions.org.	518400	IN	A	204.74.108.1
+
+hltv.org.	86400	IN	NS	ns.hltv.org.
+ns.hltv.org.	518400	IN	A	204.74.108.1
+
+porn69.org.	86400	IN	NS	ns.porn69.org.
+ns.porn69.org.	518400	IN	A	204.74.108.1
+
+dizibox.org.	86400	IN	NS	ns.dizibox.org.
+ns.dizibox.org.	518400	IN	A	204.74.108.1
+
+oxfordjournals.org.	86400	IN	NS	ns.oxfordjournals.org.
+ns.oxfordjournals.org.	518400	IN	A	204.74.108.1
+
+coursera.org.	86400	IN	NS	ns.coursera.org.
+ns.coursera.org.	518400	IN	A	204.69.234.1
+
+say-move.org.	86400	IN	NS	ns.say-move.org.
+ns.say-move.org.	518400	IN	A	204.69.234.1
+
+archiveofourown.org.	86400	IN	NS	ns.archiveofourown.org.
+ns.archiveofourown.org.	518400	IN	A	204.69.234.1
+
+eclipse.org.	86400	IN	NS	ns.eclipse.org.
+ns.eclipse.org.	518400	IN	A	204.69.234.1
+
+dizibox.org.	86400	IN	NS	ns.dizibox.org.
+ns.dizibox.org.	518400	IN	A	204.69.234.1
+
+raspberrypi.org.	86400	IN	NS	ns.raspberrypi.org.
+ns.raspberrypi.org.	518400	IN	A	205.251.192.29
+
+navyfederal.org.	86400	IN	NS	ns.navyfederal.org.
+ns.navyfederal.org.	518400	IN	A	205.251.192.29
+
+dizibox.org.	86400	IN	NS	ns.dizibox.org.
+ns.dizibox.org.	518400	IN	A	205.251.192.29
+
+exhentai.org.	86400	IN	NS	ns.exhentai.org.
+ns.exhentai.org.	518400	IN	A	205.251.192.29
+
+4chan.org.	86400	IN	NS	ns.4chan.org.
+ns.4chan.org.	518400	IN	A	205.251.192.29
+
+schema.org.	86400	IN	NS	ns.schema.org.
+ns.schema.org.	518400	IN	A	205.251.192.29
+
+familysearch.org.	86400	IN	NS	ns.familysearch.org.
+ns.familysearch.org.	518400	IN	A	205.251.197.107
+
+wpmudev.org.	86400	IN	NS	ns.wpmudev.org.
+ns.wpmudev.org.	518400	IN	A	205.251.197.107
+
+avaaz.org.	86400	IN	NS	ns.avaaz.org.
+ns.avaaz.org.	518400	IN	A	205.251.197.107
+
+hattrick.org.	86400	IN	NS	ns.hattrick.org.
+ns.hattrick.org.	518400	IN	A	205.251.197.107
+
+wiktionary.org.	86400	IN	NS	ns.wiktionary.org.
+ns.wiktionary.org.	518400	IN	A	205.251.197.107
+
+navyfederal.org.	86400	IN	NS	ns.navyfederal.org.
+ns.navyfederal.org.	518400	IN	A	205.251.197.107
+
+alwafd.org.	86400	IN	NS	ns.alwafd.org.
+ns.alwafd.org.	518400	IN	A	205.251.197.107
+
+hbr.org.	86400	IN	NS	ns.hbr.org.
+ns.hbr.org.	518400	IN	A	205.251.197.107
+
+phys.org.	86400	IN	NS	ns.phys.org.
+ns.phys.org.	518400	IN	A	205.251.197.107
+
+schema.org.	86400	IN	NS	ns.schema.org.
+ns.schema.org.	518400	IN	A	205.251.197.107
+
+ifilez.org.	86400	IN	NS	ns.ifilez.org.
+ns.ifilez.org.	518400	IN	A	205.251.197.107
+
+npr.org.	86400	IN	NS	ns.npr.org.
+ns.npr.org.	518400	IN	A	205.251.194.1
+
+monova.org.	86400	IN	NS	ns.monova.org.
+ns.monova.org.	518400	IN	A	205.251.194.1
+
+hltv.org.	86400	IN	NS	ns.hltv.org.
+ns.hltv.org.	518400	IN	A	205.251.194.1
+
+kaiserpermanente.org.	86400	IN	NS	ns.kaiserpermanente.org.
+ns.kaiserpermanente.org.	518400	IN	A	205.251.194.1
+
+warez-bb.org.	86400	IN	NS	ns.warez-bb.org.
+ns.warez-bb.org.	518400	IN	A	205.251.194.1
+
+exhentai.org.	86400	IN	NS	ns.exhentai.org.
+ns.exhentai.org.	518400	IN	A	205.251.194.1
+
+drupal.org.	86400	IN	NS	ns.drupal.org.
+ns.drupal.org.	518400	IN	A	205.251.199.254
+
+worldcat.org.	86400	IN	NS	ns.worldcat.org.
+ns.worldcat.org.	518400	IN	A	205.251.199.254
+
+filezilla-project.org.	86400	IN	NS	ns.filezilla-project.org.
+ns.filezilla-project.org.	518400	IN	A	205.251.199.254
+
+24smi.org.	86400	IN	NS	ns.24smi.org.
+ns.24smi.org.	518400	IN	A	205.251.199.254
+
+siteprice.org.	86400	IN	NS	ns.siteprice.org.
+ns.siteprice.org.	518400	IN	A	205.251.199.254
+
+yify-torrent.org.	86400	IN	NS	ns.yify-torrent.org.
+ns.yify-torrent.org.	518400	IN	A	205.251.199.254
+
+dmhy.org.	86400	IN	NS	ns.dmhy.org.
+ns.dmhy.org.	518400	IN	A	205.251.199.254
+
+monova.org.	86400	IN	NS	ns.monova.org.
+ns.monova.org.	518400	IN	A	205.251.199.254
+
+mongodb.org.	86400	IN	NS	ns.mongodb.org.
+ns.mongodb.org.	518400	IN	A	205.251.199.254
+
+dmoz.org.	86400	IN	NS	ns.dmoz.org.
+ns.dmoz.org.	518400	IN	A	205.251.195.203
+
+arxiv.org.	86400	IN	NS	ns.arxiv.org.
+ns.arxiv.org.	518400	IN	A	205.251.195.203
+
+interstats.org.	86400	IN	NS	ns.interstats.org.
+ns.interstats.org.	518400	IN	A	205.251.195.203
+
+ap.org.	86400	IN	NS	ns.ap.org.
+ns.ap.org.	518400	IN	A	205.251.195.203
+
+svoboda.org.	86400	IN	NS	ns.svoboda.org.
+ns.svoboda.org.	518400	IN	A	205.251.195.203
+
+bitbucket.org.	86400	IN	NS	ns.bitbucket.org.
+ns.bitbucket.org.	518400	IN	A	205.251.195.203
+
+alwafd.org.	86400	IN	NS	ns.alwafd.org.
+ns.alwafd.org.	518400	IN	A	206.128.173.109
+
+hbr.org.	86400	IN	NS	ns.hbr.org.
+ns.hbr.org.	518400	IN	A	206.128.173.109
+
+npr.org.	86400	IN	NS	ns.npr.org.
+ns.npr.org.	518400	IN	A	206.128.173.109
+
+videolan.org.	86400	IN	NS	ns.videolan.org.
+ns.videolan.org.	518400	IN	A	206.128.173.109
+
+bitbucket.org.	86400	IN	NS	ns.bitbucket.org.
+ns.bitbucket.org.	518400	IN	A	206.128.173.109
+
+elfagr.org.	86400	IN	NS	ns.elfagr.org.
+ns.elfagr.org.	518400	IN	A	206.128.173.109
+
+openlinkprofiler.org.	86400	IN	NS	ns.openlinkprofiler.org.
+ns.openlinkprofiler.org.	518400	IN	A	206.128.173.109
+
+4cdn.org.	86400	IN	NS	ns.4cdn.org.
+ns.4cdn.org.	518400	IN	A	206.128.173.109
+
+schema.org.	86400	IN	NS	ns.schema.org.
+ns.schema.org.	518400	IN	A	206.128.173.109
+
+lifehack.org.	86400	IN	NS	ns.lifehack.org.
+ns.lifehack.org.	518400	IN	A	208.78.70.47
+
+sanjesh.org.	86400	IN	NS	ns.sanjesh.org.
+ns.sanjesh.org.	518400	IN	A	208.78.70.47
+
+wiktionary.org.	86400	IN	NS	ns.wiktionary.org.
+ns.wiktionary.org.	518400	IN	A	208.78.70.47
+
+slashdot.org.	86400	IN	NS	ns.slashdot.org.
+ns.slashdot.org.	518400	IN	A	208.78.70.47
+
+wikimapia.org.	86400	IN	NS	ns.wikimapia.org.
+ns.wikimapia.org.	518400	IN	A	213.180.193.1
+
+lds.org.	86400	IN	NS	ns.lds.org.
+ns.lds.org.	518400	IN	A	213.180.193.1
+
+worldcat.org.	86400	IN	NS	ns.worldcat.org.
+ns.worldcat.org.	518400	IN	A	213.180.193.1
+
+siteprice.org.	86400	IN	NS	ns.siteprice.org.
+ns.siteprice.org.	518400	IN	A	213.180.193.1
+
+lifehack.org.	86400	IN	NS	ns.lifehack.org.
+ns.lifehack.org.	518400	IN	A	213.180.193.1
+
+alternet.org.	86400	IN	NS	ns.alternet.org.
+ns.alternet.org.	518400	IN	A	213.180.204.242
+
+kaiserpermanente.org.	86400	IN	NS	ns.kaiserpermanente.org.
+ns.kaiserpermanente.org.	518400	IN	A	213.180.204.242
+
+openlinkprofiler.org.	86400	IN	NS	ns.openlinkprofiler.org.
+ns.openlinkprofiler.org.	518400	IN	A	213.180.204.242
+
+coursera.org.	86400	IN	NS	ns.coursera.org.
+ns.coursera.org.	518400	IN	A	216.239.32.10
+
+usagc.org.	86400	IN	NS	ns.usagc.org.
+ns.usagc.org.	518400	IN	A	216.239.32.10
+
+familysearch.org.	86400	IN	NS	ns.familysearch.org.
+ns.familysearch.org.	518400	IN	A	216.239.32.106
+
+ubuntuforums.org.	86400	IN	NS	ns.ubuntuforums.org.
+ns.ubuntuforums.org.	518400	IN	A	216.239.32.106
+
+arxiv.org.	86400	IN	NS	ns.arxiv.org.
+ns.arxiv.org.	518400	IN	A	216.239.32.106
+
+joomla.org.	86400	IN	NS	ns.joomla.org.
+ns.joomla.org.	518400	IN	A	216.239.32.106
+
+raspberrypi.org.	86400	IN	NS	ns.raspberrypi.org.
+ns.raspberrypi.org.	518400	IN	A	216.239.32.106
+
+4cdn.org.	86400	IN	NS	ns.4cdn.org.
+ns.4cdn.org.	518400	IN	A	216.239.32.106
+
+mayoclinic.org.	86400	IN	NS	ns.mayoclinic.org.
+ns.mayoclinic.org.	518400	IN	A	216.239.32.106
+
+ifilez.org.	86400	IN	NS	ns.ifilez.org.
+ns.ifilez.org.	518400	IN	A	216.239.32.106
+
+python.org.	86400	IN	NS	ns.python.org.
+ns.python.org.	518400	IN	A	216.58.200.238
+
+wpmudev.org.	86400	IN	NS	ns.wpmudev.org.
+ns.wpmudev.org.	518400	IN	A	216.58.200.238
+
+bitcointalk.org.	86400	IN	NS	ns.bitcointalk.org.
+ns.bitcointalk.org.	518400	IN	A	216.58.200.238
+
+mayoclinic.org.	86400	IN	NS	ns.mayoclinic.org.
+ns.mayoclinic.org.	518400	IN	A	216.58.200.238
+
+rutor.org.	86400	IN	NS	ns.rutor.org.
+ns.rutor.org.	518400	IN	A	216.58.200.238
+
+like4like.org.	86400	IN	NS	ns.like4like.org.
+ns.like4like.org.	518400	IN	A	216.58.200.238
+
+fb.org.	86400	IN	NS	ns.fb.org.
+ns.fb.org.	518400	IN	A	216.239.32.29
+
+navyfederal.org.	86400	IN	NS	ns.navyfederal.org.
+ns.navyfederal.org.	518400	IN	A	216.239.32.29
+
+drupal.org.	86400	IN	NS	ns.drupal.org.
+ns.drupal.org.	518400	IN	A	216.239.32.29
+
+wikimedia.org.	86400	IN	NS	ns.wikimedia.org.
+ns.wikimedia.org.	518400	IN	A	216.239.32.29
+
+wikiquote.org.	86400	IN	NS	ns.wikiquote.org.
+ns.wikiquote.org.	518400	IN	A	216.239.32.29
+
+dmv.org.	86400	IN	NS	ns.dmv.org.
+ns.dmv.org.	518400	IN	A	216.239.32.29
+
+wiktionary.org.	86400	IN	NS	ns.wiktionary.org.
+ns.wiktionary.org.	518400	IN	A	216.239.32.29
+
+python.org.	86400	IN	NS	ns.python.org.
+ns.python.org.	518400	IN	A	216.239.32.29
+
+bibsonomy.org.	86400	IN	NS	ns.bibsonomy.org.
+ns.bibsonomy.org.	518400	IN	A	216.239.32.29
+
+rutracker.org.	86400	IN	NS	ns.rutracker.org.
+ns.rutracker.org.	518400	IN	A	217.69.139.112
+
+4chan.org.	86400	IN	NS	ns.4chan.org.
+ns.4chan.org.	518400	IN	A	217.69.139.112
+
+usagc.org.	86400	IN	NS	ns.usagc.org.
+ns.usagc.org.	518400	IN	A	217.69.139.112
+
+mongodb.org.	86400	IN	NS	ns.mongodb.org.
+ns.mongodb.org.	518400	IN	A	217.69.139.112
+
+dyndns.org.	86400	IN	NS	ns.dyndns.org.
+ns.dyndns.org.	518400	IN	A	217.69.139.112
+
+dmv.org.	86400	IN	NS	ns.dmv.org.
+ns.dmv.org.	518400	IN	A	217.69.139.112
+
+interstats.org.	86400	IN	NS	ns.interstats.org.
+ns.interstats.org.	518400	IN	A	217.69.139.112
+
+addictinginfo.org.	86400	IN	NS	ns.addictinginfo.org.
+ns.addictinginfo.org.	518400	IN	A	217.69.139.112
+
+openoffice.org.	86400	IN	NS	ns.openoffice.org.
+ns.openoffice.org.	518400	IN	A	217.69.139.112
+
+telegram.org.	86400	IN	NS	ns.telegram.org.
+ns.telegram.org.	518400	IN	A	217.69.139.112
+
+phys.org.	86400	IN	NS	ns.phys.org.
+ns.phys.org.	518400	IN	A	217.69.139.202
+
+consumerreports.org.	86400	IN	NS	ns.consumerreports.org.
+ns.consumerreports.org.	518400	IN	A	217.69.139.202
+
+w3.org.	86400	IN	NS	ns.w3.org.
+ns.w3.org.	518400	IN	A	217.69.139.202
+
+navyfederal.org.	86400	IN	NS	ns.navyfederal.org.
+ns.navyfederal.org.	518400	IN	A	217.69.139.202
+
+myfedloan.org.	86400	IN	NS	ns.myfedloan.org.
+ns.myfedloan.org.	518400	IN	A	217.69.139.202
+
+ieee.org.	86400	IN	NS	ns.ieee.org.
+ns.ieee.org.	518400	IN	A	217.69.139.202

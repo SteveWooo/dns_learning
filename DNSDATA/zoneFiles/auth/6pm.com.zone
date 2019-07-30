@@ -1,0 +1,6 @@
+
+6pm.com.	86400	IN	SOA	ns.6pm.com.	mail	2019061702 1800 900 604800 86400
+6pm.com.	86400	IN	NS	ns.6pm.com.
+ns.6pm.com.	518400	IN	A	217.69.139.202
+
+6pm.com.	518400	IN	A	35.163.241.93

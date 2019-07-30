@@ -1,0 +1,6 @@
+
+gao7.com.	86400	IN	SOA	ns.gao7.com.	mail	2019061702 1800 900 604800 86400
+gao7.com.	86400	IN	NS	ns.gao7.com.
+ns.gao7.com.	518400	IN	A	208.78.70.47
+
+gao7.com.	518400	IN	A	117.50.38.182

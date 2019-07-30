@@ -1,0 +1,6 @@
+
+okezone.com.	86400	IN	SOA	ns.okezone.com.	mail	2019061702 1800 900 604800 86400
+okezone.com.	86400	IN	NS	ns.okezone.com.
+ns.okezone.com.	518400	IN	A	111.202.126.2
+
+okezone.com.	518400	IN	A	202.80.220.218

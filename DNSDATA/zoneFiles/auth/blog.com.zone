@@ -1,0 +1,6 @@
+
+blog.com.	86400	IN	SOA	ns.blog.com.	mail	2019061702 1800 900 604800 86400
+blog.com.	86400	IN	NS	ns.blog.com.
+ns.blog.com.	518400	IN	A	204.69.234.1
+
+blog.com.	518400	IN	A	195.170.168.6

@@ -1,0 +1,6 @@
+
+lolnexus.com.	86400	IN	SOA	ns.lolnexus.com.	mail	2019061702 1800 900 604800 86400
+lolnexus.com.	86400	IN	NS	ns.lolnexus.com.
+ns.lolnexus.com.	518400	IN	A	217.69.139.112
+
+lolnexus.com.	518400	IN	A	104.16.147.95

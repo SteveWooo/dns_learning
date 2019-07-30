@@ -1,0 +1,6 @@
+
+yourmediahq.com.	86400	IN	SOA	ns.yourmediahq.com.	mail	2019061702 1800 900 604800 86400
+yourmediahq.com.	86400	IN	NS	ns.yourmediahq.com.
+ns.yourmediahq.com.	518400	IN	A	202.56.230.5
+
+yourmediahq.com.	518400	IN	A	13.251.90.134

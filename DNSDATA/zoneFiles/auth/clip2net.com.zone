@@ -1,0 +1,6 @@
+
+clip2net.com.	86400	IN	SOA	ns.clip2net.com.	mail	2019061702 1800 900 604800 86400
+clip2net.com.	86400	IN	NS	ns.clip2net.com.
+ns.clip2net.com.	518400	IN	A	174.35.55.22
+
+clip2net.com.	518400	IN	A	95.211.218.227

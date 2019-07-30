@@ -1,0 +1,6 @@
+
+dhnet.be.	86400	IN	SOA	ns.dhnet.be.	mail	2019061702 1800 900 604800 86400
+dhnet.be.	86400	IN	NS	ns.dhnet.be.
+ns.dhnet.be.	518400	IN	A	213.180.204.242
+
+dhnet.be.	518400	IN	A	81.246.65.145

@@ -1,0 +1,6 @@
+
+natalie.mu.	86400	IN	SOA	ns.natalie.mu.	mail	2019061702 1800 900 604800 86400
+natalie.mu.	86400	IN	NS	ns.natalie.mu.
+ns.natalie.mu.	518400	IN	A	93.186.225.193
+
+natalie.mu.	518400	IN	A	18.182.214.102

@@ -1,0 +1,6 @@
+
+box.com.	86400	IN	SOA	ns.box.com.	mail	2019061702 1800 900 604800 86400
+box.com.	86400	IN	NS	ns.box.com.
+ns.box.com.	518400	IN	A	216.239.32.106
+
+box.com.	518400	IN	A	185.235.236.196

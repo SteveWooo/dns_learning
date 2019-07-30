@@ -1,0 +1,6 @@
+
+avvo.com.	86400	IN	SOA	ns.avvo.com.	mail	2019061702 1800 900 604800 86400
+avvo.com.	86400	IN	NS	ns.avvo.com.
+ns.avvo.com.	518400	IN	A	204.74.108.1
+
+avvo.com.	518400	IN	A	151.101.0.65

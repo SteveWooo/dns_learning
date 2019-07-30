@@ -1,0 +1,6 @@
+
+torchbrowser.com.	86400	IN	SOA	ns.torchbrowser.com.	mail	2019061702 1800 900 604800 86400
+torchbrowser.com.	86400	IN	NS	ns.torchbrowser.com.
+ns.torchbrowser.com.	518400	IN	A	216.239.32.106
+
+torchbrowser.com.	518400	IN	A	82.163.48.80

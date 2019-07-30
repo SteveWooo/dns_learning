@@ -1,0 +1,6 @@
+
+tistory.com.	86400	IN	SOA	ns.tistory.com.	mail	2019061702 1800 900 604800 86400
+tistory.com.	86400	IN	NS	ns.tistory.com.
+ns.tistory.com.	518400	IN	A	157.255.246.101
+
+tistory.com.	518400	IN	A	211.231.108.151

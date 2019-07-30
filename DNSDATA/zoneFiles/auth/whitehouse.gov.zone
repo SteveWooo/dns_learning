@@ -1,0 +1,6 @@
+
+whitehouse.gov.	86400	IN	SOA	ns.whitehouse.gov.	mail	2019061702 1800 900 604800 86400
+whitehouse.gov.	86400	IN	NS	ns.whitehouse.gov.
+ns.whitehouse.gov.	518400	IN	A	216.239.32.10
+
+whitehouse.gov.	518400	IN	A	2.19.157.179

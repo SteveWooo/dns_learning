@@ -1,0 +1,6 @@
+
+flipkart.com.	86400	IN	SOA	ns.flipkart.com.	mail	2019061702 1800 900 604800 86400
+flipkart.com.	86400	IN	NS	ns.flipkart.com.
+ns.flipkart.com.	518400	IN	A	205.251.197.107
+
+flipkart.com.	518400	IN	A	163.53.78.128

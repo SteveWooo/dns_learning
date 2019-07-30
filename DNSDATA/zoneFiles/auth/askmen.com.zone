@@ -1,0 +1,6 @@
+
+askmen.com.	86400	IN	SOA	ns.askmen.com.	mail	2019061702 1800 900 604800 86400
+askmen.com.	86400	IN	NS	ns.askmen.com.
+ns.askmen.com.	518400	IN	A	213.180.193.1
+
+askmen.com.	518400	IN	A	151.101.193.135

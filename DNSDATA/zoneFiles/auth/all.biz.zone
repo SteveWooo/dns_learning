@@ -1,0 +1,6 @@
+
+all.biz.	86400	IN	SOA	ns.all.biz.	mail	2019061702 1800 900 604800 86400
+all.biz.	86400	IN	NS	ns.all.biz.
+ns.all.biz.	518400	IN	A	140.205.67.253
+
+all.biz.	518400	IN	A	104.20.49.244

@@ -1,0 +1,6 @@
+
+gazetaexpress.com.	86400	IN	SOA	ns.gazetaexpress.com.	mail	2019061702 1800 900 604800 86400
+gazetaexpress.com.	86400	IN	NS	ns.gazetaexpress.com.
+ns.gazetaexpress.com.	518400	IN	A	213.180.204.242
+
+gazetaexpress.com.	518400	IN	A	104.28.0.182

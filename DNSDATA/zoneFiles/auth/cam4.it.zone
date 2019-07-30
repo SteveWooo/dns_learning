@@ -1,0 +1,6 @@
+
+cam4.it.	86400	IN	SOA	ns.cam4.it.	mail	2019061702 1800 900 604800 86400
+cam4.it.	86400	IN	NS	ns.cam4.it.
+ns.cam4.it.	518400	IN	A	92.242.43.216
+
+cam4.it.	518400	IN	A	217.22.17.249

@@ -1,0 +1,6 @@
+
+watchseries.ag.	86400	IN	SOA	ns.watchseries.ag.	mail	2019061702 1800 900 604800 86400
+watchseries.ag.	86400	IN	NS	ns.watchseries.ag.
+ns.watchseries.ag.	518400	IN	A	208.78.70.47
+
+watchseries.ag.	518400	IN	A	185.53.178.6

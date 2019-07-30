@@ -1,0 +1,6 @@
+
+loopnet.com.	86400	IN	SOA	ns.loopnet.com.	mail	2019061702 1800 900 604800 86400
+loopnet.com.	86400	IN	NS	ns.loopnet.com.
+ns.loopnet.com.	518400	IN	A	205.251.199.254
+
+loopnet.com.	518400	IN	A	97.65.17.151

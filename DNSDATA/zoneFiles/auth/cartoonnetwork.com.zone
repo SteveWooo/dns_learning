@@ -1,0 +1,6 @@
+
+cartoonnetwork.com.	86400	IN	SOA	ns.cartoonnetwork.com.	mail	2019061702 1800 900 604800 86400
+cartoonnetwork.com.	86400	IN	NS	ns.cartoonnetwork.com.
+ns.cartoonnetwork.com.	518400	IN	A	193.232.142.17
+
+cartoonnetwork.com.	518400	IN	A	34.202.68.250

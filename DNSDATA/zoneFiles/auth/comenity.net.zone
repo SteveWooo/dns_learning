@@ -1,0 +1,6 @@
+
+comenity.net.	86400	IN	SOA	ns.comenity.net.	mail	2019061702 1800 900 604800 86400
+comenity.net.	86400	IN	NS	ns.comenity.net.
+ns.comenity.net.	518400	IN	A	217.69.139.202
+
+comenity.net.	518400	IN	A	205.144.60.57

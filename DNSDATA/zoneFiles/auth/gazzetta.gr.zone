@@ -1,0 +1,6 @@
+
+gazzetta.gr.	86400	IN	SOA	ns.gazzetta.gr.	mail	2019061702 1800 900 604800 86400
+gazzetta.gr.	86400	IN	NS	ns.gazzetta.gr.
+ns.gazzetta.gr.	518400	IN	A	36.51.252.8
+
+gazzetta.gr.	518400	IN	A	46.4.100.79

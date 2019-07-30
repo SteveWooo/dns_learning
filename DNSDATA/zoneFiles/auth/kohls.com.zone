@@ -1,0 +1,6 @@
+
+kohls.com.	86400	IN	SOA	ns.kohls.com.	mail	2019061702 1800 900 604800 86400
+kohls.com.	86400	IN	NS	ns.kohls.com.
+ns.kohls.com.	518400	IN	A	217.69.139.112
+
+kohls.com.	518400	IN	A	23.198.118.70

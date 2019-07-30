@@ -1,0 +1,6 @@
+
+jquery.com.	86400	IN	SOA	ns.jquery.com.	mail	2019061702 1800 900 604800 86400
+jquery.com.	86400	IN	NS	ns.jquery.com.
+ns.jquery.com.	518400	IN	A	200.201.161.22
+
+jquery.com.	518400	IN	A	104.16.14.15

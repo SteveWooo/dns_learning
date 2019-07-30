@@ -1,0 +1,6 @@
+
+huffingtonpost.jp.	86400	IN	SOA	ns.huffingtonpost.jp.	mail	2019061702 1800 900 604800 86400
+huffingtonpost.jp.	86400	IN	NS	ns.huffingtonpost.jp.
+ns.huffingtonpost.jp.	518400	IN	A	213.180.193.1
+
+huffingtonpost.jp.	518400	IN	A	74.6.136.153

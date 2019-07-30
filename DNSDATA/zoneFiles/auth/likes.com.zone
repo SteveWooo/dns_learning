@@ -1,0 +1,6 @@
+
+likes.com.	86400	IN	SOA	ns.likes.com.	mail	2019061702 1800 900 604800 86400
+likes.com.	86400	IN	NS	ns.likes.com.
+ns.likes.com.	518400	IN	A	217.69.139.202
+
+likes.com.	518400	IN	A	184.168.131.241

@@ -1,0 +1,6 @@
+
+goindigo.in.	86400	IN	SOA	ns.goindigo.in.	mail	2019061702 1800 900 604800 86400
+goindigo.in.	86400	IN	NS	ns.goindigo.in.
+ns.goindigo.in.	518400	IN	A	175.126.117.211
+
+goindigo.in.	518400	IN	A	52.220.192.234

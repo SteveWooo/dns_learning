@@ -1,0 +1,6 @@
+
+metacritic.com.	86400	IN	SOA	ns.metacritic.com.	mail	2019061702 1800 900 604800 86400
+metacritic.com.	86400	IN	NS	ns.metacritic.com.
+ns.metacritic.com.	518400	IN	A	216.239.32.29
+
+metacritic.com.	518400	IN	A	23.23.171.117

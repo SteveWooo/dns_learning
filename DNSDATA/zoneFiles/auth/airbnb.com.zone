@@ -1,0 +1,6 @@
+
+airbnb.com.	86400	IN	SOA	ns.airbnb.com.	mail	2019061702 1800 900 604800 86400
+airbnb.com.	86400	IN	NS	ns.airbnb.com.
+ns.airbnb.com.	518400	IN	A	217.69.139.202
+
+airbnb.com.	518400	IN	A	34.200.100.113

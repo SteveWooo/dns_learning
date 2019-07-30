@@ -1,0 +1,6 @@
+
+hobbyking.com.	86400	IN	SOA	ns.hobbyking.com.	mail	2019061702 1800 900 604800 86400
+hobbyking.com.	86400	IN	NS	ns.hobbyking.com.
+ns.hobbyking.com.	518400	IN	A	200.201.161.22
+
+hobbyking.com.	518400	IN	A	104.20.116.44

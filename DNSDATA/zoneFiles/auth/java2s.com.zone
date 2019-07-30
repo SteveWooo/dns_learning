@@ -1,0 +1,6 @@
+
+java2s.com.	86400	IN	SOA	ns.java2s.com.	mail	2019061702 1800 900 604800 86400
+java2s.com.	86400	IN	NS	ns.java2s.com.
+ns.java2s.com.	518400	IN	A	202.108.22.220
+
+java2s.com.	518400	IN	A	52.216.95.18

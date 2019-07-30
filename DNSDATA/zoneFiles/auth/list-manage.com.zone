@@ -1,0 +1,6 @@
+
+list-manage.com.	86400	IN	SOA	ns.list-manage.com.	mail	2019061702 1800 900 604800 86400
+list-manage.com.	86400	IN	NS	ns.list-manage.com.
+ns.list-manage.com.	518400	IN	A	217.69.139.112
+
+list-manage.com.	518400	IN	A	205.201.132.96

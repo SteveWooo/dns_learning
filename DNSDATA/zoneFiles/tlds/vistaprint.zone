@@ -1,0 +1,4 @@
+
+vistaprint.	86400	IN	SOA	ns.vistaprint.	mail	2019061702 1800 900 604800 86400
+vistaprint.	86400	IN	NS	ns.vistaprint.
+ns.vistaprint.	518400	IN	A	37.209.196.9

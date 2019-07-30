@@ -1,0 +1,6 @@
+
+caranddriver.com.	86400	IN	SOA	ns.caranddriver.com.	mail	2019061702 1800 900 604800 86400
+caranddriver.com.	86400	IN	NS	ns.caranddriver.com.
+ns.caranddriver.com.	518400	IN	A	217.69.139.112
+
+caranddriver.com.	518400	IN	A	151.101.128.155

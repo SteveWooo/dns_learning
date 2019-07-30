@@ -1,0 +1,6 @@
+
+logitech.com.	86400	IN	SOA	ns.logitech.com.	mail	2019061702 1800 900 604800 86400
+logitech.com.	86400	IN	NS	ns.logitech.com.
+ns.logitech.com.	518400	IN	A	217.69.139.202
+
+logitech.com.	518400	IN	A	107.21.26.162

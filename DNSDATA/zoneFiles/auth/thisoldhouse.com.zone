@@ -1,0 +1,6 @@
+
+thisoldhouse.com.	86400	IN	SOA	ns.thisoldhouse.com.	mail	2019061702 1800 900 604800 86400
+thisoldhouse.com.	86400	IN	NS	ns.thisoldhouse.com.
+ns.thisoldhouse.com.	518400	IN	A	216.239.32.29
+
+thisoldhouse.com.	518400	IN	A	104.16.225.37

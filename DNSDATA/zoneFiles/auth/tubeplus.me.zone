@@ -1,0 +1,6 @@
+
+tubeplus.me.	86400	IN	SOA	ns.tubeplus.me.	mail	2019061702 1800 900 604800 86400
+tubeplus.me.	86400	IN	NS	ns.tubeplus.me.
+ns.tubeplus.me.	518400	IN	A	213.180.193.1
+
+tubeplus.me.	518400	IN	A	104.27.131.14

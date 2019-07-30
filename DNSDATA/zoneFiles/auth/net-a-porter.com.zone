@@ -1,0 +1,6 @@
+
+net-a-porter.com.	86400	IN	SOA	ns.net-a-porter.com.	mail	2019061702 1800 900 604800 86400
+net-a-porter.com.	86400	IN	NS	ns.net-a-porter.com.
+ns.net-a-porter.com.	518400	IN	A	205.251.199.254
+
+net-a-porter.com.	518400	IN	A	23.57.200.206

@@ -1,0 +1,6 @@
+
+theweathernetwork.com.	86400	IN	SOA	ns.theweathernetwork.com.	mail	2019061702 1800 900 604800 86400
+theweathernetwork.com.	86400	IN	NS	ns.theweathernetwork.com.
+ns.theweathernetwork.com.	518400	IN	A	193.108.91.127
+
+theweathernetwork.com.	518400	IN	A	40.114.106.174

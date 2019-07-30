@@ -1,0 +1,6 @@
+
+incredibar-search.com.	86400	IN	SOA	ns.incredibar-search.com.	mail	2019061702 1800 900 604800 86400
+incredibar-search.com.	86400	IN	NS	ns.incredibar-search.com.
+ns.incredibar-search.com.	518400	IN	A	174.35.55.22
+
+incredibar-search.com.	518400	IN	A	216.146.46.11

@@ -1,0 +1,6 @@
+
+sc.com.	86400	IN	SOA	ns.sc.com.	mail	2019061702 1800 900 604800 86400
+sc.com.	86400	IN	NS	ns.sc.com.
+ns.sc.com.	518400	IN	A	125.209.248.6
+
+sc.com.	518400	IN	A	23.61.231.94

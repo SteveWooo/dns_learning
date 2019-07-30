@@ -1,0 +1,6 @@
+
+tutorialspoint.com.	86400	IN	SOA	ns.tutorialspoint.com.	mail	2019061702 1800 900 604800 86400
+tutorialspoint.com.	86400	IN	NS	ns.tutorialspoint.com.
+ns.tutorialspoint.com.	518400	IN	A	217.69.139.202
+
+tutorialspoint.com.	518400	IN	A	94.130.81.180

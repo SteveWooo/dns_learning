@@ -1,0 +1,6 @@
+
+creativecommons.org.	86400	IN	SOA	ns.creativecommons.org.	mail	2019061702 1800 900 604800 86400
+creativecommons.org.	86400	IN	NS	ns.creativecommons.org.
+ns.creativecommons.org.	518400	IN	A	93.186.225.193
+
+creativecommons.org.	518400	IN	A	104.20.151.16

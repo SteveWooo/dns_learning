@@ -1,0 +1,6 @@
+
+bradsdeals.com.	86400	IN	SOA	ns.bradsdeals.com.	mail	2019061702 1800 900 604800 86400
+bradsdeals.com.	86400	IN	NS	ns.bradsdeals.com.
+ns.bradsdeals.com.	518400	IN	A	216.239.32.106
+
+bradsdeals.com.	518400	IN	A	13.35.198.124

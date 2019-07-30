@@ -1,0 +1,6 @@
+
+aftabir.com.	86400	IN	SOA	ns.aftabir.com.	mail	2019061702 1800 900 604800 86400
+aftabir.com.	86400	IN	NS	ns.aftabir.com.
+ns.aftabir.com.	518400	IN	A	216.239.32.29
+
+aftabir.com.	518400	IN	A	5.254.16.130

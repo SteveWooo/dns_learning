@@ -1,0 +1,6 @@
+
+beatport.com.	86400	IN	SOA	ns.beatport.com.	mail	2019061702 1800 900 604800 86400
+beatport.com.	86400	IN	NS	ns.beatport.com.
+ns.beatport.com.	518400	IN	A	193.232.142.17
+
+beatport.com.	518400	IN	A	208.92.202.129

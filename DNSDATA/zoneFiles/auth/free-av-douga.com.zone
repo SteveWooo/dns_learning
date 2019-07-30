@@ -1,0 +1,6 @@
+
+free-av-douga.com.	86400	IN	SOA	ns.free-av-douga.com.	mail	2019061702 1800 900 604800 86400
+free-av-douga.com.	86400	IN	NS	ns.free-av-douga.com.
+ns.free-av-douga.com.	518400	IN	A	174.35.55.22
+
+free-av-douga.com.	518400	IN	A	157.250.79.202

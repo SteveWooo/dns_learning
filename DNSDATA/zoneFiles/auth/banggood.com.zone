@@ -1,0 +1,6 @@
+
+banggood.com.	86400	IN	SOA	ns.banggood.com.	mail	2019061702 1800 900 604800 86400
+banggood.com.	86400	IN	NS	ns.banggood.com.
+ns.banggood.com.	518400	IN	A	200.221.11.98
+
+banggood.com.	518400	IN	A	169.48.178.254

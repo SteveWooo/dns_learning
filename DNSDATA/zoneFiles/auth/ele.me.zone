@@ -1,0 +1,6 @@
+
+ele.me.	86400	IN	SOA	ns.ele.me.	mail	2019061702 1800 900 604800 86400
+ele.me.	86400	IN	NS	ns.ele.me.
+ns.ele.me.	518400	IN	A	87.240.131.131
+
+ele.me.	518400	IN	A	106.14.48.241

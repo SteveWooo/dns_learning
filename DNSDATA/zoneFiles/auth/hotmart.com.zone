@@ -1,0 +1,6 @@
+
+hotmart.com.	86400	IN	SOA	ns.hotmart.com.	mail	2019061702 1800 900 604800 86400
+hotmart.com.	86400	IN	NS	ns.hotmart.com.
+ns.hotmart.com.	518400	IN	A	205.251.192.29
+
+hotmart.com.	518400	IN	A	99.84.168.40

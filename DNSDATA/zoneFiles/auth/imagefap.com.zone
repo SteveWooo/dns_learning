@@ -1,0 +1,6 @@
+
+imagefap.com.	86400	IN	SOA	ns.imagefap.com.	mail	2019061702 1800 900 604800 86400
+imagefap.com.	86400	IN	NS	ns.imagefap.com.
+ns.imagefap.com.	518400	IN	A	216.239.32.106
+
+imagefap.com.	518400	IN	A	85.159.232.5

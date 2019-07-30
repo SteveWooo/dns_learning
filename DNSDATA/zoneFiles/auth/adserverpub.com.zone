@@ -1,0 +1,6 @@
+
+adserverpub.com.	86400	IN	SOA	ns.adserverpub.com.	mail	2019061702 1800 900 604800 86400
+adserverpub.com.	86400	IN	NS	ns.adserverpub.com.
+ns.adserverpub.com.	518400	IN	A	205.251.199.254
+
+adserverpub.com.	518400	IN	A	94.23.33.128

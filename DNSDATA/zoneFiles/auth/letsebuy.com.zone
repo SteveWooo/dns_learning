@@ -1,0 +1,6 @@
+
+letsebuy.com.	86400	IN	SOA	ns.letsebuy.com.	mail	2019061702 1800 900 604800 86400
+letsebuy.com.	86400	IN	NS	ns.letsebuy.com.
+ns.letsebuy.com.	518400	IN	A	213.180.204.242
+
+letsebuy.com.	518400	IN	A	114.55.187.102

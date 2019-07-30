@@ -1,0 +1,6 @@
+
+comicbookresources.com.	86400	IN	SOA	ns.comicbookresources.com.	mail	2019061702 1800 900 604800 86400
+comicbookresources.com.	86400	IN	NS	ns.comicbookresources.com.
+ns.comicbookresources.com.	518400	IN	A	112.133.230.192
+
+comicbookresources.com.	518400	IN	A	34.201.177.150

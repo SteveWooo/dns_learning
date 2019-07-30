@@ -1,0 +1,6 @@
+
+gizmag.com.	86400	IN	SOA	ns.gizmag.com.	mail	2019061702 1800 900 604800 86400
+gizmag.com.	86400	IN	NS	ns.gizmag.com.
+ns.gizmag.com.	518400	IN	A	200.201.161.22
+
+gizmag.com.	518400	IN	A	104.26.0.8

@@ -1,0 +1,6 @@
+
+betfred.com.	86400	IN	SOA	ns.betfred.com.	mail	2019061702 1800 900 604800 86400
+betfred.com.	86400	IN	NS	ns.betfred.com.
+ns.betfred.com.	518400	IN	A	200.219.154.10
+
+betfred.com.	518400	IN	A	195.244.208.158

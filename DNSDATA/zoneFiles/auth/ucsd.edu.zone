@@ -1,0 +1,6 @@
+
+ucsd.edu.	86400	IN	SOA	ns.ucsd.edu.	mail	2019061702 1800 900 604800 86400
+ucsd.edu.	86400	IN	NS	ns.ucsd.edu.
+ns.ucsd.edu.	518400	IN	A	200.201.161.22
+
+ucsd.edu.	518400	IN	A	132.239.180.101

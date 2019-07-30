@@ -1,0 +1,6 @@
+
+johnlewis.com.	86400	IN	SOA	ns.johnlewis.com.	mail	2019061702 1800 900 604800 86400
+johnlewis.com.	86400	IN	NS	ns.johnlewis.com.
+ns.johnlewis.com.	518400	IN	A	174.35.55.22
+
+johnlewis.com.	518400	IN	A	193.35.254.192

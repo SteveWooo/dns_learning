@@ -1,0 +1,6 @@
+
+lurkmore.to.	86400	IN	SOA	ns.lurkmore.to.	mail	2019061702 1800 900 604800 86400
+lurkmore.to.	86400	IN	NS	ns.lurkmore.to.
+ns.lurkmore.to.	518400	IN	A	173.245.59.130
+
+lurkmore.to.	518400	IN	A	188.42.196.32

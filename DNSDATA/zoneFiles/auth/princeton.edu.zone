@@ -1,0 +1,6 @@
+
+princeton.edu.	86400	IN	SOA	ns.princeton.edu.	mail	2019061702 1800 900 604800 86400
+princeton.edu.	86400	IN	NS	ns.princeton.edu.
+ns.princeton.edu.	518400	IN	A	203.153.43.65
+
+princeton.edu.	518400	IN	A	140.180.223.22

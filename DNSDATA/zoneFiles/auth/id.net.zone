@@ -1,0 +1,6 @@
+
+id.net.	86400	IN	SOA	ns.id.net.	mail	2019061702 1800 900 604800 86400
+id.net.	86400	IN	NS	ns.id.net.
+ns.id.net.	518400	IN	A	193.232.156.17
+
+id.net.	518400	IN	A	185.88.180.139

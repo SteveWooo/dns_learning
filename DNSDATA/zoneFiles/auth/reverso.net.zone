@@ -1,0 +1,6 @@
+
+reverso.net.	86400	IN	SOA	ns.reverso.net.	mail	2019061702 1800 900 604800 86400
+reverso.net.	86400	IN	NS	ns.reverso.net.
+ns.reverso.net.	518400	IN	A	205.251.199.254
+
+reverso.net.	518400	IN	A	89.107.171.183

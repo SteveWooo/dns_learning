@@ -1,0 +1,6 @@
+
+google.am.	86400	IN	SOA	ns.google.am.	mail	2019061702 1800 900 604800 86400
+google.am.	86400	IN	NS	ns.google.am.
+ns.google.am.	518400	IN	A	213.180.204.242
+
+google.am.	518400	IN	A	31.13.76.8

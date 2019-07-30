@@ -1,0 +1,6 @@
+
+blogspot.hu.	86400	IN	SOA	ns.blogspot.hu.	mail	2019061702 1800 900 604800 86400
+blogspot.hu.	86400	IN	NS	ns.blogspot.hu.
+ns.blogspot.hu.	518400	IN	A	213.180.193.1
+
+blogspot.hu.	518400	IN	A	172.217.161.73

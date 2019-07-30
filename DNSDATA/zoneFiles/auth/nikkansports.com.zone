@@ -1,0 +1,6 @@
+
+nikkansports.com.	86400	IN	SOA	ns.nikkansports.com.	mail	2019061702 1800 900 604800 86400
+nikkansports.com.	86400	IN	NS	ns.nikkansports.com.
+ns.nikkansports.com.	518400	IN	A	217.69.139.112
+
+nikkansports.com.	518400	IN	A	13.225.38.64

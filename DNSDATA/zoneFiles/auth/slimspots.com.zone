@@ -1,0 +1,6 @@
+
+slimspots.com.	86400	IN	SOA	ns.slimspots.com.	mail	2019061702 1800 900 604800 86400
+slimspots.com.	86400	IN	NS	ns.slimspots.com.
+ns.slimspots.com.	518400	IN	A	36.51.252.8
+
+slimspots.com.	518400	IN	A	37.59.33.128

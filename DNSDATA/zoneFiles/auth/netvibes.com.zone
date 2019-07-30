@@ -1,0 +1,6 @@
+
+netvibes.com.	86400	IN	SOA	ns.netvibes.com.	mail	2019061702 1800 900 604800 86400
+netvibes.com.	86400	IN	NS	ns.netvibes.com.
+ns.netvibes.com.	518400	IN	A	204.69.234.1
+
+netvibes.com.	518400	IN	A	193.189.143.34

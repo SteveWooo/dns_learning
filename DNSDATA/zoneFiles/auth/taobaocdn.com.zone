@@ -1,0 +1,6 @@
+
+taobaocdn.com.	86400	IN	SOA	ns.taobaocdn.com.	mail	2019061702 1800 900 604800 86400
+taobaocdn.com.	86400	IN	NS	ns.taobaocdn.com.
+ns.taobaocdn.com.	518400	IN	A	173.245.58.201
+
+taobaocdn.com.	518400	IN	A	140.205.132.250

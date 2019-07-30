@@ -1,0 +1,6 @@
+
+rae.es.	86400	IN	SOA	ns.rae.es.	mail	2019061702 1800 900 604800 86400
+rae.es.	86400	IN	NS	ns.rae.es.
+ns.rae.es.	518400	IN	A	193.232.156.17
+
+rae.es.	518400	IN	A	193.145.222.100

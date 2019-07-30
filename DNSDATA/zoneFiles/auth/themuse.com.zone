@@ -1,0 +1,6 @@
+
+themuse.com.	86400	IN	SOA	ns.themuse.com.	mail	2019061702 1800 900 604800 86400
+themuse.com.	86400	IN	NS	ns.themuse.com.
+ns.themuse.com.	518400	IN	A	187.18.60.242
+
+themuse.com.	518400	IN	A	104.16.193.46

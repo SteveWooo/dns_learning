@@ -1,0 +1,6 @@
+
+euronews.com.	86400	IN	SOA	ns.euronews.com.	mail	2019061702 1800 900 604800 86400
+euronews.com.	86400	IN	NS	ns.euronews.com.
+ns.euronews.com.	518400	IN	A	208.78.70.47
+
+euronews.com.	518400	IN	A	31.13.69.160

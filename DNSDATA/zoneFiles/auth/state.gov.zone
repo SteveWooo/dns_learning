@@ -1,0 +1,6 @@
+
+state.gov.	86400	IN	SOA	ns.state.gov.	mail	2019061702 1800 900 604800 86400
+state.gov.	86400	IN	NS	ns.state.gov.
+ns.state.gov.	518400	IN	A	204.74.108.1
+
+state.gov.	518400	IN	A	72.166.186.169

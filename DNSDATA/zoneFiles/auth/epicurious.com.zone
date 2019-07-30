@@ -1,0 +1,6 @@
+
+epicurious.com.	86400	IN	SOA	ns.epicurious.com.	mail	2019061702 1800 900 604800 86400
+epicurious.com.	86400	IN	NS	ns.epicurious.com.
+ns.epicurious.com.	518400	IN	A	217.69.139.112
+
+epicurious.com.	518400	IN	A	151.101.64.239

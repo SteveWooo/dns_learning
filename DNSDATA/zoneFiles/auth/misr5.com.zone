@@ -1,0 +1,6 @@
+
+misr5.com.	86400	IN	SOA	ns.misr5.com.	mail	2019061702 1800 900 604800 86400
+misr5.com.	86400	IN	NS	ns.misr5.com.
+ns.misr5.com.	518400	IN	A	213.180.193.1
+
+misr5.com.	518400	IN	A	104.18.45.44

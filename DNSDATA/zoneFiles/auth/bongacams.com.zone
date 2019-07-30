@@ -1,0 +1,6 @@
+
+bongacams.com.	86400	IN	SOA	ns.bongacams.com.	mail	2019061702 1800 900 604800 86400
+bongacams.com.	86400	IN	NS	ns.bongacams.com.
+ns.bongacams.com.	518400	IN	A	175.126.117.211
+
+bongacams.com.	518400	IN	A	67.22.32.111

@@ -1,0 +1,6 @@
+
+vsuch.com.	86400	IN	SOA	ns.vsuch.com.	mail	2019061702 1800 900 604800 86400
+vsuch.com.	86400	IN	NS	ns.vsuch.com.
+ns.vsuch.com.	518400	IN	A	205.251.195.203
+
+vsuch.com.	518400	IN	A	58.215.139.45

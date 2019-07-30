@@ -1,0 +1,6 @@
+
+guildwars2.com.	86400	IN	SOA	ns.guildwars2.com.	mail	2019061702 1800 900 604800 86400
+guildwars2.com.	86400	IN	NS	ns.guildwars2.com.
+ns.guildwars2.com.	518400	IN	A	216.239.32.106
+
+guildwars2.com.	518400	IN	A	35.156.62.23

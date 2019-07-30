@@ -1,0 +1,6 @@
+
+toyokeizai.net.	86400	IN	SOA	ns.toyokeizai.net.	mail	2019061702 1800 900 604800 86400
+toyokeizai.net.	86400	IN	NS	ns.toyokeizai.net.
+ns.toyokeizai.net.	518400	IN	A	216.239.32.29
+
+toyokeizai.net.	518400	IN	A	202.238.151.52

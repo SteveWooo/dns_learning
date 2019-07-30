@@ -1,0 +1,6 @@
+
+invisionapp.com.	86400	IN	SOA	ns.invisionapp.com.	mail	2019061702 1800 900 604800 86400
+invisionapp.com.	86400	IN	NS	ns.invisionapp.com.
+ns.invisionapp.com.	518400	IN	A	204.69.234.1
+
+invisionapp.com.	518400	IN	A	18.210.125.228

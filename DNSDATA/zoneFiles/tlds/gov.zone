@@ -1,0 +1,373 @@
+
+gov.	86400	IN	SOA	ns.gov.	mail	2019061702 1800 900 604800 86400
+gov.	86400	IN	NS	ns.gov.
+ns.gov.	518400	IN	A	69.36.157.30
+
+healthcare.gov.	86400	IN	NS	ns.healthcare.gov.
+ns.healthcare.gov.	518400	IN	A	23.211.61.66
+
+cdc.gov.	86400	IN	NS	ns.cdc.gov.
+ns.cdc.gov.	518400	IN	A	23.211.61.66
+
+usda.gov.	86400	IN	NS	ns.usda.gov.
+ns.usda.gov.	518400	IN	A	23.211.61.66
+
+epa.gov.	86400	IN	NS	ns.epa.gov.
+ns.epa.gov.	518400	IN	A	36.51.252.8
+
+cdc.gov.	86400	IN	NS	ns.cdc.gov.
+ns.cdc.gov.	518400	IN	A	52.164.230.183
+
+irs.gov.	86400	IN	NS	ns.irs.gov.
+ns.irs.gov.	518400	IN	A	52.164.230.183
+
+noaa.gov.	86400	IN	NS	ns.noaa.gov.
+ns.noaa.gov.	518400	IN	A	52.164.230.183
+
+state.gov.	86400	IN	NS	ns.state.gov.
+ns.state.gov.	518400	IN	A	58.180.27.231
+
+usda.gov.	86400	IN	NS	ns.usda.gov.
+ns.usda.gov.	518400	IN	A	58.180.27.231
+
+ed.gov.	86400	IN	NS	ns.ed.gov.
+ns.ed.gov.	518400	IN	A	58.180.27.226
+
+uscourts.gov.	86400	IN	NS	ns.uscourts.gov.
+ns.uscourts.gov.	518400	IN	A	58.180.27.226
+
+noaa.gov.	86400	IN	NS	ns.noaa.gov.
+ns.noaa.gov.	518400	IN	A	64.106.209.186
+
+epa.gov.	86400	IN	NS	ns.epa.gov.
+ns.epa.gov.	518400	IN	A	81.19.73.180
+
+ed.gov.	86400	IN	NS	ns.ed.gov.
+ns.ed.gov.	518400	IN	A	83.143.25.220
+
+wa.gov.	86400	IN	NS	ns.wa.gov.
+ns.wa.gov.	518400	IN	A	87.250.250.1
+
+ed.gov.	86400	IN	NS	ns.ed.gov.
+ns.ed.gov.	518400	IN	A	87.250.250.1
+
+ohio.gov.	86400	IN	NS	ns.ohio.gov.
+ns.ohio.gov.	518400	IN	A	92.242.43.216
+
+uscis.gov.	86400	IN	NS	ns.uscis.gov.
+ns.uscis.gov.	518400	IN	A	93.186.225.193
+
+va.gov.	86400	IN	NS	ns.va.gov.
+ns.va.gov.	518400	IN	A	93.186.225.193
+
+nih.gov.	86400	IN	NS	ns.nih.gov.
+ns.nih.gov.	518400	IN	A	104.40.210.25
+
+nyc.gov.	86400	IN	NS	ns.nyc.gov.
+ns.nyc.gov.	518400	IN	A	104.40.210.25
+
+nps.gov.	86400	IN	NS	ns.nps.gov.
+ns.nps.gov.	518400	IN	A	104.40.210.25
+
+usgs.gov.	86400	IN	NS	ns.usgs.gov.
+ns.usgs.gov.	518400	IN	A	104.40.210.25
+
+noaa.gov.	86400	IN	NS	ns.noaa.gov.
+ns.noaa.gov.	518400	IN	A	104.40.210.25
+
+usda.gov.	86400	IN	NS	ns.usda.gov.
+ns.usda.gov.	518400	IN	A	111.202.126.2
+
+noaa.gov.	86400	IN	NS	ns.noaa.gov.
+ns.noaa.gov.	518400	IN	A	111.206.53.6
+
+ed.gov.	86400	IN	NS	ns.ed.gov.
+ns.ed.gov.	518400	IN	A	111.206.53.6
+
+nasa.gov.	86400	IN	NS	ns.nasa.gov.
+ns.nasa.gov.	518400	IN	A	125.208.45.1
+
+usembassy.gov.	86400	IN	NS	ns.usembassy.gov.
+ns.usembassy.gov.	518400	IN	A	125.208.45.1
+
+usda.gov.	86400	IN	NS	ns.usda.gov.
+ns.usda.gov.	518400	IN	A	125.209.248.6
+
+va.gov.	86400	IN	NS	ns.va.gov.
+ns.va.gov.	518400	IN	A	125.209.248.6
+
+usembassy.gov.	86400	IN	NS	ns.usembassy.gov.
+ns.usembassy.gov.	518400	IN	A	131.0.24.26
+
+uscourts.gov.	86400	IN	NS	ns.uscourts.gov.
+ns.uscourts.gov.	518400	IN	A	131.0.24.26
+
+usembassy.gov.	86400	IN	NS	ns.usembassy.gov.
+ns.usembassy.gov.	518400	IN	A	140.205.67.253
+
+ssa.gov.	86400	IN	NS	ns.ssa.gov.
+ns.ssa.gov.	518400	IN	A	165.160.15.20
+
+mass.gov.	86400	IN	NS	ns.mass.gov.
+ns.mass.gov.	518400	IN	A	173.245.58.159
+
+irs.gov.	86400	IN	NS	ns.irs.gov.
+ns.irs.gov.	518400	IN	A	173.245.58.159
+
+healthcare.gov.	86400	IN	NS	ns.healthcare.gov.
+ns.healthcare.gov.	518400	IN	A	173.245.59.130
+
+ca.gov.	86400	IN	NS	ns.ca.gov.
+ns.ca.gov.	518400	IN	A	173.245.59.130
+
+noaa.gov.	86400	IN	NS	ns.noaa.gov.
+ns.noaa.gov.	518400	IN	A	173.245.59.130
+
+wa.gov.	86400	IN	NS	ns.wa.gov.
+ns.wa.gov.	518400	IN	A	173.245.59.130
+
+uscourts.gov.	86400	IN	NS	ns.uscourts.gov.
+ns.uscourts.gov.	518400	IN	A	173.245.59.160
+
+usajobs.gov.	86400	IN	NS	ns.usajobs.gov.
+ns.usajobs.gov.	518400	IN	A	173.245.59.160
+
+ssa.gov.	86400	IN	NS	ns.ssa.gov.
+ns.ssa.gov.	518400	IN	A	173.245.58.138
+
+weather.gov.	86400	IN	NS	ns.weather.gov.
+ns.weather.gov.	518400	IN	A	173.245.58.138
+
+dhs.gov.	86400	IN	NS	ns.dhs.gov.
+ns.dhs.gov.	518400	IN	A	173.245.58.201
+
+ssa.gov.	86400	IN	NS	ns.ssa.gov.
+ns.ssa.gov.	518400	IN	A	173.245.58.201
+
+noaa.gov.	86400	IN	NS	ns.noaa.gov.
+ns.noaa.gov.	518400	IN	A	173.245.58.89
+
+healthcare.gov.	86400	IN	NS	ns.healthcare.gov.
+ns.healthcare.gov.	518400	IN	A	173.245.58.89
+
+ed.gov.	86400	IN	NS	ns.ed.gov.
+ns.ed.gov.	518400	IN	A	173.245.58.89
+
+ssa.gov.	86400	IN	NS	ns.ssa.gov.
+ns.ssa.gov.	518400	IN	A	174.35.55.22
+
+nih.gov.	86400	IN	NS	ns.nih.gov.
+ns.nih.gov.	518400	IN	A	175.126.117.211
+
+wa.gov.	86400	IN	NS	ns.wa.gov.
+ns.wa.gov.	518400	IN	A	175.126.117.211
+
+cdc.gov.	86400	IN	NS	ns.cdc.gov.
+ns.cdc.gov.	518400	IN	A	180.149.156.12
+
+ed.gov.	86400	IN	NS	ns.ed.gov.
+ns.ed.gov.	518400	IN	A	183.3.226.207
+
+nasa.gov.	86400	IN	NS	ns.nasa.gov.
+ns.nasa.gov.	518400	IN	A	183.3.226.207
+
+sec.gov.	86400	IN	NS	ns.sec.gov.
+ns.sec.gov.	518400	IN	A	187.18.60.242
+
+state.gov.	86400	IN	NS	ns.state.gov.
+ns.state.gov.	518400	IN	A	187.18.60.242
+
+ssa.gov.	86400	IN	NS	ns.ssa.gov.
+ns.ssa.gov.	518400	IN	A	187.18.60.242
+
+weather.gov.	86400	IN	NS	ns.weather.gov.
+ns.weather.gov.	518400	IN	A	193.108.91.127
+
+mass.gov.	86400	IN	NS	ns.mass.gov.
+ns.mass.gov.	518400	IN	A	193.232.156.17
+
+va.gov.	86400	IN	NS	ns.va.gov.
+ns.va.gov.	518400	IN	A	193.232.156.17
+
+loc.gov.	86400	IN	NS	ns.loc.gov.
+ns.loc.gov.	518400	IN	A	193.232.156.17
+
+usgs.gov.	86400	IN	NS	ns.usgs.gov.
+ns.usgs.gov.	518400	IN	A	198.11.138.245
+
+ny.gov.	86400	IN	NS	ns.ny.gov.
+ns.ny.gov.	518400	IN	A	198.11.138.245
+
+uspto.gov.	86400	IN	NS	ns.uspto.gov.
+ns.uspto.gov.	518400	IN	A	198.11.138.245
+
+cdc.gov.	86400	IN	NS	ns.cdc.gov.
+ns.cdc.gov.	518400	IN	A	198.11.138.249
+
+wa.gov.	86400	IN	NS	ns.wa.gov.
+ns.wa.gov.	518400	IN	A	198.11.138.249
+
+dhs.gov.	86400	IN	NS	ns.dhs.gov.
+ns.dhs.gov.	518400	IN	A	198.100.156.181
+
+va.gov.	86400	IN	NS	ns.va.gov.
+ns.va.gov.	518400	IN	A	198.100.156.181
+
+nasa.gov.	86400	IN	NS	ns.nasa.gov.
+ns.nasa.gov.	518400	IN	A	198.100.156.181
+
+nyc.gov.	86400	IN	NS	ns.nyc.gov.
+ns.nyc.gov.	518400	IN	A	198.100.156.181
+
+loc.gov.	86400	IN	NS	ns.loc.gov.
+ns.loc.gov.	518400	IN	A	198.100.156.181
+
+sec.gov.	86400	IN	NS	ns.sec.gov.
+ns.sec.gov.	518400	IN	A	198.100.156.181
+
+nasa.gov.	86400	IN	NS	ns.nasa.gov.
+ns.nasa.gov.	518400	IN	A	200.201.161.22
+
+uscis.gov.	86400	IN	NS	ns.uscis.gov.
+ns.uscis.gov.	518400	IN	A	200.201.161.22
+
+healthcare.gov.	86400	IN	NS	ns.healthcare.gov.
+ns.healthcare.gov.	518400	IN	A	200.201.161.22
+
+irs.gov.	86400	IN	NS	ns.irs.gov.
+ns.irs.gov.	518400	IN	A	200.201.161.22
+
+usgs.gov.	86400	IN	NS	ns.usgs.gov.
+ns.usgs.gov.	518400	IN	A	200.201.165.253
+
+ca.gov.	86400	IN	NS	ns.ca.gov.
+ns.ca.gov.	518400	IN	A	200.201.165.253
+
+healthcare.gov.	86400	IN	NS	ns.healthcare.gov.
+ns.healthcare.gov.	518400	IN	A	200.201.165.253
+
+loc.gov.	86400	IN	NS	ns.loc.gov.
+ns.loc.gov.	518400	IN	A	200.219.154.10
+
+ca.gov.	86400	IN	NS	ns.ca.gov.
+ns.ca.gov.	518400	IN	A	200.219.154.10
+
+usajobs.gov.	86400	IN	NS	ns.usajobs.gov.
+ns.usajobs.gov.	518400	IN	A	200.219.154.10
+
+epa.gov.	86400	IN	NS	ns.epa.gov.
+ns.epa.gov.	518400	IN	A	200.219.154.10
+
+mass.gov.	86400	IN	NS	ns.mass.gov.
+ns.mass.gov.	518400	IN	A	200.219.154.10
+
+nasa.gov.	86400	IN	NS	ns.nasa.gov.
+ns.nasa.gov.	518400	IN	A	202.108.22.220
+
+census.gov.	86400	IN	NS	ns.census.gov.
+ns.census.gov.	518400	IN	A	202.56.230.5
+
+cdc.gov.	86400	IN	NS	ns.cdc.gov.
+ns.cdc.gov.	518400	IN	A	202.56.230.5
+
+whitehouse.gov.	86400	IN	NS	ns.whitehouse.gov.
+ns.whitehouse.gov.	518400	IN	A	202.56.230.5
+
+noaa.gov.	86400	IN	NS	ns.noaa.gov.
+ns.noaa.gov.	518400	IN	A	202.56.230.5
+
+sec.gov.	86400	IN	NS	ns.sec.gov.
+ns.sec.gov.	518400	IN	A	203.153.43.65
+
+weather.gov.	86400	IN	NS	ns.weather.gov.
+ns.weather.gov.	518400	IN	A	203.153.43.65
+
+usda.gov.	86400	IN	NS	ns.usda.gov.
+ns.usda.gov.	518400	IN	A	204.74.108.1
+
+state.gov.	86400	IN	NS	ns.state.gov.
+ns.state.gov.	518400	IN	A	204.74.108.1
+
+sec.gov.	86400	IN	NS	ns.sec.gov.
+ns.sec.gov.	518400	IN	A	204.74.108.1
+
+nps.gov.	86400	IN	NS	ns.nps.gov.
+ns.nps.gov.	518400	IN	A	204.74.108.1
+
+mass.gov.	86400	IN	NS	ns.mass.gov.
+ns.mass.gov.	518400	IN	A	204.74.108.1
+
+noaa.gov.	86400	IN	NS	ns.noaa.gov.
+ns.noaa.gov.	518400	IN	A	205.251.192.29
+
+uscourts.gov.	86400	IN	NS	ns.uscourts.gov.
+ns.uscourts.gov.	518400	IN	A	205.251.192.29
+
+usda.gov.	86400	IN	NS	ns.usda.gov.
+ns.usda.gov.	518400	IN	A	205.251.192.29
+
+wa.gov.	86400	IN	NS	ns.wa.gov.
+ns.wa.gov.	518400	IN	A	205.251.197.107
+
+noaa.gov.	86400	IN	NS	ns.noaa.gov.
+ns.noaa.gov.	518400	IN	A	205.251.194.1
+
+cdc.gov.	86400	IN	NS	ns.cdc.gov.
+ns.cdc.gov.	518400	IN	A	205.251.199.254
+
+weather.gov.	86400	IN	NS	ns.weather.gov.
+ns.weather.gov.	518400	IN	A	205.251.199.254
+
+ssa.gov.	86400	IN	NS	ns.ssa.gov.
+ns.ssa.gov.	518400	IN	A	205.251.199.254
+
+ny.gov.	86400	IN	NS	ns.ny.gov.
+ns.ny.gov.	518400	IN	A	205.251.195.203
+
+uscourts.gov.	86400	IN	NS	ns.uscourts.gov.
+ns.uscourts.gov.	518400	IN	A	205.251.195.203
+
+uspto.gov.	86400	IN	NS	ns.uspto.gov.
+ns.uspto.gov.	518400	IN	A	205.251.195.203
+
+healthcare.gov.	86400	IN	NS	ns.healthcare.gov.
+ns.healthcare.gov.	518400	IN	A	205.251.195.203
+
+nps.gov.	86400	IN	NS	ns.nps.gov.
+ns.nps.gov.	518400	IN	A	206.128.173.109
+
+nps.gov.	86400	IN	NS	ns.nps.gov.
+ns.nps.gov.	518400	IN	A	208.78.70.47
+
+nps.gov.	86400	IN	NS	ns.nps.gov.
+ns.nps.gov.	518400	IN	A	213.180.193.1
+
+uscis.gov.	86400	IN	NS	ns.uscis.gov.
+ns.uscis.gov.	518400	IN	A	216.239.32.10
+
+whitehouse.gov.	86400	IN	NS	ns.whitehouse.gov.
+ns.whitehouse.gov.	518400	IN	A	216.239.32.10
+
+usajobs.gov.	86400	IN	NS	ns.usajobs.gov.
+ns.usajobs.gov.	518400	IN	A	216.239.32.106
+
+epa.gov.	86400	IN	NS	ns.epa.gov.
+ns.epa.gov.	518400	IN	A	216.239.32.106
+
+usembassy.gov.	86400	IN	NS	ns.usembassy.gov.
+ns.usembassy.gov.	518400	IN	A	216.239.32.106
+
+irs.gov.	86400	IN	NS	ns.irs.gov.
+ns.irs.gov.	518400	IN	A	216.58.200.238
+
+nasa.gov.	86400	IN	NS	ns.nasa.gov.
+ns.nasa.gov.	518400	IN	A	216.58.200.238
+
+dhs.gov.	86400	IN	NS	ns.dhs.gov.
+ns.dhs.gov.	518400	IN	A	217.69.139.112
+
+usgs.gov.	86400	IN	NS	ns.usgs.gov.
+ns.usgs.gov.	518400	IN	A	217.69.139.202
+
+ssa.gov.	86400	IN	NS	ns.ssa.gov.
+ns.ssa.gov.	518400	IN	A	217.69.139.202

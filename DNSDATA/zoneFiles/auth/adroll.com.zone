@@ -1,0 +1,6 @@
+
+adroll.com.	86400	IN	SOA	ns.adroll.com.	mail	2019061702 1800 900 604800 86400
+adroll.com.	86400	IN	NS	ns.adroll.com.
+ns.adroll.com.	518400	IN	A	213.180.193.1
+
+adroll.com.	518400	IN	A	216.146.46.11

@@ -1,0 +1,6 @@
+
+4chan.org.	86400	IN	SOA	ns.4chan.org.	mail	2019061702 1800 900 604800 86400
+4chan.org.	86400	IN	NS	ns.4chan.org.
+ns.4chan.org.	518400	IN	A	217.69.139.112
+
+4chan.org.	518400	IN	A	104.17.136.89

@@ -1,0 +1,6 @@
+
+persiantools.com.	86400	IN	SOA	ns.persiantools.com.	mail	2019061702 1800 900 604800 86400
+persiantools.com.	86400	IN	NS	ns.persiantools.com.
+ns.persiantools.com.	518400	IN	A	111.206.53.6
+
+persiantools.com.	518400	IN	A	185.129.169.200

@@ -1,0 +1,6 @@
+
+popads.net.	86400	IN	SOA	ns.popads.net.	mail	2019061702 1800 900 604800 86400
+popads.net.	86400	IN	NS	ns.popads.net.
+ns.popads.net.	518400	IN	A	216.239.32.106
+
+popads.net.	518400	IN	A	216.21.13.12

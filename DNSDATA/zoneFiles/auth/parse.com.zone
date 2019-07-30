@@ -1,0 +1,6 @@
+
+parse.com.	86400	IN	SOA	ns.parse.com.	mail	2019061702 1800 900 604800 86400
+parse.com.	86400	IN	NS	ns.parse.com.
+ns.parse.com.	518400	IN	A	216.239.32.29
+
+parse.com.	518400	IN	A	157.240.222.16

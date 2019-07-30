@@ -1,0 +1,6 @@
+
+explosm.net.	86400	IN	SOA	ns.explosm.net.	mail	2019061702 1800 900 604800 86400
+explosm.net.	86400	IN	NS	ns.explosm.net.
+ns.explosm.net.	518400	IN	A	216.239.32.10
+
+explosm.net.	518400	IN	A	104.25.70.28

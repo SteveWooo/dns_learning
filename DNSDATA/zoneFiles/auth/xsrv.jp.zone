@@ -1,0 +1,6 @@
+
+xsrv.jp.	86400	IN	SOA	ns.xsrv.jp.	mail	2019061702 1800 900 604800 86400
+xsrv.jp.	86400	IN	NS	ns.xsrv.jp.
+ns.xsrv.jp.	518400	IN	A	198.100.156.181
+
+xsrv.jp.	518400	IN	A	219.94.200.238

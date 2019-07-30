@@ -1,0 +1,6 @@
+
+weather.gov.	86400	IN	SOA	ns.weather.gov.	mail	2019061702 1800 900 604800 86400
+weather.gov.	86400	IN	NS	ns.weather.gov.
+ns.weather.gov.	518400	IN	A	205.251.199.254
+
+weather.gov.	518400	IN	A	104.74.20.16

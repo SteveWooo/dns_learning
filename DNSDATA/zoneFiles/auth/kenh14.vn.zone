@@ -1,0 +1,6 @@
+
+kenh14.vn.	86400	IN	SOA	ns.kenh14.vn.	mail	2019061702 1800 900 604800 86400
+kenh14.vn.	86400	IN	NS	ns.kenh14.vn.
+ns.kenh14.vn.	518400	IN	A	200.221.11.98
+
+kenh14.vn.	518400	IN	A	123.30.151.82

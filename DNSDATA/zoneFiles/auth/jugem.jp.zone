@@ -1,0 +1,6 @@
+
+jugem.jp.	86400	IN	SOA	ns.jugem.jp.	mail	2019061702 1800 900 604800 86400
+jugem.jp.	86400	IN	NS	ns.jugem.jp.
+ns.jugem.jp.	518400	IN	A	173.245.58.201
+
+jugem.jp.	518400	IN	A	163.44.191.95

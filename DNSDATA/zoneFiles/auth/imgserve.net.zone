@@ -1,0 +1,6 @@
+
+imgserve.net.	86400	IN	SOA	ns.imgserve.net.	mail	2019061702 1800 900 604800 86400
+imgserve.net.	86400	IN	NS	ns.imgserve.net.
+ns.imgserve.net.	518400	IN	A	206.128.173.109
+
+imgserve.net.	518400	IN	A	104.31.64.209

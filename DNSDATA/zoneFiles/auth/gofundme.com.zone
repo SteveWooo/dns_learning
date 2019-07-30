@@ -1,0 +1,6 @@
+
+gofundme.com.	86400	IN	SOA	ns.gofundme.com.	mail	2019061702 1800 900 604800 86400
+gofundme.com.	86400	IN	NS	ns.gofundme.com.
+ns.gofundme.com.	518400	IN	A	213.180.193.1
+
+gofundme.com.	518400	IN	A	52.72.169.8

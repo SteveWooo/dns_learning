@@ -1,0 +1,6 @@
+
+expedia.ca.	86400	IN	SOA	ns.expedia.ca.	mail	2019061702 1800 900 604800 86400
+expedia.ca.	86400	IN	NS	ns.expedia.ca.
+ns.expedia.ca.	518400	IN	A	173.245.58.201
+
+expedia.ca.	518400	IN	A	52.26.234.148

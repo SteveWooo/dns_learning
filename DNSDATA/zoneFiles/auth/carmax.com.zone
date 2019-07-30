@@ -1,0 +1,6 @@
+
+carmax.com.	86400	IN	SOA	ns.carmax.com.	mail	2019061702 1800 900 604800 86400
+carmax.com.	86400	IN	NS	ns.carmax.com.
+ns.carmax.com.	518400	IN	A	205.251.192.29
+
+carmax.com.	518400	IN	A	138.69.200.145

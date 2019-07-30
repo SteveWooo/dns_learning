@@ -1,0 +1,6 @@
+
+fark.com.	86400	IN	SOA	ns.fark.com.	mail	2019061702 1800 900 604800 86400
+fark.com.	86400	IN	NS	ns.fark.com.
+ns.fark.com.	518400	IN	A	173.245.58.201
+
+fark.com.	518400	IN	A	138.197.98.143

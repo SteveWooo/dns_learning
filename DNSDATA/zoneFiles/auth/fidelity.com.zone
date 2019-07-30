@@ -1,0 +1,6 @@
+
+fidelity.com.	86400	IN	SOA	ns.fidelity.com.	mail	2019061702 1800 900 604800 86400
+fidelity.com.	86400	IN	NS	ns.fidelity.com.
+ns.fidelity.com.	518400	IN	A	213.180.193.1
+
+fidelity.com.	518400	IN	A	155.199.64.173

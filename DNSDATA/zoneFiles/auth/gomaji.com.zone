@@ -1,0 +1,6 @@
+
+gomaji.com.	86400	IN	SOA	ns.gomaji.com.	mail	2019061702 1800 900 604800 86400
+gomaji.com.	86400	IN	NS	ns.gomaji.com.
+ns.gomaji.com.	518400	IN	A	200.221.11.98
+
+gomaji.com.	518400	IN	A	35.227.200.231

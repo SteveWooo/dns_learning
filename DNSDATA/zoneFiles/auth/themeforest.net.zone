@@ -1,0 +1,6 @@
+
+themeforest.net.	86400	IN	SOA	ns.themeforest.net.	mail	2019061702 1800 900 604800 86400
+themeforest.net.	86400	IN	NS	ns.themeforest.net.
+ns.themeforest.net.	518400	IN	A	216.58.200.238
+
+themeforest.net.	518400	IN	A	104.18.30.233

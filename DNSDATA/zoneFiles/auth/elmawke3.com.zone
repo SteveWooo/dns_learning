@@ -1,0 +1,6 @@
+
+elmawke3.com.	86400	IN	SOA	ns.elmawke3.com.	mail	2019061702 1800 900 604800 86400
+elmawke3.com.	86400	IN	NS	ns.elmawke3.com.
+ns.elmawke3.com.	518400	IN	A	213.180.204.242
+
+elmawke3.com.	518400	IN	A	104.27.144.8

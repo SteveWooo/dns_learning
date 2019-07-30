@@ -1,0 +1,6 @@
+
+seopult.ru.	86400	IN	SOA	ns.seopult.ru.	mail	2019061702 1800 900 604800 86400
+seopult.ru.	86400	IN	NS	ns.seopult.ru.
+ns.seopult.ru.	518400	IN	A	203.153.43.65
+
+seopult.ru.	518400	IN	A	217.197.112.80

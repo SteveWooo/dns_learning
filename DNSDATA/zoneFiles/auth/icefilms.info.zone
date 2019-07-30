@@ -1,0 +1,6 @@
+
+icefilms.info.	86400	IN	SOA	ns.icefilms.info.	mail	2019061702 1800 900 604800 86400
+icefilms.info.	86400	IN	NS	ns.icefilms.info.
+ns.icefilms.info.	518400	IN	A	193.108.91.127
+
+icefilms.info.	518400	IN	A	104.31.18.30

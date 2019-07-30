@@ -1,0 +1,6 @@
+
+gulte.com.	86400	IN	SOA	ns.gulte.com.	mail	2019061702 1800 900 604800 86400
+gulte.com.	86400	IN	NS	ns.gulte.com.
+ns.gulte.com.	518400	IN	A	202.108.22.220
+
+gulte.com.	518400	IN	A	162.244.65.102

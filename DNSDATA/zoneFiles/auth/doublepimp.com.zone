@@ -1,0 +1,6 @@
+
+doublepimp.com.	86400	IN	SOA	ns.doublepimp.com.	mail	2019061702 1800 900 604800 86400
+doublepimp.com.	86400	IN	NS	ns.doublepimp.com.
+ns.doublepimp.com.	518400	IN	A	198.100.156.181
+
+doublepimp.com.	518400	IN	A	69.89.69.121

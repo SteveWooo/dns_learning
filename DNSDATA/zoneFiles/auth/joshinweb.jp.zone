@@ -1,0 +1,6 @@
+
+joshinweb.jp.	86400	IN	SOA	ns.joshinweb.jp.	mail	2019061702 1800 900 604800 86400
+joshinweb.jp.	86400	IN	NS	ns.joshinweb.jp.
+ns.joshinweb.jp.	518400	IN	A	213.180.204.242
+
+joshinweb.jp.	518400	IN	A	210.191.18.150

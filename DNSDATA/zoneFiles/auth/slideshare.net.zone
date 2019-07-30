@@ -1,0 +1,6 @@
+
+slideshare.net.	86400	IN	SOA	ns.slideshare.net.	mail	2019061702 1800 900 604800 86400
+slideshare.net.	86400	IN	NS	ns.slideshare.net.
+ns.slideshare.net.	518400	IN	A	217.69.139.112
+
+slideshare.net.	518400	IN	A	31.13.77.33

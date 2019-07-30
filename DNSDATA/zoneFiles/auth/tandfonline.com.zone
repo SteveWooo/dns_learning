@@ -1,0 +1,6 @@
+
+tandfonline.com.	86400	IN	SOA	ns.tandfonline.com.	mail	2019061702 1800 900 604800 86400
+tandfonline.com.	86400	IN	NS	ns.tandfonline.com.
+ns.tandfonline.com.	518400	IN	A	208.78.70.47
+
+tandfonline.com.	518400	IN	A	65.156.1.60

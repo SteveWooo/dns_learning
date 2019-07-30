@@ -1,0 +1,6 @@
+
+asianews2ch.jp.	86400	IN	SOA	ns.asianews2ch.jp.	mail	2019061702 1800 900 604800 86400
+asianews2ch.jp.	86400	IN	NS	ns.asianews2ch.jp.
+ns.asianews2ch.jp.	518400	IN	A	205.251.192.29
+
+asianews2ch.jp.	518400	IN	A	203.104.130.159

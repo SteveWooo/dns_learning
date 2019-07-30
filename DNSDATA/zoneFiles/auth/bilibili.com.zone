@@ -1,0 +1,6 @@
+
+bilibili.com.	86400	IN	SOA	ns.bilibili.com.	mail	2019061702 1800 900 604800 86400
+bilibili.com.	86400	IN	NS	ns.bilibili.com.
+ns.bilibili.com.	518400	IN	A	216.239.32.10
+
+bilibili.com.	518400	IN	A	106.75.240.122

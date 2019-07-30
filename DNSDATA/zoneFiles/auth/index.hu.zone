@@ -1,0 +1,6 @@
+
+index.hu.	86400	IN	SOA	ns.index.hu.	mail	2019061702 1800 900 604800 86400
+index.hu.	86400	IN	NS	ns.index.hu.
+ns.index.hu.	518400	IN	A	204.69.234.1
+
+index.hu.	518400	IN	A	79.172.213.245

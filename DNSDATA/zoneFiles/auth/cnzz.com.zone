@@ -1,0 +1,6 @@
+
+cnzz.com.	86400	IN	SOA	ns.cnzz.com.	mail	2019061702 1800 900 604800 86400
+cnzz.com.	86400	IN	NS	ns.cnzz.com.
+ns.cnzz.com.	518400	IN	A	217.69.139.202
+
+cnzz.com.	518400	IN	A	42.156.162.55

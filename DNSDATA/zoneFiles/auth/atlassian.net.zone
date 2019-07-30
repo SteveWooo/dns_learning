@@ -1,0 +1,6 @@
+
+atlassian.net.	86400	IN	SOA	ns.atlassian.net.	mail	2019061702 1800 900 604800 86400
+atlassian.net.	86400	IN	NS	ns.atlassian.net.
+ns.atlassian.net.	518400	IN	A	208.78.70.47
+
+atlassian.net.	518400	IN	A	18.246.31.139

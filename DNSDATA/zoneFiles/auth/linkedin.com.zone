@@ -1,0 +1,6 @@
+
+linkedin.com.	86400	IN	SOA	ns.linkedin.com.	mail	2019061702 1800 900 604800 86400
+linkedin.com.	86400	IN	NS	ns.linkedin.com.
+ns.linkedin.com.	518400	IN	A	213.180.193.1
+
+linkedin.com.	518400	IN	A	108.174.10.10

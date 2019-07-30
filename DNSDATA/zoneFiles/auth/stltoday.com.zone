@@ -1,0 +1,6 @@
+
+stltoday.com.	86400	IN	SOA	ns.stltoday.com.	mail	2019061702 1800 900 604800 86400
+stltoday.com.	86400	IN	NS	ns.stltoday.com.
+ns.stltoday.com.	518400	IN	A	216.239.32.106
+
+stltoday.com.	518400	IN	A	192.104.183.109

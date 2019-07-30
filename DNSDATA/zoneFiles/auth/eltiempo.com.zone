@@ -1,0 +1,6 @@
+
+eltiempo.com.	86400	IN	SOA	ns.eltiempo.com.	mail	2019061702 1800 900 604800 86400
+eltiempo.com.	86400	IN	NS	ns.eltiempo.com.
+ns.eltiempo.com.	518400	IN	A	205.251.197.107
+
+eltiempo.com.	518400	IN	A	45.60.121.135

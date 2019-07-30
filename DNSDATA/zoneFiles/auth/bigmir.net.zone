@@ -1,0 +1,6 @@
+
+bigmir.net.	86400	IN	SOA	ns.bigmir.net.	mail	2019061702 1800 900 604800 86400
+bigmir.net.	86400	IN	NS	ns.bigmir.net.
+ns.bigmir.net.	518400	IN	A	200.201.165.253
+
+bigmir.net.	518400	IN	A	193.239.71.100

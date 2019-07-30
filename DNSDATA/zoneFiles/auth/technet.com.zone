@@ -1,0 +1,6 @@
+
+technet.com.	86400	IN	SOA	ns.technet.com.	mail	2019061702 1800 900 604800 86400
+technet.com.	86400	IN	NS	ns.technet.com.
+ns.technet.com.	518400	IN	A	216.239.32.29
+
+technet.com.	518400	IN	A	40.76.4.15

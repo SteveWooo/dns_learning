@@ -1,0 +1,6 @@
+
+sport-fm.gr.	86400	IN	SOA	ns.sport-fm.gr.	mail	2019061702 1800 900 604800 86400
+sport-fm.gr.	86400	IN	NS	ns.sport-fm.gr.
+ns.sport-fm.gr.	518400	IN	A	213.180.204.242
+
+sport-fm.gr.	518400	IN	A	216.146.46.10

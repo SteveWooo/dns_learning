@@ -1,0 +1,6 @@
+
+prnewswire.com.	86400	IN	SOA	ns.prnewswire.com.	mail	2019061702 1800 900 604800 86400
+prnewswire.com.	86400	IN	NS	ns.prnewswire.com.
+ns.prnewswire.com.	518400	IN	A	173.245.59.115
+
+prnewswire.com.	518400	IN	A	199.230.28.15

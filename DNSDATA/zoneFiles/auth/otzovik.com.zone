@@ -1,0 +1,6 @@
+
+otzovik.com.	86400	IN	SOA	ns.otzovik.com.	mail	2019061702 1800 900 604800 86400
+otzovik.com.	86400	IN	NS	ns.otzovik.com.
+ns.otzovik.com.	518400	IN	A	213.180.204.242
+
+otzovik.com.	518400	IN	A	149.202.196.16

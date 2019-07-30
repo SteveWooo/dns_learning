@@ -1,0 +1,6 @@
+
+rg.ru.	86400	IN	SOA	ns.rg.ru.	mail	2019061702 1800 900 604800 86400
+rg.ru.	86400	IN	NS	ns.rg.ru.
+ns.rg.ru.	518400	IN	A	206.128.173.109
+
+rg.ru.	518400	IN	A	195.16.117.251

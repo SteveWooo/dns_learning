@@ -1,0 +1,6 @@
+
+24smi.org.	86400	IN	SOA	ns.24smi.org.	mail	2019061702 1800 900 604800 86400
+24smi.org.	86400	IN	NS	ns.24smi.org.
+ns.24smi.org.	518400	IN	A	205.251.199.254
+
+24smi.org.	518400	IN	A	37.48.106.245

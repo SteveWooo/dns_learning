@@ -1,0 +1,6 @@
+
+hattrick.org.	86400	IN	SOA	ns.hattrick.org.	mail	2019061702 1800 900 604800 86400
+hattrick.org.	86400	IN	NS	ns.hattrick.org.
+ns.hattrick.org.	518400	IN	A	205.251.197.107
+
+hattrick.org.	518400	IN	A	193.34.189.96

@@ -1,0 +1,6 @@
+
+mbtrx.com.	86400	IN	SOA	ns.mbtrx.com.	mail	2019061702 1800 900 604800 86400
+mbtrx.com.	86400	IN	NS	ns.mbtrx.com.
+ns.mbtrx.com.	518400	IN	A	217.69.139.202
+
+mbtrx.com.	518400	IN	A	69.61.92.144

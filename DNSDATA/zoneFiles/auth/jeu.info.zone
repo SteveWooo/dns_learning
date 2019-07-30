@@ -1,0 +1,6 @@
+
+jeu.info.	86400	IN	SOA	ns.jeu.info.	mail	2019061702 1800 900 604800 86400
+jeu.info.	86400	IN	NS	ns.jeu.info.
+ns.jeu.info.	518400	IN	A	205.251.199.254
+
+jeu.info.	518400	IN	A	193.36.45.15

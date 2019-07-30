@@ -1,0 +1,6 @@
+
+intelius.com.	86400	IN	SOA	ns.intelius.com.	mail	2019061702 1800 900 604800 86400
+intelius.com.	86400	IN	NS	ns.intelius.com.
+ns.intelius.com.	518400	IN	A	216.58.200.238
+
+intelius.com.	518400	IN	A	65.124.55.43

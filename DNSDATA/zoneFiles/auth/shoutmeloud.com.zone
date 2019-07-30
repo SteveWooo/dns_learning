@@ -1,0 +1,6 @@
+
+shoutmeloud.com.	86400	IN	SOA	ns.shoutmeloud.com.	mail	2019061702 1800 900 604800 86400
+shoutmeloud.com.	86400	IN	NS	ns.shoutmeloud.com.
+ns.shoutmeloud.com.	518400	IN	A	175.126.117.211
+
+shoutmeloud.com.	518400	IN	A	104.27.128.207

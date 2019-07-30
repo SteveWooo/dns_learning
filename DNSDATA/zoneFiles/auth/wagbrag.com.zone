@@ -1,0 +1,6 @@
+
+wagbrag.com.	86400	IN	SOA	ns.wagbrag.com.	mail	2019061702 1800 900 604800 86400
+wagbrag.com.	86400	IN	NS	ns.wagbrag.com.
+ns.wagbrag.com.	518400	IN	A	206.128.173.109
+
+wagbrag.com.	518400	IN	A	104.18.58.61

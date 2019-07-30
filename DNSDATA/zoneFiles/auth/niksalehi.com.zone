@@ -1,0 +1,6 @@
+
+niksalehi.com.	86400	IN	SOA	ns.niksalehi.com.	mail	2019061702 1800 900 604800 86400
+niksalehi.com.	86400	IN	NS	ns.niksalehi.com.
+ns.niksalehi.com.	518400	IN	A	202.108.22.220
+
+niksalehi.com.	518400	IN	A	195.201.80.95

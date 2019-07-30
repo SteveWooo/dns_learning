@@ -1,0 +1,6 @@
+
+rankingsandreviews.com.	86400	IN	SOA	ns.rankingsandreviews.com.	mail	2019061702 1800 900 604800 86400
+rankingsandreviews.com.	86400	IN	NS	ns.rankingsandreviews.com.
+ns.rankingsandreviews.com.	518400	IN	A	216.58.200.238
+
+rankingsandreviews.com.	518400	IN	A	208.77.248.174

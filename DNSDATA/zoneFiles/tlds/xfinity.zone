@@ -1,0 +1,4 @@
+
+xfinity.	86400	IN	SOA	ns.xfinity.	mail	2019061702 1800 900 604800 86400
+xfinity.	86400	IN	NS	ns.xfinity.
+ns.xfinity.	518400	IN	A	156.154.102.3

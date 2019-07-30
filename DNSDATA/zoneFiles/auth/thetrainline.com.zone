@@ -1,0 +1,6 @@
+
+thetrainline.com.	86400	IN	SOA	ns.thetrainline.com.	mail	2019061702 1800 900 604800 86400
+thetrainline.com.	86400	IN	NS	ns.thetrainline.com.
+ns.thetrainline.com.	518400	IN	A	216.58.200.238
+
+thetrainline.com.	518400	IN	A	45.75.200.136

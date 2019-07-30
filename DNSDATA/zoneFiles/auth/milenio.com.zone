@@ -1,0 +1,6 @@
+
+milenio.com.	86400	IN	SOA	ns.milenio.com.	mail	2019061702 1800 900 604800 86400
+milenio.com.	86400	IN	NS	ns.milenio.com.
+ns.milenio.com.	518400	IN	A	202.56.230.5
+
+milenio.com.	518400	IN	A	108.166.35.175

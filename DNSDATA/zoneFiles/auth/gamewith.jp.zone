@@ -1,0 +1,6 @@
+
+gamewith.jp.	86400	IN	SOA	ns.gamewith.jp.	mail	2019061702 1800 900 604800 86400
+gamewith.jp.	86400	IN	NS	ns.gamewith.jp.
+ns.gamewith.jp.	518400	IN	A	180.149.156.12
+
+gamewith.jp.	518400	IN	A	52.193.122.81

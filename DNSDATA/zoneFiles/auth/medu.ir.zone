@@ -1,0 +1,6 @@
+
+medu.ir.	86400	IN	SOA	ns.medu.ir.	mail	2019061702 1800 900 604800 86400
+medu.ir.	86400	IN	NS	ns.medu.ir.
+ns.medu.ir.	518400	IN	A	198.11.138.249
+
+medu.ir.	518400	IN	A	217.218.26.200

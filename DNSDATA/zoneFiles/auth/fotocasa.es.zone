@@ -1,0 +1,6 @@
+
+fotocasa.es.	86400	IN	SOA	ns.fotocasa.es.	mail	2019061702 1800 900 604800 86400
+fotocasa.es.	86400	IN	NS	ns.fotocasa.es.
+ns.fotocasa.es.	518400	IN	A	203.153.43.65
+
+fotocasa.es.	518400	IN	A	52.212.103.193

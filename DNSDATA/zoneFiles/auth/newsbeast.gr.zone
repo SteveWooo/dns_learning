@@ -1,0 +1,6 @@
+
+newsbeast.gr.	86400	IN	SOA	ns.newsbeast.gr.	mail	2019061702 1800 900 604800 86400
+newsbeast.gr.	86400	IN	NS	ns.newsbeast.gr.
+ns.newsbeast.gr.	518400	IN	A	216.239.32.10
+
+newsbeast.gr.	518400	IN	A	104.25.216.102

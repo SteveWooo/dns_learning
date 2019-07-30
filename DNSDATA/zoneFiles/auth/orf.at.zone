@@ -1,0 +1,6 @@
+
+orf.at.	86400	IN	SOA	ns.orf.at.	mail	2019061702 1800 900 604800 86400
+orf.at.	86400	IN	NS	ns.orf.at.
+ns.orf.at.	518400	IN	A	205.251.197.107
+
+orf.at.	518400	IN	A	194.232.104.149

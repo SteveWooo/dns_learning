@@ -1,0 +1,6 @@
+
+mashreghnews.ir.	86400	IN	SOA	ns.mashreghnews.ir.	mail	2019061702 1800 900 604800 86400
+mashreghnews.ir.	86400	IN	NS	ns.mashreghnews.ir.
+ns.mashreghnews.ir.	518400	IN	A	216.239.32.106
+
+mashreghnews.ir.	518400	IN	A	185.49.84.72

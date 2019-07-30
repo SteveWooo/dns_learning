@@ -1,0 +1,6 @@
+
+solarinstructions.com.	86400	IN	SOA	ns.solarinstructions.com.	mail	2019061702 1800 900 604800 86400
+solarinstructions.com.	86400	IN	NS	ns.solarinstructions.com.
+ns.solarinstructions.com.	518400	IN	A	175.126.117.211
+
+solarinstructions.com.	518400	IN	A	104.200.23.95

@@ -1,0 +1,6 @@
+
+pcworld.com.	86400	IN	SOA	ns.pcworld.com.	mail	2019061702 1800 900 604800 86400
+pcworld.com.	86400	IN	NS	ns.pcworld.com.
+ns.pcworld.com.	518400	IN	A	216.58.200.238
+
+pcworld.com.	518400	IN	A	151.101.130.165

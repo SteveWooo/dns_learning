@@ -1,0 +1,6 @@
+
+transfermarkt.de.	86400	IN	SOA	ns.transfermarkt.de.	mail	2019061702 1800 900 604800 86400
+transfermarkt.de.	86400	IN	NS	ns.transfermarkt.de.
+ns.transfermarkt.de.	518400	IN	A	205.251.195.203
+
+transfermarkt.de.	518400	IN	A	5.159.57.194

@@ -1,0 +1,6 @@
+
+ladbrokes.com.	86400	IN	SOA	ns.ladbrokes.com.	mail	2019061702 1800 900 604800 86400
+ladbrokes.com.	86400	IN	NS	ns.ladbrokes.com.
+ns.ladbrokes.com.	518400	IN	A	92.242.43.216
+
+ladbrokes.com.	518400	IN	A	31.222.48.195

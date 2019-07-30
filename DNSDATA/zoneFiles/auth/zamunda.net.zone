@@ -1,0 +1,6 @@
+
+zamunda.net.	86400	IN	SOA	ns.zamunda.net.	mail	2019061702 1800 900 604800 86400
+zamunda.net.	86400	IN	NS	ns.zamunda.net.
+ns.zamunda.net.	518400	IN	A	205.251.194.1
+
+zamunda.net.	518400	IN	A	179.43.173.102

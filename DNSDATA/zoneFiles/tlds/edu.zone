@@ -1,0 +1,505 @@
+
+edu.	86400	IN	SOA	ns.edu.	mail	2019061702 1800 900 604800 86400
+edu.	86400	IN	NS	ns.edu.
+ns.edu.	518400	IN	A	192.5.6.30
+
+ufl.edu.	86400	IN	NS	ns.ufl.edu.
+ns.ufl.edu.	518400	IN	A	2.16.130.64
+
+stanford.edu.	86400	IN	NS	ns.stanford.edu.
+ns.stanford.edu.	518400	IN	A	23.211.61.66
+
+msu.edu.	86400	IN	NS	ns.msu.edu.
+ns.msu.edu.	518400	IN	A	36.51.252.8
+
+psu.edu.	86400	IN	NS	ns.psu.edu.
+ns.psu.edu.	518400	IN	A	36.51.252.8
+
+cmu.edu.	86400	IN	NS	ns.cmu.edu.
+ns.cmu.edu.	518400	IN	A	52.164.230.183
+
+harvard.edu.	86400	IN	NS	ns.harvard.edu.
+ns.harvard.edu.	518400	IN	A	52.164.230.183
+
+jhu.edu.	86400	IN	NS	ns.jhu.edu.
+ns.jhu.edu.	518400	IN	A	58.180.27.231
+
+msu.edu.	86400	IN	NS	ns.msu.edu.
+ns.msu.edu.	518400	IN	A	58.180.27.231
+
+cmu.edu.	86400	IN	NS	ns.cmu.edu.
+ns.cmu.edu.	518400	IN	A	58.180.27.226
+
+princeton.edu.	86400	IN	NS	ns.princeton.edu.
+ns.princeton.edu.	518400	IN	A	64.106.209.186
+
+northwestern.edu.	86400	IN	NS	ns.northwestern.edu.
+ns.northwestern.edu.	518400	IN	A	64.106.209.186
+
+purdue.edu.	86400	IN	NS	ns.purdue.edu.
+ns.purdue.edu.	518400	IN	A	64.106.209.186
+
+ucsd.edu.	86400	IN	NS	ns.ucsd.edu.
+ns.ucsd.edu.	518400	IN	A	64.106.209.186
+
+uiuc.edu.	86400	IN	NS	ns.uiuc.edu.
+ns.uiuc.edu.	518400	IN	A	77.88.55.50
+
+princeton.edu.	86400	IN	NS	ns.princeton.edu.
+ns.princeton.edu.	518400	IN	A	78.40.125.184
+
+berkeley.edu.	86400	IN	NS	ns.berkeley.edu.
+ns.berkeley.edu.	518400	IN	A	78.40.125.184
+
+osu.edu.	86400	IN	NS	ns.osu.edu.
+ns.osu.edu.	518400	IN	A	78.40.125.184
+
+gatech.edu.	86400	IN	NS	ns.gatech.edu.
+ns.gatech.edu.	518400	IN	A	78.40.125.184
+
+umich.edu.	86400	IN	NS	ns.umich.edu.
+ns.umich.edu.	518400	IN	A	81.19.73.180
+
+yale.edu.	86400	IN	NS	ns.yale.edu.
+ns.yale.edu.	518400	IN	A	81.19.73.180
+
+bu.edu.	86400	IN	NS	ns.bu.edu.
+ns.bu.edu.	518400	IN	A	81.19.73.180
+
+uchicago.edu.	86400	IN	NS	ns.uchicago.edu.
+ns.uchicago.edu.	518400	IN	A	83.143.25.220
+
+purdue.edu.	86400	IN	NS	ns.purdue.edu.
+ns.purdue.edu.	518400	IN	A	83.143.25.220
+
+umn.edu.	86400	IN	NS	ns.umn.edu.
+ns.umn.edu.	518400	IN	A	83.143.25.220
+
+nyu.edu.	86400	IN	NS	ns.nyu.edu.
+ns.nyu.edu.	518400	IN	A	87.240.131.131
+
+utexas.edu.	86400	IN	NS	ns.utexas.edu.
+ns.utexas.edu.	518400	IN	A	87.240.131.131
+
+uci.edu.	86400	IN	NS	ns.uci.edu.
+ns.uci.edu.	518400	IN	A	87.240.131.131
+
+ucla.edu.	86400	IN	NS	ns.ucla.edu.
+ns.ucla.edu.	518400	IN	A	87.250.250.1
+
+ncsu.edu.	86400	IN	NS	ns.ncsu.edu.
+ns.ncsu.edu.	518400	IN	A	87.250.250.1
+
+purdue.edu.	86400	IN	NS	ns.purdue.edu.
+ns.purdue.edu.	518400	IN	A	87.250.250.1
+
+byu.edu.	86400	IN	NS	ns.byu.edu.
+ns.byu.edu.	518400	IN	A	93.186.225.193
+
+ucsd.edu.	86400	IN	NS	ns.ucsd.edu.
+ns.ucsd.edu.	518400	IN	A	93.186.225.193
+
+unc.edu.	86400	IN	NS	ns.unc.edu.
+ns.unc.edu.	518400	IN	A	93.186.225.193
+
+unc.edu.	86400	IN	NS	ns.unc.edu.
+ns.unc.edu.	518400	IN	A	111.202.126.2
+
+ucsd.edu.	86400	IN	NS	ns.ucsd.edu.
+ns.ucsd.edu.	518400	IN	A	111.206.53.6
+
+nyu.edu.	86400	IN	NS	ns.nyu.edu.
+ns.nyu.edu.	518400	IN	A	112.133.230.192
+
+washington.edu.	86400	IN	NS	ns.washington.edu.
+ns.washington.edu.	518400	IN	A	112.133.230.192
+
+umd.edu.	86400	IN	NS	ns.umd.edu.
+ns.umd.edu.	518400	IN	A	125.208.45.1
+
+gatech.edu.	86400	IN	NS	ns.gatech.edu.
+ns.gatech.edu.	518400	IN	A	125.208.45.1
+
+stanford.edu.	86400	IN	NS	ns.stanford.edu.
+ns.stanford.edu.	518400	IN	A	125.208.45.1
+
+byu.edu.	86400	IN	NS	ns.byu.edu.
+ns.byu.edu.	518400	IN	A	125.208.45.1
+
+tamu.edu.	86400	IN	NS	ns.tamu.edu.
+ns.tamu.edu.	518400	IN	A	125.209.248.6
+
+uci.edu.	86400	IN	NS	ns.uci.edu.
+ns.uci.edu.	518400	IN	A	125.209.248.6
+
+harvard.edu.	86400	IN	NS	ns.harvard.edu.
+ns.harvard.edu.	518400	IN	A	125.209.248.6
+
+gatech.edu.	86400	IN	NS	ns.gatech.edu.
+ns.gatech.edu.	518400	IN	A	131.0.24.26
+
+byu.edu.	86400	IN	NS	ns.byu.edu.
+ns.byu.edu.	518400	IN	A	131.0.24.26
+
+psu.edu.	86400	IN	NS	ns.psu.edu.
+ns.psu.edu.	518400	IN	A	131.0.24.26
+
+yale.edu.	86400	IN	NS	ns.yale.edu.
+ns.yale.edu.	518400	IN	A	132.207.144.12
+
+msu.edu.	86400	IN	NS	ns.msu.edu.
+ns.msu.edu.	518400	IN	A	132.207.144.12
+
+ufl.edu.	86400	IN	NS	ns.ufl.edu.
+ns.ufl.edu.	518400	IN	A	140.205.67.253
+
+yale.edu.	86400	IN	NS	ns.yale.edu.
+ns.yale.edu.	518400	IN	A	145.14.134.108
+
+jhu.edu.	86400	IN	NS	ns.jhu.edu.
+ns.jhu.edu.	518400	IN	A	157.255.246.101
+
+yale.edu.	86400	IN	NS	ns.yale.edu.
+ns.yale.edu.	518400	IN	A	165.160.15.20
+
+umn.edu.	86400	IN	NS	ns.umn.edu.
+ns.umn.edu.	518400	IN	A	165.160.15.20
+
+osu.edu.	86400	IN	NS	ns.osu.edu.
+ns.osu.edu.	518400	IN	A	165.160.15.20
+
+academia.edu.	86400	IN	NS	ns.academia.edu.
+ns.academia.edu.	518400	IN	A	165.160.15.20
+
+byu.edu.	86400	IN	NS	ns.byu.edu.
+ns.byu.edu.	518400	IN	A	165.160.15.20
+
+washington.edu.	86400	IN	NS	ns.washington.edu.
+ns.washington.edu.	518400	IN	A	173.245.58.159
+
+cuny.edu.	86400	IN	NS	ns.cuny.edu.
+ns.cuny.edu.	518400	IN	A	173.245.58.159
+
+bu.edu.	86400	IN	NS	ns.bu.edu.
+ns.bu.edu.	518400	IN	A	173.245.58.159
+
+utah.edu.	86400	IN	NS	ns.utah.edu.
+ns.utah.edu.	518400	IN	A	173.245.58.159
+
+stanford.edu.	86400	IN	NS	ns.stanford.edu.
+ns.stanford.edu.	518400	IN	A	173.245.59.130
+
+columbia.edu.	86400	IN	NS	ns.columbia.edu.
+ns.columbia.edu.	518400	IN	A	173.245.59.130
+
+northwestern.edu.	86400	IN	NS	ns.northwestern.edu.
+ns.northwestern.edu.	518400	IN	A	173.245.59.130
+
+utah.edu.	86400	IN	NS	ns.utah.edu.
+ns.utah.edu.	518400	IN	A	173.245.59.130
+
+wisc.edu.	86400	IN	NS	ns.wisc.edu.
+ns.wisc.edu.	518400	IN	A	173.245.59.130
+
+umd.edu.	86400	IN	NS	ns.umd.edu.
+ns.umd.edu.	518400	IN	A	173.245.59.115
+
+gatech.edu.	86400	IN	NS	ns.gatech.edu.
+ns.gatech.edu.	518400	IN	A	173.245.59.115
+
+utexas.edu.	86400	IN	NS	ns.utexas.edu.
+ns.utexas.edu.	518400	IN	A	173.245.59.160
+
+purdue.edu.	86400	IN	NS	ns.purdue.edu.
+ns.purdue.edu.	518400	IN	A	173.245.59.160
+
+berkeley.edu.	86400	IN	NS	ns.berkeley.edu.
+ns.berkeley.edu.	518400	IN	A	173.245.59.160
+
+colorado.edu.	86400	IN	NS	ns.colorado.edu.
+ns.colorado.edu.	518400	IN	A	173.245.58.138
+
+cuny.edu.	86400	IN	NS	ns.cuny.edu.
+ns.cuny.edu.	518400	IN	A	173.245.58.138
+
+uci.edu.	86400	IN	NS	ns.uci.edu.
+ns.uci.edu.	518400	IN	A	173.245.58.138
+
+bu.edu.	86400	IN	NS	ns.bu.edu.
+ns.bu.edu.	518400	IN	A	173.245.58.138
+
+berkeley.edu.	86400	IN	NS	ns.berkeley.edu.
+ns.berkeley.edu.	518400	IN	A	173.245.58.201
+
+northwestern.edu.	86400	IN	NS	ns.northwestern.edu.
+ns.northwestern.edu.	518400	IN	A	173.245.58.201
+
+cmu.edu.	86400	IN	NS	ns.cmu.edu.
+ns.cmu.edu.	518400	IN	A	173.245.58.89
+
+uiuc.edu.	86400	IN	NS	ns.uiuc.edu.
+ns.uiuc.edu.	518400	IN	A	173.245.58.100
+
+jhu.edu.	86400	IN	NS	ns.jhu.edu.
+ns.jhu.edu.	518400	IN	A	173.245.58.100
+
+academia.edu.	86400	IN	NS	ns.academia.edu.
+ns.academia.edu.	518400	IN	A	173.245.58.100
+
+tamu.edu.	86400	IN	NS	ns.tamu.edu.
+ns.tamu.edu.	518400	IN	A	173.245.58.100
+
+byu.edu.	86400	IN	NS	ns.byu.edu.
+ns.byu.edu.	518400	IN	A	173.245.58.100
+
+arizona.edu.	86400	IN	NS	ns.arizona.edu.
+ns.arizona.edu.	518400	IN	A	173.245.59.100
+
+academia.edu.	86400	IN	NS	ns.academia.edu.
+ns.academia.edu.	518400	IN	A	173.245.59.100
+
+unc.edu.	86400	IN	NS	ns.unc.edu.
+ns.unc.edu.	518400	IN	A	173.245.59.100
+
+nyu.edu.	86400	IN	NS	ns.nyu.edu.
+ns.nyu.edu.	518400	IN	A	174.35.55.22
+
+uiuc.edu.	86400	IN	NS	ns.uiuc.edu.
+ns.uiuc.edu.	518400	IN	A	174.35.55.22
+
+iu.edu.	86400	IN	NS	ns.iu.edu.
+ns.iu.edu.	518400	IN	A	174.35.55.22
+
+umich.edu.	86400	IN	NS	ns.umich.edu.
+ns.umich.edu.	518400	IN	A	174.35.55.22
+
+uiuc.edu.	86400	IN	NS	ns.uiuc.edu.
+ns.uiuc.edu.	518400	IN	A	175.126.117.211
+
+harvard.edu.	86400	IN	NS	ns.harvard.edu.
+ns.harvard.edu.	518400	IN	A	175.126.117.211
+
+northwestern.edu.	86400	IN	NS	ns.northwestern.edu.
+ns.northwestern.edu.	518400	IN	A	175.126.117.211
+
+virginia.edu.	86400	IN	NS	ns.virginia.edu.
+ns.virginia.edu.	518400	IN	A	175.126.117.211
+
+wisc.edu.	86400	IN	NS	ns.wisc.edu.
+ns.wisc.edu.	518400	IN	A	175.126.117.211
+
+ucla.edu.	86400	IN	NS	ns.ucla.edu.
+ns.ucla.edu.	518400	IN	A	175.126.117.211
+
+nyu.edu.	86400	IN	NS	ns.nyu.edu.
+ns.nyu.edu.	518400	IN	A	180.149.156.12
+
+cmu.edu.	86400	IN	NS	ns.cmu.edu.
+ns.cmu.edu.	518400	IN	A	180.149.156.12
+
+upenn.edu.	86400	IN	NS	ns.upenn.edu.
+ns.upenn.edu.	518400	IN	A	180.149.156.12
+
+psu.edu.	86400	IN	NS	ns.psu.edu.
+ns.psu.edu.	518400	IN	A	180.149.156.12
+
+gatech.edu.	86400	IN	NS	ns.gatech.edu.
+ns.gatech.edu.	518400	IN	A	180.149.156.12
+
+utexas.edu.	86400	IN	NS	ns.utexas.edu.
+ns.utexas.edu.	518400	IN	A	180.149.156.12
+
+northwestern.edu.	86400	IN	NS	ns.northwestern.edu.
+ns.northwestern.edu.	518400	IN	A	183.3.226.207
+
+berkeley.edu.	86400	IN	NS	ns.berkeley.edu.
+ns.berkeley.edu.	518400	IN	A	183.3.226.207
+
+byu.edu.	86400	IN	NS	ns.byu.edu.
+ns.byu.edu.	518400	IN	A	183.3.226.207
+
+ucdavis.edu.	86400	IN	NS	ns.ucdavis.edu.
+ns.ucdavis.edu.	518400	IN	A	187.18.60.242
+
+jhu.edu.	86400	IN	NS	ns.jhu.edu.
+ns.jhu.edu.	518400	IN	A	193.108.91.127
+
+umn.edu.	86400	IN	NS	ns.umn.edu.
+ns.umn.edu.	518400	IN	A	193.108.91.127
+
+uci.edu.	86400	IN	NS	ns.uci.edu.
+ns.uci.edu.	518400	IN	A	193.232.156.17
+
+tamu.edu.	86400	IN	NS	ns.tamu.edu.
+ns.tamu.edu.	518400	IN	A	198.11.138.245
+
+asu.edu.	86400	IN	NS	ns.asu.edu.
+ns.asu.edu.	518400	IN	A	198.11.138.249
+
+cuny.edu.	86400	IN	NS	ns.cuny.edu.
+ns.cuny.edu.	518400	IN	A	198.100.156.181
+
+phoenix.edu.	86400	IN	NS	ns.phoenix.edu.
+ns.phoenix.edu.	518400	IN	A	198.100.156.181
+
+rutgers.edu.	86400	IN	NS	ns.rutgers.edu.
+ns.rutgers.edu.	518400	IN	A	200.221.11.98
+
+upenn.edu.	86400	IN	NS	ns.upenn.edu.
+ns.upenn.edu.	518400	IN	A	200.221.11.98
+
+asu.edu.	86400	IN	NS	ns.asu.edu.
+ns.asu.edu.	518400	IN	A	200.221.11.98
+
+phoenix.edu.	86400	IN	NS	ns.phoenix.edu.
+ns.phoenix.edu.	518400	IN	A	200.221.11.98
+
+psu.edu.	86400	IN	NS	ns.psu.edu.
+ns.psu.edu.	518400	IN	A	200.201.161.22
+
+utah.edu.	86400	IN	NS	ns.utah.edu.
+ns.utah.edu.	518400	IN	A	200.201.161.22
+
+ucsd.edu.	86400	IN	NS	ns.ucsd.edu.
+ns.ucsd.edu.	518400	IN	A	200.201.161.22
+
+virginia.edu.	86400	IN	NS	ns.virginia.edu.
+ns.virginia.edu.	518400	IN	A	200.201.161.22
+
+umich.edu.	86400	IN	NS	ns.umich.edu.
+ns.umich.edu.	518400	IN	A	200.201.165.253
+
+purdue.edu.	86400	IN	NS	ns.purdue.edu.
+ns.purdue.edu.	518400	IN	A	200.201.165.253
+
+umd.edu.	86400	IN	NS	ns.umd.edu.
+ns.umd.edu.	518400	IN	A	200.201.165.253
+
+nyu.edu.	86400	IN	NS	ns.nyu.edu.
+ns.nyu.edu.	518400	IN	A	200.219.154.10
+
+phoenix.edu.	86400	IN	NS	ns.phoenix.edu.
+ns.phoenix.edu.	518400	IN	A	200.219.154.10
+
+wisc.edu.	86400	IN	NS	ns.wisc.edu.
+ns.wisc.edu.	518400	IN	A	200.219.154.10
+
+columbia.edu.	86400	IN	NS	ns.columbia.edu.
+ns.columbia.edu.	518400	IN	A	200.219.154.10
+
+unc.edu.	86400	IN	NS	ns.unc.edu.
+ns.unc.edu.	518400	IN	A	202.108.22.220
+
+wisc.edu.	86400	IN	NS	ns.wisc.edu.
+ns.wisc.edu.	518400	IN	A	202.108.22.220
+
+berkeley.edu.	86400	IN	NS	ns.berkeley.edu.
+ns.berkeley.edu.	518400	IN	A	202.108.22.220
+
+columbia.edu.	86400	IN	NS	ns.columbia.edu.
+ns.columbia.edu.	518400	IN	A	202.56.230.5
+
+princeton.edu.	86400	IN	NS	ns.princeton.edu.
+ns.princeton.edu.	518400	IN	A	203.153.43.65
+
+berkeley.edu.	86400	IN	NS	ns.berkeley.edu.
+ns.berkeley.edu.	518400	IN	A	203.153.43.65
+
+harvard.edu.	86400	IN	NS	ns.harvard.edu.
+ns.harvard.edu.	518400	IN	A	203.153.43.65
+
+cmu.edu.	86400	IN	NS	ns.cmu.edu.
+ns.cmu.edu.	518400	IN	A	203.153.43.65
+
+stanford.edu.	86400	IN	NS	ns.stanford.edu.
+ns.stanford.edu.	518400	IN	A	204.69.234.1
+
+psu.edu.	86400	IN	NS	ns.psu.edu.
+ns.psu.edu.	518400	IN	A	204.69.234.1
+
+berkeley.edu.	86400	IN	NS	ns.berkeley.edu.
+ns.berkeley.edu.	518400	IN	A	204.69.234.1
+
+iu.edu.	86400	IN	NS	ns.iu.edu.
+ns.iu.edu.	518400	IN	A	204.69.234.1
+
+unc.edu.	86400	IN	NS	ns.unc.edu.
+ns.unc.edu.	518400	IN	A	205.251.192.29
+
+ncsu.edu.	86400	IN	NS	ns.ncsu.edu.
+ns.ncsu.edu.	518400	IN	A	205.251.192.29
+
+phoenix.edu.	86400	IN	NS	ns.phoenix.edu.
+ns.phoenix.edu.	518400	IN	A	205.251.192.29
+
+yale.edu.	86400	IN	NS	ns.yale.edu.
+ns.yale.edu.	518400	IN	A	205.251.192.29
+
+byu.edu.	86400	IN	NS	ns.byu.edu.
+ns.byu.edu.	518400	IN	A	205.251.197.107
+
+berkeley.edu.	86400	IN	NS	ns.berkeley.edu.
+ns.berkeley.edu.	518400	IN	A	205.251.194.1
+
+umd.edu.	86400	IN	NS	ns.umd.edu.
+ns.umd.edu.	518400	IN	A	205.251.194.1
+
+purdue.edu.	86400	IN	NS	ns.purdue.edu.
+ns.purdue.edu.	518400	IN	A	205.251.199.254
+
+berkeley.edu.	86400	IN	NS	ns.berkeley.edu.
+ns.berkeley.edu.	518400	IN	A	205.251.195.203
+
+utexas.edu.	86400	IN	NS	ns.utexas.edu.
+ns.utexas.edu.	518400	IN	A	206.128.173.109
+
+harvard.edu.	86400	IN	NS	ns.harvard.edu.
+ns.harvard.edu.	518400	IN	A	206.128.173.109
+
+academia.edu.	86400	IN	NS	ns.academia.edu.
+ns.academia.edu.	518400	IN	A	213.180.193.1
+
+umd.edu.	86400	IN	NS	ns.umd.edu.
+ns.umd.edu.	518400	IN	A	213.180.204.242
+
+harvard.edu.	86400	IN	NS	ns.harvard.edu.
+ns.harvard.edu.	518400	IN	A	213.180.204.242
+
+rutgers.edu.	86400	IN	NS	ns.rutgers.edu.
+ns.rutgers.edu.	518400	IN	A	216.239.32.10
+
+uiuc.edu.	86400	IN	NS	ns.uiuc.edu.
+ns.uiuc.edu.	518400	IN	A	216.239.32.106
+
+cmu.edu.	86400	IN	NS	ns.cmu.edu.
+ns.cmu.edu.	518400	IN	A	216.239.32.106
+
+uci.edu.	86400	IN	NS	ns.uci.edu.
+ns.uci.edu.	518400	IN	A	216.239.32.106
+
+phoenix.edu.	86400	IN	NS	ns.phoenix.edu.
+ns.phoenix.edu.	518400	IN	A	216.239.32.106
+
+ufl.edu.	86400	IN	NS	ns.ufl.edu.
+ns.ufl.edu.	518400	IN	A	216.58.200.238
+
+upenn.edu.	86400	IN	NS	ns.upenn.edu.
+ns.upenn.edu.	518400	IN	A	216.239.32.29
+
+northwestern.edu.	86400	IN	NS	ns.northwestern.edu.
+ns.northwestern.edu.	518400	IN	A	216.239.32.29
+
+phoenix.edu.	86400	IN	NS	ns.phoenix.edu.
+ns.phoenix.edu.	518400	IN	A	216.239.32.29
+
+jhu.edu.	86400	IN	NS	ns.jhu.edu.
+ns.jhu.edu.	518400	IN	A	217.69.139.112
+
+uci.edu.	86400	IN	NS	ns.uci.edu.
+ns.uci.edu.	518400	IN	A	217.69.139.112
+
+ucdavis.edu.	86400	IN	NS	ns.ucdavis.edu.
+ns.ucdavis.edu.	518400	IN	A	217.69.139.112
+
+utah.edu.	86400	IN	NS	ns.utah.edu.
+ns.utah.edu.	518400	IN	A	217.69.139.202

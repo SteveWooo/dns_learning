@@ -1,0 +1,6 @@
+
+arduino.cc.	86400	IN	SOA	ns.arduino.cc.	mail	2019061702 1800 900 604800 86400
+arduino.cc.	86400	IN	NS	ns.arduino.cc.
+ns.arduino.cc.	518400	IN	A	205.251.195.203
+
+arduino.cc.	518400	IN	A	100.24.172.113

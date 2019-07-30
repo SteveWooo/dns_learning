@@ -1,0 +1,6 @@
+
+att.net.	86400	IN	SOA	ns.att.net.	mail	2019061702 1800 900 604800 86400
+att.net.	86400	IN	NS	ns.att.net.
+ns.att.net.	518400	IN	A	203.153.43.65
+
+att.net.	518400	IN	A	144.160.36.69

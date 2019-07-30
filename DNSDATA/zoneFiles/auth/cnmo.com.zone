@@ -1,0 +1,6 @@
+
+cnmo.com.	86400	IN	SOA	ns.cnmo.com.	mail	2019061702 1800 900 604800 86400
+cnmo.com.	86400	IN	NS	ns.cnmo.com.
+ns.cnmo.com.	518400	IN	A	200.201.165.253
+
+cnmo.com.	518400	IN	A	114.112.87.85

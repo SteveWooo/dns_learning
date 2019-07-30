@@ -1,0 +1,4 @@
+
+bond.	86400	IN	SOA	ns.bond.	mail	2019061702 1800 900 604800 86400
+bond.	86400	IN	NS	ns.bond.
+ns.bond.	518400	IN	A	37.209.196.9

@@ -1,0 +1,6 @@
+
+ixl.com.	86400	IN	SOA	ns.ixl.com.	mail	2019061702 1800 900 604800 86400
+ixl.com.	86400	IN	NS	ns.ixl.com.
+ns.ixl.com.	518400	IN	A	205.251.194.1
+
+ixl.com.	518400	IN	A	104.16.136.38

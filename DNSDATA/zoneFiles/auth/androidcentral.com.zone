@@ -1,0 +1,6 @@
+
+androidcentral.com.	86400	IN	SOA	ns.androidcentral.com.	mail	2019061702 1800 900 604800 86400
+androidcentral.com.	86400	IN	NS	ns.androidcentral.com.
+ns.androidcentral.com.	518400	IN	A	217.69.139.202
+
+androidcentral.com.	518400	IN	A	72.9.105.30

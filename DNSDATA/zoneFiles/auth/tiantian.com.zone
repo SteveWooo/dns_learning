@@ -1,0 +1,6 @@
+
+tiantian.com.	86400	IN	SOA	ns.tiantian.com.	mail	2019061702 1800 900 604800 86400
+tiantian.com.	86400	IN	NS	ns.tiantian.com.
+ns.tiantian.com.	518400	IN	A	216.239.32.10
+
+tiantian.com.	518400	IN	A	223.202.16.111

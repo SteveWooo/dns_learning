@@ -1,0 +1,6 @@
+
+fbcdn.net.	86400	IN	SOA	ns.fbcdn.net.	mail	2019061702 1800 900 604800 86400
+fbcdn.net.	86400	IN	NS	ns.fbcdn.net.
+ns.fbcdn.net.	518400	IN	A	217.69.139.112
+
+fbcdn.net.	518400	IN	A	157.240.20.35

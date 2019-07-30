@@ -1,0 +1,6 @@
+
+newsvine.com.	86400	IN	SOA	ns.newsvine.com.	mail	2019061702 1800 900 604800 86400
+newsvine.com.	86400	IN	NS	ns.newsvine.com.
+ns.newsvine.com.	518400	IN	A	202.56.230.5
+
+newsvine.com.	518400	IN	A	50.204.7.60

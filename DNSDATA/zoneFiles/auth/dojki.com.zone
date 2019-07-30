@@ -1,0 +1,6 @@
+
+dojki.com.	86400	IN	SOA	ns.dojki.com.	mail	2019061702 1800 900 604800 86400
+dojki.com.	86400	IN	NS	ns.dojki.com.
+ns.dojki.com.	518400	IN	A	208.78.70.47
+
+dojki.com.	518400	IN	A	185.75.79.3

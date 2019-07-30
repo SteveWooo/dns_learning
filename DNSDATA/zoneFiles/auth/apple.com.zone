@@ -1,0 +1,6 @@
+
+apple.com.	86400	IN	SOA	ns.apple.com.	mail	2019061702 1800 900 604800 86400
+apple.com.	86400	IN	NS	ns.apple.com.
+ns.apple.com.	518400	IN	A	206.128.173.109
+
+apple.com.	518400	IN	A	17.142.160.59

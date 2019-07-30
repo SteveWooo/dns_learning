@@ -1,0 +1,6 @@
+
+exhentai.org.	86400	IN	SOA	ns.exhentai.org.	mail	2019061702 1800 900 604800 86400
+exhentai.org.	86400	IN	NS	ns.exhentai.org.
+ns.exhentai.org.	518400	IN	A	205.251.194.1
+
+exhentai.org.	518400	IN	A	217.23.13.58

@@ -1,0 +1,6 @@
+
+nytimes.com.	86400	IN	SOA	ns.nytimes.com.	mail	2019061702 1800 900 604800 86400
+nytimes.com.	86400	IN	NS	ns.nytimes.com.
+ns.nytimes.com.	518400	IN	A	52.164.230.183
+
+nytimes.com.	518400	IN	A	204.155.149.130

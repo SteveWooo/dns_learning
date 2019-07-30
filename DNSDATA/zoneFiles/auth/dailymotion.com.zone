@@ -1,0 +1,6 @@
+
+dailymotion.com.	86400	IN	SOA	ns.dailymotion.com.	mail	2019061702 1800 900 604800 86400
+dailymotion.com.	86400	IN	NS	ns.dailymotion.com.
+ns.dailymotion.com.	518400	IN	A	78.40.125.184
+
+dailymotion.com.	518400	IN	A	75.126.115.192

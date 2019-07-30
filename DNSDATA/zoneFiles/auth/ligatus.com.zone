@@ -1,0 +1,6 @@
+
+ligatus.com.	86400	IN	SOA	ns.ligatus.com.	mail	2019061702 1800 900 604800 86400
+ligatus.com.	86400	IN	NS	ns.ligatus.com.
+ns.ligatus.com.	518400	IN	A	203.153.43.65
+
+ligatus.com.	518400	IN	A	35.189.193.103

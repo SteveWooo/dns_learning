@@ -1,0 +1,6 @@
+
+hotchatdate.com.	86400	IN	SOA	ns.hotchatdate.com.	mail	2019061702 1800 900 604800 86400
+hotchatdate.com.	86400	IN	NS	ns.hotchatdate.com.
+ns.hotchatdate.com.	518400	IN	A	216.239.32.29
+
+hotchatdate.com.	518400	IN	A	50.63.202.44

@@ -1,0 +1,6 @@
+
+nuvid.com.	86400	IN	SOA	ns.nuvid.com.	mail	2019061702 1800 900 604800 86400
+nuvid.com.	86400	IN	NS	ns.nuvid.com.
+ns.nuvid.com.	518400	IN	A	216.239.32.106
+
+nuvid.com.	518400	IN	A	88.208.39.131

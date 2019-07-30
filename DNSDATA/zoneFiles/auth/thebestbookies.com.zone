@@ -1,0 +1,6 @@
+
+thebestbookies.com.	86400	IN	SOA	ns.thebestbookies.com.	mail	2019061702 1800 900 604800 86400
+thebestbookies.com.	86400	IN	NS	ns.thebestbookies.com.
+ns.thebestbookies.com.	518400	IN	A	216.239.32.10
+
+thebestbookies.com.	518400	IN	A	193.150.130.4

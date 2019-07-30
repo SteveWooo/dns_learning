@@ -1,0 +1,6 @@
+
+zovi.com.	86400	IN	SOA	ns.zovi.com.	mail	2019061702 1800 900 604800 86400
+zovi.com.	86400	IN	NS	ns.zovi.com.
+ns.zovi.com.	518400	IN	A	216.239.32.10
+
+zovi.com.	518400	IN	A	23.44.93.61

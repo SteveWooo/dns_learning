@@ -1,0 +1,6 @@
+
+teamtreehouse.com.	86400	IN	SOA	ns.teamtreehouse.com.	mail	2019061702 1800 900 604800 86400
+teamtreehouse.com.	86400	IN	NS	ns.teamtreehouse.com.
+ns.teamtreehouse.com.	518400	IN	A	183.3.226.207
+
+teamtreehouse.com.	518400	IN	A	18.211.40.93

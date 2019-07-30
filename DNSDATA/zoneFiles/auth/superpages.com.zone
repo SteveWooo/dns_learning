@@ -1,0 +1,6 @@
+
+superpages.com.	86400	IN	SOA	ns.superpages.com.	mail	2019061702 1800 900 604800 86400
+superpages.com.	86400	IN	NS	ns.superpages.com.
+ns.superpages.com.	518400	IN	A	193.232.156.17
+
+superpages.com.	518400	IN	A	151.138.22.50

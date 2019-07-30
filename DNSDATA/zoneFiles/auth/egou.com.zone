@@ -1,0 +1,6 @@
+
+egou.com.	86400	IN	SOA	ns.egou.com.	mail	2019061702 1800 900 604800 86400
+egou.com.	86400	IN	NS	ns.egou.com.
+ns.egou.com.	518400	IN	A	216.239.32.10
+
+egou.com.	518400	IN	A	123.59.17.98

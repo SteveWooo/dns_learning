@@ -1,0 +1,6 @@
+
+fmworld.net.	86400	IN	SOA	ns.fmworld.net.	mail	2019061702 1800 900 604800 86400
+fmworld.net.	86400	IN	NS	ns.fmworld.net.
+ns.fmworld.net.	518400	IN	A	216.239.32.10
+
+fmworld.net.	518400	IN	A	125.1.78.137

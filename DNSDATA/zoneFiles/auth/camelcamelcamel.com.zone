@@ -1,0 +1,6 @@
+
+camelcamelcamel.com.	86400	IN	SOA	ns.camelcamelcamel.com.	mail	2019061702 1800 900 604800 86400
+camelcamelcamel.com.	86400	IN	NS	ns.camelcamelcamel.com.
+ns.camelcamelcamel.com.	518400	IN	A	205.251.197.107
+
+camelcamelcamel.com.	518400	IN	A	216.151.25.134

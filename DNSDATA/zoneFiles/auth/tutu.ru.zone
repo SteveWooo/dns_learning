@@ -1,0 +1,6 @@
+
+tutu.ru.	86400	IN	SOA	ns.tutu.ru.	mail	2019061702 1800 900 604800 86400
+tutu.ru.	86400	IN	NS	ns.tutu.ru.
+ns.tutu.ru.	518400	IN	A	216.239.32.10
+
+tutu.ru.	518400	IN	A	178.248.236.15

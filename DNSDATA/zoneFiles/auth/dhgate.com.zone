@@ -1,0 +1,6 @@
+
+dhgate.com.	86400	IN	SOA	ns.dhgate.com.	mail	2019061702 1800 900 604800 86400
+dhgate.com.	86400	IN	NS	ns.dhgate.com.
+ns.dhgate.com.	518400	IN	A	202.56.230.5
+
+dhgate.com.	518400	IN	A	183.6.210.139

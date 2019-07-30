@@ -1,0 +1,6 @@
+
+contra.gr.	86400	IN	SOA	ns.contra.gr.	mail	2019061702 1800 900 604800 86400
+contra.gr.	86400	IN	NS	ns.contra.gr.
+ns.contra.gr.	518400	IN	A	216.239.32.10
+
+contra.gr.	518400	IN	A	77.235.56.23

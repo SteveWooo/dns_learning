@@ -1,0 +1,6 @@
+
+manageflitter.com.	86400	IN	SOA	ns.manageflitter.com.	mail	2019061702 1800 900 604800 86400
+manageflitter.com.	86400	IN	NS	ns.manageflitter.com.
+ns.manageflitter.com.	518400	IN	A	205.251.199.254
+
+manageflitter.com.	518400	IN	A	52.200.35.120

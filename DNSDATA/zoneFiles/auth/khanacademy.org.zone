@@ -1,0 +1,6 @@
+
+khanacademy.org.	86400	IN	SOA	ns.khanacademy.org.	mail	2019061702 1800 900 604800 86400
+khanacademy.org.	86400	IN	NS	ns.khanacademy.org.
+ns.khanacademy.org.	518400	IN	A	204.74.108.1
+
+khanacademy.org.	518400	IN	A	54.230.53.64

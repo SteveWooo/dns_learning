@@ -1,0 +1,6 @@
+
+wmmail.ru.	86400	IN	SOA	ns.wmmail.ru.	mail	2019061702 1800 900 604800 86400
+wmmail.ru.	86400	IN	NS	ns.wmmail.ru.
+ns.wmmail.ru.	518400	IN	A	216.239.32.106
+
+wmmail.ru.	518400	IN	A	104.27.138.193

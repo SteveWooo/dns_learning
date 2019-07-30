@@ -1,0 +1,6 @@
+
+tripadvisor.ca.	86400	IN	SOA	ns.tripadvisor.ca.	mail	2019061702 1800 900 604800 86400
+tripadvisor.ca.	86400	IN	NS	ns.tripadvisor.ca.
+ns.tripadvisor.ca.	518400	IN	A	205.251.199.254
+
+tripadvisor.ca.	518400	IN	A	192.229.189.15

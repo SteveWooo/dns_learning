@@ -1,0 +1,6 @@
+
+chinanews.com.	86400	IN	SOA	ns.chinanews.com.	mail	2019061702 1800 900 604800 86400
+chinanews.com.	86400	IN	NS	ns.chinanews.com.
+ns.chinanews.com.	518400	IN	A	216.239.32.29
+
+chinanews.com.	518400	IN	A	163.171.128.148

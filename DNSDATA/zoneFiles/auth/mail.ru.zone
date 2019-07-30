@@ -1,0 +1,6 @@
+
+mail.ru.	86400	IN	SOA	ns.mail.ru.	mail	2019061702 1800 900 604800 86400
+mail.ru.	86400	IN	NS	ns.mail.ru.
+ns.mail.ru.	518400	IN	A	173.245.58.138
+
+mail.ru.	518400	IN	A	217.69.139.200

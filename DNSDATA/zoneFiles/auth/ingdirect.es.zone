@@ -1,0 +1,6 @@
+
+ingdirect.es.	86400	IN	SOA	ns.ingdirect.es.	mail	2019061702 1800 900 604800 86400
+ingdirect.es.	86400	IN	NS	ns.ingdirect.es.
+ns.ingdirect.es.	518400	IN	A	204.69.234.1
+
+ingdirect.es.	518400	IN	A	193.41.234.22

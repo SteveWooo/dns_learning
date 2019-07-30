@@ -1,0 +1,6 @@
+
+tsetmc.com.	86400	IN	SOA	ns.tsetmc.com.	mail	2019061702 1800 900 604800 86400
+tsetmc.com.	86400	IN	NS	ns.tsetmc.com.
+ns.tsetmc.com.	518400	IN	A	216.239.32.10
+
+tsetmc.com.	518400	IN	A	91.99.96.228

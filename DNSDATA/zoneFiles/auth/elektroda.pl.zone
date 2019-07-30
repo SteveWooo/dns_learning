@@ -1,0 +1,6 @@
+
+elektroda.pl.	86400	IN	SOA	ns.elektroda.pl.	mail	2019061702 1800 900 604800 86400
+elektroda.pl.	86400	IN	NS	ns.elektroda.pl.
+ns.elektroda.pl.	518400	IN	A	125.208.45.1
+
+elektroda.pl.	518400	IN	A	23.44.176.9

@@ -1,0 +1,6 @@
+
+fastspring.com.	86400	IN	SOA	ns.fastspring.com.	mail	2019061702 1800 900 604800 86400
+fastspring.com.	86400	IN	NS	ns.fastspring.com.
+ns.fastspring.com.	518400	IN	A	202.108.22.220
+
+fastspring.com.	518400	IN	A	50.28.79.222

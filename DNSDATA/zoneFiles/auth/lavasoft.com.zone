@@ -1,0 +1,6 @@
+
+lavasoft.com.	86400	IN	SOA	ns.lavasoft.com.	mail	2019061702 1800 900 604800 86400
+lavasoft.com.	86400	IN	NS	ns.lavasoft.com.
+ns.lavasoft.com.	518400	IN	A	217.69.139.112
+
+lavasoft.com.	518400	IN	A	64.18.87.102

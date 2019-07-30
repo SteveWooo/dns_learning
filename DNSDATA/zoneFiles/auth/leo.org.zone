@@ -1,0 +1,6 @@
+
+leo.org.	86400	IN	SOA	ns.leo.org.	mail	2019061702 1800 900 604800 86400
+leo.org.	86400	IN	NS	ns.leo.org.
+ns.leo.org.	518400	IN	A	200.201.165.253
+
+leo.org.	518400	IN	A	80.190.158.9

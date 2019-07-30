@@ -1,0 +1,6 @@
+
+photobucket.com.	86400	IN	SOA	ns.photobucket.com.	mail	2019061702 1800 900 604800 86400
+photobucket.com.	86400	IN	NS	ns.photobucket.com.
+ns.photobucket.com.	518400	IN	A	217.69.139.112
+
+photobucket.com.	518400	IN	A	209.17.68.100

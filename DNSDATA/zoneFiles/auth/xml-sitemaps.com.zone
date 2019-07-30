@@ -1,0 +1,6 @@
+
+xml-sitemaps.com.	86400	IN	SOA	ns.xml-sitemaps.com.	mail	2019061702 1800 900 604800 86400
+xml-sitemaps.com.	86400	IN	NS	ns.xml-sitemaps.com.
+ns.xml-sitemaps.com.	518400	IN	A	205.251.195.203
+
+xml-sitemaps.com.	518400	IN	A	81.19.188.230

@@ -1,0 +1,6 @@
+
+economist.com.	86400	IN	SOA	ns.economist.com.	mail	2019061702 1800 900 604800 86400
+economist.com.	86400	IN	NS	ns.economist.com.
+ns.economist.com.	518400	IN	A	203.153.43.65
+
+economist.com.	518400	IN	A	66.220.147.11

@@ -1,0 +1,6 @@
+
+etoro.com.	86400	IN	SOA	ns.etoro.com.	mail	2019061702 1800 900 604800 86400
+etoro.com.	86400	IN	NS	ns.etoro.com.
+ns.etoro.com.	518400	IN	A	205.251.195.203
+
+etoro.com.	518400	IN	A	184.25.27.155

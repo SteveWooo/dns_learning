@@ -1,0 +1,6 @@
+
+apartmenttherapy.com.	86400	IN	SOA	ns.apartmenttherapy.com.	mail	2019061702 1800 900 604800 86400
+apartmenttherapy.com.	86400	IN	NS	ns.apartmenttherapy.com.
+ns.apartmenttherapy.com.	518400	IN	A	198.11.138.249
+
+apartmenttherapy.com.	518400	IN	A	151.101.2.49

@@ -1,0 +1,6 @@
+
+surveymonkey.com.	86400	IN	SOA	ns.surveymonkey.com.	mail	2019061702 1800 900 604800 86400
+surveymonkey.com.	86400	IN	NS	ns.surveymonkey.com.
+ns.surveymonkey.com.	518400	IN	A	200.201.165.253
+
+surveymonkey.com.	518400	IN	A	64.191.16.50

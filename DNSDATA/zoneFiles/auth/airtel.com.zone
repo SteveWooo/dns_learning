@@ -1,0 +1,6 @@
+
+airtel.com.	86400	IN	SOA	ns.airtel.com.	mail	2019061702 1800 900 604800 86400
+airtel.com.	86400	IN	NS	ns.airtel.com.
+ns.airtel.com.	518400	IN	A	193.232.156.17
+
+airtel.com.	518400	IN	A	125.16.74.25

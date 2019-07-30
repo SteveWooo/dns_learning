@@ -1,0 +1,6 @@
+
+fancy.com.	86400	IN	SOA	ns.fancy.com.	mail	2019061702 1800 900 604800 86400
+fancy.com.	86400	IN	NS	ns.fancy.com.
+ns.fancy.com.	518400	IN	A	174.35.55.22
+
+fancy.com.	518400	IN	A	34.194.108.248

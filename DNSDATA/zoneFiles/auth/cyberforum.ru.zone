@@ -1,0 +1,6 @@
+
+cyberforum.ru.	86400	IN	SOA	ns.cyberforum.ru.	mail	2019061702 1800 900 604800 86400
+cyberforum.ru.	86400	IN	NS	ns.cyberforum.ru.
+ns.cyberforum.ru.	518400	IN	A	216.58.200.238
+
+cyberforum.ru.	518400	IN	A	185.112.80.14

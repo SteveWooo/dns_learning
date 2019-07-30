@@ -1,0 +1,6 @@
+
+printvenue.com.	86400	IN	SOA	ns.printvenue.com.	mail	2019061702 1800 900 604800 86400
+printvenue.com.	86400	IN	NS	ns.printvenue.com.
+ns.printvenue.com.	518400	IN	A	204.74.108.1
+
+printvenue.com.	518400	IN	A	184.168.131.241

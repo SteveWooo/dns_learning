@@ -1,0 +1,6 @@
+
+truemediapipe.com.	86400	IN	SOA	ns.truemediapipe.com.	mail	2019061702 1800 900 604800 86400
+truemediapipe.com.	86400	IN	NS	ns.truemediapipe.com.
+ns.truemediapipe.com.	518400	IN	A	125.209.248.6
+
+truemediapipe.com.	518400	IN	A	89.35.39.50

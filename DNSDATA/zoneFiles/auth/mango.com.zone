@@ -1,0 +1,6 @@
+
+mango.com.	86400	IN	SOA	ns.mango.com.	mail	2019061702 1800 900 604800 86400
+mango.com.	86400	IN	NS	ns.mango.com.
+ns.mango.com.	518400	IN	A	183.3.226.207
+
+mango.com.	518400	IN	A	13.225.224.87

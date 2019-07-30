@@ -1,0 +1,6 @@
+
+myworkday.com.	86400	IN	SOA	ns.myworkday.com.	mail	2019061702 1800 900 604800 86400
+myworkday.com.	86400	IN	NS	ns.myworkday.com.
+ns.myworkday.com.	518400	IN	A	217.69.139.202
+
+myworkday.com.	518400	IN	A	209.177.165.18

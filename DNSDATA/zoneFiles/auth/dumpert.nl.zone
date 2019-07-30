@@ -1,0 +1,6 @@
+
+dumpert.nl.	86400	IN	SOA	ns.dumpert.nl.	mail	2019061702 1800 900 604800 86400
+dumpert.nl.	86400	IN	NS	ns.dumpert.nl.
+ns.dumpert.nl.	518400	IN	A	202.56.230.5
+
+dumpert.nl.	518400	IN	A	104.20.46.122

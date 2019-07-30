@@ -1,0 +1,6 @@
+
+dwnews.com.	86400	IN	SOA	ns.dwnews.com.	mail	2019061702 1800 900 604800 86400
+dwnews.com.	86400	IN	NS	ns.dwnews.com.
+ns.dwnews.com.	518400	IN	A	203.153.43.65
+
+dwnews.com.	518400	IN	A	173.252.110.21

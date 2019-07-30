@@ -1,0 +1,6 @@
+
+dkb.de.	86400	IN	SOA	ns.dkb.de.	mail	2019061702 1800 900 604800 86400
+dkb.de.	86400	IN	NS	ns.dkb.de.
+ns.dkb.de.	518400	IN	A	198.11.138.249
+
+dkb.de.	518400	IN	A	212.34.75.193

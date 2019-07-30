@@ -1,0 +1,6 @@
+
+billiger.de.	86400	IN	SOA	ns.billiger.de.	mail	2019061702 1800 900 604800 86400
+billiger.de.	86400	IN	NS	ns.billiger.de.
+ns.billiger.de.	518400	IN	A	198.100.156.181
+
+billiger.de.	518400	IN	A	104.20.87.82

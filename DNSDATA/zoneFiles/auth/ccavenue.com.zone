@@ -1,0 +1,6 @@
+
+ccavenue.com.	86400	IN	SOA	ns.ccavenue.com.	mail	2019061702 1800 900 604800 86400
+ccavenue.com.	86400	IN	NS	ns.ccavenue.com.
+ns.ccavenue.com.	518400	IN	A	213.180.204.242
+
+ccavenue.com.	518400	IN	A	124.153.83.27

@@ -1,0 +1,6 @@
+
+sbrf.ru.	86400	IN	SOA	ns.sbrf.ru.	mail	2019061702 1800 900 604800 86400
+sbrf.ru.	86400	IN	NS	ns.sbrf.ru.
+ns.sbrf.ru.	518400	IN	A	217.69.139.112
+
+sbrf.ru.	518400	IN	A	194.54.14.129

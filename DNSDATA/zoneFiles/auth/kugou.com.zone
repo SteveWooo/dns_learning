@@ -1,0 +1,6 @@
+
+kugou.com.	86400	IN	SOA	ns.kugou.com.	mail	2019061702 1800 900 604800 86400
+kugou.com.	86400	IN	NS	ns.kugou.com.
+ns.kugou.com.	518400	IN	A	216.239.32.29
+
+kugou.com.	518400	IN	A	183.131.48.92

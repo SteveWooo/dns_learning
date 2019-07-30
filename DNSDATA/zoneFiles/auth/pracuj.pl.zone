@@ -1,0 +1,6 @@
+
+pracuj.pl.	86400	IN	SOA	ns.pracuj.pl.	mail	2019061702 1800 900 604800 86400
+pracuj.pl.	86400	IN	NS	ns.pracuj.pl.
+ns.pracuj.pl.	518400	IN	A	173.245.59.160
+
+pracuj.pl.	518400	IN	A	104.17.48.5

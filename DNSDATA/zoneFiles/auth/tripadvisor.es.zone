@@ -1,0 +1,6 @@
+
+tripadvisor.es.	86400	IN	SOA	ns.tripadvisor.es.	mail	2019061702 1800 900 604800 86400
+tripadvisor.es.	86400	IN	NS	ns.tripadvisor.es.
+ns.tripadvisor.es.	518400	IN	A	140.205.67.253
+
+tripadvisor.es.	518400	IN	A	192.229.162.112

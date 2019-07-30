@@ -1,0 +1,6 @@
+
+bnpparibas.net.	86400	IN	SOA	ns.bnpparibas.net.	mail	2019061702 1800 900 604800 86400
+bnpparibas.net.	86400	IN	NS	ns.bnpparibas.net.
+ns.bnpparibas.net.	518400	IN	A	208.78.70.47
+
+bnpparibas.net.	518400	IN	A	159.50.15.34

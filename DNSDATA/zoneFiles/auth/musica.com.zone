@@ -1,0 +1,6 @@
+
+musica.com.	86400	IN	SOA	ns.musica.com.	mail	2019061702 1800 900 604800 86400
+musica.com.	86400	IN	NS	ns.musica.com.
+ns.musica.com.	518400	IN	A	173.245.59.100
+
+musica.com.	518400	IN	A	144.217.66.188

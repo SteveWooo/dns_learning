@@ -1,0 +1,6 @@
+
+chefkoch.de.	86400	IN	SOA	ns.chefkoch.de.	mail	2019061702 1800 900 604800 86400
+chefkoch.de.	86400	IN	NS	ns.chefkoch.de.
+ns.chefkoch.de.	518400	IN	A	193.232.156.17
+
+chefkoch.de.	518400	IN	A	185.13.208.46

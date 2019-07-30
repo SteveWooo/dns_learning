@@ -1,0 +1,6 @@
+
+ucweb.com.	86400	IN	SOA	ns.ucweb.com.	mail	2019061702 1800 900 604800 86400
+ucweb.com.	86400	IN	NS	ns.ucweb.com.
+ns.ucweb.com.	518400	IN	A	206.128.173.109
+
+ucweb.com.	518400	IN	A	120.241.1.57

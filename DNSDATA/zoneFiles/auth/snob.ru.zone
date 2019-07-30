@@ -1,0 +1,6 @@
+
+snob.ru.	86400	IN	SOA	ns.snob.ru.	mail	2019061702 1800 900 604800 86400
+snob.ru.	86400	IN	NS	ns.snob.ru.
+ns.snob.ru.	518400	IN	A	205.251.195.203
+
+snob.ru.	518400	IN	A	31.186.102.98

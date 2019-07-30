@@ -1,0 +1,6 @@
+
+king.com.	86400	IN	SOA	ns.king.com.	mail	2019061702 1800 900 604800 86400
+king.com.	86400	IN	NS	ns.king.com.
+ns.king.com.	518400	IN	A	216.239.32.29
+
+king.com.	518400	IN	A	185.48.81.79

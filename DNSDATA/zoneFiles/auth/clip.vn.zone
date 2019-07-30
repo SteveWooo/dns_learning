@@ -1,0 +1,6 @@
+
+clip.vn.	86400	IN	SOA	ns.clip.vn.	mail	2019061702 1800 900 604800 86400
+clip.vn.	86400	IN	NS	ns.clip.vn.
+ns.clip.vn.	518400	IN	A	216.239.32.29
+
+clip.vn.	518400	IN	A	103.216.122.87

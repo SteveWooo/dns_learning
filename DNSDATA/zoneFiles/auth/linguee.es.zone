@@ -1,0 +1,6 @@
+
+linguee.es.	86400	IN	SOA	ns.linguee.es.	mail	2019061702 1800 900 604800 86400
+linguee.es.	86400	IN	NS	ns.linguee.es.
+ns.linguee.es.	518400	IN	A	213.180.193.1
+
+linguee.es.	518400	IN	A	78.138.112.37

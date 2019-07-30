@@ -1,0 +1,6 @@
+
+pixabay.com.	86400	IN	SOA	ns.pixabay.com.	mail	2019061702 1800 900 604800 86400
+pixabay.com.	86400	IN	NS	ns.pixabay.com.
+ns.pixabay.com.	518400	IN	A	216.239.32.10
+
+pixabay.com.	518400	IN	A	104.18.82.97

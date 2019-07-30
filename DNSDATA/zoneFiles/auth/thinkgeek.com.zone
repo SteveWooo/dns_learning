@@ -1,0 +1,6 @@
+
+thinkgeek.com.	86400	IN	SOA	ns.thinkgeek.com.	mail	2019061702 1800 900 604800 86400
+thinkgeek.com.	86400	IN	NS	ns.thinkgeek.com.
+ns.thinkgeek.com.	518400	IN	A	193.232.156.17
+
+thinkgeek.com.	518400	IN	A	151.101.66.49

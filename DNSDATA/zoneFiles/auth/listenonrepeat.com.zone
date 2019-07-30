@@ -1,0 +1,6 @@
+
+listenonrepeat.com.	86400	IN	SOA	ns.listenonrepeat.com.	mail	2019061702 1800 900 604800 86400
+listenonrepeat.com.	86400	IN	NS	ns.listenonrepeat.com.
+ns.listenonrepeat.com.	518400	IN	A	205.251.194.1
+
+listenonrepeat.com.	518400	IN	A	50.18.9.101

@@ -1,0 +1,6 @@
+
+fixya.com.	86400	IN	SOA	ns.fixya.com.	mail	2019061702 1800 900 604800 86400
+fixya.com.	86400	IN	NS	ns.fixya.com.
+ns.fixya.com.	518400	IN	A	174.35.55.22
+
+fixya.com.	518400	IN	A	35.190.52.101

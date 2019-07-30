@@ -1,0 +1,6 @@
+
+privalia.com.	86400	IN	SOA	ns.privalia.com.	mail	2019061702 1800 900 604800 86400
+privalia.com.	86400	IN	NS	ns.privalia.com.
+ns.privalia.com.	518400	IN	A	204.74.108.1
+
+privalia.com.	518400	IN	A	217.149.150.44

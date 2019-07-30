@@ -1,0 +1,6 @@
+
+planet.fr.	86400	IN	SOA	ns.planet.fr.	mail	2019061702 1800 900 604800 86400
+planet.fr.	86400	IN	NS	ns.planet.fr.
+ns.planet.fr.	518400	IN	A	217.69.139.202
+
+planet.fr.	518400	IN	A	213.251.152.44

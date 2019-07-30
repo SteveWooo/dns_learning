@@ -1,0 +1,6 @@
+
+welt.de.	86400	IN	SOA	ns.welt.de.	mail	2019061702 1800 900 604800 86400
+welt.de.	86400	IN	NS	ns.welt.de.
+ns.welt.de.	518400	IN	A	202.56.230.5
+
+welt.de.	518400	IN	A	195.50.176.200

@@ -1,0 +1,6 @@
+
+iranjib.ir.	86400	IN	SOA	ns.iranjib.ir.	mail	2019061702 1800 900 604800 86400
+iranjib.ir.	86400	IN	NS	ns.iranjib.ir.
+ns.iranjib.ir.	518400	IN	A	205.251.199.254
+
+iranjib.ir.	518400	IN	A	185.116.160.43

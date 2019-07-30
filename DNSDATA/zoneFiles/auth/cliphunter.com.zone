@@ -1,0 +1,6 @@
+
+cliphunter.com.	86400	IN	SOA	ns.cliphunter.com.	mail	2019061702 1800 900 604800 86400
+cliphunter.com.	86400	IN	NS	ns.cliphunter.com.
+ns.cliphunter.com.	518400	IN	A	173.245.59.115
+
+cliphunter.com.	518400	IN	A	99.192.226.225

@@ -1,0 +1,6 @@
+
+twoo.com.	86400	IN	SOA	ns.twoo.com.	mail	2019061702 1800 900 604800 86400
+twoo.com.	86400	IN	NS	ns.twoo.com.
+ns.twoo.com.	518400	IN	A	203.153.43.65
+
+twoo.com.	518400	IN	A	77.73.177.139

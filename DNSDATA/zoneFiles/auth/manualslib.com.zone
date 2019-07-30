@@ -1,0 +1,6 @@
+
+manualslib.com.	86400	IN	SOA	ns.manualslib.com.	mail	2019061702 1800 900 604800 86400
+manualslib.com.	86400	IN	NS	ns.manualslib.com.
+ns.manualslib.com.	518400	IN	A	200.221.11.98
+
+manualslib.com.	518400	IN	A	213.174.130.220

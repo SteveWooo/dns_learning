@@ -1,0 +1,6 @@
+
+amazon.it.	86400	IN	SOA	ns.amazon.it.	mail	2019061702 1800 900 604800 86400
+amazon.it.	86400	IN	NS	ns.amazon.it.
+ns.amazon.it.	518400	IN	A	216.58.200.238
+
+amazon.it.	518400	IN	A	52.95.120.36

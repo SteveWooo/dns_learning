@@ -1,0 +1,6 @@
+
+weddingwire.com.	86400	IN	SOA	ns.weddingwire.com.	mail	2019061702 1800 900 604800 86400
+weddingwire.com.	86400	IN	NS	ns.weddingwire.com.
+ns.weddingwire.com.	518400	IN	A	206.128.173.109
+
+weddingwire.com.	518400	IN	A	213.27.154.204

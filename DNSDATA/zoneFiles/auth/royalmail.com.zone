@@ -1,0 +1,6 @@
+
+royalmail.com.	86400	IN	SOA	ns.royalmail.com.	mail	2019061702 1800 900 604800 86400
+royalmail.com.	86400	IN	NS	ns.royalmail.com.
+ns.royalmail.com.	518400	IN	A	206.128.173.109
+
+royalmail.com.	518400	IN	A	77.95.81.226

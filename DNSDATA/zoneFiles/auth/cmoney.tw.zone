@@ -1,0 +1,6 @@
+
+cmoney.tw.	86400	IN	SOA	ns.cmoney.tw.	mail	2019061702 1800 900 604800 86400
+cmoney.tw.	86400	IN	NS	ns.cmoney.tw.
+ns.cmoney.tw.	518400	IN	A	213.180.204.242
+
+cmoney.tw.	518400	IN	A	118.163.12.89

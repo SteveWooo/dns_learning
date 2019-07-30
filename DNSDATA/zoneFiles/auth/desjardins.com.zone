@@ -1,0 +1,6 @@
+
+desjardins.com.	86400	IN	SOA	ns.desjardins.com.	mail	2019061702 1800 900 604800 86400
+desjardins.com.	86400	IN	NS	ns.desjardins.com.
+ns.desjardins.com.	518400	IN	A	104.40.210.25
+
+desjardins.com.	518400	IN	A	142.195.132.100

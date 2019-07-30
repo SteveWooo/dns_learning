@@ -1,0 +1,6 @@
+
+stafaband.info.	86400	IN	SOA	ns.stafaband.info.	mail	2019061702 1800 900 604800 86400
+stafaband.info.	86400	IN	NS	ns.stafaband.info.
+ns.stafaband.info.	518400	IN	A	216.58.200.238
+
+stafaband.info.	518400	IN	A	104.31.16.3

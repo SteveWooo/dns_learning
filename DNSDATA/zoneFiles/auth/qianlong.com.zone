@@ -1,0 +1,6 @@
+
+qianlong.com.	86400	IN	SOA	ns.qianlong.com.	mail	2019061702 1800 900 604800 86400
+qianlong.com.	86400	IN	NS	ns.qianlong.com.
+ns.qianlong.com.	518400	IN	A	216.239.32.106
+
+qianlong.com.	518400	IN	A	223.203.227.10

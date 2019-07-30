@@ -1,0 +1,6 @@
+
+acesse.com.	86400	IN	SOA	ns.acesse.com.	mail	2019061702 1800 900 604800 86400
+acesse.com.	86400	IN	NS	ns.acesse.com.
+ns.acesse.com.	518400	IN	A	213.180.204.242
+
+acesse.com.	518400	IN	A	47.90.123.55

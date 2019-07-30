@@ -1,0 +1,6 @@
+
+uchicago.edu.	86400	IN	SOA	ns.uchicago.edu.	mail	2019061702 1800 900 604800 86400
+uchicago.edu.	86400	IN	NS	ns.uchicago.edu.
+ns.uchicago.edu.	518400	IN	A	83.143.25.220
+
+uchicago.edu.	518400	IN	A	34.200.129.209

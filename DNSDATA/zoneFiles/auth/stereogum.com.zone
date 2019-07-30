@@ -1,0 +1,6 @@
+
+stereogum.com.	86400	IN	SOA	ns.stereogum.com.	mail	2019061702 1800 900 604800 86400
+stereogum.com.	86400	IN	NS	ns.stereogum.com.
+ns.stereogum.com.	518400	IN	A	213.180.204.242
+
+stereogum.com.	518400	IN	A	104.16.154.254

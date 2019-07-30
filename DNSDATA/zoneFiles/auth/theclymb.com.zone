@@ -1,0 +1,6 @@
+
+theclymb.com.	86400	IN	SOA	ns.theclymb.com.	mail	2019061702 1800 900 604800 86400
+theclymb.com.	86400	IN	NS	ns.theclymb.com.
+ns.theclymb.com.	518400	IN	A	206.128.173.109
+
+theclymb.com.	518400	IN	A	206.169.66.104

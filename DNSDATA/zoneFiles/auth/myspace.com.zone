@@ -1,0 +1,6 @@
+
+myspace.com.	86400	IN	SOA	ns.myspace.com.	mail	2019061702 1800 900 604800 86400
+myspace.com.	86400	IN	NS	ns.myspace.com.
+ns.myspace.com.	518400	IN	A	173.245.59.115
+
+myspace.com.	518400	IN	A	63.135.90.70

@@ -1,0 +1,6 @@
+
+juegos.com.	86400	IN	SOA	ns.juegos.com.	mail	2019061702 1800 900 604800 86400
+juegos.com.	86400	IN	NS	ns.juegos.com.
+ns.juegos.com.	518400	IN	A	216.58.200.238
+
+juegos.com.	518400	IN	A	35.201.104.236

@@ -1,0 +1,6 @@
+
+dinamalar.com.	86400	IN	SOA	ns.dinamalar.com.	mail	2019061702 1800 900 604800 86400
+dinamalar.com.	86400	IN	NS	ns.dinamalar.com.
+ns.dinamalar.com.	518400	IN	A	180.149.156.12
+
+dinamalar.com.	518400	IN	A	65.17.225.98

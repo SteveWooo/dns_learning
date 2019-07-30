@@ -1,0 +1,6 @@
+
+rtve.es.	86400	IN	SOA	ns.rtve.es.	mail	2019061702 1800 900 604800 86400
+rtve.es.	86400	IN	NS	ns.rtve.es.
+ns.rtve.es.	518400	IN	A	213.180.204.242
+
+rtve.es.	518400	IN	A	217.15.42.90

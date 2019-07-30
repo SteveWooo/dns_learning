@@ -1,0 +1,6 @@
+
+b9dm.com.	86400	IN	SOA	ns.b9dm.com.	mail	2019061702 1800 900 604800 86400
+b9dm.com.	86400	IN	NS	ns.b9dm.com.
+ns.b9dm.com.	518400	IN	A	213.180.204.242
+
+b9dm.com.	518400	IN	A	199.66.9.1

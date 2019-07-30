@@ -1,0 +1,6 @@
+
+justhost.com.	86400	IN	SOA	ns.justhost.com.	mail	2019061702 1800 900 604800 86400
+justhost.com.	86400	IN	NS	ns.justhost.com.
+ns.justhost.com.	518400	IN	A	204.69.234.1
+
+justhost.com.	518400	IN	A	52.23.128.201

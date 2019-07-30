@@ -1,0 +1,6 @@
+
+800notes.com.	86400	IN	SOA	ns.800notes.com.	mail	2019061702 1800 900 604800 86400
+800notes.com.	86400	IN	NS	ns.800notes.com.
+ns.800notes.com.	518400	IN	A	198.11.138.249
+
+800notes.com.	518400	IN	A	104.25.134.21

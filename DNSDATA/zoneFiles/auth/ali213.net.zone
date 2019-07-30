@@ -1,0 +1,6 @@
+
+ali213.net.	86400	IN	SOA	ns.ali213.net.	mail	2019061702 1800 900 604800 86400
+ali213.net.	86400	IN	NS	ns.ali213.net.
+ns.ali213.net.	518400	IN	A	205.251.197.107
+
+ali213.net.	518400	IN	A	60.12.149.194

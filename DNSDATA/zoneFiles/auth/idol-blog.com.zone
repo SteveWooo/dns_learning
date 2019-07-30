@@ -1,0 +1,6 @@
+
+idol-blog.com.	86400	IN	SOA	ns.idol-blog.com.	mail	2019061702 1800 900 604800 86400
+idol-blog.com.	86400	IN	NS	ns.idol-blog.com.
+ns.idol-blog.com.	518400	IN	A	140.205.67.253
+
+idol-blog.com.	518400	IN	A	113.38.9.234

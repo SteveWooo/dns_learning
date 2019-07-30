@@ -1,0 +1,6 @@
+
+sec.gov.	86400	IN	SOA	ns.sec.gov.	mail	2019061702 1800 900 604800 86400
+sec.gov.	86400	IN	NS	ns.sec.gov.
+ns.sec.gov.	518400	IN	A	204.74.108.1
+
+sec.gov.	518400	IN	A	104.78.98.72

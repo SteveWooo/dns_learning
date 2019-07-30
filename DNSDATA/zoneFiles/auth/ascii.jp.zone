@@ -1,0 +1,6 @@
+
+ascii.jp.	86400	IN	SOA	ns.ascii.jp.	mail	2019061702 1800 900 604800 86400
+ascii.jp.	86400	IN	NS	ns.ascii.jp.
+ns.ascii.jp.	518400	IN	A	216.239.32.10
+
+ascii.jp.	518400	IN	A	183.177.44.160

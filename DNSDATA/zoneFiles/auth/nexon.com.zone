@@ -1,0 +1,6 @@
+
+nexon.com.	86400	IN	SOA	ns.nexon.com.	mail	2019061702 1800 900 604800 86400
+nexon.com.	86400	IN	NS	ns.nexon.com.
+ns.nexon.com.	518400	IN	A	217.69.139.202
+
+nexon.com.	518400	IN	A	183.110.0.23

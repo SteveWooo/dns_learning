@@ -1,0 +1,6 @@
+
+alwakeelnews.com.	86400	IN	SOA	ns.alwakeelnews.com.	mail	2019061702 1800 900 604800 86400
+alwakeelnews.com.	86400	IN	NS	ns.alwakeelnews.com.
+ns.alwakeelnews.com.	518400	IN	A	180.149.156.12
+
+alwakeelnews.com.	518400	IN	A	104.25.209.32

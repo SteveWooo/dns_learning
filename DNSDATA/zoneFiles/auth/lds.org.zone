@@ -1,0 +1,6 @@
+
+lds.org.	86400	IN	SOA	ns.lds.org.	mail	2019061702 1800 900 604800 86400
+lds.org.	86400	IN	NS	ns.lds.org.
+ns.lds.org.	518400	IN	A	213.180.193.1
+
+lds.org.	518400	IN	A	216.49.176.33

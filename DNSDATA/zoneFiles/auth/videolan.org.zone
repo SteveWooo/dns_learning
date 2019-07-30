@@ -1,0 +1,6 @@
+
+videolan.org.	86400	IN	SOA	ns.videolan.org.	mail	2019061702 1800 900 604800 86400
+videolan.org.	86400	IN	NS	ns.videolan.org.
+ns.videolan.org.	518400	IN	A	206.128.173.109
+
+videolan.org.	518400	IN	A	88.191.250.2

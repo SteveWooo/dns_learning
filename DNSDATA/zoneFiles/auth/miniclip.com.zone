@@ -1,0 +1,6 @@
+
+miniclip.com.	86400	IN	SOA	ns.miniclip.com.	mail	2019061702 1800 900 604800 86400
+miniclip.com.	86400	IN	NS	ns.miniclip.com.
+ns.miniclip.com.	518400	IN	A	58.180.27.231
+
+miniclip.com.	518400	IN	A	99.84.194.96

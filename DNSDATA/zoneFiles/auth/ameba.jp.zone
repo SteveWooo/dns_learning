@@ -1,0 +1,6 @@
+
+ameba.jp.	86400	IN	SOA	ns.ameba.jp.	mail	2019061702 1800 900 604800 86400
+ameba.jp.	86400	IN	NS	ns.ameba.jp.
+ns.ameba.jp.	518400	IN	A	202.56.230.5
+
+ameba.jp.	518400	IN	A	27.133.212.123

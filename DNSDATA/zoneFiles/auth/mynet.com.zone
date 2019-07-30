@@ -1,0 +1,6 @@
+
+mynet.com.	86400	IN	SOA	ns.mynet.com.	mail	2019061702 1800 900 604800 86400
+mynet.com.	86400	IN	NS	ns.mynet.com.
+ns.mynet.com.	518400	IN	A	216.58.200.238
+
+mynet.com.	518400	IN	A	212.101.122.34

@@ -1,0 +1,6 @@
+
+libero.it.	86400	IN	SOA	ns.libero.it.	mail	2019061702 1800 900 604800 86400
+libero.it.	86400	IN	NS	ns.libero.it.
+ns.libero.it.	518400	IN	A	213.180.204.242
+
+libero.it.	518400	IN	A	213.209.17.209

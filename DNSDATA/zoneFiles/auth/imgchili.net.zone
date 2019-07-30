@@ -1,0 +1,6 @@
+
+imgchili.net.	86400	IN	SOA	ns.imgchili.net.	mail	2019061702 1800 900 604800 86400
+imgchili.net.	86400	IN	NS	ns.imgchili.net.
+ns.imgchili.net.	518400	IN	A	213.180.204.242
+
+imgchili.net.	518400	IN	A	104.24.114.199

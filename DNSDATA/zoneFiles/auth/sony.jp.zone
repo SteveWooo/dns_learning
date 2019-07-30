@@ -1,0 +1,6 @@
+
+sony.jp.	86400	IN	SOA	ns.sony.jp.	mail	2019061702 1800 900 604800 86400
+sony.jp.	86400	IN	NS	ns.sony.jp.
+ns.sony.jp.	518400	IN	A	145.14.134.108
+
+sony.jp.	518400	IN	A	202.248.19.138

@@ -1,0 +1,6 @@
+
+findagrave.com.	86400	IN	SOA	ns.findagrave.com.	mail	2019061702 1800 900 604800 86400
+findagrave.com.	86400	IN	NS	ns.findagrave.com.
+ns.findagrave.com.	518400	IN	A	216.239.32.106
+
+findagrave.com.	518400	IN	A	45.60.149.132

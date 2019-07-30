@@ -1,0 +1,6 @@
+
+softbank.jp.	86400	IN	SOA	ns.softbank.jp.	mail	2019061702 1800 900 604800 86400
+softbank.jp.	86400	IN	NS	ns.softbank.jp.
+ns.softbank.jp.	518400	IN	A	111.206.53.6
+
+softbank.jp.	518400	IN	A	13.114.61.152

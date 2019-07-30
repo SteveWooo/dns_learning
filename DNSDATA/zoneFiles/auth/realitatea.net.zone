@@ -1,0 +1,6 @@
+
+realitatea.net.	86400	IN	SOA	ns.realitatea.net.	mail	2019061702 1800 900 604800 86400
+realitatea.net.	86400	IN	NS	ns.realitatea.net.
+ns.realitatea.net.	518400	IN	A	213.180.204.242
+
+realitatea.net.	518400	IN	A	104.25.175.26

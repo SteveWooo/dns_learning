@@ -1,0 +1,6 @@
+
+minutouno.com.	86400	IN	SOA	ns.minutouno.com.	mail	2019061702 1800 900 604800 86400
+minutouno.com.	86400	IN	NS	ns.minutouno.com.
+ns.minutouno.com.	518400	IN	A	173.245.59.100
+
+minutouno.com.	518400	IN	A	52.52.246.213

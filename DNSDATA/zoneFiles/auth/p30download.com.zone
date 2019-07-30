@@ -1,0 +1,6 @@
+
+p30download.com.	86400	IN	SOA	ns.p30download.com.	mail	2019061702 1800 900 604800 86400
+p30download.com.	86400	IN	NS	ns.p30download.com.
+ns.p30download.com.	518400	IN	A	208.78.70.47
+
+p30download.com.	518400	IN	A	5.144.130.116

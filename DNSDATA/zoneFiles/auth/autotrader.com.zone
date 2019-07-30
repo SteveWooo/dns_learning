@@ -1,0 +1,6 @@
+
+autotrader.com.	86400	IN	SOA	ns.autotrader.com.	mail	2019061702 1800 900 604800 86400
+autotrader.com.	86400	IN	NS	ns.autotrader.com.
+ns.autotrader.com.	518400	IN	A	216.58.200.238
+
+autotrader.com.	518400	IN	A	98.175.77.200

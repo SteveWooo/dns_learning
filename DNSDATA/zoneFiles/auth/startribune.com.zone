@@ -1,0 +1,6 @@
+
+startribune.com.	86400	IN	SOA	ns.startribune.com.	mail	2019061702 1800 900 604800 86400
+startribune.com.	86400	IN	NS	ns.startribune.com.
+ns.startribune.com.	518400	IN	A	173.245.58.100
+
+startribune.com.	518400	IN	A	52.44.42.61

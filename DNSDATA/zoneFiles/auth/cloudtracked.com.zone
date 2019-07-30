@@ -1,0 +1,6 @@
+
+cloudtracked.com.	86400	IN	SOA	ns.cloudtracked.com.	mail	2019061702 1800 900 604800 86400
+cloudtracked.com.	86400	IN	NS	ns.cloudtracked.com.
+ns.cloudtracked.com.	518400	IN	A	200.219.154.10
+
+cloudtracked.com.	518400	IN	A	23.20.239.12

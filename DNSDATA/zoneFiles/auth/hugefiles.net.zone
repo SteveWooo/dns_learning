@@ -1,0 +1,6 @@
+
+hugefiles.net.	86400	IN	SOA	ns.hugefiles.net.	mail	2019061702 1800 900 604800 86400
+hugefiles.net.	86400	IN	NS	ns.hugefiles.net.
+ns.hugefiles.net.	518400	IN	A	204.74.108.1
+
+hugefiles.net.	518400	IN	A	104.24.109.251

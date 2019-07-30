@@ -1,0 +1,6 @@
+
+olx.hu.	86400	IN	SOA	ns.olx.hu.	mail	2019061702 1800 900 604800 86400
+olx.hu.	86400	IN	NS	ns.olx.hu.
+ns.olx.hu.	518400	IN	A	206.128.173.109
+
+olx.hu.	518400	IN	A	194.33.69.131

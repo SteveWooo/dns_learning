@@ -1,0 +1,6 @@
+
+androidpolice.com.	86400	IN	SOA	ns.androidpolice.com.	mail	2019061702 1800 900 604800 86400
+androidpolice.com.	86400	IN	NS	ns.androidpolice.com.
+ns.androidpolice.com.	518400	IN	A	217.69.139.112
+
+androidpolice.com.	518400	IN	A	104.18.171.13

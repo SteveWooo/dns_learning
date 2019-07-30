@@ -1,0 +1,6 @@
+
+britishcouncil.org.	86400	IN	SOA	ns.britishcouncil.org.	mail	2019061702 1800 900 604800 86400
+britishcouncil.org.	86400	IN	NS	ns.britishcouncil.org.
+ns.britishcouncil.org.	518400	IN	A	173.245.59.100
+
+britishcouncil.org.	518400	IN	A	165.160.15.20

@@ -1,0 +1,6 @@
+
+sportingnews.com.	86400	IN	SOA	ns.sportingnews.com.	mail	2019061702 1800 900 604800 86400
+sportingnews.com.	86400	IN	NS	ns.sportingnews.com.
+ns.sportingnews.com.	518400	IN	A	193.232.142.17
+
+sportingnews.com.	518400	IN	A	185.42.236.155

@@ -1,0 +1,6 @@
+
+osxdaily.com.	86400	IN	SOA	ns.osxdaily.com.	mail	2019061702 1800 900 604800 86400
+osxdaily.com.	86400	IN	NS	ns.osxdaily.com.
+ns.osxdaily.com.	518400	IN	A	213.180.193.1
+
+osxdaily.com.	518400	IN	A	207.244.78.26

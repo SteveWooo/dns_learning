@@ -1,0 +1,6 @@
+
+podio.com.	86400	IN	SOA	ns.podio.com.	mail	2019061702 1800 900 604800 86400
+podio.com.	86400	IN	NS	ns.podio.com.
+ns.podio.com.	518400	IN	A	216.239.32.29
+
+podio.com.	518400	IN	A	54.229.15.211

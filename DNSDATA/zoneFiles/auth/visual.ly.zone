@@ -1,0 +1,6 @@
+
+visual.ly.	86400	IN	SOA	ns.visual.ly.	mail	2019061702 1800 900 604800 86400
+visual.ly.	86400	IN	NS	ns.visual.ly.
+ns.visual.ly.	518400	IN	A	175.126.117.211
+
+visual.ly.	518400	IN	A	52.7.61.155

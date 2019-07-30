@@ -1,0 +1,6 @@
+
+downloadcocci.com.	86400	IN	SOA	ns.downloadcocci.com.	mail	2019061702 1800 900 604800 86400
+downloadcocci.com.	86400	IN	NS	ns.downloadcocci.com.
+ns.downloadcocci.com.	518400	IN	A	206.128.173.109
+
+downloadcocci.com.	518400	IN	A	198.54.117.197

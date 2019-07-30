@@ -1,0 +1,6 @@
+
+svyaznoy.ru.	86400	IN	SOA	ns.svyaznoy.ru.	mail	2019061702 1800 900 604800 86400
+svyaznoy.ru.	86400	IN	NS	ns.svyaznoy.ru.
+ns.svyaznoy.ru.	518400	IN	A	198.11.138.245
+
+svyaznoy.ru.	518400	IN	A	185.203.72.181

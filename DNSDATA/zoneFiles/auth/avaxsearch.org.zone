@@ -1,0 +1,6 @@
+
+avaxsearch.org.	86400	IN	SOA	ns.avaxsearch.org.	mail	2019061702 1800 900 604800 86400
+avaxsearch.org.	86400	IN	NS	ns.avaxsearch.org.
+ns.avaxsearch.org.	518400	IN	A	83.143.25.220
+
+avaxsearch.org.	518400	IN	A	162.210.196.168

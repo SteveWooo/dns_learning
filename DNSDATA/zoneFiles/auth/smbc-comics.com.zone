@@ -1,0 +1,6 @@
+
+smbc-comics.com.	86400	IN	SOA	ns.smbc-comics.com.	mail	2019061702 1800 900 604800 86400
+smbc-comics.com.	86400	IN	NS	ns.smbc-comics.com.
+ns.smbc-comics.com.	518400	IN	A	216.58.200.238
+
+smbc-comics.com.	518400	IN	A	148.163.89.10

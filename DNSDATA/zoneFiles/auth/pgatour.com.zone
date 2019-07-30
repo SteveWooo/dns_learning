@@ -1,0 +1,6 @@
+
+pgatour.com.	86400	IN	SOA	ns.pgatour.com.	mail	2019061702 1800 900 604800 86400
+pgatour.com.	86400	IN	NS	ns.pgatour.com.
+ns.pgatour.com.	518400	IN	A	202.108.22.220
+
+pgatour.com.	518400	IN	A	54.245.234.0

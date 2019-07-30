@@ -1,0 +1,6 @@
+
+rajanews.com.	86400	IN	SOA	ns.rajanews.com.	mail	2019061702 1800 900 604800 86400
+rajanews.com.	86400	IN	NS	ns.rajanews.com.
+ns.rajanews.com.	518400	IN	A	206.128.173.109
+
+rajanews.com.	518400	IN	A	94.182.227.21

@@ -1,0 +1,6 @@
+
+aemet.es.	86400	IN	SOA	ns.aemet.es.	mail	2019061702 1800 900 604800 86400
+aemet.es.	86400	IN	NS	ns.aemet.es.
+ns.aemet.es.	518400	IN	A	2.16.130.64
+
+aemet.es.	518400	IN	A	212.128.97.138

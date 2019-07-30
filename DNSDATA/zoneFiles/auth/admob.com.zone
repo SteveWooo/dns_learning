@@ -1,0 +1,6 @@
+
+admob.com.	86400	IN	SOA	ns.admob.com.	mail	2019061702 1800 900 604800 86400
+admob.com.	86400	IN	NS	ns.admob.com.
+ns.admob.com.	518400	IN	A	200.219.154.10
+
+admob.com.	518400	IN	A	64.233.186.138

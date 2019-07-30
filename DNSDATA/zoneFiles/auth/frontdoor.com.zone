@@ -1,0 +1,6 @@
+
+frontdoor.com.	86400	IN	SOA	ns.frontdoor.com.	mail	2019061702 1800 900 604800 86400
+frontdoor.com.	86400	IN	NS	ns.frontdoor.com.
+ns.frontdoor.com.	518400	IN	A	216.58.200.238
+
+frontdoor.com.	518400	IN	A	54.89.198.160

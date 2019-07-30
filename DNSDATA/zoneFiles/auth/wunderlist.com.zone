@@ -1,0 +1,6 @@
+
+wunderlist.com.	86400	IN	SOA	ns.wunderlist.com.	mail	2019061702 1800 900 604800 86400
+wunderlist.com.	86400	IN	NS	ns.wunderlist.com.
+ns.wunderlist.com.	518400	IN	A	217.69.139.202
+
+wunderlist.com.	518400	IN	A	54.217.252.12

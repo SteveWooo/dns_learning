@@ -1,0 +1,6 @@
+
+topstoreoffers.com.	86400	IN	SOA	ns.topstoreoffers.com.	mail	2019061702 1800 900 604800 86400
+topstoreoffers.com.	86400	IN	NS	ns.topstoreoffers.com.
+ns.topstoreoffers.com.	518400	IN	A	216.239.32.10
+
+topstoreoffers.com.	518400	IN	A	5.79.79.212

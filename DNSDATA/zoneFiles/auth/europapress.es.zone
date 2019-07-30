@@ -1,0 +1,6 @@
+
+europapress.es.	86400	IN	SOA	ns.europapress.es.	mail	2019061702 1800 900 604800 86400
+europapress.es.	86400	IN	NS	ns.europapress.es.
+ns.europapress.es.	518400	IN	A	173.245.58.201
+
+europapress.es.	518400	IN	A	40.119.153.108

@@ -1,0 +1,6 @@
+
+keezmovies.com.	86400	IN	SOA	ns.keezmovies.com.	mail	2019061702 1800 900 604800 86400
+keezmovies.com.	86400	IN	NS	ns.keezmovies.com.
+ns.keezmovies.com.	518400	IN	A	198.11.138.249
+
+keezmovies.com.	518400	IN	A	69.63.186.30

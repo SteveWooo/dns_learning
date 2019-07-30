@@ -1,0 +1,6 @@
+
+hongkiat.com.	86400	IN	SOA	ns.hongkiat.com.	mail	2019061702 1800 900 604800 86400
+hongkiat.com.	86400	IN	NS	ns.hongkiat.com.
+ns.hongkiat.com.	518400	IN	A	213.180.193.1
+
+hongkiat.com.	518400	IN	A	173.248.157.162

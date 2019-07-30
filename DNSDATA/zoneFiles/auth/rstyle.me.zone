@@ -1,0 +1,6 @@
+
+rstyle.me.	86400	IN	SOA	ns.rstyle.me.	mail	2019061702 1800 900 604800 86400
+rstyle.me.	86400	IN	NS	ns.rstyle.me.
+ns.rstyle.me.	518400	IN	A	213.180.193.1
+
+rstyle.me.	518400	IN	A	35.169.172.226

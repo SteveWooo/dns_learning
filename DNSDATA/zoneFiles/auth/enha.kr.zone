@@ -1,0 +1,6 @@
+
+enha.kr.	86400	IN	SOA	ns.enha.kr.	mail	2019061702 1800 900 604800 86400
+enha.kr.	86400	IN	NS	ns.enha.kr.
+ns.enha.kr.	518400	IN	A	216.239.32.10
+
+enha.kr.	518400	IN	A	104.28.17.126

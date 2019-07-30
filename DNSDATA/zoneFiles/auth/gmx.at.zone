@@ -1,0 +1,6 @@
+
+gmx.at.	86400	IN	SOA	ns.gmx.at.	mail	2019061702 1800 900 604800 86400
+gmx.at.	86400	IN	NS	ns.gmx.at.
+ns.gmx.at.	518400	IN	A	217.69.139.112
+
+gmx.at.	518400	IN	A	82.165.229.87

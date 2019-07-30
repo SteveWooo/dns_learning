@@ -1,0 +1,6 @@
+
+epa.gov.	86400	IN	SOA	ns.epa.gov.	mail	2019061702 1800 900 604800 86400
+epa.gov.	86400	IN	NS	ns.epa.gov.
+ns.epa.gov.	518400	IN	A	216.239.32.106
+
+epa.gov.	518400	IN	A	134.67.21.34

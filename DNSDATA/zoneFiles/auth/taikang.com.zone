@@ -1,0 +1,6 @@
+
+taikang.com.	86400	IN	SOA	ns.taikang.com.	mail	2019061702 1800 900 604800 86400
+taikang.com.	86400	IN	NS	ns.taikang.com.
+ns.taikang.com.	518400	IN	A	203.153.43.65
+
+taikang.com.	518400	IN	A	119.253.80.52

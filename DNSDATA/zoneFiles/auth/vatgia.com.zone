@@ -1,0 +1,6 @@
+
+vatgia.com.	86400	IN	SOA	ns.vatgia.com.	mail	2019061702 1800 900 604800 86400
+vatgia.com.	86400	IN	NS	ns.vatgia.com.
+ns.vatgia.com.	518400	IN	A	216.58.200.238
+
+vatgia.com.	518400	IN	A	210.245.83.70

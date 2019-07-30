@@ -1,0 +1,6 @@
+
+hc360.com.	86400	IN	SOA	ns.hc360.com.	mail	2019061702 1800 900 604800 86400
+hc360.com.	86400	IN	NS	ns.hc360.com.
+ns.hc360.com.	518400	IN	A	217.69.139.202
+
+hc360.com.	518400	IN	A	117.50.52.18

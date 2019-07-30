@@ -1,0 +1,6 @@
+
+scholastic.com.	86400	IN	SOA	ns.scholastic.com.	mail	2019061702 1800 900 604800 86400
+scholastic.com.	86400	IN	NS	ns.scholastic.com.
+ns.scholastic.com.	518400	IN	A	216.58.200.238
+
+scholastic.com.	518400	IN	A	204.74.99.100

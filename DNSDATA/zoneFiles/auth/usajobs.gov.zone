@@ -1,0 +1,6 @@
+
+usajobs.gov.	86400	IN	SOA	ns.usajobs.gov.	mail	2019061702 1800 900 604800 86400
+usajobs.gov.	86400	IN	NS	ns.usajobs.gov.
+ns.usajobs.gov.	518400	IN	A	216.239.32.106
+
+usajobs.gov.	518400	IN	A	104.102.155.137

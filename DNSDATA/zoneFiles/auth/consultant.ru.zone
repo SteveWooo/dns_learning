@@ -1,0 +1,6 @@
+
+consultant.ru.	86400	IN	SOA	ns.consultant.ru.	mail	2019061702 1800 900 604800 86400
+consultant.ru.	86400	IN	NS	ns.consultant.ru.
+ns.consultant.ru.	518400	IN	A	200.201.165.253
+
+consultant.ru.	518400	IN	A	91.238.81.10

@@ -1,0 +1,6 @@
+
+optimum.net.	86400	IN	SOA	ns.optimum.net.	mail	2019061702 1800 900 604800 86400
+optimum.net.	86400	IN	NS	ns.optimum.net.
+ns.optimum.net.	518400	IN	A	183.3.226.207
+
+optimum.net.	518400	IN	A	167.206.237.230

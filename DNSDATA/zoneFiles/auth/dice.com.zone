@@ -1,0 +1,6 @@
+
+dice.com.	86400	IN	SOA	ns.dice.com.	mail	2019061702 1800 900 604800 86400
+dice.com.	86400	IN	NS	ns.dice.com.
+ns.dice.com.	518400	IN	A	213.180.204.242
+
+dice.com.	518400	IN	A	52.45.0.105

@@ -1,0 +1,6 @@
+
+f-picture.net.	86400	IN	SOA	ns.f-picture.net.	mail	2019061702 1800 900 604800 86400
+f-picture.net.	86400	IN	NS	ns.f-picture.net.
+ns.f-picture.net.	518400	IN	A	204.69.234.1
+
+f-picture.net.	518400	IN	A	162.222.213.197

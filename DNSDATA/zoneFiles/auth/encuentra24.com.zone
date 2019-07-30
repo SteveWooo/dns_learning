@@ -1,0 +1,6 @@
+
+encuentra24.com.	86400	IN	SOA	ns.encuentra24.com.	mail	2019061702 1800 900 604800 86400
+encuentra24.com.	86400	IN	NS	ns.encuentra24.com.
+ns.encuentra24.com.	518400	IN	A	213.180.204.242
+
+encuentra24.com.	518400	IN	A	104.20.89.54

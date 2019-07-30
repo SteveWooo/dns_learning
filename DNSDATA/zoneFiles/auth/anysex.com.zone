@@ -1,0 +1,6 @@
+
+anysex.com.	86400	IN	SOA	ns.anysex.com.	mail	2019061702 1800 900 604800 86400
+anysex.com.	86400	IN	NS	ns.anysex.com.
+ns.anysex.com.	518400	IN	A	173.245.59.100
+
+anysex.com.	518400	IN	A	88.85.94.221

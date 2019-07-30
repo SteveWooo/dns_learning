@@ -1,0 +1,6 @@
+
+cnnindonesia.com.	86400	IN	SOA	ns.cnnindonesia.com.	mail	2019061702 1800 900 604800 86400
+cnnindonesia.com.	86400	IN	NS	ns.cnnindonesia.com.
+ns.cnnindonesia.com.	518400	IN	A	216.58.200.238
+
+cnnindonesia.com.	518400	IN	A	103.49.221.130

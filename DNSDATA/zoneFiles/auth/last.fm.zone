@@ -1,0 +1,6 @@
+
+last.fm.	86400	IN	SOA	ns.last.fm.	mail	2019061702 1800 900 604800 86400
+last.fm.	86400	IN	NS	ns.last.fm.
+ns.last.fm.	518400	IN	A	205.251.199.254
+
+last.fm.	518400	IN	A	64.30.224.246

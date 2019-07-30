@@ -1,0 +1,6 @@
+
+nrk.no.	86400	IN	SOA	ns.nrk.no.	mail	2019061702 1800 900 604800 86400
+nrk.no.	86400	IN	NS	ns.nrk.no.
+ns.nrk.no.	518400	IN	A	81.19.73.180
+
+nrk.no.	518400	IN	A	31.13.79.17

@@ -1,0 +1,6 @@
+
+meishichina.com.	86400	IN	SOA	ns.meishichina.com.	mail	2019061702 1800 900 604800 86400
+meishichina.com.	86400	IN	NS	ns.meishichina.com.
+ns.meishichina.com.	518400	IN	A	202.108.22.220
+
+meishichina.com.	518400	IN	A	39.96.72.182

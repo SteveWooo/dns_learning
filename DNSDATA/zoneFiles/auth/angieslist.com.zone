@@ -1,0 +1,6 @@
+
+angieslist.com.	86400	IN	SOA	ns.angieslist.com.	mail	2019061702 1800 900 604800 86400
+angieslist.com.	86400	IN	NS	ns.angieslist.com.
+ns.angieslist.com.	518400	IN	A	213.180.193.1
+
+angieslist.com.	518400	IN	A	104.126.172.31

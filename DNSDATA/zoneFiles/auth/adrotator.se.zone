@@ -1,0 +1,6 @@
+
+adrotator.se.	86400	IN	SOA	ns.adrotator.se.	mail	2019061702 1800 900 604800 86400
+adrotator.se.	86400	IN	NS	ns.adrotator.se.
+ns.adrotator.se.	518400	IN	A	208.78.70.47
+
+adrotator.se.	518400	IN	A	52.219.73.66

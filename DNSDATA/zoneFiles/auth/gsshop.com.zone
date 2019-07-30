@@ -1,0 +1,6 @@
+
+gsshop.com.	86400	IN	SOA	ns.gsshop.com.	mail	2019061702 1800 900 604800 86400
+gsshop.com.	86400	IN	NS	ns.gsshop.com.
+ns.gsshop.com.	518400	IN	A	208.78.70.47
+
+gsshop.com.	518400	IN	A	211.44.62.230

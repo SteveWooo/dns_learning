@@ -1,0 +1,6 @@
+
+xrea.com.	86400	IN	SOA	ns.xrea.com.	mail	2019061702 1800 900 604800 86400
+xrea.com.	86400	IN	NS	ns.xrea.com.
+ns.xrea.com.	518400	IN	A	213.180.204.242
+
+xrea.com.	518400	IN	A	103.242.31.33

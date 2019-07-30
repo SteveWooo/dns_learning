@@ -1,0 +1,6 @@
+
+express.com.	86400	IN	SOA	ns.express.com.	mail	2019061702 1800 900 604800 86400
+express.com.	86400	IN	NS	ns.express.com.
+ns.express.com.	518400	IN	A	206.128.173.109
+
+express.com.	518400	IN	A	2.19.67.216

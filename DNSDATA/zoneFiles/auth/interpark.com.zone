@@ -1,0 +1,6 @@
+
+interpark.com.	86400	IN	SOA	ns.interpark.com.	mail	2019061702 1800 900 604800 86400
+interpark.com.	86400	IN	NS	ns.interpark.com.
+ns.interpark.com.	518400	IN	A	216.239.32.29
+
+interpark.com.	518400	IN	A	69.63.186.31

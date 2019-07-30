@@ -1,0 +1,6 @@
+
+xcams.com.	86400	IN	SOA	ns.xcams.com.	mail	2019061702 1800 900 604800 86400
+xcams.com.	86400	IN	NS	ns.xcams.com.
+ns.xcams.com.	518400	IN	A	216.239.32.29
+
+xcams.com.	518400	IN	A	75.126.135.131

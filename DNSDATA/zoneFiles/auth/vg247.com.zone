@@ -1,0 +1,6 @@
+
+vg247.com.	86400	IN	SOA	ns.vg247.com.	mail	2019061702 1800 900 604800 86400
+vg247.com.	86400	IN	NS	ns.vg247.com.
+ns.vg247.com.	518400	IN	A	203.153.43.65
+
+vg247.com.	518400	IN	A	66.232.99.7

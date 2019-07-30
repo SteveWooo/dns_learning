@@ -1,0 +1,6 @@
+
+hm.com.	86400	IN	SOA	ns.hm.com.	mail	2019061702 1800 900 604800 86400
+hm.com.	86400	IN	NS	ns.hm.com.
+ns.hm.com.	518400	IN	A	193.232.142.17
+
+hm.com.	518400	IN	A	110.93.233.11

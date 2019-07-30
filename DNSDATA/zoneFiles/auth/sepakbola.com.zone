@@ -1,0 +1,6 @@
+
+sepakbola.com.	86400	IN	SOA	ns.sepakbola.com.	mail	2019061702 1800 900 604800 86400
+sepakbola.com.	86400	IN	NS	ns.sepakbola.com.
+ns.sepakbola.com.	518400	IN	A	216.58.200.238
+
+sepakbola.com.	518400	IN	A	104.27.191.5

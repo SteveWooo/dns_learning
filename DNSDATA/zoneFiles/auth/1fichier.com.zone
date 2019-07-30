@@ -1,0 +1,6 @@
+
+1fichier.com.	86400	IN	SOA	ns.1fichier.com.	mail	2019061702 1800 900 604800 86400
+1fichier.com.	86400	IN	NS	ns.1fichier.com.
+ns.1fichier.com.	518400	IN	A	217.69.139.202
+
+1fichier.com.	518400	IN	A	5.39.224.140

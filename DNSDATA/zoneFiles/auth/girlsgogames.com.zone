@@ -1,0 +1,6 @@
+
+girlsgogames.com.	86400	IN	SOA	ns.girlsgogames.com.	mail	2019061702 1800 900 604800 86400
+girlsgogames.com.	86400	IN	NS	ns.girlsgogames.com.
+ns.girlsgogames.com.	518400	IN	A	140.205.67.253
+
+girlsgogames.com.	518400	IN	A	35.201.104.236

@@ -1,0 +1,6 @@
+
+axisbank.com.	86400	IN	SOA	ns.axisbank.com.	mail	2019061702 1800 900 604800 86400
+axisbank.com.	86400	IN	NS	ns.axisbank.com.
+ns.axisbank.com.	518400	IN	A	200.221.11.98
+
+axisbank.com.	518400	IN	A	104.103.89.103

@@ -1,0 +1,6 @@
+
+teamliquid.net.	86400	IN	SOA	ns.teamliquid.net.	mail	2019061702 1800 900 604800 86400
+teamliquid.net.	86400	IN	NS	ns.teamliquid.net.
+ns.teamliquid.net.	518400	IN	A	204.74.108.1
+
+teamliquid.net.	518400	IN	A	144.217.237.0

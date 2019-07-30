@@ -1,0 +1,6 @@
+
+lowyat.net.	86400	IN	SOA	ns.lowyat.net.	mail	2019061702 1800 900 604800 86400
+lowyat.net.	86400	IN	NS	ns.lowyat.net.
+ns.lowyat.net.	518400	IN	A	198.100.156.181
+
+lowyat.net.	518400	IN	A	103.12.152.90

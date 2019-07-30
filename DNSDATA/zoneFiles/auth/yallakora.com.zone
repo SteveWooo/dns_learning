@@ -1,0 +1,6 @@
+
+yallakora.com.	86400	IN	SOA	ns.yallakora.com.	mail	2019061702 1800 900 604800 86400
+yallakora.com.	86400	IN	NS	ns.yallakora.com.
+ns.yallakora.com.	518400	IN	A	203.153.43.65
+
+yallakora.com.	518400	IN	A	196.205.93.110

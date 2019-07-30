@@ -1,0 +1,6 @@
+
+nieuwsblad.be.	86400	IN	SOA	ns.nieuwsblad.be.	mail	2019061702 1800 900 604800 86400
+nieuwsblad.be.	86400	IN	NS	ns.nieuwsblad.be.
+ns.nieuwsblad.be.	518400	IN	A	204.74.108.1
+
+nieuwsblad.be.	518400	IN	A	185.43.124.11

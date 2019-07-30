@@ -1,0 +1,6 @@
+
+9gag.com.	86400	IN	SOA	ns.9gag.com.	mail	2019061702 1800 900 604800 86400
+9gag.com.	86400	IN	NS	ns.9gag.com.
+ns.9gag.com.	518400	IN	A	204.69.234.1
+
+9gag.com.	518400	IN	A	69.171.237.16

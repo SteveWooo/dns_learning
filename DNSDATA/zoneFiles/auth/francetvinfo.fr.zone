@@ -1,0 +1,6 @@
+
+francetvinfo.fr.	86400	IN	SOA	ns.francetvinfo.fr.	mail	2019061702 1800 900 604800 86400
+francetvinfo.fr.	86400	IN	NS	ns.francetvinfo.fr.
+ns.francetvinfo.fr.	518400	IN	A	131.0.24.26
+
+francetvinfo.fr.	518400	IN	A	193.57.129.9

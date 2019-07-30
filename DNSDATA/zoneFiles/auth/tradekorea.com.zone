@@ -1,0 +1,6 @@
+
+tradekorea.com.	86400	IN	SOA	ns.tradekorea.com.	mail	2019061702 1800 900 604800 86400
+tradekorea.com.	86400	IN	NS	ns.tradekorea.com.
+ns.tradekorea.com.	518400	IN	A	193.232.156.17
+
+tradekorea.com.	518400	IN	A	203.233.202.164

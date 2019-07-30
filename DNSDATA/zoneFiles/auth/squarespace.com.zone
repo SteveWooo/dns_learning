@@ -1,0 +1,6 @@
+
+squarespace.com.	86400	IN	SOA	ns.squarespace.com.	mail	2019061702 1800 900 604800 86400
+squarespace.com.	86400	IN	NS	ns.squarespace.com.
+ns.squarespace.com.	518400	IN	A	216.239.32.29
+
+squarespace.com.	518400	IN	A	198.185.159.176

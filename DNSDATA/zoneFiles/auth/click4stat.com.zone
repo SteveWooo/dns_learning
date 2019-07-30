@@ -1,0 +1,6 @@
+
+click4stat.com.	86400	IN	SOA	ns.click4stat.com.	mail	2019061702 1800 900 604800 86400
+click4stat.com.	86400	IN	NS	ns.click4stat.com.
+ns.click4stat.com.	518400	IN	A	205.251.199.254
+
+click4stat.com.	518400	IN	A	72.52.178.23

@@ -1,0 +1,6 @@
+
+capterra.com.	86400	IN	SOA	ns.capterra.com.	mail	2019061702 1800 900 604800 86400
+capterra.com.	86400	IN	NS	ns.capterra.com.
+ns.capterra.com.	518400	IN	A	198.11.138.249
+
+capterra.com.	518400	IN	A	54.156.208.110

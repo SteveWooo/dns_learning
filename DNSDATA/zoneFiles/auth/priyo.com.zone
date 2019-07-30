@@ -1,0 +1,6 @@
+
+priyo.com.	86400	IN	SOA	ns.priyo.com.	mail	2019061702 1800 900 604800 86400
+priyo.com.	86400	IN	NS	ns.priyo.com.
+ns.priyo.com.	518400	IN	A	213.180.204.242
+
+priyo.com.	518400	IN	A	104.24.30.26

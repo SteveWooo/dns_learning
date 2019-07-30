@@ -1,0 +1,6 @@
+
+minuto30.com.	86400	IN	SOA	ns.minuto30.com.	mail	2019061702 1800 900 604800 86400
+minuto30.com.	86400	IN	NS	ns.minuto30.com.
+ns.minuto30.com.	518400	IN	A	125.208.45.1
+
+minuto30.com.	518400	IN	A	13.33.57.123

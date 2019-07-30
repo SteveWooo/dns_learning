@@ -1,0 +1,6 @@
+
+tchibo.de.	86400	IN	SOA	ns.tchibo.de.	mail	2019061702 1800 900 604800 86400
+tchibo.de.	86400	IN	NS	ns.tchibo.de.
+ns.tchibo.de.	518400	IN	A	208.78.70.47
+
+tchibo.de.	518400	IN	A	212.116.1.40

@@ -1,0 +1,6 @@
+
+piratestreaming.co.	86400	IN	SOA	ns.piratestreaming.co.	mail	2019061702 1800 900 604800 86400
+piratestreaming.co.	86400	IN	NS	ns.piratestreaming.co.
+ns.piratestreaming.co.	518400	IN	A	205.251.199.254
+
+piratestreaming.co.	518400	IN	A	67.227.226.240

@@ -1,0 +1,6 @@
+
+wildberries.ru.	86400	IN	SOA	ns.wildberries.ru.	mail	2019061702 1800 900 604800 86400
+wildberries.ru.	86400	IN	NS	ns.wildberries.ru.
+ns.wildberries.ru.	518400	IN	A	200.221.11.98
+
+wildberries.ru.	518400	IN	A	185.62.200.225

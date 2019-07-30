@@ -1,0 +1,6 @@
+
+girlsplay.com.	86400	IN	SOA	ns.girlsplay.com.	mail	2019061702 1800 900 604800 86400
+girlsplay.com.	86400	IN	NS	ns.girlsplay.com.
+ns.girlsplay.com.	518400	IN	A	204.69.234.1
+
+girlsplay.com.	518400	IN	A	104.25.227.106

@@ -1,0 +1,6 @@
+
+ign.com.	86400	IN	SOA	ns.ign.com.	mail	2019061702 1800 900 604800 86400
+ign.com.	86400	IN	NS	ns.ign.com.
+ns.ign.com.	518400	IN	A	64.106.209.186
+
+ign.com.	518400	IN	A	52.2.160.131

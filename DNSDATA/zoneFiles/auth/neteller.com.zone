@@ -1,0 +1,6 @@
+
+neteller.com.	86400	IN	SOA	ns.neteller.com.	mail	2019061702 1800 900 604800 86400
+neteller.com.	86400	IN	NS	ns.neteller.com.
+ns.neteller.com.	518400	IN	A	58.180.27.231
+
+neteller.com.	518400	IN	A	72.247.231.228

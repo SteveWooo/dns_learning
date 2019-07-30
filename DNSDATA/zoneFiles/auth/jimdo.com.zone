@@ -1,0 +1,6 @@
+
+jimdo.com.	86400	IN	SOA	ns.jimdo.com.	mail	2019061702 1800 900 604800 86400
+jimdo.com.	86400	IN	NS	ns.jimdo.com.
+ns.jimdo.com.	518400	IN	A	193.108.91.127
+
+jimdo.com.	518400	IN	A	151.101.2.2

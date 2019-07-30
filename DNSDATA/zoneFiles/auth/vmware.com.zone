@@ -1,0 +1,6 @@
+
+vmware.com.	86400	IN	SOA	ns.vmware.com.	mail	2019061702 1800 900 604800 86400
+vmware.com.	86400	IN	NS	ns.vmware.com.
+ns.vmware.com.	518400	IN	A	206.128.173.109
+
+vmware.com.	518400	IN	A	45.60.11.183

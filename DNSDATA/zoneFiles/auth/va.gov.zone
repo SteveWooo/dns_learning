@@ -1,0 +1,6 @@
+
+va.gov.	86400	IN	SOA	ns.va.gov.	mail	2019061702 1800 900 604800 86400
+va.gov.	86400	IN	NS	ns.va.gov.
+ns.va.gov.	518400	IN	A	198.100.156.181
+
+va.gov.	518400	IN	A	152.133.106.221

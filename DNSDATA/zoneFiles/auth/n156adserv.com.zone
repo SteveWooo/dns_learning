@@ -1,0 +1,6 @@
+
+n156adserv.com.	86400	IN	SOA	ns.n156adserv.com.	mail	2019061702 1800 900 604800 86400
+n156adserv.com.	86400	IN	NS	ns.n156adserv.com.
+ns.n156adserv.com.	518400	IN	A	216.58.200.238
+
+n156adserv.com.	518400	IN	A	89.35.39.50

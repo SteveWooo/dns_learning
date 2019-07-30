@@ -1,0 +1,6 @@
+
+popmog.com.	86400	IN	SOA	ns.popmog.com.	mail	2019061702 1800 900 604800 86400
+popmog.com.	86400	IN	NS	ns.popmog.com.
+ns.popmog.com.	518400	IN	A	216.239.32.29
+
+popmog.com.	518400	IN	A	54.78.180.203

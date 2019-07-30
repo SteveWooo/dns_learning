@@ -1,0 +1,6 @@
+
+viamichelin.fr.	86400	IN	SOA	ns.viamichelin.fr.	mail	2019061702 1800 900 604800 86400
+viamichelin.fr.	86400	IN	NS	ns.viamichelin.fr.
+ns.viamichelin.fr.	518400	IN	A	200.219.154.10
+
+viamichelin.fr.	518400	IN	A	212.11.63.188

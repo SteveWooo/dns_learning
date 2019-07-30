@@ -1,0 +1,6 @@
+
+segundamano.es.	86400	IN	SOA	ns.segundamano.es.	mail	2019061702 1800 900 604800 86400
+segundamano.es.	86400	IN	NS	ns.segundamano.es.
+ns.segundamano.es.	518400	IN	A	173.245.58.159
+
+segundamano.es.	518400	IN	A	52.218.106.196

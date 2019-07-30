@@ -1,0 +1,6 @@
+
+dealmoon.com.	86400	IN	SOA	ns.dealmoon.com.	mail	2019061702 1800 900 604800 86400
+dealmoon.com.	86400	IN	NS	ns.dealmoon.com.
+ns.dealmoon.com.	518400	IN	A	216.239.32.106
+
+dealmoon.com.	518400	IN	A	52.36.198.145

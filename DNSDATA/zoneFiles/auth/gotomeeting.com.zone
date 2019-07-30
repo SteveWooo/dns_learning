@@ -1,0 +1,6 @@
+
+gotomeeting.com.	86400	IN	SOA	ns.gotomeeting.com.	mail	2019061702 1800 900 604800 86400
+gotomeeting.com.	86400	IN	NS	ns.gotomeeting.com.
+ns.gotomeeting.com.	518400	IN	A	187.18.60.242
+
+gotomeeting.com.	518400	IN	A	216.115.208.241

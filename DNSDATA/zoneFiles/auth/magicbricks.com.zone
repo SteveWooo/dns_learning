@@ -1,0 +1,6 @@
+
+magicbricks.com.	86400	IN	SOA	ns.magicbricks.com.	mail	2019061702 1800 900 604800 86400
+magicbricks.com.	86400	IN	NS	ns.magicbricks.com.
+ns.magicbricks.com.	518400	IN	A	64.106.209.186
+
+magicbricks.com.	518400	IN	A	23.198.128.99

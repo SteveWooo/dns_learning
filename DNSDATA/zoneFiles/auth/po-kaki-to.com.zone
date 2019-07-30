@@ -1,0 +1,6 @@
+
+po-kaki-to.com.	86400	IN	SOA	ns.po-kaki-to.com.	mail	2019061702 1800 900 604800 86400
+po-kaki-to.com.	86400	IN	NS	ns.po-kaki-to.com.
+ns.po-kaki-to.com.	518400	IN	A	198.11.138.245
+
+po-kaki-to.com.	518400	IN	A	104.28.0.193

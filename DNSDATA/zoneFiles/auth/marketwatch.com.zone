@@ -1,0 +1,6 @@
+
+marketwatch.com.	86400	IN	SOA	ns.marketwatch.com.	mail	2019061702 1800 900 604800 86400
+marketwatch.com.	86400	IN	NS	ns.marketwatch.com.
+ns.marketwatch.com.	518400	IN	A	208.78.70.47
+
+marketwatch.com.	518400	IN	A	13.249.87.54

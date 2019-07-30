@@ -1,0 +1,6 @@
+
+intoday.in.	86400	IN	SOA	ns.intoday.in.	mail	2019061702 1800 900 604800 86400
+intoday.in.	86400	IN	NS	ns.intoday.in.
+ns.intoday.in.	518400	IN	A	216.239.32.10
+
+intoday.in.	518400	IN	A	52.74.32.52

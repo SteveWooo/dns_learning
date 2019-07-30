@@ -1,0 +1,6 @@
+
+style.com.	86400	IN	SOA	ns.style.com.	mail	2019061702 1800 900 604800 86400
+style.com.	86400	IN	NS	ns.style.com.
+ns.style.com.	518400	IN	A	200.219.154.10
+
+style.com.	518400	IN	A	13.94.205.227

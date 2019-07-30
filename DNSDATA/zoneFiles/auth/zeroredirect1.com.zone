@@ -1,0 +1,6 @@
+
+zeroredirect1.com.	86400	IN	SOA	ns.zeroredirect1.com.	mail	2019061702 1800 900 604800 86400
+zeroredirect1.com.	86400	IN	NS	ns.zeroredirect1.com.
+ns.zeroredirect1.com.	518400	IN	A	217.69.139.202
+
+zeroredirect1.com.	518400	IN	A	23.20.57.65

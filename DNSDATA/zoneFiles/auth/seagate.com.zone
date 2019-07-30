@@ -1,0 +1,6 @@
+
+seagate.com.	86400	IN	SOA	ns.seagate.com.	mail	2019061702 1800 900 604800 86400
+seagate.com.	86400	IN	NS	ns.seagate.com.
+ns.seagate.com.	518400	IN	A	140.205.67.253
+
+seagate.com.	518400	IN	A	134.204.236.40

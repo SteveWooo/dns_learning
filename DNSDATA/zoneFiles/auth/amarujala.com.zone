@@ -1,0 +1,6 @@
+
+amarujala.com.	86400	IN	SOA	ns.amarujala.com.	mail	2019061702 1800 900 604800 86400
+amarujala.com.	86400	IN	NS	ns.amarujala.com.
+ns.amarujala.com.	518400	IN	A	213.180.193.1
+
+amarujala.com.	518400	IN	A	104.17.131.100

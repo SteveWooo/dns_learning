@@ -1,0 +1,6 @@
+
+retenews24.it.	86400	IN	SOA	ns.retenews24.it.	mail	2019061702 1800 900 604800 86400
+retenews24.it.	86400	IN	NS	ns.retenews24.it.
+ns.retenews24.it.	518400	IN	A	216.239.32.29
+
+retenews24.it.	518400	IN	A	104.18.36.85

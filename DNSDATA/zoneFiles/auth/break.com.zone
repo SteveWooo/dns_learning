@@ -1,0 +1,6 @@
+
+break.com.	86400	IN	SOA	ns.break.com.	mail	2019061702 1800 900 604800 86400
+break.com.	86400	IN	NS	ns.break.com.
+ns.break.com.	518400	IN	A	216.58.200.238
+
+break.com.	518400	IN	A	38.103.244.61

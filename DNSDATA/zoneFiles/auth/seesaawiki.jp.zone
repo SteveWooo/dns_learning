@@ -1,0 +1,6 @@
+
+seesaawiki.jp.	86400	IN	SOA	ns.seesaawiki.jp.	mail	2019061702 1800 900 604800 86400
+seesaawiki.jp.	86400	IN	NS	ns.seesaawiki.jp.
+ns.seesaawiki.jp.	518400	IN	A	198.11.138.249
+
+seesaawiki.jp.	518400	IN	A	13.225.62.79

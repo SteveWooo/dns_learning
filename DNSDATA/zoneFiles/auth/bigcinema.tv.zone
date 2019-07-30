@@ -1,0 +1,6 @@
+
+bigcinema.tv.	86400	IN	SOA	ns.bigcinema.tv.	mail	2019061702 1800 900 604800 86400
+bigcinema.tv.	86400	IN	NS	ns.bigcinema.tv.
+ns.bigcinema.tv.	518400	IN	A	64.106.209.186
+
+bigcinema.tv.	518400	IN	A	5.45.77.169

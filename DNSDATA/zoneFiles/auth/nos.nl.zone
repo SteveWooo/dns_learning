@@ -1,0 +1,6 @@
+
+nos.nl.	86400	IN	SOA	ns.nos.nl.	mail	2019061702 1800 900 604800 86400
+nos.nl.	86400	IN	NS	ns.nos.nl.
+ns.nos.nl.	518400	IN	A	173.245.59.100
+
+nos.nl.	518400	IN	A	145.58.29.114

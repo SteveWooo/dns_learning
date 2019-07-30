@@ -1,0 +1,6 @@
+
+speedtest.net.	86400	IN	SOA	ns.speedtest.net.	mail	2019061702 1800 900 604800 86400
+speedtest.net.	86400	IN	NS	ns.speedtest.net.
+ns.speedtest.net.	518400	IN	A	200.219.154.10
+
+speedtest.net.	518400	IN	A	151.101.66.219

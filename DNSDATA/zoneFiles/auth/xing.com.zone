@@ -1,0 +1,6 @@
+
+xing.com.	86400	IN	SOA	ns.xing.com.	mail	2019061702 1800 900 604800 86400
+xing.com.	86400	IN	NS	ns.xing.com.
+ns.xing.com.	518400	IN	A	198.100.156.181
+
+xing.com.	518400	IN	A	109.233.159.254

@@ -1,0 +1,6 @@
+
+anime-sharing.com.	86400	IN	SOA	ns.anime-sharing.com.	mail	2019061702 1800 900 604800 86400
+anime-sharing.com.	86400	IN	NS	ns.anime-sharing.com.
+ns.anime-sharing.com.	518400	IN	A	213.180.193.1
+
+anime-sharing.com.	518400	IN	A	104.25.23.115

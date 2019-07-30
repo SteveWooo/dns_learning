@@ -1,0 +1,6 @@
+
+join.me.	86400	IN	SOA	ns.join.me.	mail	2019061702 1800 900 604800 86400
+join.me.	86400	IN	NS	ns.join.me.
+ns.join.me.	518400	IN	A	216.239.32.29
+
+join.me.	518400	IN	A	104.121.164.138

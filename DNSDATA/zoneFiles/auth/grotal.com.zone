@@ -1,0 +1,6 @@
+
+grotal.com.	86400	IN	SOA	ns.grotal.com.	mail	2019061702 1800 900 604800 86400
+grotal.com.	86400	IN	NS	ns.grotal.com.
+ns.grotal.com.	518400	IN	A	217.69.139.112
+
+grotal.com.	518400	IN	A	64.185.236.218

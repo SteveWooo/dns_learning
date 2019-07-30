@@ -1,0 +1,6 @@
+
+disqus.com.	86400	IN	SOA	ns.disqus.com.	mail	2019061702 1800 900 604800 86400
+disqus.com.	86400	IN	NS	ns.disqus.com.
+ns.disqus.com.	518400	IN	A	205.251.197.107
+
+disqus.com.	518400	IN	A	31.13.64.33

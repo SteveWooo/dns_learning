@@ -1,0 +1,6 @@
+
+moheet.com.	86400	IN	SOA	ns.moheet.com.	mail	2019061702 1800 900 604800 86400
+moheet.com.	86400	IN	NS	ns.moheet.com.
+ns.moheet.com.	518400	IN	A	173.245.58.89
+
+moheet.com.	518400	IN	A	35.231.141.67

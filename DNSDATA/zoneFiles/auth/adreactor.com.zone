@@ -1,0 +1,6 @@
+
+adreactor.com.	86400	IN	SOA	ns.adreactor.com.	mail	2019061702 1800 900 604800 86400
+adreactor.com.	86400	IN	NS	ns.adreactor.com.
+ns.adreactor.com.	518400	IN	A	92.242.43.216
+
+adreactor.com.	518400	IN	A	46.166.179.113

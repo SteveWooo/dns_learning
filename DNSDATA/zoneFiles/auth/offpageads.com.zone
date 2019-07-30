@@ -1,0 +1,6 @@
+
+offpageads.com.	86400	IN	SOA	ns.offpageads.com.	mail	2019061702 1800 900 604800 86400
+offpageads.com.	86400	IN	NS	ns.offpageads.com.
+ns.offpageads.com.	518400	IN	A	205.251.195.203
+
+offpageads.com.	518400	IN	A	143.191.140.32

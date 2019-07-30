@@ -1,0 +1,6 @@
+
+emuparadise.me.	86400	IN	SOA	ns.emuparadise.me.	mail	2019061702 1800 900 604800 86400
+emuparadise.me.	86400	IN	NS	ns.emuparadise.me.
+ns.emuparadise.me.	518400	IN	A	205.251.194.1
+
+emuparadise.me.	518400	IN	A	96.45.83.7

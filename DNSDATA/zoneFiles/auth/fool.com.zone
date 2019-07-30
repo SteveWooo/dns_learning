@@ -1,0 +1,6 @@
+
+fool.com.	86400	IN	SOA	ns.fool.com.	mail	2019061702 1800 900 604800 86400
+fool.com.	86400	IN	NS	ns.fool.com.
+ns.fool.com.	518400	IN	A	205.251.199.254
+
+fool.com.	518400	IN	A	151.101.129.143

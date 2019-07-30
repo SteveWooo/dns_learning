@@ -1,0 +1,6 @@
+
+vietnamnet.vn.	86400	IN	SOA	ns.vietnamnet.vn.	mail	2019061702 1800 900 604800 86400
+vietnamnet.vn.	86400	IN	NS	ns.vietnamnet.vn.
+ns.vietnamnet.vn.	518400	IN	A	216.239.32.10
+
+vietnamnet.vn.	518400	IN	A	123.30.184.8

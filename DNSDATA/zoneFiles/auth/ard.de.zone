@@ -1,0 +1,6 @@
+
+ard.de.	86400	IN	SOA	ns.ard.de.	mail	2019061702 1800 900 604800 86400
+ard.de.	86400	IN	NS	ns.ard.de.
+ns.ard.de.	518400	IN	A	206.128.173.109
+
+ard.de.	518400	IN	A	83.125.35.3

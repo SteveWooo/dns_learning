@@ -1,0 +1,6 @@
+
+indiabix.com.	86400	IN	SOA	ns.indiabix.com.	mail	2019061702 1800 900 604800 86400
+indiabix.com.	86400	IN	NS	ns.indiabix.com.
+ns.indiabix.com.	518400	IN	A	81.19.82.2
+
+indiabix.com.	518400	IN	A	35.244.11.196

@@ -1,0 +1,6 @@
+
+allkpop.com.	86400	IN	SOA	ns.allkpop.com.	mail	2019061702 1800 900 604800 86400
+allkpop.com.	86400	IN	NS	ns.allkpop.com.
+ns.allkpop.com.	518400	IN	A	205.251.199.254
+
+allkpop.com.	518400	IN	A	104.20.53.91

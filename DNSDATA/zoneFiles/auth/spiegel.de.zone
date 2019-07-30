@@ -1,0 +1,6 @@
+
+spiegel.de.	86400	IN	SOA	ns.spiegel.de.	mail	2019061702 1800 900 604800 86400
+spiegel.de.	86400	IN	NS	ns.spiegel.de.
+ns.spiegel.de.	518400	IN	A	216.239.32.29
+
+spiegel.de.	518400	IN	A	69.171.234.48

@@ -1,0 +1,6 @@
+
+smosh.com.	86400	IN	SOA	ns.smosh.com.	mail	2019061702 1800 900 604800 86400
+smosh.com.	86400	IN	NS	ns.smosh.com.
+ns.smosh.com.	518400	IN	A	216.58.200.238
+
+smosh.com.	518400	IN	A	198.185.159.144

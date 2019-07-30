@@ -1,0 +1,6 @@
+
+colissimo.fr.	86400	IN	SOA	ns.colissimo.fr.	mail	2019061702 1800 900 604800 86400
+colissimo.fr.	86400	IN	NS	ns.colissimo.fr.
+ns.colissimo.fr.	518400	IN	A	216.239.32.29
+
+colissimo.fr.	518400	IN	A	178.213.65.240

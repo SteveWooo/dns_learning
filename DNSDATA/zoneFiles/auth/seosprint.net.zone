@@ -1,0 +1,6 @@
+
+seosprint.net.	86400	IN	SOA	ns.seosprint.net.	mail	2019061702 1800 900 604800 86400
+seosprint.net.	86400	IN	NS	ns.seosprint.net.
+ns.seosprint.net.	518400	IN	A	125.208.45.1
+
+seosprint.net.	518400	IN	A	5.187.7.10

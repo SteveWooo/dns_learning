@@ -1,0 +1,6 @@
+
+priceline.com.	86400	IN	SOA	ns.priceline.com.	mail	2019061702 1800 900 604800 86400
+priceline.com.	86400	IN	NS	ns.priceline.com.
+ns.priceline.com.	518400	IN	A	145.14.134.108
+
+priceline.com.	518400	IN	A	64.6.28.5

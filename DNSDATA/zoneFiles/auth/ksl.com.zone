@@ -1,0 +1,6 @@
+
+ksl.com.	86400	IN	SOA	ns.ksl.com.	mail	2019061702 1800 900 604800 86400
+ksl.com.	86400	IN	NS	ns.ksl.com.
+ns.ksl.com.	518400	IN	A	216.58.200.238
+
+ksl.com.	518400	IN	A	64.147.131.201

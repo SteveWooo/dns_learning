@@ -1,0 +1,6 @@
+
+tureng.com.	86400	IN	SOA	ns.tureng.com.	mail	2019061702 1800 900 604800 86400
+tureng.com.	86400	IN	NS	ns.tureng.com.
+ns.tureng.com.	518400	IN	A	204.74.108.1
+
+tureng.com.	518400	IN	A	104.27.178.91

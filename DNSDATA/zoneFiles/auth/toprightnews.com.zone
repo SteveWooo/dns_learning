@@ -1,0 +1,6 @@
+
+toprightnews.com.	86400	IN	SOA	ns.toprightnews.com.	mail	2019061702 1800 900 604800 86400
+toprightnews.com.	86400	IN	NS	ns.toprightnews.com.
+ns.toprightnews.com.	518400	IN	A	216.239.32.29
+
+toprightnews.com.	518400	IN	A	3.85.116.133

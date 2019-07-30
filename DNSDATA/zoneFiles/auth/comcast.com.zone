@@ -1,0 +1,6 @@
+
+comcast.com.	86400	IN	SOA	ns.comcast.com.	mail	2019061702 1800 900 604800 86400
+comcast.com.	86400	IN	NS	ns.comcast.com.
+ns.comcast.com.	518400	IN	A	173.245.58.100
+
+comcast.com.	518400	IN	A	69.252.80.75

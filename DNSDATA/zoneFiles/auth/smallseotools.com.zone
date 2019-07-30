@@ -1,0 +1,6 @@
+
+smallseotools.com.	86400	IN	SOA	ns.smallseotools.com.	mail	2019061702 1800 900 604800 86400
+smallseotools.com.	86400	IN	NS	ns.smallseotools.com.
+ns.smallseotools.com.	518400	IN	A	216.239.32.10
+
+smallseotools.com.	518400	IN	A	104.20.6.12

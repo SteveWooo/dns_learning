@@ -1,0 +1,6 @@
+
+hypergames.net.	86400	IN	SOA	ns.hypergames.net.	mail	2019061702 1800 900 604800 86400
+hypergames.net.	86400	IN	NS	ns.hypergames.net.
+ns.hypergames.net.	518400	IN	A	217.69.139.202
+
+hypergames.net.	518400	IN	A	208.91.197.27

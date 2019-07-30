@@ -1,0 +1,5 @@
+.						518400	IN	NS	a.root-servers.net.
+net.					518400	IN	NS	net.gtld-servers.net.
+
+a.root-servers.net.		518400	IN	A	192.58.128.30
+net.gtld-servers.net.	518400	IN	A	192.58.128.30

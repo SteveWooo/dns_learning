@@ -1,0 +1,6 @@
+
+booking.com.	86400	IN	SOA	ns.booking.com.	mail	2019061702 1800 900 604800 86400
+booking.com.	86400	IN	NS	ns.booking.com.
+ns.booking.com.	518400	IN	A	173.245.59.100
+
+booking.com.	518400	IN	A	5.57.16.220

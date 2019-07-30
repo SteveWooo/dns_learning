@@ -1,0 +1,6 @@
+
+fengniao.com.	86400	IN	SOA	ns.fengniao.com.	mail	2019061702 1800 900 604800 86400
+fengniao.com.	86400	IN	NS	ns.fengniao.com.
+ns.fengniao.com.	518400	IN	A	200.201.161.22
+
+fengniao.com.	518400	IN	A	106.75.87.206

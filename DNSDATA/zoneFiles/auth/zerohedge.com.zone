@@ -1,0 +1,6 @@
+
+zerohedge.com.	86400	IN	SOA	ns.zerohedge.com.	mail	2019061702 1800 900 604800 86400
+zerohedge.com.	86400	IN	NS	ns.zerohedge.com.
+ns.zerohedge.com.	518400	IN	A	216.239.32.10
+
+zerohedge.com.	518400	IN	A	31.13.66.23

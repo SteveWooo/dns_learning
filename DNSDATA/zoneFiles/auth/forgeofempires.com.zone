@@ -1,0 +1,6 @@
+
+forgeofempires.com.	86400	IN	SOA	ns.forgeofempires.com.	mail	2019061702 1800 900 604800 86400
+forgeofempires.com.	86400	IN	NS	ns.forgeofempires.com.
+ns.forgeofempires.com.	518400	IN	A	217.69.139.112
+
+forgeofempires.com.	518400	IN	A	212.72.174.251

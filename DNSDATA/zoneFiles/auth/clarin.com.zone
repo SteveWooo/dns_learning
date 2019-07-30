@@ -1,0 +1,6 @@
+
+clarin.com.	86400	IN	SOA	ns.clarin.com.	mail	2019061702 1800 900 604800 86400
+clarin.com.	86400	IN	NS	ns.clarin.com.
+ns.clarin.com.	518400	IN	A	193.232.142.17
+
+clarin.com.	518400	IN	A	104.18.19.22

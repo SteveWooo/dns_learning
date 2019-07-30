@@ -1,0 +1,6 @@
+
+budsgunshop.com.	86400	IN	SOA	ns.budsgunshop.com.	mail	2019061702 1800 900 604800 86400
+budsgunshop.com.	86400	IN	NS	ns.budsgunshop.com.
+ns.budsgunshop.com.	518400	IN	A	193.232.142.17
+
+budsgunshop.com.	518400	IN	A	104.16.110.47

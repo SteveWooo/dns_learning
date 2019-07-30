@@ -1,0 +1,6 @@
+
+snopes.com.	86400	IN	SOA	ns.snopes.com.	mail	2019061702 1800 900 604800 86400
+snopes.com.	86400	IN	NS	ns.snopes.com.
+ns.snopes.com.	518400	IN	A	206.128.173.109
+
+snopes.com.	518400	IN	A	54.230.53.237

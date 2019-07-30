@@ -1,0 +1,6 @@
+
+heroku.com.	86400	IN	SOA	ns.heroku.com.	mail	2019061702 1800 900 604800 86400
+heroku.com.	86400	IN	NS	ns.heroku.com.
+ns.heroku.com.	518400	IN	A	205.251.199.254
+
+heroku.com.	518400	IN	A	50.19.85.132

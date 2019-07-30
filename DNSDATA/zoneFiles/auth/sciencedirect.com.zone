@@ -1,0 +1,6 @@
+
+sciencedirect.com.	86400	IN	SOA	ns.sciencedirect.com.	mail	2019061702 1800 900 604800 86400
+sciencedirect.com.	86400	IN	NS	ns.sciencedirect.com.
+ns.sciencedirect.com.	518400	IN	A	125.208.45.1
+
+sciencedirect.com.	518400	IN	A	162.159.129.81

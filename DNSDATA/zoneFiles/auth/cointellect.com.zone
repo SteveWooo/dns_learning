@@ -1,0 +1,6 @@
+
+cointellect.com.	86400	IN	SOA	ns.cointellect.com.	mail	2019061702 1800 900 604800 86400
+cointellect.com.	86400	IN	NS	ns.cointellect.com.
+ns.cointellect.com.	518400	IN	A	204.69.234.1
+
+cointellect.com.	518400	IN	A	185.53.178.8

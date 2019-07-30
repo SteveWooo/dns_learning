@@ -1,0 +1,6 @@
+
+urbooklibrary.com.	86400	IN	SOA	ns.urbooklibrary.com.	mail	2019061702 1800 900 604800 86400
+urbooklibrary.com.	86400	IN	NS	ns.urbooklibrary.com.
+ns.urbooklibrary.com.	518400	IN	A	216.58.200.238
+
+urbooklibrary.com.	518400	IN	A	54.254.129.123

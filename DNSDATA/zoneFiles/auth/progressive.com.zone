@@ -1,0 +1,6 @@
+
+progressive.com.	86400	IN	SOA	ns.progressive.com.	mail	2019061702 1800 900 604800 86400
+progressive.com.	86400	IN	NS	ns.progressive.com.
+ns.progressive.com.	518400	IN	A	193.232.142.17
+
+progressive.com.	518400	IN	A	170.218.212.32

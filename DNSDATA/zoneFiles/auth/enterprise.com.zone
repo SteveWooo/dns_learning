@@ -1,0 +1,6 @@
+
+enterprise.com.	86400	IN	SOA	ns.enterprise.com.	mail	2019061702 1800 900 604800 86400
+enterprise.com.	86400	IN	NS	ns.enterprise.com.
+ns.enterprise.com.	518400	IN	A	173.245.58.159
+
+enterprise.com.	518400	IN	A	12.43.152.180

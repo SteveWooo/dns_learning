@@ -1,0 +1,6 @@
+
+searchengineland.com.	86400	IN	SOA	ns.searchengineland.com.	mail	2019061702 1800 900 604800 86400
+searchengineland.com.	86400	IN	NS	ns.searchengineland.com.
+ns.searchengineland.com.	518400	IN	A	205.251.194.1
+
+searchengineland.com.	518400	IN	A	208.80.6.139

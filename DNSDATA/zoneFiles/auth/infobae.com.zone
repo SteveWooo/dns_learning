@@ -1,0 +1,6 @@
+
+infobae.com.	86400	IN	SOA	ns.infobae.com.	mail	2019061702 1800 900 604800 86400
+infobae.com.	86400	IN	NS	ns.infobae.com.
+ns.infobae.com.	518400	IN	A	206.128.173.109
+
+infobae.com.	518400	IN	A	72.247.179.123

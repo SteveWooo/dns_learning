@@ -1,0 +1,6 @@
+
+weheartit.com.	86400	IN	SOA	ns.weheartit.com.	mail	2019061702 1800 900 604800 86400
+weheartit.com.	86400	IN	NS	ns.weheartit.com.
+ns.weheartit.com.	518400	IN	A	216.58.200.238
+
+weheartit.com.	518400	IN	A	198.101.167.72

@@ -1,0 +1,6 @@
+
+tahrirnews.com.	86400	IN	SOA	ns.tahrirnews.com.	mail	2019061702 1800 900 604800 86400
+tahrirnews.com.	86400	IN	NS	ns.tahrirnews.com.
+ns.tahrirnews.com.	518400	IN	A	217.69.139.112
+
+tahrirnews.com.	518400	IN	A	176.31.235.164

@@ -1,0 +1,6 @@
+
+canalblog.com.	86400	IN	SOA	ns.canalblog.com.	mail	2019061702 1800 900 604800 86400
+canalblog.com.	86400	IN	NS	ns.canalblog.com.
+ns.canalblog.com.	518400	IN	A	217.69.139.202
+
+canalblog.com.	518400	IN	A	195.137.184.102

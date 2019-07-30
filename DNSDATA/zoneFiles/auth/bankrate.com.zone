@@ -1,0 +1,6 @@
+
+bankrate.com.	86400	IN	SOA	ns.bankrate.com.	mail	2019061702 1800 900 604800 86400
+bankrate.com.	86400	IN	NS	ns.bankrate.com.
+ns.bankrate.com.	518400	IN	A	216.239.32.106
+
+bankrate.com.	518400	IN	A	151.101.65.132

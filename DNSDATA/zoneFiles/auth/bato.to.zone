@@ -1,0 +1,6 @@
+
+bato.to.	86400	IN	SOA	ns.bato.to.	mail	2019061702 1800 900 604800 86400
+bato.to.	86400	IN	NS	ns.bato.to.
+ns.bato.to.	518400	IN	A	204.74.108.1
+
+bato.to.	518400	IN	A	104.18.43.22

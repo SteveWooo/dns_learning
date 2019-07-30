@@ -1,0 +1,6 @@
+
+beitaichufang.com.	86400	IN	SOA	ns.beitaichufang.com.	mail	2019061702 1800 900 604800 86400
+beitaichufang.com.	86400	IN	NS	ns.beitaichufang.com.
+ns.beitaichufang.com.	518400	IN	A	204.74.108.1
+
+beitaichufang.com.	518400	IN	A	106.14.237.138

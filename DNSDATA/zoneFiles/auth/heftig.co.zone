@@ -1,0 +1,6 @@
+
+heftig.co.	86400	IN	SOA	ns.heftig.co.	mail	2019061702 1800 900 604800 86400
+heftig.co.	86400	IN	NS	ns.heftig.co.
+ns.heftig.co.	518400	IN	A	208.78.70.47
+
+heftig.co.	518400	IN	A	104.18.51.3

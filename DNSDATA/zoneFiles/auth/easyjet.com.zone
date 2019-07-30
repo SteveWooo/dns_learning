@@ -1,0 +1,6 @@
+
+easyjet.com.	86400	IN	SOA	ns.easyjet.com.	mail	2019061702 1800 900 604800 86400
+easyjet.com.	86400	IN	NS	ns.easyjet.com.
+ns.easyjet.com.	518400	IN	A	87.250.250.1
+
+easyjet.com.	518400	IN	A	206.150.181.10

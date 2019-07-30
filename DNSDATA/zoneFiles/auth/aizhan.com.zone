@@ -1,0 +1,6 @@
+
+aizhan.com.	86400	IN	SOA	ns.aizhan.com.	mail	2019061702 1800 900 604800 86400
+aizhan.com.	86400	IN	NS	ns.aizhan.com.
+ns.aizhan.com.	518400	IN	A	213.180.204.242
+
+aizhan.com.	518400	IN	A	183.236.28.148

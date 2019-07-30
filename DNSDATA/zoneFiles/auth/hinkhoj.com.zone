@@ -1,0 +1,6 @@
+
+hinkhoj.com.	86400	IN	SOA	ns.hinkhoj.com.	mail	2019061702 1800 900 604800 86400
+hinkhoj.com.	86400	IN	NS	ns.hinkhoj.com.
+ns.hinkhoj.com.	518400	IN	A	200.221.11.98
+
+hinkhoj.com.	518400	IN	A	52.76.122.228

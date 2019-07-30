@@ -1,0 +1,6 @@
+
+publico.pt.	86400	IN	SOA	ns.publico.pt.	mail	2019061702 1800 900 604800 86400
+publico.pt.	86400	IN	NS	ns.publico.pt.
+ns.publico.pt.	518400	IN	A	205.251.199.254
+
+publico.pt.	518400	IN	A	195.23.42.21

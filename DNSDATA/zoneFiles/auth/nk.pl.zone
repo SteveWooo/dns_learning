@@ -1,0 +1,6 @@
+
+nk.pl.	86400	IN	SOA	ns.nk.pl.	mail	2019061702 1800 900 604800 86400
+nk.pl.	86400	IN	NS	ns.nk.pl.
+ns.nk.pl.	518400	IN	A	216.58.200.238
+
+nk.pl.	518400	IN	A	195.88.186.12

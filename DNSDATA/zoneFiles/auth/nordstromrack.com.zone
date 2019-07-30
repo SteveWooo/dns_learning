@@ -1,0 +1,6 @@
+
+nordstromrack.com.	86400	IN	SOA	ns.nordstromrack.com.	mail	2019061702 1800 900 604800 86400
+nordstromrack.com.	86400	IN	NS	ns.nordstromrack.com.
+ns.nordstromrack.com.	518400	IN	A	104.40.210.25
+
+nordstromrack.com.	518400	IN	A	173.222.80.186

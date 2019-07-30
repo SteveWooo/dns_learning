@@ -1,0 +1,6 @@
+
+hosyusokuhou.jp.	86400	IN	SOA	ns.hosyusokuhou.jp.	mail	2019061702 1800 900 604800 86400
+hosyusokuhou.jp.	86400	IN	NS	ns.hosyusokuhou.jp.
+ns.hosyusokuhou.jp.	518400	IN	A	213.180.193.1
+
+hosyusokuhou.jp.	518400	IN	A	69.171.234.29

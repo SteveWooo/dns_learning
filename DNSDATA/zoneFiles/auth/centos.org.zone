@@ -1,0 +1,6 @@
+
+centos.org.	86400	IN	SOA	ns.centos.org.	mail	2019061702 1800 900 604800 86400
+centos.org.	86400	IN	NS	ns.centos.org.
+ns.centos.org.	518400	IN	A	93.186.225.193
+
+centos.org.	518400	IN	A	85.12.30.226

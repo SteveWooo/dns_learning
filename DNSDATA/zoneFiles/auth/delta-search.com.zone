@@ -1,0 +1,6 @@
+
+delta-search.com.	86400	IN	SOA	ns.delta-search.com.	mail	2019061702 1800 900 604800 86400
+delta-search.com.	86400	IN	NS	ns.delta-search.com.
+ns.delta-search.com.	518400	IN	A	205.251.195.203
+
+delta-search.com.	518400	IN	A	66.96.131.12

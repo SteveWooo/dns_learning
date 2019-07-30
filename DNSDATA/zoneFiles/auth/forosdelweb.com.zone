@@ -1,0 +1,6 @@
+
+forosdelweb.com.	86400	IN	SOA	ns.forosdelweb.com.	mail	2019061702 1800 900 604800 86400
+forosdelweb.com.	86400	IN	NS	ns.forosdelweb.com.
+ns.forosdelweb.com.	518400	IN	A	205.251.197.107
+
+forosdelweb.com.	518400	IN	A	104.23.136.14

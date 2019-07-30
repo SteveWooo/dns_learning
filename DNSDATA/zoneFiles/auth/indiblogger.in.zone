@@ -1,0 +1,6 @@
+
+indiblogger.in.	86400	IN	SOA	ns.indiblogger.in.	mail	2019061702 1800 900 604800 86400
+indiblogger.in.	86400	IN	NS	ns.indiblogger.in.
+ns.indiblogger.in.	518400	IN	A	205.251.195.203
+
+indiblogger.in.	518400	IN	A	139.59.52.5

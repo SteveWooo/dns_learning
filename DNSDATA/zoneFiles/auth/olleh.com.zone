@@ -1,0 +1,6 @@
+
+olleh.com.	86400	IN	SOA	ns.olleh.com.	mail	2019061702 1800 900 604800 86400
+olleh.com.	86400	IN	NS	ns.olleh.com.
+ns.olleh.com.	518400	IN	A	216.239.32.10
+
+olleh.com.	518400	IN	A	14.63.149.115

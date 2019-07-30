@@ -1,0 +1,6 @@
+
+wholefoodsmarket.com.	86400	IN	SOA	ns.wholefoodsmarket.com.	mail	2019061702 1800 900 604800 86400
+wholefoodsmarket.com.	86400	IN	NS	ns.wholefoodsmarket.com.
+ns.wholefoodsmarket.com.	518400	IN	A	204.69.234.1
+
+wholefoodsmarket.com.	518400	IN	A	151.101.128.69

@@ -1,0 +1,6 @@
+
+pnc.com.	86400	IN	SOA	ns.pnc.com.	mail	2019061702 1800 900 604800 86400
+pnc.com.	86400	IN	NS	ns.pnc.com.
+ns.pnc.com.	518400	IN	A	216.239.32.29
+
+pnc.com.	518400	IN	A	23.193.77.103

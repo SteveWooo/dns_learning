@@ -1,0 +1,6 @@
+
+uploadable.ch.	86400	IN	SOA	ns.uploadable.ch.	mail	2019061702 1800 900 604800 86400
+uploadable.ch.	86400	IN	NS	ns.uploadable.ch.
+ns.uploadable.ch.	518400	IN	A	205.251.197.107
+
+uploadable.ch.	518400	IN	A	185.53.178.22

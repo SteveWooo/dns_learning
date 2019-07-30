@@ -1,0 +1,6 @@
+
+bhaskar.com.	86400	IN	SOA	ns.bhaskar.com.	mail	2019061702 1800 900 604800 86400
+bhaskar.com.	86400	IN	NS	ns.bhaskar.com.
+ns.bhaskar.com.	518400	IN	A	205.251.197.107
+
+bhaskar.com.	518400	IN	A	104.74.234.223

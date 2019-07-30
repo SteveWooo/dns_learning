@@ -1,0 +1,6 @@
+
+mytrafficvalue.com.	86400	IN	SOA	ns.mytrafficvalue.com.	mail	2019061702 1800 900 604800 86400
+mytrafficvalue.com.	86400	IN	NS	ns.mytrafficvalue.com.
+ns.mytrafficvalue.com.	518400	IN	A	217.69.139.202
+
+mytrafficvalue.com.	518400	IN	A	18.211.92.175

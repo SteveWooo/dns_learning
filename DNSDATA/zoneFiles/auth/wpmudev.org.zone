@@ -1,0 +1,6 @@
+
+wpmudev.org.	86400	IN	SOA	ns.wpmudev.org.	mail	2019061702 1800 900 604800 86400
+wpmudev.org.	86400	IN	NS	ns.wpmudev.org.
+ns.wpmudev.org.	518400	IN	A	216.58.200.238
+
+wpmudev.org.	518400	IN	A	66.135.49.214

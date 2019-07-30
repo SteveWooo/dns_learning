@@ -1,0 +1,6 @@
+
+championat.com.	86400	IN	SOA	ns.championat.com.	mail	2019061702 1800 900 604800 86400
+championat.com.	86400	IN	NS	ns.championat.com.
+ns.championat.com.	518400	IN	A	205.251.199.254
+
+championat.com.	518400	IN	A	81.19.86.3

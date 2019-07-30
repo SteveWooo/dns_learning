@@ -1,0 +1,6 @@
+
+yjbys.com.	86400	IN	SOA	ns.yjbys.com.	mail	2019061702 1800 900 604800 86400
+yjbys.com.	86400	IN	NS	ns.yjbys.com.
+ns.yjbys.com.	518400	IN	A	173.245.59.130
+
+yjbys.com.	518400	IN	A	116.207.118.97

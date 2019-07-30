@@ -1,0 +1,6 @@
+
+sputniknews.com.	86400	IN	SOA	ns.sputniknews.com.	mail	2019061702 1800 900 604800 86400
+sputniknews.com.	86400	IN	NS	ns.sputniknews.com.
+ns.sputniknews.com.	518400	IN	A	204.69.234.1
+
+sputniknews.com.	518400	IN	A	178.248.233.26

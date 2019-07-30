@@ -1,0 +1,6 @@
+
+flippa.com.	86400	IN	SOA	ns.flippa.com.	mail	2019061702 1800 900 604800 86400
+flippa.com.	86400	IN	NS	ns.flippa.com.
+ns.flippa.com.	518400	IN	A	213.180.204.242
+
+flippa.com.	518400	IN	A	104.16.23.179

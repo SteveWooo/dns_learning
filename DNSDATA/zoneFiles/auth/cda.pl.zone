@@ -1,0 +1,6 @@
+
+cda.pl.	86400	IN	SOA	ns.cda.pl.	mail	2019061702 1800 900 604800 86400
+cda.pl.	86400	IN	NS	ns.cda.pl.
+ns.cda.pl.	518400	IN	A	173.245.59.100
+
+cda.pl.	518400	IN	A	104.20.11.130

@@ -1,0 +1,6 @@
+
+vimeo.com.	86400	IN	SOA	ns.vimeo.com.	mail	2019061702 1800 900 604800 86400
+vimeo.com.	86400	IN	NS	ns.vimeo.com.
+ns.vimeo.com.	518400	IN	A	180.149.156.12
+
+vimeo.com.	518400	IN	A	31.13.76.16

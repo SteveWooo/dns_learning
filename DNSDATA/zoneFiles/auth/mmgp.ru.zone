@@ -1,0 +1,6 @@
+
+mmgp.ru.	86400	IN	SOA	ns.mmgp.ru.	mail	2019061702 1800 900 604800 86400
+mmgp.ru.	86400	IN	NS	ns.mmgp.ru.
+ns.mmgp.ru.	518400	IN	A	213.180.204.242
+
+mmgp.ru.	518400	IN	A	104.31.72.71

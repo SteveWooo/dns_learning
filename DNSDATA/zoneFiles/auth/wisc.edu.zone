@@ -1,0 +1,6 @@
+
+wisc.edu.	86400	IN	SOA	ns.wisc.edu.	mail	2019061702 1800 900 604800 86400
+wisc.edu.	86400	IN	NS	ns.wisc.edu.
+ns.wisc.edu.	518400	IN	A	202.108.22.220
+
+wisc.edu.	518400	IN	A	144.92.9.70

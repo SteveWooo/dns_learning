@@ -1,0 +1,6 @@
+
+redakcja.pl.	86400	IN	SOA	ns.redakcja.pl.	mail	2019061702 1800 900 604800 86400
+redakcja.pl.	86400	IN	NS	ns.redakcja.pl.
+ns.redakcja.pl.	518400	IN	A	173.245.59.100
+
+redakcja.pl.	518400	IN	A	195.177.211.65

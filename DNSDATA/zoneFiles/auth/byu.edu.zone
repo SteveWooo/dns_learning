@@ -1,0 +1,6 @@
+
+byu.edu.	86400	IN	SOA	ns.byu.edu.	mail	2019061702 1800 900 604800 86400
+byu.edu.	86400	IN	NS	ns.byu.edu.
+ns.byu.edu.	518400	IN	A	205.251.197.107
+
+byu.edu.	518400	IN	A	128.187.16.101

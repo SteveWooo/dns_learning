@@ -1,0 +1,6 @@
+
+khamsat.com.	86400	IN	SOA	ns.khamsat.com.	mail	2019061702 1800 900 604800 86400
+khamsat.com.	86400	IN	NS	ns.khamsat.com.
+ns.khamsat.com.	518400	IN	A	200.201.165.253
+
+khamsat.com.	518400	IN	A	34.255.81.96

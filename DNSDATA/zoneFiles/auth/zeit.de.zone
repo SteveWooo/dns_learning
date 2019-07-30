@@ -1,0 +1,6 @@
+
+zeit.de.	86400	IN	SOA	ns.zeit.de.	mail	2019061702 1800 900 604800 86400
+zeit.de.	86400	IN	NS	ns.zeit.de.
+ns.zeit.de.	518400	IN	A	198.100.156.181
+
+zeit.de.	518400	IN	A	217.13.69.39

@@ -1,0 +1,6 @@
+
+recode.net.	86400	IN	SOA	ns.recode.net.	mail	2019061702 1800 900 604800 86400
+recode.net.	86400	IN	NS	ns.recode.net.
+ns.recode.net.	518400	IN	A	216.239.32.106
+
+recode.net.	518400	IN	A	151.101.193.52

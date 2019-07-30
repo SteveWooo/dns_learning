@@ -1,0 +1,6 @@
+
+kooora.com.	86400	IN	SOA	ns.kooora.com.	mail	2019061702 1800 900 604800 86400
+kooora.com.	86400	IN	NS	ns.kooora.com.
+ns.kooora.com.	518400	IN	A	206.128.173.109
+
+kooora.com.	518400	IN	A	45.60.65.37

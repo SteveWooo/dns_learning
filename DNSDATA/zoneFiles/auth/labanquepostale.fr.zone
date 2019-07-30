@@ -1,0 +1,6 @@
+
+labanquepostale.fr.	86400	IN	SOA	ns.labanquepostale.fr.	mail	2019061702 1800 900 604800 86400
+labanquepostale.fr.	86400	IN	NS	ns.labanquepostale.fr.
+ns.labanquepostale.fr.	518400	IN	A	217.69.139.202
+
+labanquepostale.fr.	518400	IN	A	83.206.67.137

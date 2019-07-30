@@ -1,0 +1,6 @@
+
+footmercato.net.	86400	IN	SOA	ns.footmercato.net.	mail	2019061702 1800 900 604800 86400
+footmercato.net.	86400	IN	NS	ns.footmercato.net.
+ns.footmercato.net.	518400	IN	A	213.180.204.242
+
+footmercato.net.	518400	IN	A	178.32.94.203

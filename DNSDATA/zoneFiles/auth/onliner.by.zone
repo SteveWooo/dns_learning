@@ -1,0 +1,6 @@
+
+onliner.by.	86400	IN	SOA	ns.onliner.by.	mail	2019061702 1800 900 604800 86400
+onliner.by.	86400	IN	NS	ns.onliner.by.
+ns.onliner.by.	518400	IN	A	206.128.173.109
+
+onliner.by.	518400	IN	A	178.124.129.14

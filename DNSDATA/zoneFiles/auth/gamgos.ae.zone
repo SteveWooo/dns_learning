@@ -1,0 +1,6 @@
+
+gamgos.ae.	86400	IN	SOA	ns.gamgos.ae.	mail	2019061702 1800 900 604800 86400
+gamgos.ae.	86400	IN	NS	ns.gamgos.ae.
+ns.gamgos.ae.	518400	IN	A	206.128.173.109
+
+gamgos.ae.	518400	IN	A	104.27.147.115

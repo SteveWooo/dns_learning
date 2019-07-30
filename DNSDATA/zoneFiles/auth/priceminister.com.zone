@@ -1,0 +1,6 @@
+
+priceminister.com.	86400	IN	SOA	ns.priceminister.com.	mail	2019061702 1800 900 604800 86400
+priceminister.com.	86400	IN	NS	ns.priceminister.com.
+ns.priceminister.com.	518400	IN	A	200.221.11.98
+
+priceminister.com.	518400	IN	A	212.23.167.56

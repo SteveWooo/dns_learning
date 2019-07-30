@@ -1,0 +1,6 @@
+
+allmyvideos.net.	86400	IN	SOA	ns.allmyvideos.net.	mail	2019061702 1800 900 604800 86400
+allmyvideos.net.	86400	IN	NS	ns.allmyvideos.net.
+ns.allmyvideos.net.	518400	IN	A	217.69.139.202
+
+allmyvideos.net.	518400	IN	A	104.24.109.234

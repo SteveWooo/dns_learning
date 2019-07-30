@@ -1,0 +1,6 @@
+
+jandan.net.	86400	IN	SOA	ns.jandan.net.	mail	2019061702 1800 900 604800 86400
+jandan.net.	86400	IN	NS	ns.jandan.net.
+ns.jandan.net.	518400	IN	A	193.232.142.17
+
+jandan.net.	518400	IN	A	47.89.114.17

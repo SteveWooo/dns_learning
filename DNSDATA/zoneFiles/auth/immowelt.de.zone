@@ -1,0 +1,6 @@
+
+immowelt.de.	86400	IN	SOA	ns.immowelt.de.	mail	2019061702 1800 900 604800 86400
+immowelt.de.	86400	IN	NS	ns.immowelt.de.
+ns.immowelt.de.	518400	IN	A	217.69.139.202
+
+immowelt.de.	518400	IN	A	212.34.186.8

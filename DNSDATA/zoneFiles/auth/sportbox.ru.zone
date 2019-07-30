@@ -1,0 +1,6 @@
+
+sportbox.ru.	86400	IN	SOA	ns.sportbox.ru.	mail	2019061702 1800 900 604800 86400
+sportbox.ru.	86400	IN	NS	ns.sportbox.ru.
+ns.sportbox.ru.	518400	IN	A	213.180.193.1
+
+sportbox.ru.	518400	IN	A	5.8.69.7

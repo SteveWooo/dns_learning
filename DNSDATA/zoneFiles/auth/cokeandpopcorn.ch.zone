@@ -1,0 +1,6 @@
+
+cokeandpopcorn.ch.	86400	IN	SOA	ns.cokeandpopcorn.ch.	mail	2019061702 1800 900 604800 86400
+cokeandpopcorn.ch.	86400	IN	NS	ns.cokeandpopcorn.ch.
+ns.cokeandpopcorn.ch.	518400	IN	A	202.108.22.220
+
+cokeandpopcorn.ch.	518400	IN	A	104.28.30.11

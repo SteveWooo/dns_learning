@@ -1,0 +1,6 @@
+
+walmart.ca.	86400	IN	SOA	ns.walmart.ca.	mail	2019061702 1800 900 604800 86400
+walmart.ca.	86400	IN	NS	ns.walmart.ca.
+ns.walmart.ca.	518400	IN	A	217.69.139.202
+
+walmart.ca.	518400	IN	A	161.170.244.216

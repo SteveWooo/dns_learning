@@ -1,0 +1,6 @@
+
+libraryreserve.com.	86400	IN	SOA	ns.libraryreserve.com.	mail	2019061702 1800 900 604800 86400
+libraryreserve.com.	86400	IN	NS	ns.libraryreserve.com.
+ns.libraryreserve.com.	518400	IN	A	145.14.134.108
+
+libraryreserve.com.	518400	IN	A	207.54.136.33

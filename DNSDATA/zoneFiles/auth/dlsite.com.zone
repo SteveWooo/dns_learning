@@ -1,0 +1,6 @@
+
+dlsite.com.	86400	IN	SOA	ns.dlsite.com.	mail	2019061702 1800 900 604800 86400
+dlsite.com.	86400	IN	NS	ns.dlsite.com.
+ns.dlsite.com.	518400	IN	A	175.126.117.211
+
+dlsite.com.	518400	IN	A	52.196.125.148

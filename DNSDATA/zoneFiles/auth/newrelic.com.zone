@@ -1,0 +1,6 @@
+
+newrelic.com.	86400	IN	SOA	ns.newrelic.com.	mail	2019061702 1800 900 604800 86400
+newrelic.com.	86400	IN	NS	ns.newrelic.com.
+ns.newrelic.com.	518400	IN	A	174.35.55.22
+
+newrelic.com.	518400	IN	A	151.101.66.110

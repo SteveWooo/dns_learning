@@ -1,0 +1,6 @@
+
+voyages-sncf.com.	86400	IN	SOA	ns.voyages-sncf.com.	mail	2019061702 1800 900 604800 86400
+voyages-sncf.com.	86400	IN	NS	ns.voyages-sncf.com.
+ns.voyages-sncf.com.	518400	IN	A	216.58.200.238
+
+voyages-sncf.com.	518400	IN	A	90.85.36.106

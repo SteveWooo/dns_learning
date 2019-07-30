@@ -1,0 +1,6 @@
+
+akhbarelyom.com.	86400	IN	SOA	ns.akhbarelyom.com.	mail	2019061702 1800 900 604800 86400
+akhbarelyom.com.	86400	IN	NS	ns.akhbarelyom.com.
+ns.akhbarelyom.com.	518400	IN	A	217.69.139.112
+
+akhbarelyom.com.	518400	IN	A	104.25.240.114

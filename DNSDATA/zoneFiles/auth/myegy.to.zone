@@ -1,0 +1,6 @@
+
+myegy.to.	86400	IN	SOA	ns.myegy.to.	mail	2019061702 1800 900 604800 86400
+myegy.to.	86400	IN	NS	ns.myegy.to.
+ns.myegy.to.	518400	IN	A	200.219.154.10
+
+myegy.to.	518400	IN	A	104.24.106.169

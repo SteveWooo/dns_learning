@@ -1,0 +1,6 @@
+
+videohive.net.	86400	IN	SOA	ns.videohive.net.	mail	2019061702 1800 900 604800 86400
+videohive.net.	86400	IN	NS	ns.videohive.net.
+ns.videohive.net.	518400	IN	A	213.180.193.1
+
+videohive.net.	518400	IN	A	104.18.26.98

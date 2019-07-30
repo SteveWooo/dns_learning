@@ -1,0 +1,6 @@
+
+overclockers.ru.	86400	IN	SOA	ns.overclockers.ru.	mail	2019061702 1800 900 604800 86400
+overclockers.ru.	86400	IN	NS	ns.overclockers.ru.
+ns.overclockers.ru.	518400	IN	A	213.180.204.242
+
+overclockers.ru.	518400	IN	A	92.38.128.27
