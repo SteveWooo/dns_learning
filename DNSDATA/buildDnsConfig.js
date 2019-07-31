@@ -60,6 +60,7 @@ async function buildRecursiveConf(swc){
 options {
 	directory "/etc/named";
 	pid-file "named.conf";
+	allow-query-cache {any;};
 	recursion yes;
 };
 
@@ -77,6 +78,7 @@ async function buildAuthoritativeConf(swc){
 options {
 	directory "/etc/named";
 	pid-file "named.conf";
+	#blackhole {173.245.59.131;};
 	recursion no;
 };
 `
@@ -168,6 +170,11 @@ async function main(){
         }
         // entry
        	await buildNamedConf(swc);
+
+       	//重启named
+       	require('child_process').exec('/usr/sbin/name', ()=>{
+       		console.log('重启named');
+       	})
     }catch(e){
         console.log(e);
     }

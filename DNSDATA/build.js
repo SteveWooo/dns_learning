@@ -150,7 +150,7 @@ ns.${zoneName}.	518400	IN	A	${options.server.ip}
 			for(var i=0;i<zone.subZone.length;i++){
 				zoneFile += 
 `
-${zone.subZone[i].zoneName == '@' ? zoneName : zone.subZone[i].zoneName}.	518400	IN	A	${zone.subZone[i].ip}
+${zone.subZone[i].zoneName == '@' ? zoneName : (zone.subZone[i].zoneName + '.' + zoneName)}.	518400	IN	A	${zone.subZone[i].ip}
 `
 			}
 		}
@@ -190,16 +190,33 @@ async function writeZoneFiles(options){
 
 	for(var i=0;i<authServers.length;i++){
 		//子网：
+		var i_cidr = authServers[i].cidr.split('.');
+
 		var sn = {
 			cidr : authServers[i].cidr,
 			gateWay : authServers[i].gateWay,
+			dhcp : [[i_cidr[0], i_cidr[1], '0', '2'].join('.'), [i_cidr[0], i_cidr[1], '0', '3'].join('.')],
 			servers : []
 		}
+
+		//在这里插入递归服务器
+		if(authServers[i].cidr == '173.245.0.0/16') {
+			sn.servers.push({
+				"ip": "173.245.59.130",
+				"metaData": {
+					"dns.serverType": "recursive"
+				}
+			})
+		}
+
 		for(var s = 0;s<authServers[i].subNet.length;s++) {
 			// dns服务器
 			var server = {
 				ip : authServers[i].subNet[s].ip,
-				serverType : 'authoritative',
+				metaData : {
+					'dns.serverType' : 'authoritative',
+					'dns.ip' : authServers[i].subNet[s].ip,
+				},
 				zones : ''
 			}
 
@@ -230,6 +247,14 @@ async function writeZoneFiles(options){
 			}
 
 			server.zones = serverHandleZones.join(',');
+
+			if(server.zones == 'root'){
+				server.name = 'rootServer';
+			}
+
+			if(server.name == undefined) {
+				server.name = authServers[i].subNet[s].ip;
+			}
 
 			sn.servers.push(server);
 		}

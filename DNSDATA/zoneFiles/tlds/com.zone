@@ -25824,6 +25824,9 @@ ns.getbootstrap.com.	518400	IN	A	200.219.154.10
 tomtom.com.	86400	IN	NS	ns.tomtom.com.
 ns.tomtom.com.	518400	IN	A	200.219.154.10
 
+cctv.com.	86400	IN	NS	ns.cctv.com.
+ns.cctv.com.	518400	IN	A	200.219.154.10
+
 icontact.com.	86400	IN	NS	ns.icontact.com.
 ns.icontact.com.	518400	IN	A	200.219.154.10
 

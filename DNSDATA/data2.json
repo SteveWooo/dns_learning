@@ -15410,6 +15410,9 @@
 			"subZone": [{
 				"ip": "140.205.220.96",
 				"zoneName": "@"
+			}, {
+				"ip" : "180.163.39.80",
+				"zoneName" : "www"
 			}],
 			"zoneName": "taobao.com.root"
 		}, {
@@ -51096,6 +51099,9 @@
 			"subZone": [{
 				"ip": "123.125.114.144",
 				"zoneName": "@"
+			}, {
+				"ip" : "14.215.177.39",
+				"zoneName" : "www"
 			}],
 			"zoneName": "baidu.com.root"
 		}, {
@@ -87382,6 +87388,15 @@
 			"zoneName": "cntv.cn.root"
 		}, {
 			"subZone": [{
+				"ip": "121.32.234.113",
+				"zoneName": "@"
+			}, {
+				"ip" : "121.32.234.113",
+				"zoneName" : "www"
+			}],
+			"zoneName": "cctv.com.root"
+		},{
+			"subZone": [{
 				"ip": "52.6.224.55",
 				"zoneName": "@"
 			}],
@@ -88866,6 +88881,12 @@
 			"subZone": [{
 				"ip": "202.130.245.42",
 				"zoneName": "@"
+			}, {
+				"ip" : "180.163.233.104",
+				"zoneName" : "www"
+			}, {
+				"ip" : "180.163.233.77",
+				"zoneName" : "cn"
 			}],
 			"zoneName": "china.cn.root"
 		}, {

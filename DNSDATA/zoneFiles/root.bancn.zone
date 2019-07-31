@@ -1,0 +1,176 @@
+
+.			86400	IN	SOA	a.root-servers.net.	mail	2019061702 1800 900 604800 86400
+.			86400	IN	NS	a.root-servers.net.
+a.root-servers.net.	518400	IN	A	192.58.128.30
+
+anz.	86400	IN	NS	ns.anz.
+ns.anz.	518400	IN	A	37.209.196.9
+
+bond.	86400	IN	NS	ns.bond.
+ns.bond.	518400	IN	A	37.209.196.9
+
+catholic.	86400	IN	NS	ns.catholic.
+ns.catholic.	518400	IN	A	37.209.196.9
+
+courses.	86400	IN	NS	ns.courses.
+ns.courses.	518400	IN	A	37.209.196.9
+
+ibm.	86400	IN	NS	ns.ibm.
+ns.ibm.	518400	IN	A	37.209.196.9
+
+mtn.	86400	IN	NS	ns.mtn.
+ns.mtn.	518400	IN	A	37.209.196.9
+
+olayan.	86400	IN	NS	ns.olayan.
+ns.olayan.	518400	IN	A	37.209.196.9
+
+one.	86400	IN	NS	ns.one.
+ns.one.	518400	IN	A	37.209.196.9
+
+philips.	86400	IN	NS	ns.philips.
+ns.philips.	518400	IN	A	37.209.196.9
+
+rmit.	86400	IN	NS	ns.rmit.
+ns.rmit.	518400	IN	A	37.209.196.9
+
+select.	86400	IN	NS	ns.select.
+ns.select.	518400	IN	A	37.209.196.9
+
+starhub.	86400	IN	NS	ns.starhub.
+ns.starhub.	518400	IN	A	37.209.196.9
+
+tab.	86400	IN	NS	ns.tab.
+ns.tab.	518400	IN	A	37.209.196.9
+
+vistaprint.	86400	IN	NS	ns.vistaprint.
+ns.vistaprint.	518400	IN	A	37.209.196.9
+
+walter.	86400	IN	NS	ns.walter.
+ns.walter.	518400	IN	A	37.209.196.9
+
+barclaycard.	86400	IN	NS	ns.barclaycard.
+ns.barclaycard.	518400	IN	A	37.209.198.9
+
+cancerresearch.	86400	IN	NS	ns.cancerresearch.
+ns.cancerresearch.	518400	IN	A	37.209.198.9
+
+compare.	86400	IN	NS	ns.compare.
+ns.compare.	518400	IN	A	37.209.198.9
+
+cuisinella.	86400	IN	NS	ns.cuisinella.
+ns.cuisinella.	518400	IN	A	37.209.198.9
+
+netbank.	86400	IN	NS	ns.netbank.
+ns.netbank.	518400	IN	A	37.209.198.9
+
+quest.	86400	IN	NS	ns.quest.
+ns.quest.	518400	IN	A	37.209.198.9
+
+saxo.	86400	IN	NS	ns.saxo.
+ns.saxo.	518400	IN	A	37.209.198.9
+
+scor.	86400	IN	NS	ns.scor.
+ns.scor.	518400	IN	A	37.209.198.9
+
+seek.	86400	IN	NS	ns.seek.
+ns.seek.	518400	IN	A	37.209.198.9
+
+seven.	86400	IN	NS	ns.seven.
+ns.seven.	518400	IN	A	37.209.198.9
+
+woodside.	86400	IN	NS	ns.woodside.
+ns.woodside.	518400	IN	A	37.209.198.9
+
+wtc.	86400	IN	NS	ns.wtc.
+ns.wtc.	518400	IN	A	37.209.198.9
+
+xn--mgba7c0bbn0a.	86400	IN	NS	ns.xn--mgba7c0bbn0a.
+ns.xn--mgba7c0bbn0a.	518400	IN	A	37.209.198.9
+
+xn--mgbi4ecexp.	86400	IN	NS	ns.xn--mgbi4ecexp.
+ns.xn--mgbi4ecexp.	518400	IN	A	37.209.198.9
+
+alfaromeo.	86400	IN	NS	ns.alfaromeo.
+ns.alfaromeo.	518400	IN	A	65.22.125.17
+
+bnpparibas.	86400	IN	NS	ns.bnpparibas.
+ns.bnpparibas.	518400	IN	A	65.22.67.9
+
+gov.	86400	IN	NS	ns.gov.
+ns.gov.	518400	IN	A	69.36.157.30
+
+anquan.	86400	IN	NS	ns.anquan.
+ns.anquan.	518400	IN	A	103.61.63.1
+
+shouji.	86400	IN	NS	ns.shouji.
+ns.shouji.	518400	IN	A	103.61.63.1
+
+xihuan.	86400	IN	NS	ns.xihuan.
+ns.xihuan.	518400	IN	A	103.61.63.1
+
+xn--vuq861b.	86400	IN	NS	ns.xn--vuq861b.
+ns.xn--vuq861b.	518400	IN	A	103.61.63.1
+
+yun.	86400	IN	NS	ns.yun.
+ns.yun.	518400	IN	A	103.61.63.1
+
+ht.	86400	IN	NS	ns.ht.
+ns.ht.	518400	IN	A	132.207.144.2
+
+xfinity.	86400	IN	NS	ns.xfinity.
+ns.xfinity.	518400	IN	A	156.154.102.3
+
+bananarepublic.	86400	IN	NS	ns.bananarepublic.
+ns.bananarepublic.	518400	IN	A	156.154.159.22
+
+bid.	86400	IN	NS	ns.bid.
+ns.bid.	518400	IN	A	156.154.157.25
+
+caravan.	86400	IN	NS	ns.caravan.
+ns.caravan.	518400	IN	A	156.154.145.32
+
+chintai.	86400	IN	NS	ns.chintai.
+ns.chintai.	518400	IN	A	156.154.157.40
+
+beer.	86400	IN	NS	ns.beer.
+ns.beer.	518400	IN	A	156.154.100.3
+
+bentley.	86400	IN	NS	ns.bentley.
+ns.bentley.	518400	IN	A	156.154.100.3
+
+broadway.	86400	IN	NS	ns.broadway.
+ns.broadway.	518400	IN	A	156.154.100.3
+
+cooking.	86400	IN	NS	ns.cooking.
+ns.cooking.	518400	IN	A	156.154.100.3
+
+law.	86400	IN	NS	ns.law.
+ns.law.	518400	IN	A	156.154.100.3
+
+luxe.	86400	IN	NS	ns.luxe.
+ns.luxe.	518400	IN	A	156.154.100.3
+
+uk.	86400	IN	NS	ns.uk.
+ns.uk.	518400	IN	A	156.154.100.3
+
+wales.	86400	IN	NS	ns.wales.
+ns.wales.	518400	IN	A	156.154.100.3
+
+com.	86400	IN	NS	ns.com.
+ns.com.	518400	IN	A	192.5.6.30
+
+edu.	86400	IN	NS	ns.edu.
+ns.edu.	518400	IN	A	192.5.6.30
+
+net.	86400	IN	NS	ns.net.
+ns.net.	518400	IN	A	192.5.6.30
+
+org.	86400	IN	NS	ns.org.
+ns.org.	518400	IN	A	199.19.56.1
+
+ong.	86400	IN	NS	ns.ong.
+ns.ong.	518400	IN	A	199.19.54.1
+
+ngo.	86400	IN	NS	ns.ngo.
+ns.ngo.	518400	IN	A	199.249.120.1
+
