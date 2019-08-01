@@ -61,3 +61,5 @@ typings/
 .next
 
 ./dnsPresssureTest/1/datafile
+./dnsPresssureTest/2/zone/
+./dnsPresssureTest/2/datafile
