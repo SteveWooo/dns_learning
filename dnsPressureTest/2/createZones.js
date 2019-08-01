@@ -2,19 +2,19 @@ const fs = require('fs');
 const crypto = require('crypto');
 
 const _dirs = {
-	zone : './zone',
-	config : './named.config'
+	zone : '/etc/named/zone',
+	config : '/etc/named.conf'
 }
 
 async function getZoneFile(options){
 	var zoneName = options.zoneName;
 
 	var file = 
-`${zoneName}.com	86400	IN	SOA	ns.${zoneName}.com	mail	2019061702 1800 900 604800 86400
-${zoneName}.com	86400	IN	NS	ns.${zoneName}.com
-ns.${zoneName}.com	518400	IN	A	192.5.6.31
+`${zoneName}.com.	86400	IN	SOA	ns	mail	2019061702 1800 900 604800 86400
+${zoneName}.com.	86400	IN	NS	ns.${zoneName}.com.
+ns.${zoneName}.com.	518400	IN	A	192.5.6.31
 
-a.${zoneName}.com	518400	IN	A	111.111.111.111
+a.${zoneName}.com.	518400	IN	A	111.111.111.111
 `
 	
 	return file;
@@ -55,7 +55,7 @@ options {
 	for(var i=0;i<names.length;i++){
 		nameConf +=
 `
-zone "${names[i]}.com" IN {
+zone "${names[i]}.com." IN {
 	type master;
 	file "/etc/named/zone/test/${names[i]}.com.zone";
 };
