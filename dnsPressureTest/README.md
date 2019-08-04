@@ -9,3 +9,13 @@ www.baidu.com A
 www.taobao.com NS
 github.com CNAME
 ```
+
+示范可用的网站：
+baidu.com
+
+待测试网站：
+china.cn
+cnr.cn
+360.cn
+10086.cn
+taobao.com

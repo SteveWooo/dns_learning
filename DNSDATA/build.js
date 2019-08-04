@@ -202,9 +202,16 @@ async function writeZoneFiles(options){
 		//在这里插入递归服务器
 		if(authServers[i].cidr == '173.245.0.0/16') {
 			sn.servers.push({
-				"ip": "173.245.59.130",
+				"ip": "173.245.59.131",
 				"metaData": {
 					"dns.serverType": "recursive"
+				}
+			})
+
+			sn.servers.push({
+				"ip": "173.245.59.132",
+				"metaData": {
+					"dns.serverType": "cia"
 				}
 			})
 		}

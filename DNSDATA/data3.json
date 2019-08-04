@@ -16166,6 +16166,9 @@
 			}, {
 				"ip": "112.48.150.236",
 				"zoneName": "world"
+			}, {
+				"ip" : "113.96.109.100",
+				"zoneName" : "www"
 			}],
 			"zoneName": "taobao.com.root"
 		}, {
@@ -18244,6 +18247,9 @@
 			"subZone": [{
 				"ip": "119.84.84.188",
 				"zoneName": "@"
+			}, {
+				"ip" : "183.61.138.62",
+				"zoneName" : "www"
 			}],
 			"zoneName": "3158.cn.root"
 		}, {
@@ -33342,6 +33348,9 @@
 			"subZone": [{
 				"ip": "220.181.79.10",
 				"zoneName": "@"
+			}, {
+				"ip" : "121.32.234.113",
+				"zoneName" : "www"
 			}],
 			"zoneName": "cnr.cn.root"
 		}, {
@@ -33858,6 +33867,12 @@
 			"subZone": [{
 				"ip": "202.130.245.42",
 				"zoneName": "@"
+			}, {
+				"ip" : "180.163.233.77",
+				"zoneName" : "www"
+			}, {
+				"ip" : "180.163.233.104",
+				"zoneName" : "cn"
 			}],
 			"zoneName": "china.cn.root"
 		}, {
@@ -38629,6 +38644,12 @@
 			"subZone": [{
 				"ip": "202.130.245.42",
 				"zoneName": "@"
+			}, {
+				"ip" : "180.163.233.77",
+				"zoneName" : "www"
+			}, {
+				"ip" : "180.163.233.104",
+				"zoneName" : "cn"
 			}],
 			"zoneName": "china.cn.root"
 		}, {
@@ -54284,6 +54305,12 @@
 			"subZone": [{
 				"ip": "202.130.245.42",
 				"zoneName": "@"
+			}, {
+				"ip" : "180.163.233.77",
+				"zoneName" : "www"
+			}, {
+				"ip" : "180.163.233.104",
+				"zoneName" : "cn"
 			}],
 			"zoneName": "china.cn.root"
 		}, {
@@ -93525,6 +93552,12 @@
 			"subZone": [{
 				"ip": "202.130.245.42",
 				"zoneName": "@"
+			}, {
+				"ip" : "180.163.233.77",
+				"zoneName" : "www"
+			}, {
+				"ip" : "180.163.233.104",
+				"zoneName" : "cn"
 			}],
 			"zoneName": "china.cn.root"
 		}, {
@@ -124473,6 +124506,12 @@
 			"subZone": [{
 				"ip": "202.130.245.42",
 				"zoneName": "@"
+			}, {
+				"ip" : "180.163.233.77",
+				"zoneName" : "www"
+			}, {
+				"ip" : "180.163.233.104",
+				"zoneName" : "cn"
 			}],
 			"zoneName": "china.cn.root"
 		}, {
@@ -126438,6 +126477,12 @@
 			"subZone": [{
 				"ip": "202.130.245.42",
 				"zoneName": "@"
+			}, {
+				"ip" : "180.163.233.77",
+				"zoneName" : "www"
+			}, {
+				"ip" : "180.163.233.104",
+				"zoneName" : "cn"
 			}],
 			"zoneName": "china.cn.root"
 		}, {
