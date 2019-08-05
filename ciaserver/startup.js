@@ -52,34 +52,7 @@ async function getConfig(){
         }
 
         //递归服务器不需要配置zone
-        if(swc.meta.serverType == 'recursive'){
-            return swc;
-        }
-
-        if(swc.meta.serverType == 'authoritative'){
-            //权威服务器必须传IP
-            if(swc.meta.ip == undefined){
-                console.log('缺少ip meta配置');
-                return undefined;
-            }
-
-            // 获取本机所需管理的zone
-            if(swc.meta.zones == undefined){
-                var config = require('/etc/named/zone/zoneFiles/config.json');
-                for(var i=0;i<config.length;i++){
-                    for(var s=0;s<config[i].servers.length;s++){
-                        if(config[i].servers[s].ip == swc.meta.ip) {
-                            swc.meta.zones = config[i].servers[s].zones
-                        }
-                    }
-                }
-            }
-
-            if(swc.meta.zones == undefined){
-
-                return undefined;
-            }
-
+        if(swc.meta.serverType == 'cia'){
             return swc;
         }
 
