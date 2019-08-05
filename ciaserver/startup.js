@@ -63,15 +63,46 @@ async function getConfig(){
     }
 }
 
+async function buildNameConf(swc){
+    var namedConf = 
+`
+options {
+    directory "/etc/named";
+    pid-file "named.pid";
+    recursion no;
+};
+
+zone "baidu.com" IN {
+    type master;
+    file "zone/zoneFiles/baidu.com.fake.zone";
+};
+
+
+logging {
+    channel query_log {
+        file "/var/named/log/query.log" versions 3 size 20m;
+        print-time yes;
+        print-category yes;
+        severity dynamic;
+    };
+    category queries {
+        query_log;
+    };
+};
+`
+    fs.writeFileSync('/etc/named.conf', namedConf);
+}
+
 async function main(){
     var swc = await getConfig();
     if(swc != undefined){
         if(swc.meta.serverType == 'cia'){
+            await buildNameConf(swc);
             await startupServer(swc);
         }
     }
 
-    console.log('cid end');
+    console.log('cid listened at : 80');
 }
 
 main();
