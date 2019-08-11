@@ -4,3 +4,5 @@ csdn.net.	86400	IN	NS	ns.csdn.net.
 ns.csdn.net.	518400	IN	A	208.78.70.47
 
 csdn.net.	518400	IN	A	47.95.164.112
+
+www.csdn.net.	518400	IN	A	39.96.252.213

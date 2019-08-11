@@ -4,3 +4,5 @@ allrecipes.com.	86400	IN	NS	ns.allrecipes.com.
 ns.allrecipes.com.	518400	IN	A	213.180.193.1
 
 allrecipes.com.	518400	IN	A	13.93.202.50
+
+www.allrecipes.com.	518400	IN	A	13.93.202.50

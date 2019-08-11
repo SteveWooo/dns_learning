@@ -4,3 +4,5 @@ ask.com.	86400	IN	NS	ns.ask.com.
 ns.ask.com.	518400	IN	A	216.239.32.29
 
 ask.com.	518400	IN	A	243.185.187.39
+
+www.ask.com.	518400	IN	A	69.63.176.15

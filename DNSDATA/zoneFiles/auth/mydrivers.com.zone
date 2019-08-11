@@ -4,3 +4,5 @@ mydrivers.com.	86400	IN	NS	ns.mydrivers.com.
 ns.mydrivers.com.	518400	IN	A	216.239.32.29
 
 mydrivers.com.	518400	IN	A	123.206.6.193
+
+www.mydrivers.com.	518400	IN	A	112.49.23.13

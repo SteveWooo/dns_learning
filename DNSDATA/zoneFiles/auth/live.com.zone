@@ -4,3 +4,5 @@ live.com.	86400	IN	NS	ns.live.com.
 ns.live.com.	518400	IN	A	205.251.194.1
 
 live.com.	518400	IN	A	204.79.197.212
+
+outlook.live.com.	518400	IN	A	13.107.42.11

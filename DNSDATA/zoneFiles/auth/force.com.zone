@@ -4,3 +4,5 @@ force.com.	86400	IN	NS	ns.force.com.
 ns.force.com.	518400	IN	A	200.201.165.253
 
 force.com.	518400	IN	A	96.43.149.26
+
+www.force.com.	518400	IN	A	96.43.144.26

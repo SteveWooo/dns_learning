@@ -4,3 +4,5 @@ olx.ua.	86400	IN	NS	ns.olx.ua.
 ns.olx.ua.	518400	IN	A	205.251.195.203
 
 olx.ua.	518400	IN	A	13.33.131.49
+
+www.olx.ua.	518400	IN	A	23.219.172.176

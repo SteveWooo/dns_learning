@@ -4,3 +4,5 @@ ibm.com.	86400	IN	NS	ns.ibm.com.
 ns.ibm.com.	518400	IN	A	205.251.199.254
 
 ibm.com.	518400	IN	A	129.42.38.10
+
+www.ibm.com.	518400	IN	A	223.111.110.250

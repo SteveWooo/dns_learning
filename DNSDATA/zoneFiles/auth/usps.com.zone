@@ -4,3 +4,5 @@ usps.com.	86400	IN	NS	ns.usps.com.
 ns.usps.com.	518400	IN	A	216.239.32.10
 
 usps.com.	518400	IN	A	56.0.134.100
+
+www.usps.com.	518400	IN	A	104.74.21.26

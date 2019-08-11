@@ -4,3 +4,5 @@ xinhuanet.com.	86400	IN	NS	ns.xinhuanet.com.
 ns.xinhuanet.com.	518400	IN	A	206.128.173.109
 
 xinhuanet.com.	518400	IN	A	202.108.119.193
+
+www.xinhuanet.com.	518400	IN	A	112.49.26.97

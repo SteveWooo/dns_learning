@@ -4,3 +4,5 @@ dreamstime.com.	86400	IN	NS	ns.dreamstime.com.
 ns.dreamstime.com.	518400	IN	A	200.201.161.22
 
 dreamstime.com.	518400	IN	A	50.23.192.82
+
+www.dreamstime.com.	518400	IN	A	50.23.192.82

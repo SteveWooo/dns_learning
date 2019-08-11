@@ -4,3 +4,5 @@ servingspot.com.	86400	IN	NS	ns.servingspot.com.
 ns.servingspot.com.	518400	IN	A	208.78.70.47
 
 servingspot.com.	518400	IN	A	173.239.8.164
+
+ww9.servingspot.com.	518400	IN	A	185.53.179.29

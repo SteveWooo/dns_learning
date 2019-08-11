@@ -4,3 +4,5 @@ gamepedia.com.	86400	IN	NS	ns.gamepedia.com.
 ns.gamepedia.com.	518400	IN	A	213.180.204.242
 
 gamepedia.com.	518400	IN	A	104.17.94.92
+
+www.gamepedia.com.	518400	IN	A	104.17.94.92

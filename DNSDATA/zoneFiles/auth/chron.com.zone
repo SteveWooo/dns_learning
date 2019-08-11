@@ -4,3 +4,5 @@ chron.com.	86400	IN	NS	ns.chron.com.
 ns.chron.com.	518400	IN	A	204.69.234.1
 
 chron.com.	518400	IN	A	98.129.228.59
+
+www.chron.com.	518400	IN	A	151.101.40.200

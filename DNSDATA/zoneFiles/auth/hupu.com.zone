@@ -4,3 +4,5 @@ hupu.com.	86400	IN	NS	ns.hupu.com.
 ns.hupu.com.	518400	IN	A	183.3.226.207
 
 hupu.com.	518400	IN	A	114.55.187.22
+
+www.hupu.com.	518400	IN	A	112.48.148.228

@@ -4,3 +4,5 @@ xywy.com.	86400	IN	NS	ns.xywy.com.
 ns.xywy.com.	518400	IN	A	205.251.192.29
 
 xywy.com.	518400	IN	A	119.28.48.239
+
+static.xywy.com.	518400	IN	A	112.47.14.110

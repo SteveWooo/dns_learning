@@ -4,3 +4,5 @@ default-search.net.	86400	IN	NS	ns.default-search.net.
 ns.default-search.net.	518400	IN	A	173.245.58.89
 
 default-search.net.	518400	IN	A	52.55.149.191
+
+www.default-search.net.	518400	IN	A	52.55.149.191

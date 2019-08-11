@@ -4,3 +4,5 @@ fiverr.com.	86400	IN	NS	ns.fiverr.com.
 ns.fiverr.com.	518400	IN	A	198.11.138.245
 
 fiverr.com.	518400	IN	A	104.18.254.23
+
+block.fiverr.com.	518400	IN	A	104.18.254.23

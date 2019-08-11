@@ -4,3 +4,5 @@ onet.pl.	86400	IN	NS	ns.onet.pl.
 ns.onet.pl.	518400	IN	A	200.201.161.22
 
 onet.pl.	518400	IN	A	213.180.141.140
+
+www.onet.pl.	518400	IN	A	213.180.141.140

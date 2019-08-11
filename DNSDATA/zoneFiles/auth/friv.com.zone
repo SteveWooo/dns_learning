@@ -4,3 +4,5 @@ friv.com.	86400	IN	NS	ns.friv.com.
 ns.friv.com.	518400	IN	A	205.251.199.254
 
 friv.com.	518400	IN	A	192.64.119.83
+
+www.friv.com.	518400	IN	A	199.115.113.65

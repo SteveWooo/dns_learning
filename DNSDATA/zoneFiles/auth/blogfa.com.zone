@@ -4,3 +4,5 @@ blogfa.com.	86400	IN	NS	ns.blogfa.com.
 ns.blogfa.com.	518400	IN	A	175.126.117.211
 
 blogfa.com.	518400	IN	A	104.24.111.96
+
+www.blogfa.com.	518400	IN	A	104.24.111.96

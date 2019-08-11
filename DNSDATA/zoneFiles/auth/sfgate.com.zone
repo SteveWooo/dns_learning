@@ -4,3 +4,5 @@ sfgate.com.	86400	IN	NS	ns.sfgate.com.
 ns.sfgate.com.	518400	IN	A	216.239.32.10
 
 sfgate.com.	518400	IN	A	98.129.228.59
+
+www.sfgate.com.	518400	IN	A	151.101.40.200

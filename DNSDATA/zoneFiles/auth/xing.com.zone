@@ -4,3 +4,5 @@ xing.com.	86400	IN	NS	ns.xing.com.
 ns.xing.com.	518400	IN	A	198.100.156.181
 
 xing.com.	518400	IN	A	109.233.159.254
+
+www.xing.com.	518400	IN	A	109.233.155.204

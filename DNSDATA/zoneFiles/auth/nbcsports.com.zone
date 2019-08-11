@@ -4,3 +4,5 @@ nbcsports.com.	86400	IN	NS	ns.nbcsports.com.
 ns.nbcsports.com.	518400	IN	A	202.56.230.5
 
 nbcsports.com.	518400	IN	A	54.204.5.8
+
+www.nbcsports.com.	518400	IN	A	223.119.149.175

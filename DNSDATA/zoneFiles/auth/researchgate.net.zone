@@ -4,3 +4,5 @@ researchgate.net.	86400	IN	NS	ns.researchgate.net.
 ns.researchgate.net.	518400	IN	A	208.78.70.47
 
 researchgate.net.	518400	IN	A	209.15.209.72
+
+www.researchgate.net.	518400	IN	A	104.17.32.105

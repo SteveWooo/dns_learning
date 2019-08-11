@@ -4,3 +4,5 @@ pch.com.	86400	IN	NS	ns.pch.com.
 ns.pch.com.	518400	IN	A	202.108.22.220
 
 pch.com.	518400	IN	A	3.212.162.214
+
+www.pch.com.	518400	IN	A	104.75.164.237

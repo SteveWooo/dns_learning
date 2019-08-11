@@ -4,3 +4,5 @@ biblegateway.com.	86400	IN	NS	ns.biblegateway.com.
 ns.biblegateway.com.	518400	IN	A	198.11.138.249
 
 biblegateway.com.	518400	IN	A	13.225.103.10
+
+www.biblegateway.com.	518400	IN	A	54.192.73.97

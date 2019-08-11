@@ -4,3 +4,5 @@ google.de.	86400	IN	NS	ns.google.de.
 ns.google.de.	518400	IN	A	208.78.70.47
 
 google.de.	518400	IN	A	69.171.248.65
+
+www.google.de.	518400	IN	A	31.13.78.65

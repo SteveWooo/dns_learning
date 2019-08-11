@@ -4,3 +4,5 @@ bloomberg.com.	86400	IN	NS	ns.bloomberg.com.
 ns.bloomberg.com.	518400	IN	A	208.78.70.47
 
 bloomberg.com.	518400	IN	A	69.63.181.12
+
+www.bloomberg.com.	518400	IN	A	151.101.41.73

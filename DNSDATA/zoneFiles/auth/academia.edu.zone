@@ -4,3 +4,5 @@ academia.edu.	86400	IN	NS	ns.academia.edu.
 ns.academia.edu.	518400	IN	A	213.180.193.1
 
 academia.edu.	518400	IN	A	107.22.174.222
+
+www.academia.edu.	518400	IN	A	54.248.238.61

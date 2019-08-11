@@ -4,3 +4,5 @@ nydailynews.com.	86400	IN	NS	ns.nydailynews.com.
 ns.nydailynews.com.	518400	IN	A	198.11.138.245
 
 nydailynews.com.	518400	IN	A	52.206.89.175
+
+www.nydailynews.com.	518400	IN	A	23.219.172.247

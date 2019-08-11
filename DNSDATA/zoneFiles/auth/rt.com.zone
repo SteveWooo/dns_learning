@@ -4,3 +4,5 @@ rt.com.	86400	IN	NS	ns.rt.com.
 ns.rt.com.	518400	IN	A	216.58.200.238
 
 rt.com.	518400	IN	A	82.202.190.91
+
+www.rt.com.	518400	IN	A	37.48.108.112

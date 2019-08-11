@@ -4,3 +4,5 @@ twoo.com.	86400	IN	NS	ns.twoo.com.
 ns.twoo.com.	518400	IN	A	203.153.43.65
 
 twoo.com.	518400	IN	A	77.73.177.139
+
+www.twoo.com.	518400	IN	A	184.85.115.87

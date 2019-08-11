@@ -4,3 +4,5 @@ cnblogs.com.	86400	IN	NS	ns.cnblogs.com.
 ns.cnblogs.com.	518400	IN	A	216.58.200.238
 
 cnblogs.com.	518400	IN	A	42.121.252.58
+
+www.cnblogs.com.	518400	IN	A	42.121.252.58

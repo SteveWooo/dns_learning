@@ -4,3 +4,5 @@ chase.com.	86400	IN	NS	ns.chase.com.
 ns.chase.com.	518400	IN	A	216.239.32.29
 
 chase.com.	518400	IN	A	159.53.116.62
+
+www.chase.com.	518400	IN	A	159.53.113.168

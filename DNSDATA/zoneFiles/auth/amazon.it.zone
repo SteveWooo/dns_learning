@@ -4,3 +4,5 @@ amazon.it.	86400	IN	NS	ns.amazon.it.
 ns.amazon.it.	518400	IN	A	216.58.200.238
 
 amazon.it.	518400	IN	A	52.95.120.36
+
+www.amazon.it.	518400	IN	A	54.230.74.26

@@ -4,3 +4,5 @@ aol.com.	86400	IN	NS	ns.aol.com.
 ns.aol.com.	518400	IN	A	173.245.58.159
 
 aol.com.	518400	IN	A	67.195.231.10
+
+www.aol.com.	518400	IN	A	98.136.100.146

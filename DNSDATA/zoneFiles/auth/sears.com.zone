@@ -4,3 +4,5 @@ sears.com.	86400	IN	NS	ns.sears.com.
 ns.sears.com.	518400	IN	A	111.202.126.2
 
 sears.com.	518400	IN	A	23.52.3.248
+
+www.sears.com.	518400	IN	A	23.198.115.128

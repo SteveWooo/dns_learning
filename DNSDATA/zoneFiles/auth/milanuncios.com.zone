@@ -4,3 +4,5 @@ milanuncios.com.	86400	IN	NS	ns.milanuncios.com.
 ns.milanuncios.com.	518400	IN	A	204.69.234.1
 
 milanuncios.com.	518400	IN	A	13.35.93.218
+
+www.milanuncios.com.	518400	IN	A	143.204.128.2

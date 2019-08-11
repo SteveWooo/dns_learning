@@ -4,3 +4,5 @@ aliexpress.com.	86400	IN	NS	ns.aliexpress.com.
 ns.aliexpress.com.	518400	IN	A	165.160.15.20
 
 aliexpress.com.	518400	IN	A	140.205.164.8
+
+www.aliexpress.com.	518400	IN	A	140.205.164.8

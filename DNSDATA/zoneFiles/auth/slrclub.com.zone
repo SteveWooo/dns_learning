@@ -4,3 +4,5 @@ slrclub.com.	86400	IN	NS	ns.slrclub.com.
 ns.slrclub.com.	518400	IN	A	216.239.32.10
 
 slrclub.com.	518400	IN	A	117.52.93.2
+
+www.slrclub.com.	518400	IN	A	117.52.93.2

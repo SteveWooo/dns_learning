@@ -4,3 +4,5 @@ lightinthebox.com.	86400	IN	NS	ns.lightinthebox.com.
 ns.lightinthebox.com.	518400	IN	A	217.69.139.202
 
 lightinthebox.com.	518400	IN	A	216.146.46.11
+
+www.lightinthebox.com.	518400	IN	A	23.198.121.81

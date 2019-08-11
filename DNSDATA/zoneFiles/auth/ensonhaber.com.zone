@@ -4,3 +4,5 @@ ensonhaber.com.	86400	IN	NS	ns.ensonhaber.com.
 ns.ensonhaber.com.	518400	IN	A	217.69.139.202
 
 ensonhaber.com.	518400	IN	A	104.20.59.198
+
+www.ensonhaber.com.	518400	IN	A	104.20.60.198

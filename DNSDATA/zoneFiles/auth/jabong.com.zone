@@ -4,3 +4,5 @@ jabong.com.	86400	IN	NS	ns.jabong.com.
 ns.jabong.com.	518400	IN	A	208.78.70.47
 
 jabong.com.	518400	IN	A	23.50.239.85
+
+www.jabong.com.	518400	IN	A	104.74.21.35

@@ -4,3 +4,5 @@ tmall.com.	86400	IN	NS	ns.tmall.com.
 ns.tmall.com.	518400	IN	A	206.128.173.109
 
 tmall.com.	518400	IN	A	140.205.130.99
+
+www.tmall.com.	518400	IN	A	112.48.150.237

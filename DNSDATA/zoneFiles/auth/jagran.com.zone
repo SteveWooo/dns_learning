@@ -4,3 +4,5 @@ jagran.com.	86400	IN	NS	ns.jagran.com.
 ns.jagran.com.	518400	IN	A	173.245.58.159
 
 jagran.com.	518400	IN	A	52.74.138.163
+
+www.jagran.com.	518400	IN	A	23.198.113.44

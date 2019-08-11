@@ -4,3 +4,5 @@ state.gov.	86400	IN	NS	ns.state.gov.
 ns.state.gov.	518400	IN	A	204.74.108.1
 
 state.gov.	518400	IN	A	72.166.186.169
+
+www.state.gov.	518400	IN	A	104.85.72.66

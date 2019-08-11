@@ -4,3 +4,5 @@ wikipedia.org.	86400	IN	NS	ns.wikipedia.org.
 ns.wikipedia.org.	518400	IN	A	187.18.60.242
 
 wikipedia.org.	518400	IN	A	69.171.235.64
+
+www.wikipedia.org.	518400	IN	A	31.13.72.34

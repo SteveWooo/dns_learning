@@ -4,3 +4,5 @@ shopify.com.	86400	IN	NS	ns.shopify.com.
 ns.shopify.com.	518400	IN	A	193.108.91.127
 
 shopify.com.	518400	IN	A	35.185.82.132
+
+www.shopify.com.	518400	IN	A	35.185.82.132

@@ -4,3 +4,5 @@ skysports.com.	86400	IN	NS	ns.skysports.com.
 ns.skysports.com.	518400	IN	A	111.206.53.6
 
 skysports.com.	518400	IN	A	90.216.129.62
+
+www.skysports.com.	518400	IN	A	23.7.174.52

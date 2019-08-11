@@ -4,3 +4,5 @@ twitch.tv.	86400	IN	NS	ns.twitch.tv.
 ns.twitch.tv.	518400	IN	A	216.239.32.106
 
 twitch.tv.	518400	IN	A	69.63.184.142
+
+www.twitch.tv.	518400	IN	A	66.220.146.94

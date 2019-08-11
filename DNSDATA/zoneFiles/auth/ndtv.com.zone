@@ -4,3 +4,5 @@ ndtv.com.	86400	IN	NS	ns.ndtv.com.
 ns.ndtv.com.	518400	IN	A	216.239.32.29
 
 ndtv.com.	518400	IN	A	199.59.150.49
+
+www.ndtv.com.	518400	IN	A	88.191.249.183

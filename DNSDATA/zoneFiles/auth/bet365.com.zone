@@ -4,3 +4,5 @@ bet365.com.	86400	IN	NS	ns.bet365.com.
 ns.bet365.com.	518400	IN	A	200.219.154.10
 
 bet365.com.	518400	IN	A	174.36.196.242
+
+www.bet365.com.	518400	IN	A	66.220.151.20

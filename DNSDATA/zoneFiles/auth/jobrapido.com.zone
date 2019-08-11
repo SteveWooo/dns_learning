@@ -4,3 +4,5 @@ jobrapido.com.	86400	IN	NS	ns.jobrapido.com.
 ns.jobrapido.com.	518400	IN	A	157.255.246.101
 
 jobrapido.com.	518400	IN	A	51.254.79.20
+
+hk.jobrapido.com.	518400	IN	A	51.255.27.81

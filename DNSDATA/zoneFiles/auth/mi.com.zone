@@ -4,3 +4,5 @@ mi.com.	86400	IN	NS	ns.mi.com.
 ns.mi.com.	518400	IN	A	175.126.117.211
 
 mi.com.	518400	IN	A	211.143.155.161
+
+www.mi.com.	518400	IN	A	112.5.62.61

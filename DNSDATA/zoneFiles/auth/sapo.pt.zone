@@ -4,3 +4,5 @@ sapo.pt.	86400	IN	NS	ns.sapo.pt.
 ns.sapo.pt.	518400	IN	A	205.251.199.254
 
 sapo.pt.	518400	IN	A	213.13.146.142
+
+www.sapo.pt.	518400	IN	A	213.13.146.142

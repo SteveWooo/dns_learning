@@ -4,3 +4,5 @@ theguardian.com.	86400	IN	NS	ns.theguardian.com.
 ns.theguardian.com.	518400	IN	A	205.251.195.203
 
 theguardian.com.	518400	IN	A	69.171.240.27
+
+www.theguardian.com.	518400	IN	A	31.13.70.20

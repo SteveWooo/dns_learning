@@ -4,3 +4,5 @@ onlinesbi.com.	86400	IN	NS	ns.onlinesbi.com.
 ns.onlinesbi.com.	518400	IN	A	93.186.225.193
 
 onlinesbi.com.	518400	IN	A	103.68.221.190
+
+www.onlinesbi.com.	518400	IN	A	103.68.220.61

@@ -4,3 +4,5 @@ abplive.in.	86400	IN	NS	ns.abplive.in.
 ns.abplive.in.	518400	IN	A	206.128.173.109
 
 abplive.in.	518400	IN	A	2.17.140.46
+
+www.abplive.in.	518400	IN	A	23.7.213.105

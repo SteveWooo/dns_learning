@@ -4,3 +4,5 @@ bluehost.com.	86400	IN	NS	ns.bluehost.com.
 ns.bluehost.com.	518400	IN	A	205.251.195.203
 
 bluehost.com.	518400	IN	A	18.196.78.38
+
+www.bluehost.com.	518400	IN	A	18.196.78.38

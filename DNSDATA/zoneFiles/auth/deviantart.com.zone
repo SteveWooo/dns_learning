@@ -4,3 +4,5 @@ deviantart.com.	86400	IN	NS	ns.deviantart.com.
 ns.deviantart.com.	518400	IN	A	203.153.43.65
 
 deviantart.com.	518400	IN	A	67.15.129.210
+
+www.deviantart.com.	518400	IN	A	69.171.229.28

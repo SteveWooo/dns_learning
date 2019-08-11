@@ -4,3 +4,5 @@ daum.net.	86400	IN	NS	ns.daum.net.
 ns.daum.net.	518400	IN	A	145.14.134.108
 
 daum.net.	518400	IN	A	66.220.149.18
+
+www.daum.net.	518400	IN	A	31.13.68.22

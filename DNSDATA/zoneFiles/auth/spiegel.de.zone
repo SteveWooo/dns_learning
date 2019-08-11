@@ -4,3 +4,5 @@ spiegel.de.	86400	IN	NS	ns.spiegel.de.
 ns.spiegel.de.	518400	IN	A	216.239.32.29
 
 spiegel.de.	518400	IN	A	69.171.234.48
+
+www.spiegel.de.	518400	IN	A	31.13.74.1

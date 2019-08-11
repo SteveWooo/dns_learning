@@ -4,3 +4,5 @@ android.com.	86400	IN	NS	ns.android.com.
 ns.android.com.	518400	IN	A	187.18.60.242
 
 android.com.	518400	IN	A	216.58.202.132
+
+www.android.com.	518400	IN	A	216.58.200.238

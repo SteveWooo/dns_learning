@@ -4,3 +4,5 @@ bt.com.	86400	IN	NS	ns.bt.com.
 ns.bt.com.	518400	IN	A	78.40.125.184
 
 bt.com.	518400	IN	A	193.113.9.164
+
+www.bt.com.	518400	IN	A	68.142.70.29

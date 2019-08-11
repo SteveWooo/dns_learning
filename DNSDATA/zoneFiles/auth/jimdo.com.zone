@@ -4,3 +4,5 @@ jimdo.com.	86400	IN	NS	ns.jimdo.com.
 ns.jimdo.com.	518400	IN	A	193.108.91.127
 
 jimdo.com.	518400	IN	A	151.101.2.2
+
+www.jimdo.com.	518400	IN	A	151.101.42.2

@@ -4,3 +4,5 @@ facebook.com.	86400	IN	NS	ns.facebook.com.
 ns.facebook.com.	518400	IN	A	213.180.204.242
 
 facebook.com.	518400	IN	A	67.228.37.26
+
+www.facebook.com.	518400	IN	A	218.207.212.70

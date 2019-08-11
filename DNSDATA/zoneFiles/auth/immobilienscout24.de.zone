@@ -4,3 +4,5 @@ immobilienscout24.de.	86400	IN	NS	ns.immobilienscout24.de.
 ns.immobilienscout24.de.	518400	IN	A	217.69.139.112
 
 immobilienscout24.de.	518400	IN	A	195.178.101.209
+
+www.immobilienscout24.de.	518400	IN	A	13.35.125.44

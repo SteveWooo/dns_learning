@@ -4,3 +4,5 @@ addthis.com.	86400	IN	NS	ns.addthis.com.
 ns.addthis.com.	518400	IN	A	198.11.138.249
 
 addthis.com.	518400	IN	A	208.49.103.241
+
+www.addthis.com.	518400	IN	A	104.75.164.138

@@ -4,3 +4,5 @@ douban.com.	86400	IN	NS	ns.douban.com.
 ns.douban.com.	518400	IN	A	216.239.32.29
 
 douban.com.	518400	IN	A	154.8.131.165
+
+www.douban.com.	518400	IN	A	154.8.131.165

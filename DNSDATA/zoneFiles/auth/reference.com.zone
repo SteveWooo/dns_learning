@@ -4,3 +4,5 @@ reference.com.	86400	IN	NS	ns.reference.com.
 ns.reference.com.	518400	IN	A	213.180.204.242
 
 reference.com.	518400	IN	A	151.101.230.114
+
+www.reference.com.	518400	IN	A	151.101.42.114

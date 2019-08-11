@@ -4,3 +4,5 @@ ganji.com.	86400	IN	NS	ns.ganji.com.
 ns.ganji.com.	518400	IN	A	216.239.32.10
 
 ganji.com.	518400	IN	A	154.8.241.69
+
+3g.ganji.com.	518400	IN	A	154.8.240.68

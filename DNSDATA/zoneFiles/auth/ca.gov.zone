@@ -4,3 +4,5 @@ ca.gov.	86400	IN	NS	ns.ca.gov.
 ns.ca.gov.	518400	IN	A	200.219.154.10
 
 ca.gov.	518400	IN	A	104.42.152.82
+
+www.ca.gov.	518400	IN	A	110.232.178.201

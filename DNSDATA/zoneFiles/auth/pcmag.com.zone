@@ -4,3 +4,5 @@ pcmag.com.	86400	IN	NS	ns.pcmag.com.
 ns.pcmag.com.	518400	IN	A	193.232.142.17
 
 pcmag.com.	518400	IN	A	52.201.108.115
+
+www.pcmag.com.	518400	IN	A	23.2.140.7

@@ -4,3 +4,5 @@ varzesh3.com.	86400	IN	NS	ns.varzesh3.com.
 ns.varzesh3.com.	518400	IN	A	216.239.32.10
 
 varzesh3.com.	518400	IN	A	94.182.163.51
+
+www.varzesh3.com.	518400	IN	A	94.182.163.51

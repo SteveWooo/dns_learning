@@ -4,3 +4,5 @@ redtube.com.	86400	IN	NS	ns.redtube.com.
 ns.redtube.com.	518400	IN	A	205.251.192.29
 
 redtube.com.	518400	IN	A	69.171.234.18
+
+www.redtube.com.	518400	IN	A	173.252.110.21

@@ -4,3 +4,5 @@ aili.com.	86400	IN	NS	ns.aili.com.
 ns.aili.com.	518400	IN	A	206.128.173.109
 
 aili.com.	518400	IN	A	119.28.48.239
+
+www.aili.com.	518400	IN	A	112.47.30.71

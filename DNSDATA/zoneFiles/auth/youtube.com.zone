@@ -4,3 +4,5 @@ youtube.com.	86400	IN	NS	ns.youtube.com.
 ns.youtube.com.	518400	IN	A	216.239.32.10
 
 youtube.com.	518400	IN	A	203.98.7.65
+
+www.youtube.com.	518400	IN	A	218.207.212.70

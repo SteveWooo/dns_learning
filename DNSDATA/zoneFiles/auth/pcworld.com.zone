@@ -4,3 +4,5 @@ pcworld.com.	86400	IN	NS	ns.pcworld.com.
 ns.pcworld.com.	518400	IN	A	216.58.200.238
 
 pcworld.com.	518400	IN	A	151.101.130.165
+
+www.pcworld.com.	518400	IN	A	151.101.42.165

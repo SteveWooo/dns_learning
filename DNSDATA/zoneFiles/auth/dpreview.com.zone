@@ -4,3 +4,5 @@ dpreview.com.	86400	IN	NS	ns.dpreview.com.
 ns.dpreview.com.	518400	IN	A	183.3.226.207
 
 dpreview.com.	518400	IN	A	100.25.206.216
+
+www.dpreview.com.	518400	IN	A	35.172.57.134

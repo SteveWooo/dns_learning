@@ -4,3 +4,5 @@ forbes.com.	86400	IN	NS	ns.forbes.com.
 ns.forbes.com.	518400	IN	A	203.153.43.65
 
 forbes.com.	518400	IN	A	151.101.194.49
+
+www.forbes.com.	518400	IN	A	151.101.42.49

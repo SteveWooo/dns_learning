@@ -4,3 +4,5 @@ flickr.com.	86400	IN	NS	ns.flickr.com.
 ns.flickr.com.	518400	IN	A	200.221.11.98
 
 flickr.com.	518400	IN	A	69.171.233.33
+
+www.flickr.com.	518400	IN	A	31.13.72.17

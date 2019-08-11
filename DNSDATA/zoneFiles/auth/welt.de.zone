@@ -4,3 +4,5 @@ welt.de.	86400	IN	NS	ns.welt.de.
 ns.welt.de.	518400	IN	A	202.56.230.5
 
 welt.de.	518400	IN	A	195.50.176.200
+
+www.welt.de.	518400	IN	A	104.75.164.176

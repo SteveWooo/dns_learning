@@ -4,3 +4,5 @@ marriott.com.	86400	IN	NS	ns.marriott.com.
 ns.marriott.com.	518400	IN	A	205.251.195.203
 
 marriott.com.	518400	IN	A	23.49.153.29
+
+www.marriott.com.	518400	IN	A	36.156.84.12

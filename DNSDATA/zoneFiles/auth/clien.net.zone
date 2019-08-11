@@ -4,3 +4,5 @@ clien.net.	86400	IN	NS	ns.clien.net.
 ns.clien.net.	518400	IN	A	217.69.139.202
 
 clien.net.	518400	IN	A	183.111.27.116
+
+www.clien.net.	518400	IN	A	183.111.27.116

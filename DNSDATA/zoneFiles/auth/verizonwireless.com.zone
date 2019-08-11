@@ -4,3 +4,5 @@ verizonwireless.com.	86400	IN	NS	ns.verizonwireless.com.
 ns.verizonwireless.com.	518400	IN	A	198.11.138.249
 
 verizonwireless.com.	518400	IN	A	162.115.16.90
+
+www.verizonwireless.com.	518400	IN	A	198.7.31.250

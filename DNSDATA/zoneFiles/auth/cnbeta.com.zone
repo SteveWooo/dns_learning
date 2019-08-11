@@ -4,3 +4,5 @@ cnbeta.com.	86400	IN	NS	ns.cnbeta.com.
 ns.cnbeta.com.	518400	IN	A	204.69.234.1
 
 cnbeta.com.	518400	IN	A	125.90.93.20
+
+www.cnbeta.com.	518400	IN	A	112.47.9.115

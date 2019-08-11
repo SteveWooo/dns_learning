@@ -4,3 +4,5 @@ squarespace.com.	86400	IN	NS	ns.squarespace.com.
 ns.squarespace.com.	518400	IN	A	216.239.32.29
 
 squarespace.com.	518400	IN	A	198.185.159.176
+
+www.squarespace.com.	518400	IN	A	198.185.159.177

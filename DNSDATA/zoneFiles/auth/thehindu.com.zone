@@ -4,3 +4,5 @@ thehindu.com.	86400	IN	NS	ns.thehindu.com.
 ns.thehindu.com.	518400	IN	A	202.56.230.5
 
 thehindu.com.	518400	IN	A	78.16.49.15
+
+www.thehindu.com.	518400	IN	A	93.46.8.89

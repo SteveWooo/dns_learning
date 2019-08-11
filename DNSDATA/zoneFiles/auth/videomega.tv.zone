@@ -4,3 +4,5 @@ videomega.tv.	86400	IN	NS	ns.videomega.tv.
 ns.videomega.tv.	518400	IN	A	216.58.200.238
 
 videomega.tv.	518400	IN	A	103.224.182.208
+
+ww17.videomega.tv.	518400	IN	A	199.191.50.72

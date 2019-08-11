@@ -4,3 +4,5 @@ teepr.com.	86400	IN	NS	ns.teepr.com.
 ns.teepr.com.	518400	IN	A	193.232.156.17
 
 teepr.com.	518400	IN	A	64.13.192.74
+
+www.teepr.com.	518400	IN	A	69.171.246.9

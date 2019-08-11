@@ -4,3 +4,5 @@ bukalapak.com.	86400	IN	NS	ns.bukalapak.com.
 ns.bukalapak.com.	518400	IN	A	208.78.70.47
 
 bukalapak.com.	518400	IN	A	103.117.83.35
+
+www.bukalapak.com.	518400	IN	A	103.117.82.33

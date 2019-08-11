@@ -4,3 +4,5 @@ airtel.in.	86400	IN	NS	ns.airtel.in.
 ns.airtel.in.	518400	IN	A	208.78.70.47
 
 airtel.in.	518400	IN	A	125.16.74.90
+
+www.airtel.in.	518400	IN	A	35.154.254.227

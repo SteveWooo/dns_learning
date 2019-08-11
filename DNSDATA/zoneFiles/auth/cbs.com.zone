@@ -4,3 +4,5 @@ cbs.com.	86400	IN	NS	ns.cbs.com.
 ns.cbs.com.	518400	IN	A	213.180.204.242
 
 cbs.com.	518400	IN	A	35.227.235.238
+
+www.cbs.com.	518400	IN	A	35.227.235.238

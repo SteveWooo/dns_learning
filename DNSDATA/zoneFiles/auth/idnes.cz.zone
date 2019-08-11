@@ -4,3 +4,5 @@ idnes.cz.	86400	IN	NS	ns.idnes.cz.
 ns.idnes.cz.	518400	IN	A	217.69.139.202
 
 idnes.cz.	518400	IN	A	185.17.117.32
+
+www.idnes.cz.	518400	IN	A	185.17.117.32

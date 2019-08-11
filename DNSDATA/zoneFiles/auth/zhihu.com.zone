@@ -4,3 +4,5 @@ zhihu.com.	86400	IN	NS	ns.zhihu.com.
 ns.zhihu.com.	518400	IN	A	183.3.226.207
 
 zhihu.com.	518400	IN	A	118.89.204.190
+
+www.zhihu.com.	518400	IN	A	118.89.204.190

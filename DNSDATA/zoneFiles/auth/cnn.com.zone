@@ -4,3 +4,5 @@ cnn.com.	86400	IN	NS	ns.cnn.com.
 ns.cnn.com.	518400	IN	A	213.180.204.242
 
 cnn.com.	518400	IN	A	151.101.193.67
+
+edition.cnn.com.	518400	IN	A	151.101.65.67

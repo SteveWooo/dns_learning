@@ -4,3 +4,5 @@ sahadan.com.	86400	IN	NS	ns.sahadan.com.
 ns.sahadan.com.	518400	IN	A	202.108.22.220
 
 sahadan.com.	518400	IN	A	185.42.236.147
+
+www.sahadan.com.	518400	IN	A	23.77.57.151

@@ -4,3 +4,5 @@ marketwatch.com.	86400	IN	NS	ns.marketwatch.com.
 ns.marketwatch.com.	518400	IN	A	208.78.70.47
 
 marketwatch.com.	518400	IN	A	13.249.87.54
+
+www.marketwatch.com.	518400	IN	A	104.74.20.81

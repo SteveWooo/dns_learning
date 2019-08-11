@@ -4,3 +4,5 @@ nationalgeographic.com.	86400	IN	NS	ns.nationalgeographic.com.
 ns.nationalgeographic.com.	518400	IN	A	205.251.199.254
 
 nationalgeographic.com.	518400	IN	A	35.170.156.131
+
+www.nationalgeographic.com.	518400	IN	A	104.74.20.112

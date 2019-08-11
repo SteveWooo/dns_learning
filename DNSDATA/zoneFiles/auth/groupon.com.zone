@@ -4,3 +4,5 @@ groupon.com.	86400	IN	NS	ns.groupon.com.
 ns.groupon.com.	518400	IN	A	216.58.200.238
 
 groupon.com.	518400	IN	A	184.31.42.11
+
+www.groupon.com.	518400	IN	A	23.198.114.124

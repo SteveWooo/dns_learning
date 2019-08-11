@@ -4,3 +4,5 @@ adp.com.	86400	IN	NS	ns.adp.com.
 ns.adp.com.	518400	IN	A	216.239.32.10
 
 adp.com.	518400	IN	A	170.146.93.56
+
+www.adp.com.	518400	IN	A	110.232.178.157

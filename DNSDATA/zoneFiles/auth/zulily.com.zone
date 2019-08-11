@@ -4,3 +4,5 @@ zulily.com.	86400	IN	NS	ns.zulily.com.
 ns.zulily.com.	518400	IN	A	213.180.204.242
 
 zulily.com.	518400	IN	A	54.158.82.111
+
+www.zulily.com.	518400	IN	A	54.192.73.115

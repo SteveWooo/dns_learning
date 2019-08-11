@@ -4,3 +4,5 @@ wow.com.	86400	IN	NS	ns.wow.com.
 ns.wow.com.	518400	IN	A	206.128.173.109
 
 wow.com.	518400	IN	A	66.218.84.137
+
+www.wow.com.	518400	IN	A	98.136.144.138

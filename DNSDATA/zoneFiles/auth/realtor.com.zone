@@ -4,3 +4,5 @@ realtor.com.	86400	IN	NS	ns.realtor.com.
 ns.realtor.com.	518400	IN	A	193.232.156.17
 
 realtor.com.	518400	IN	A	206.131.180.21
+
+www.realtor.com.	518400	IN	A	54.192.73.34

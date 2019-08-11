@@ -4,3 +4,5 @@ cbssports.com.	86400	IN	NS	ns.cbssports.com.
 ns.cbssports.com.	518400	IN	A	193.108.91.127
 
 cbssports.com.	518400	IN	A	216.239.116.100
+
+www.cbssports.com.	518400	IN	A	104.74.20.230

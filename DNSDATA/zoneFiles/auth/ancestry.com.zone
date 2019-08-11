@@ -4,3 +4,5 @@ ancestry.com.	86400	IN	NS	ns.ancestry.com.
 ns.ancestry.com.	518400	IN	A	200.201.161.22
 
 ancestry.com.	518400	IN	A	45.60.169.132
+
+www.ancestry.com.	518400	IN	A	45.60.157.132

@@ -4,3 +4,5 @@ zing.vn.	86400	IN	NS	ns.zing.vn.
 ns.zing.vn.	518400	IN	A	216.239.32.29
 
 zing.vn.	518400	IN	A	118.102.1.119
+
+news.zing.vn.	518400	IN	A	118.102.1.119

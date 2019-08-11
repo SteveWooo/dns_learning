@@ -4,3 +4,5 @@ telegraaf.nl.	86400	IN	NS	ns.telegraaf.nl.
 ns.telegraaf.nl.	518400	IN	A	217.69.139.202
 
 telegraaf.nl.	518400	IN	A	81.4.84.165
+
+www.telegraaf.nl.	518400	IN	A	83.96.244.140

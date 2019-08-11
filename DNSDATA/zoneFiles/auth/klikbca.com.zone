@@ -4,3 +4,5 @@ klikbca.com.	86400	IN	NS	ns.klikbca.com.
 ns.klikbca.com.	518400	IN	A	213.180.193.1
 
 klikbca.com.	518400	IN	A	202.6.211.8
+
+www.klikbca.com.	518400	IN	A	202.6.211.8

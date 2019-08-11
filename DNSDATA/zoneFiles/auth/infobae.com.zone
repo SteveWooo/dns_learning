@@ -4,3 +4,5 @@ infobae.com.	86400	IN	NS	ns.infobae.com.
 ns.infobae.com.	518400	IN	A	206.128.173.109
 
 infobae.com.	518400	IN	A	72.247.179.123
+
+www.infobae.com.	518400	IN	A	23.219.172.135

@@ -4,3 +4,5 @@ mystart.com.	86400	IN	NS	ns.mystart.com.
 ns.mystart.com.	518400	IN	A	205.251.197.107
 
 mystart.com.	518400	IN	A	173.45.162.17
+
+www.mystart.com.	518400	IN	A	173.45.162.17

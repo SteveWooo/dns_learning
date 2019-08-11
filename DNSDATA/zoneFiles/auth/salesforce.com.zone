@@ -4,3 +4,5 @@ salesforce.com.	86400	IN	NS	ns.salesforce.com.
 ns.salesforce.com.	518400	IN	A	205.251.195.203
 
 salesforce.com.	518400	IN	A	96.43.144.26
+
+www.salesforce.com.	518400	IN	A	96.43.145.26

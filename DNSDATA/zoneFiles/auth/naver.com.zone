@@ -4,3 +4,5 @@ naver.com.	86400	IN	NS	ns.naver.com.
 ns.naver.com.	518400	IN	A	87.240.131.131
 
 naver.com.	518400	IN	A	125.209.222.141
+
+www.naver.com.	518400	IN	A	183.146.21.58

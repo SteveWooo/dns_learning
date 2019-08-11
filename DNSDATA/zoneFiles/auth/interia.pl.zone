@@ -4,3 +4,5 @@ interia.pl.	86400	IN	NS	ns.interia.pl.
 ns.interia.pl.	518400	IN	A	205.251.199.254
 
 interia.pl.	518400	IN	A	217.74.65.23
+
+www.interia.pl.	518400	IN	A	217.74.76.129

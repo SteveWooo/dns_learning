@@ -4,3 +4,5 @@ alipay.com.	86400	IN	NS	ns.alipay.com.
 ns.alipay.com.	518400	IN	A	205.251.192.29
 
 alipay.com.	518400	IN	A	110.75.139.5
+
+www.alipay.com.	518400	IN	A	110.76.15.173

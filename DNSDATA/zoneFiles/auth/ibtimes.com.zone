@@ -4,3 +4,5 @@ ibtimes.com.	86400	IN	NS	ns.ibtimes.com.
 ns.ibtimes.com.	518400	IN	A	216.239.32.106
 
 ibtimes.com.	518400	IN	A	173.252.102.16
+
+www.ibtimes.com.	518400	IN	A	74.86.17.48

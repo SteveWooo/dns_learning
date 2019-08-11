@@ -4,3 +4,5 @@ intuit.com.	86400	IN	NS	ns.intuit.com.
 ns.intuit.com.	518400	IN	A	183.3.226.207
 
 intuit.com.	518400	IN	A	199.16.139.15
+
+www.intuit.com.	518400	IN	A	23.2.37.100

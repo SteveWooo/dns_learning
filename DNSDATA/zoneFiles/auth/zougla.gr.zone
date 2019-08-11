@@ -4,3 +4,5 @@ zougla.gr.	86400	IN	NS	ns.zougla.gr.
 ns.zougla.gr.	518400	IN	A	203.153.43.65
 
 zougla.gr.	518400	IN	A	195.154.207.165
+
+www.zougla.gr.	518400	IN	A	23.219.172.209

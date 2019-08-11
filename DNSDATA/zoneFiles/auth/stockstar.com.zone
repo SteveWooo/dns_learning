@@ -4,3 +4,5 @@ stockstar.com.	86400	IN	NS	ns.stockstar.com.
 ns.stockstar.com.	518400	IN	A	213.180.204.242
 
 stockstar.com.	518400	IN	A	43.240.124.230
+
+my.stockstar.com.	518400	IN	A	43.240.124.219

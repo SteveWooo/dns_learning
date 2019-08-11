@@ -4,3 +4,5 @@ apple.com.	86400	IN	NS	ns.apple.com.
 ns.apple.com.	518400	IN	A	206.128.173.109
 
 apple.com.	518400	IN	A	17.142.160.59
+
+www.apple.com.	518400	IN	A	218.58.101.229

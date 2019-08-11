@@ -4,3 +4,5 @@ jd.com.	86400	IN	NS	ns.jd.com.
 ns.jd.com.	518400	IN	A	205.251.197.107
 
 jd.com.	518400	IN	A	120.52.148.118
+
+hk.jd.com.	518400	IN	A	183.240.124.1

@@ -4,3 +4,5 @@ histats.com.	86400	IN	NS	ns.histats.com.
 ns.histats.com.	518400	IN	A	205.251.195.203
 
 histats.com.	518400	IN	A	54.36.111.118
+
+www.histats.com.	518400	IN	A	54.36.111.118

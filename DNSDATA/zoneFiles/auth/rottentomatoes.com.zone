@@ -4,3 +4,5 @@ rottentomatoes.com.	86400	IN	NS	ns.rottentomatoes.com.
 ns.rottentomatoes.com.	518400	IN	A	173.245.58.100
 
 rottentomatoes.com.	518400	IN	A	52.11.155.253
+
+www.rottentomatoes.com.	518400	IN	A	23.198.127.240

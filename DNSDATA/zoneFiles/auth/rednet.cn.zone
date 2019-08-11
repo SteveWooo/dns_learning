@@ -4,3 +4,5 @@ rednet.cn.	86400	IN	NS	ns.rednet.cn.
 ns.rednet.cn.	518400	IN	A	200.201.165.253
 
 rednet.cn.	518400	IN	A	115.159.159.215
+
+www.rednet.cn.	518400	IN	A	211.143.155.159

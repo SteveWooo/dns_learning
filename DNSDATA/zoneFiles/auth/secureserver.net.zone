@@ -4,3 +4,5 @@ secureserver.net.	86400	IN	NS	ns.secureserver.net.
 ns.secureserver.net.	518400	IN	A	216.239.32.10
 
 secureserver.net.	518400	IN	A	208.109.192.71
+
+www.secureserver.net.	518400	IN	A	223.119.129.22

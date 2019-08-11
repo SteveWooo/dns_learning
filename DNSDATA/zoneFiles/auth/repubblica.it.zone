@@ -4,3 +4,5 @@ repubblica.it.	86400	IN	NS	ns.repubblica.it.
 ns.repubblica.it.	518400	IN	A	213.180.193.1
 
 repubblica.it.	518400	IN	A	213.92.16.101
+
+www.repubblica.it.	518400	IN	A	23.198.140.165

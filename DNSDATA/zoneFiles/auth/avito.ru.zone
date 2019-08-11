@@ -4,3 +4,5 @@ avito.ru.	86400	IN	NS	ns.avito.ru.
 ns.avito.ru.	518400	IN	A	200.221.11.98
 
 avito.ru.	518400	IN	A	185.89.12.132
+
+www.avito.ru.	518400	IN	A	185.89.12.132

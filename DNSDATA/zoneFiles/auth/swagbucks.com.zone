@@ -4,3 +4,5 @@ swagbucks.com.	86400	IN	NS	ns.swagbucks.com.
 ns.swagbucks.com.	518400	IN	A	216.58.200.238
 
 swagbucks.com.	518400	IN	A	68.71.251.224
+
+www.swagbucks.com.	518400	IN	A	68.71.251.224

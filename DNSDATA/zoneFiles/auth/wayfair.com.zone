@@ -4,3 +4,5 @@ wayfair.com.	86400	IN	NS	ns.wayfair.com.
 ns.wayfair.com.	518400	IN	A	202.56.230.5
 
 wayfair.com.	518400	IN	A	162.208.32.99
+
+www.wayfair.com.	518400	IN	A	104.74.21.2

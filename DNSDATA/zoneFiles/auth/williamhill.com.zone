@@ -4,3 +4,5 @@ williamhill.com.	86400	IN	NS	ns.williamhill.com.
 ns.williamhill.com.	518400	IN	A	165.160.15.20
 
 williamhill.com.	518400	IN	A	13.35.99.87
+
+www.williamhill.com.	518400	IN	A	13.35.125.115

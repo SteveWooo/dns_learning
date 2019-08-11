@@ -4,3 +4,5 @@ globo.com.	86400	IN	NS	ns.globo.com.
 ns.globo.com.	518400	IN	A	173.245.58.201
 
 globo.com.	518400	IN	A	186.192.90.5
+
+www.globo.com.	518400	IN	A	186.192.81.5

@@ -4,3 +4,5 @@ virgilio.it.	86400	IN	NS	ns.virgilio.it.
 ns.virgilio.it.	518400	IN	A	208.78.70.47
 
 virgilio.it.	518400	IN	A	213.209.17.209
+
+www.virgilio.it.	518400	IN	A	13.35.125.29

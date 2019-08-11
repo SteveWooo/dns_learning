@@ -4,3 +4,5 @@ fanfiction.net.	86400	IN	NS	ns.fanfiction.net.
 ns.fanfiction.net.	518400	IN	A	173.245.58.89
 
 fanfiction.net.	518400	IN	A	173.205.184.6
+
+www.fanfiction.net.	518400	IN	A	173.205.184.7

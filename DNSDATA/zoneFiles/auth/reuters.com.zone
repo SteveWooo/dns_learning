@@ -4,3 +4,5 @@ reuters.com.	86400	IN	NS	ns.reuters.com.
 ns.reuters.com.	518400	IN	A	111.206.53.6
 
 reuters.com.	518400	IN	A	199.16.156.40
+
+www.reuters.com.	518400	IN	A	199.59.148.97

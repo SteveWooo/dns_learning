@@ -4,3 +4,5 @@ bizjournals.com.	86400	IN	NS	ns.bizjournals.com.
 ns.bizjournals.com.	518400	IN	A	173.245.59.160
 
 bizjournals.com.	518400	IN	A	107.154.102.27
+
+www.bizjournals.com.	518400	IN	A	45.60.43.27

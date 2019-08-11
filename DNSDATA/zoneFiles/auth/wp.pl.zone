@@ -4,3 +4,5 @@ wp.pl.	86400	IN	NS	ns.wp.pl.
 ns.wp.pl.	518400	IN	A	206.128.173.109
 
 wp.pl.	518400	IN	A	212.77.98.9
+
+www.wp.pl.	518400	IN	A	212.77.98.9

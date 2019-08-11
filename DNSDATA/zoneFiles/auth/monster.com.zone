@@ -4,3 +4,5 @@ monster.com.	86400	IN	NS	ns.monster.com.
 ns.monster.com.	518400	IN	A	202.56.230.5
 
 monster.com.	518400	IN	A	63.121.30.147
+
+www.monster.com.	518400	IN	A	13.35.125.89

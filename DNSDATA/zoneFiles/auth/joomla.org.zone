@@ -4,3 +4,5 @@ joomla.org.	86400	IN	NS	ns.joomla.org.
 ns.joomla.org.	518400	IN	A	216.239.32.106
 
 joomla.org.	518400	IN	A	107.154.146.133
+
+www.joomla.org.	518400	IN	A	72.29.124.146

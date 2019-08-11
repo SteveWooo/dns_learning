@@ -4,3 +4,5 @@ vox.com.	86400	IN	NS	ns.vox.com.
 ns.vox.com.	518400	IN	A	205.251.195.203
 
 vox.com.	518400	IN	A	151.101.193.52
+
+www.vox.com.	518400	IN	A	151.101.41.52

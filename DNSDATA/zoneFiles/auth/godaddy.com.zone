@@ -4,3 +4,5 @@ godaddy.com.	86400	IN	NS	ns.godaddy.com.
 ns.godaddy.com.	518400	IN	A	193.108.91.127
 
 godaddy.com.	518400	IN	A	208.109.192.70
+
+www.godaddy.com.	518400	IN	A	23.198.116.84

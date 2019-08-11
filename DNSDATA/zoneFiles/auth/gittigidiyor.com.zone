@@ -4,3 +4,5 @@ gittigidiyor.com.	86400	IN	NS	ns.gittigidiyor.com.
 ns.gittigidiyor.com.	518400	IN	A	174.35.55.22
 
 gittigidiyor.com.	518400	IN	A	72.9.105.30
+
+www.gittigidiyor.com.	518400	IN	A	93.187.67.11

@@ -4,3 +4,5 @@ paypal.com.	86400	IN	NS	ns.paypal.com.
 ns.paypal.com.	518400	IN	A	203.153.43.65
 
 paypal.com.	518400	IN	A	64.4.250.37
+
+www.paypal.com.	518400	IN	A	104.75.166.36

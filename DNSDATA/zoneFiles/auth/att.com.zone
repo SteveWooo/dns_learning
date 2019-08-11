@@ -4,3 +4,5 @@ att.com.	86400	IN	NS	ns.att.com.
 ns.att.com.	518400	IN	A	216.58.200.238
 
 att.com.	518400	IN	A	144.160.155.43
+
+www.att.com.	518400	IN	A	23.198.104.246

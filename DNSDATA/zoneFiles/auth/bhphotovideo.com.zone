@@ -4,3 +4,5 @@ bhphotovideo.com.	86400	IN	NS	ns.bhphotovideo.com.
 ns.bhphotovideo.com.	518400	IN	A	198.100.156.181
 
 bhphotovideo.com.	518400	IN	A	74.113.188.100
+
+www.bhphotovideo.com.	518400	IN	A	23.198.119.229

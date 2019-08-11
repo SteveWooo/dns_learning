@@ -4,3 +4,5 @@ stanford.edu.	86400	IN	NS	ns.stanford.edu.
 ns.stanford.edu.	518400	IN	A	204.69.234.1
 
 stanford.edu.	518400	IN	A	171.67.215.200
+
+www.stanford.edu.	518400	IN	A	3.222.136.98

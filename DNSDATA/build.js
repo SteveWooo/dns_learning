@@ -274,7 +274,7 @@ async function writeZoneFiles(options){
 }
 
 async function main(){
-	var source = require('./data2.json');
+	var source = require('./data3.json');
 	var authServers = await buildAuthServer({
 		source : source
 	})

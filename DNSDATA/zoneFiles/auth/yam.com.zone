@@ -4,3 +4,5 @@ yam.com.	86400	IN	NS	ns.yam.com.
 ns.yam.com.	518400	IN	A	205.251.199.254
 
 yam.com.	518400	IN	A	13.75.119.113
+
+www.yam.com.	518400	IN	A	13.75.119.113

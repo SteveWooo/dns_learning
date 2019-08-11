@@ -4,3 +4,5 @@ tagged.com.	86400	IN	NS	ns.tagged.com.
 ns.tagged.com.	518400	IN	A	205.251.197.107
 
 tagged.com.	518400	IN	A	67.221.174.30
+
+secure.tagged.com.	518400	IN	A	67.221.174.30

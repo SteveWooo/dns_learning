@@ -4,3 +4,5 @@ xtube.com.	86400	IN	NS	ns.xtube.com.
 ns.xtube.com.	518400	IN	A	193.232.142.17
 
 xtube.com.	518400	IN	A	31.13.97.248
+
+www.xtube.com.	518400	IN	A	75.126.215.88

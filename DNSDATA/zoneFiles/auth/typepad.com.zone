@@ -4,3 +4,5 @@ typepad.com.	86400	IN	NS	ns.typepad.com.
 ns.typepad.com.	518400	IN	A	216.239.32.106
 
 typepad.com.	518400	IN	A	104.18.136.190
+
+www.typepad.com.	518400	IN	A	104.18.137.190

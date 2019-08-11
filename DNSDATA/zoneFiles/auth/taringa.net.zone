@@ -4,3 +4,5 @@ taringa.net.	86400	IN	NS	ns.taringa.net.
 ns.taringa.net.	518400	IN	A	203.153.43.65
 
 taringa.net.	518400	IN	A	104.16.250.39
+
+www.taringa.net.	518400	IN	A	104.16.250.39

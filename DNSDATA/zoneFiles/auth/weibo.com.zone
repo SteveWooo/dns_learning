@@ -4,3 +4,5 @@ weibo.com.	86400	IN	NS	ns.weibo.com.
 ns.weibo.com.	518400	IN	A	205.251.199.254
 
 weibo.com.	518400	IN	A	36.51.254.234
+
+www.weibo.com.	518400	IN	A	180.149.134.141

@@ -4,3 +4,5 @@ sky.com.	86400	IN	NS	ns.sky.com.
 ns.sky.com.	518400	IN	A	205.251.197.107
 
 sky.com.	518400	IN	A	90.216.128.5
+
+www.sky.com.	518400	IN	A	23.56.22.221

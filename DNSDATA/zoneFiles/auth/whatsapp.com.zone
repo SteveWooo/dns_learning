@@ -4,3 +4,5 @@ whatsapp.com.	86400	IN	NS	ns.whatsapp.com.
 ns.whatsapp.com.	518400	IN	A	198.11.138.245
 
 whatsapp.com.	518400	IN	A	31.13.76.8
+
+www.whatsapp.com.	518400	IN	A	199.59.148.209

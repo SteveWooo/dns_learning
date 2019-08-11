@@ -4,3 +4,5 @@ yahoo.com.	86400	IN	NS	ns.yahoo.com.
 ns.yahoo.com.	518400	IN	A	216.58.200.238
 
 yahoo.com.	518400	IN	A	98.138.219.232
+
+www.yahoo.com.	518400	IN	A	124.108.103.104

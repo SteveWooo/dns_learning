@@ -4,3 +4,5 @@ boredpanda.com.	86400	IN	NS	ns.boredpanda.com.
 ns.boredpanda.com.	518400	IN	A	216.239.32.29
 
 boredpanda.com.	518400	IN	A	34.195.149.54
+
+www.boredpanda.com.	518400	IN	A	94.31.29.99

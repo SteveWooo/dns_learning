@@ -4,3 +4,5 @@ shaadi.com.	86400	IN	NS	ns.shaadi.com.
 ns.shaadi.com.	518400	IN	A	216.239.32.29
 
 shaadi.com.	518400	IN	A	104.16.100.160
+
+www.shaadi.com.	518400	IN	A	104.16.99.160

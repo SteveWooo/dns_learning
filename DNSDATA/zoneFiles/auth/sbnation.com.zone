@@ -4,3 +4,5 @@ sbnation.com.	86400	IN	NS	ns.sbnation.com.
 ns.sbnation.com.	518400	IN	A	217.69.139.202
 
 sbnation.com.	518400	IN	A	151.101.129.52
+
+www.sbnation.com.	518400	IN	A	151.101.41.52

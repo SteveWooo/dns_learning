@@ -4,3 +4,5 @@ etsy.com.	86400	IN	NS	ns.etsy.com.
 ns.etsy.com.	518400	IN	A	200.201.165.253
 
 etsy.com.	518400	IN	A	151.101.193.224
+
+www.etsy.com.	518400	IN	A	151.101.41.224

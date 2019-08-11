@@ -4,3 +4,5 @@ merdeka.com.	86400	IN	NS	ns.merdeka.com.
 ns.merdeka.com.	518400	IN	A	87.250.250.1
 
 merdeka.com.	518400	IN	A	103.6.0.2
+
+www.merdeka.com.	518400	IN	A	103.6.0.2

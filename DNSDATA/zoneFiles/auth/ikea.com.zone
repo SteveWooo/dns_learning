@@ -4,3 +4,5 @@ ikea.com.	86400	IN	NS	ns.ikea.com.
 ns.ikea.com.	518400	IN	A	205.251.195.203
 
 ikea.com.	518400	IN	A	216.87.148.114
+
+www.ikea.com.	518400	IN	A	184.84.60.135

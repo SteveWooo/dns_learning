@@ -4,3 +4,5 @@ trulia.com.	86400	IN	NS	ns.trulia.com.
 ns.trulia.com.	518400	IN	A	217.69.139.112
 
 trulia.com.	518400	IN	A	198.176.43.184
+
+www.trulia.com.	518400	IN	A	54.192.73.112

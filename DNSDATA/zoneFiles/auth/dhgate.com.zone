@@ -4,3 +4,5 @@ dhgate.com.	86400	IN	NS	ns.dhgate.com.
 ns.dhgate.com.	518400	IN	A	202.56.230.5
 
 dhgate.com.	518400	IN	A	183.6.210.139
+
+www.dhgate.com.	518400	IN	A	117.121.46.123

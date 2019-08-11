@@ -4,3 +4,5 @@ linkedin.com.	86400	IN	NS	ns.linkedin.com.
 ns.linkedin.com.	518400	IN	A	213.180.193.1
 
 linkedin.com.	518400	IN	A	108.174.10.10
+
+www.linkedin.com.	518400	IN	A	144.2.3.1

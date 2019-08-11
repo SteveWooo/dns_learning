@@ -4,3 +4,5 @@ office.com.	86400	IN	NS	ns.office.com.
 ns.office.com.	518400	IN	A	202.56.230.5
 
 office.com.	518400	IN	A	52.108.36.3
+
+www.office.com.	518400	IN	A	13.107.6.156

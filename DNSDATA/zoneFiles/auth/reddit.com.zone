@@ -4,3 +4,5 @@ reddit.com.	86400	IN	NS	ns.reddit.com.
 ns.reddit.com.	518400	IN	A	205.251.194.1
 
 reddit.com.	518400	IN	A	67.228.74.123
+
+www.reddit.com.	518400	IN	A	174.36.196.242

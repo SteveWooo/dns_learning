@@ -4,3 +4,5 @@ nike.com.	86400	IN	NS	ns.nike.com.
 ns.nike.com.	518400	IN	A	205.251.194.1
 
 nike.com.	518400	IN	A	146.197.184.71
+
+www.nike.com.	518400	IN	A	223.111.110.191

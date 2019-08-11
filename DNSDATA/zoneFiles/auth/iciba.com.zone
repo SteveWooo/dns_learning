@@ -4,3 +4,5 @@ iciba.com.	86400	IN	NS	ns.iciba.com.
 ns.iciba.com.	518400	IN	A	187.18.60.242
 
 iciba.com.	518400	IN	A	120.92.57.165
+
+www.iciba.com.	518400	IN	A	45.126.122.62

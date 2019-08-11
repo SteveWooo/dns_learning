@@ -4,3 +4,5 @@ wsj.com.	86400	IN	NS	ns.wsj.com.
 ns.wsj.com.	518400	IN	A	173.245.59.160
 
 wsj.com.	518400	IN	A	64.233.179.95
+
+www.wsj.com.	518400	IN	A	31.13.95.20

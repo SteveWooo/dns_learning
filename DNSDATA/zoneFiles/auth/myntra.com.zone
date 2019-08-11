@@ -4,3 +4,5 @@ myntra.com.	86400	IN	NS	ns.myntra.com.
 ns.myntra.com.	518400	IN	A	205.251.192.29
 
 myntra.com.	518400	IN	A	2.18.69.75
+
+www.myntra.com.	518400	IN	A	104.74.21.38

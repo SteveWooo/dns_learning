@@ -4,3 +4,5 @@ kompas.com.	86400	IN	NS	ns.kompas.com.
 ns.kompas.com.	518400	IN	A	216.239.32.29
 
 kompas.com.	518400	IN	A	202.61.113.35
+
+www.kompas.com.	518400	IN	A	54.192.73.53

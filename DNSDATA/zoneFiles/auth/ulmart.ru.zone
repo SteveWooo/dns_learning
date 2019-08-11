@@ -4,3 +4,5 @@ ulmart.ru.	86400	IN	NS	ns.ulmart.ru.
 ns.ulmart.ru.	518400	IN	A	213.180.204.242
 
 ulmart.ru.	518400	IN	A	178.248.236.28
+
+www.ulmart.ru.	518400	IN	A	178.248.236.28

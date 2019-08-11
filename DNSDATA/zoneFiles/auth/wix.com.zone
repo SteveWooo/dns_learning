@@ -4,3 +4,5 @@ wix.com.	86400	IN	NS	ns.wix.com.
 ns.wix.com.	518400	IN	A	213.180.193.1
 
 wix.com.	518400	IN	A	185.230.63.164
+
+www.wix.com.	518400	IN	A	185.230.61.163

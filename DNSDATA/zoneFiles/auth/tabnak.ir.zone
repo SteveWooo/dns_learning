@@ -4,3 +4,5 @@ tabnak.ir.	86400	IN	NS	ns.tabnak.ir.
 ns.tabnak.ir.	518400	IN	A	193.108.91.127
 
 tabnak.ir.	518400	IN	A	94.182.146.186
+
+www.tabnak.ir.	518400	IN	A	94.182.146.186

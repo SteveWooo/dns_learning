@@ -4,3 +4,5 @@ tomshardware.com.	86400	IN	NS	ns.tomshardware.com.
 ns.tomshardware.com.	518400	IN	A	208.78.70.47
 
 tomshardware.com.	518400	IN	A	34.238.197.235
+
+www.tomshardware.com.	518400	IN	A	23.7.161.8

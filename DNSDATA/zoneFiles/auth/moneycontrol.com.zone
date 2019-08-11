@@ -4,3 +4,5 @@ moneycontrol.com.	86400	IN	NS	ns.moneycontrol.com.
 ns.moneycontrol.com.	518400	IN	A	200.221.11.98
 
 moneycontrol.com.	518400	IN	A	124.153.64.100
+
+www.moneycontrol.com.	518400	IN	A	23.77.62.56

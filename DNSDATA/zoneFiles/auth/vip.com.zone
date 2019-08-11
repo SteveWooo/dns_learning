@@ -4,3 +4,5 @@ vip.com.	86400	IN	NS	ns.vip.com.
 ns.vip.com.	518400	IN	A	205.251.194.1
 
 vip.com.	518400	IN	A	183.6.216.41
+
+www.vip.com.	518400	IN	A	112.47.20.159

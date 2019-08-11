@@ -4,3 +4,5 @@ fandango.com.	86400	IN	NS	ns.fandango.com.
 ns.fandango.com.	518400	IN	A	217.69.139.202
 
 fandango.com.	518400	IN	A	204.74.99.100
+
+www.fandango.com.	518400	IN	A	104.111.140.108

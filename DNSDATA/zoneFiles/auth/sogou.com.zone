@@ -4,3 +4,5 @@ sogou.com.	86400	IN	NS	ns.sogou.com.
 ns.sogou.com.	518400	IN	A	145.14.134.108
 
 sogou.com.	518400	IN	A	118.191.216.57
+
+www.sogou.com.	518400	IN	A	120.197.131.59

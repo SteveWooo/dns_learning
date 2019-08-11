@@ -4,3 +4,5 @@ in.com.	86400	IN	NS	ns.in.com.
 ns.in.com.	518400	IN	A	206.128.173.109
 
 in.com.	518400	IN	A	124.153.64.161
+
+www.in.com.	518400	IN	A	23.198.114.42

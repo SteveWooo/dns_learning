@@ -4,3 +4,5 @@ subito.it.	86400	IN	NS	ns.subito.it.
 ns.subito.it.	518400	IN	A	208.78.70.47
 
 subito.it.	518400	IN	A	213.215.199.52
+
+www.subito.it.	518400	IN	A	104.74.20.233

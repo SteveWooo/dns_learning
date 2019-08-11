@@ -4,3 +4,5 @@ walgreens.com.	86400	IN	NS	ns.walgreens.com.
 ns.walgreens.com.	518400	IN	A	205.251.194.1
 
 walgreens.com.	518400	IN	A	159.180.84.17
+
+www.walgreens.com.	518400	IN	A	159.180.93.12

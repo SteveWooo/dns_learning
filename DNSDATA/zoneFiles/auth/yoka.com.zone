@@ -4,3 +4,5 @@ yoka.com.	86400	IN	NS	ns.yoka.com.
 ns.yoka.com.	518400	IN	A	205.251.199.254
 
 yoka.com.	518400	IN	A	47.93.237.216
+
+www.yoka.com.	518400	IN	A	223.111.125.66

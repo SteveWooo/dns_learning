@@ -4,3 +4,5 @@ sahibinden.com.	86400	IN	NS	ns.sahibinden.com.
 ns.sahibinden.com.	518400	IN	A	173.245.59.100
 
 sahibinden.com.	518400	IN	A	85.111.30.111
+
+www.sahibinden.com.	518400	IN	A	85.111.30.111

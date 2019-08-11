@@ -4,3 +4,5 @@ hotels.com.	86400	IN	NS	ns.hotels.com.
 ns.hotels.com.	518400	IN	A	216.239.32.29
 
 hotels.com.	518400	IN	A	23.7.161.37
+
+www.hotels.com.	518400	IN	A	23.7.161.37

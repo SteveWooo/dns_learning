@@ -4,3 +4,5 @@ wetter.com.	86400	IN	NS	ns.wetter.com.
 ns.wetter.com.	518400	IN	A	200.201.165.253
 
 wetter.com.	518400	IN	A	34.255.244.123
+
+www.wetter.com.	518400	IN	A	52.51.149.232

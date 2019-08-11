@@ -4,3 +4,5 @@ nate.com.	86400	IN	NS	ns.nate.com.
 ns.nate.com.	518400	IN	A	217.69.139.202
 
 nate.com.	518400	IN	A	120.50.131.112
+
+www.nate.com.	518400	IN	A	120.50.131.112

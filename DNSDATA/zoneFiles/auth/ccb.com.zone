@@ -4,3 +4,5 @@ ccb.com.	86400	IN	NS	ns.ccb.com.
 ns.ccb.com.	518400	IN	A	193.232.142.17
 
 ccb.com.	518400	IN	A	202.106.80.78
+
+m.ccb.com.	518400	IN	A	218.205.204.78

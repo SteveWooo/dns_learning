@@ -4,3 +4,5 @@ ebay.de.	86400	IN	NS	ns.ebay.de.
 ns.ebay.de.	518400	IN	A	205.251.195.203
 
 ebay.de.	518400	IN	A	66.135.195.175
+
+www.ebay.de.	518400	IN	A	104.74.21.218

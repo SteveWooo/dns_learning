@@ -4,3 +4,5 @@ t-online.de.	86400	IN	NS	ns.t-online.de.
 ns.t-online.de.	518400	IN	A	206.128.173.109
 
 t-online.de.	518400	IN	A	62.138.238.100
+
+www.t-online.de.	518400	IN	A	62.138.238.100

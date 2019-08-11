@@ -4,3 +4,5 @@ pinterest.com.	86400	IN	NS	ns.pinterest.com.
 ns.pinterest.com.	518400	IN	A	131.0.24.26
 
 pinterest.com.	518400	IN	A	8.7.198.45
+
+www.pinterest.com.	518400	IN	A	59.24.3.173

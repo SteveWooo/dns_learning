@@ -4,3 +4,5 @@ iqiyi.com.	86400	IN	NS	ns.iqiyi.com.
 ns.iqiyi.com.	518400	IN	A	216.239.32.106
 
 iqiyi.com.	518400	IN	A	101.227.188.174
+
+www.iqiyi.com.	518400	IN	A	117.184.47.24

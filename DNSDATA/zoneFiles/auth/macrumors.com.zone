@@ -4,3 +4,5 @@ macrumors.com.	86400	IN	NS	ns.macrumors.com.
 ns.macrumors.com.	518400	IN	A	205.251.199.254
 
 macrumors.com.	518400	IN	A	162.254.116.23
+
+www.macrumors.com.	518400	IN	A	151.101.41.209

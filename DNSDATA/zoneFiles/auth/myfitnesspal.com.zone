@@ -4,3 +4,5 @@ myfitnesspal.com.	86400	IN	NS	ns.myfitnesspal.com.
 ns.myfitnesspal.com.	518400	IN	A	81.19.82.2
 
 myfitnesspal.com.	518400	IN	A	52.85.163.247
+
+www.myfitnesspal.com.	518400	IN	A	52.85.155.155

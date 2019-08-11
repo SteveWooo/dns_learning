@@ -4,3 +4,5 @@ snapdeal.com.	86400	IN	NS	ns.snapdeal.com.
 ns.snapdeal.com.	518400	IN	A	200.219.154.10
 
 snapdeal.com.	518400	IN	A	103.194.152.149
+
+www.snapdeal.com.	518400	IN	A	104.75.165.68

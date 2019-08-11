@@ -4,3 +4,5 @@ getresponse.com.	86400	IN	NS	ns.getresponse.com.
 ns.getresponse.com.	518400	IN	A	208.78.70.47
 
 getresponse.com.	518400	IN	A	104.160.64.8
+
+www.getresponse.com.	518400	IN	A	104.160.64.8

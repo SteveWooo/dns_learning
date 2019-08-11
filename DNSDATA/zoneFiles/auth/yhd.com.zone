@@ -4,3 +4,5 @@ yhd.com.	86400	IN	NS	ns.yhd.com.
 ns.yhd.com.	518400	IN	A	203.153.43.65
 
 yhd.com.	518400	IN	A	36.110.180.84
+
+www.yhd.com.	518400	IN	A	111.13.28.204

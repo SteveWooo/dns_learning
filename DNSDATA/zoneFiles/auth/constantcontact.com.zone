@@ -4,3 +4,5 @@ constantcontact.com.	86400	IN	NS	ns.constantcontact.com.
 ns.constantcontact.com.	518400	IN	A	216.239.32.10
 
 constantcontact.com.	518400	IN	A	72.9.105.30
+
+www.constantcontact.com.	518400	IN	A	104.17.54.175

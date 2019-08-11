@@ -4,3 +4,5 @@ ebay.fr.	86400	IN	NS	ns.ebay.fr.
 ns.ebay.fr.	518400	IN	A	205.251.194.1
 
 ebay.fr.	518400	IN	A	66.135.196.249
+
+www.ebay.fr.	518400	IN	A	104.74.21.218

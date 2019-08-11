@@ -4,3 +4,5 @@ corriere.it.	86400	IN	NS	ns.corriere.it.
 ns.corriere.it.	518400	IN	A	217.69.139.112
 
 corriere.it.	518400	IN	A	185.53.36.101
+
+www.corriere.it.	518400	IN	A	151.101.41.50

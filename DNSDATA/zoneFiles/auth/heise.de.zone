@@ -4,3 +4,5 @@ heise.de.	86400	IN	NS	ns.heise.de.
 ns.heise.de.	518400	IN	A	208.78.70.47
 
 heise.de.	518400	IN	A	193.99.144.80
+
+www.heise.de.	518400	IN	A	193.99.144.85

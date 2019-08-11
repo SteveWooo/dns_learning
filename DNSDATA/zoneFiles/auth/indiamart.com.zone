@@ -4,3 +4,5 @@ indiamart.com.	86400	IN	NS	ns.indiamart.com.
 ns.indiamart.com.	518400	IN	A	217.69.139.112
 
 indiamart.com.	518400	IN	A	35.190.37.46
+
+www.indiamart.com.	518400	IN	A	35.190.37.46

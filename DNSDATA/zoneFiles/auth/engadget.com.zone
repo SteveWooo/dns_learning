@@ -4,3 +4,5 @@ engadget.com.	86400	IN	NS	ns.engadget.com.
 ns.engadget.com.	518400	IN	A	216.239.32.106
 
 engadget.com.	518400	IN	A	124.108.115.87
+
+www.engadget.com.	518400	IN	A	98.136.100.146

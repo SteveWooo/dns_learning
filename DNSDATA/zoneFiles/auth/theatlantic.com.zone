@@ -4,3 +4,5 @@ theatlantic.com.	86400	IN	NS	ns.theatlantic.com.
 ns.theatlantic.com.	518400	IN	A	200.201.165.253
 
 theatlantic.com.	518400	IN	A	31.13.73.1
+
+www.theatlantic.com.	518400	IN	A	208.43.170.231

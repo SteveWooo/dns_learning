@@ -4,3 +4,5 @@ vk.com.	86400	IN	NS	ns.vk.com.
 ns.vk.com.	518400	IN	A	205.251.194.1
 
 vk.com.	518400	IN	A	87.240.129.133
+
+m.vk.com.	518400	IN	A	93.186.225.194

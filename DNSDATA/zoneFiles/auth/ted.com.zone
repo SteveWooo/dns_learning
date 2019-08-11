@@ -4,3 +4,5 @@ ted.com.	86400	IN	NS	ns.ted.com.
 ns.ted.com.	518400	IN	A	183.3.226.207
 
 ted.com.	518400	IN	A	52.86.250.33
+
+www.ted.com.	518400	IN	A	151.101.42.49

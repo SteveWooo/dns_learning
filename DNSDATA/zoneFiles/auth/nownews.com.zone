@@ -4,3 +4,5 @@ nownews.com.	86400	IN	NS	ns.nownews.com.
 ns.nownews.com.	518400	IN	A	193.108.91.127
 
 nownews.com.	518400	IN	A	69.63.186.31
+
+www.nownews.com.	518400	IN	A	208.43.237.140

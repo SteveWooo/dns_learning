@@ -4,3 +4,5 @@ ryanair.com.	86400	IN	NS	ns.ryanair.com.
 ns.ryanair.com.	518400	IN	A	205.251.195.203
 
 ryanair.com.	518400	IN	A	216.146.46.11
+
+www.ryanair.com.	518400	IN	A	54.192.73.27

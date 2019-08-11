@@ -4,3 +4,5 @@ vcommission.com.	86400	IN	NS	ns.vcommission.com.
 ns.vcommission.com.	518400	IN	A	200.221.11.98
 
 vcommission.com.	518400	IN	A	3.18.171.66
+
+www.vcommission.com.	518400	IN	A	3.18.171.66

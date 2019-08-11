@@ -4,3 +4,5 @@ zappos.com.	86400	IN	NS	ns.zappos.com.
 ns.zappos.com.	518400	IN	A	216.239.32.106
 
 zappos.com.	518400	IN	A	35.155.160.203
+
+www.zappos.com.	518400	IN	A	23.198.122.64

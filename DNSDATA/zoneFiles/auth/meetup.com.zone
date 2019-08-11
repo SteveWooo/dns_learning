@@ -4,3 +4,5 @@ meetup.com.	86400	IN	NS	ns.meetup.com.
 ns.meetup.com.	518400	IN	A	193.232.156.17
 
 meetup.com.	518400	IN	A	151.101.2.110
+
+www.meetup.com.	518400	IN	A	151.101.42.110

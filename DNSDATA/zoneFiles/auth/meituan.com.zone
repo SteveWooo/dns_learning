@@ -4,3 +4,5 @@ meituan.com.	86400	IN	NS	ns.meituan.com.
 ns.meituan.com.	518400	IN	A	213.180.204.242
 
 meituan.com.	518400	IN	A	162.14.3.226
+
+www.meituan.com.	518400	IN	A	101.236.12.4

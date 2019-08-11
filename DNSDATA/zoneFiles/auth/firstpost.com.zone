@@ -4,3 +4,5 @@ firstpost.com.	86400	IN	NS	ns.firstpost.com.
 ns.firstpost.com.	518400	IN	A	200.201.165.253
 
 firstpost.com.	518400	IN	A	180.179.160.207
+
+www.firstpost.com.	518400	IN	A	23.198.114.42

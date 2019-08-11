@@ -4,3 +4,5 @@ livescore.com.	86400	IN	NS	ns.livescore.com.
 ns.livescore.com.	518400	IN	A	208.78.70.47
 
 livescore.com.	518400	IN	A	35.186.243.87
+
+www.livescore.com.	518400	IN	A	35.186.243.87

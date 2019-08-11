@@ -4,3 +4,5 @@ xunlei.com.	86400	IN	NS	ns.xunlei.com.
 ns.xunlei.com.	518400	IN	A	216.239.32.106
 
 xunlei.com.	518400	IN	A	39.104.39.191
+
+m.xunlei.com.	518400	IN	A	39.104.39.191

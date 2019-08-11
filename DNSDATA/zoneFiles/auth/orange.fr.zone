@@ -4,3 +4,5 @@ orange.fr.	86400	IN	NS	ns.orange.fr.
 ns.orange.fr.	518400	IN	A	198.100.156.181
 
 orange.fr.	518400	IN	A	193.252.148.140
+
+www.orange.fr.	518400	IN	A	193.252.122.73

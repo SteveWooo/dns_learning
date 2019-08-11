@@ -4,3 +4,5 @@ gazeta.ru.	86400	IN	NS	ns.gazeta.ru.
 ns.gazeta.ru.	518400	IN	A	203.153.43.65
 
 gazeta.ru.	518400	IN	A	81.19.72.3
+
+www.gazeta.ru.	518400	IN	A	81.19.72.1

@@ -4,3 +4,5 @@ mtv.com.	86400	IN	NS	ns.mtv.com.
 ns.mtv.com.	518400	IN	A	202.108.22.220
 
 mtv.com.	518400	IN	A	216.87.148.114
+
+www.mtv.com.	518400	IN	A	23.200.231.249

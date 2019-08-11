@@ -4,3 +4,5 @@ fanli.com.	86400	IN	NS	ns.fanli.com.
 ns.fanli.com.	518400	IN	A	173.245.59.100
 
 fanli.com.	518400	IN	A	116.213.214.4
+
+www.fanli.com.	518400	IN	A	116.213.214.211

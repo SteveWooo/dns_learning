@@ -4,3 +4,5 @@ staticwebdom.com.	86400	IN	NS	ns.staticwebdom.com.
 ns.staticwebdom.com.	518400	IN	A	202.108.22.220
 
 staticwebdom.com.	518400	IN	A	67.227.226.241
+
+ww7.staticwebdom.com.	518400	IN	A	199.59.242.151

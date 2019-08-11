@@ -4,3 +4,5 @@ hao123.com.	86400	IN	NS	ns.hao123.com.
 ns.hao123.com.	518400	IN	A	216.239.32.106
 
 hao123.com.	518400	IN	A	106.120.159.68
+
+www.hao123.com.	518400	IN	A	112.34.111.167

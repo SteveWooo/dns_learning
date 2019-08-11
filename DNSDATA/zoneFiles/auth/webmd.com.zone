@@ -4,3 +4,5 @@ webmd.com.	86400	IN	NS	ns.webmd.com.
 ns.webmd.com.	518400	IN	A	216.239.32.10
 
 webmd.com.	518400	IN	A	207.231.204.56
+
+www.webmd.com.	518400	IN	A	104.16.160.5

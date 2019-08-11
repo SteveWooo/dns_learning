@@ -4,3 +4,5 @@ chinaz.com.	86400	IN	NS	ns.chinaz.com.
 ns.chinaz.com.	518400	IN	A	202.108.22.220
 
 chinaz.com.	518400	IN	A	117.25.139.69
+
+app.chinaz.com.	518400	IN	A	183.252.53.154

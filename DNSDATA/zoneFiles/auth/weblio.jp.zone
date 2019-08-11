@@ -4,3 +4,5 @@ weblio.jp.	86400	IN	NS	ns.weblio.jp.
 ns.weblio.jp.	518400	IN	A	216.239.32.10
 
 weblio.jp.	518400	IN	A	210.189.86.12
+
+www.weblio.jp.	518400	IN	A	210.189.86.12

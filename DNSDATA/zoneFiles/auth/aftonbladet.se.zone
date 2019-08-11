@@ -4,3 +4,5 @@ aftonbladet.se.	86400	IN	NS	ns.aftonbladet.se.
 ns.aftonbladet.se.	518400	IN	A	200.219.154.10
 
 aftonbladet.se.	518400	IN	A	13.53.120.82
+
+www.aftonbladet.se.	518400	IN	A	104.20.54.70

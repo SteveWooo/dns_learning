@@ -4,3 +4,5 @@ php.net.	86400	IN	NS	ns.php.net.
 ns.php.net.	518400	IN	A	145.14.134.108
 
 php.net.	518400	IN	A	185.85.0.29
+
+www.php.net.	518400	IN	A	119.81.61.41

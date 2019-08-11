@@ -4,3 +4,5 @@ blogger.com.	86400	IN	NS	ns.blogger.com.
 ns.blogger.com.	518400	IN	A	198.100.156.181
 
 blogger.com.	518400	IN	A	74.86.235.236
+
+www.blogger.com.	518400	IN	A	69.171.248.128

@@ -4,3 +4,5 @@ alibaba.com.	86400	IN	NS	ns.alibaba.com.
 ns.alibaba.com.	518400	IN	A	205.251.192.29
 
 alibaba.com.	518400	IN	A	203.119.211.136
+
+www.alibaba.com.	518400	IN	A	106.11.223.101

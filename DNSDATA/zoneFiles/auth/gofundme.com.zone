@@ -4,3 +4,5 @@ gofundme.com.	86400	IN	NS	ns.gofundme.com.
 ns.gofundme.com.	518400	IN	A	213.180.193.1
 
 gofundme.com.	518400	IN	A	52.72.169.8
+
+www.gofundme.com.	518400	IN	A	54.192.73.32

@@ -4,3 +4,5 @@ tnaflix.com.	86400	IN	NS	ns.tnaflix.com.
 ns.tnaflix.com.	518400	IN	A	81.19.73.180
 
 tnaflix.com.	518400	IN	A	31.13.85.16
+
+www.tnaflix.com.	518400	IN	A	199.59.148.97

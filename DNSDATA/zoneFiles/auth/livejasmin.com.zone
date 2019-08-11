@@ -4,3 +4,5 @@ livejasmin.com.	86400	IN	NS	ns.livejasmin.com.
 ns.livejasmin.com.	518400	IN	A	217.69.139.202
 
 livejasmin.com.	518400	IN	A	31.13.72.34
+
+www.livejasmin.com.	518400	IN	A	109.71.161.200

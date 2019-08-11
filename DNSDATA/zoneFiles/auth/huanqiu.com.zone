@@ -4,3 +4,5 @@ huanqiu.com.	86400	IN	NS	ns.huanqiu.com.
 ns.huanqiu.com.	518400	IN	A	217.69.139.112
 
 huanqiu.com.	518400	IN	A	106.75.226.92
+
+himg2.huanqiu.com.	518400	IN	A	112.47.9.105

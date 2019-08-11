@@ -4,3 +4,5 @@ popcash.net.	86400	IN	NS	ns.popcash.net.
 ns.popcash.net.	518400	IN	A	205.251.195.203
 
 popcash.net.	518400	IN	A	104.25.176.17
+
+members.popcash.net.	518400	IN	A	35.153.75.185

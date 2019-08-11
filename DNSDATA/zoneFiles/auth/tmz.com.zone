@@ -4,3 +4,5 @@ tmz.com.	86400	IN	NS	ns.tmz.com.
 ns.tmz.com.	518400	IN	A	217.69.139.202
 
 tmz.com.	518400	IN	A	34.196.100.139
+
+www.tmz.com.	518400	IN	A	54.192.73.245

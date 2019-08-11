@@ -4,3 +4,5 @@ redfin.com.	86400	IN	NS	ns.redfin.com.
 ns.redfin.com.	518400	IN	A	216.239.32.29
 
 redfin.com.	518400	IN	A	216.211.130.168
+
+www.redfin.com.	518400	IN	A	104.75.165.9

@@ -4,3 +4,5 @@ libero.it.	86400	IN	NS	ns.libero.it.
 ns.libero.it.	518400	IN	A	213.180.204.242
 
 libero.it.	518400	IN	A	213.209.17.209
+
+www.libero.it.	518400	IN	A	13.35.125.34

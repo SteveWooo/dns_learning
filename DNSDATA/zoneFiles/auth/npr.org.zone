@@ -4,3 +4,5 @@ npr.org.	86400	IN	NS	ns.npr.org.
 ns.npr.org.	518400	IN	A	206.128.173.109
 
 npr.org.	518400	IN	A	216.35.221.76
+
+www.npr.org.	518400	IN	A	23.200.231.41

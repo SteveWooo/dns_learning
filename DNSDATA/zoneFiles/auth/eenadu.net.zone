@@ -4,3 +4,5 @@ eenadu.net.	86400	IN	NS	ns.eenadu.net.
 ns.eenadu.net.	518400	IN	A	203.153.43.65
 
 eenadu.net.	518400	IN	A	13.33.231.100
+
+www.eenadu.net.	518400	IN	A	54.192.73.115

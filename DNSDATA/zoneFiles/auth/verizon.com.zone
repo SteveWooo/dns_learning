@@ -4,3 +4,5 @@ verizon.com.	86400	IN	NS	ns.verizon.com.
 ns.verizon.com.	518400	IN	A	216.239.32.10
 
 verizon.com.	518400	IN	A	192.16.31.23
+
+www.verizon.com.	518400	IN	A	198.7.31.89

@@ -4,3 +4,5 @@ rambler.ru.	86400	IN	NS	ns.rambler.ru.
 ns.rambler.ru.	518400	IN	A	180.149.156.12
 
 rambler.ru.	518400	IN	A	81.19.82.1
+
+www.rambler.ru.	518400	IN	A	81.19.82.0

@@ -4,3 +4,5 @@ ebay.ca.	86400	IN	NS	ns.ebay.ca.
 ns.ebay.ca.	518400	IN	A	216.239.32.10
 
 ebay.ca.	518400	IN	A	66.135.196.249
+
+www.ebay.ca.	518400	IN	A	104.74.21.218

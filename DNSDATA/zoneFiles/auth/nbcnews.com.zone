@@ -4,3 +4,5 @@ nbcnews.com.	86400	IN	NS	ns.nbcnews.com.
 ns.nbcnews.com.	518400	IN	A	205.251.195.203
 
 nbcnews.com.	518400	IN	A	31.13.64.49
+
+www.nbcnews.com.	518400	IN	A	199.59.150.11

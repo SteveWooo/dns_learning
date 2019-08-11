@@ -4,3 +4,5 @@ walmart.com.	86400	IN	NS	ns.walmart.com.
 ns.walmart.com.	518400	IN	A	200.201.165.253
 
 walmart.com.	518400	IN	A	161.170.232.170
+
+www.walmart.com.	518400	IN	A	23.198.100.189

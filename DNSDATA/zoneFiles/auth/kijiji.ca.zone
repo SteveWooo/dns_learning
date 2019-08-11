@@ -4,3 +4,5 @@ kijiji.ca.	86400	IN	NS	ns.kijiji.ca.
 ns.kijiji.ca.	518400	IN	A	204.69.234.1
 
 kijiji.ca.	518400	IN	A	195.78.85.110
+
+www.kijiji.ca.	518400	IN	A	195.78.85.110

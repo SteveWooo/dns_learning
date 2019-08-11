@@ -4,3 +4,5 @@ mackolik.com.	86400	IN	NS	ns.mackolik.com.
 ns.mackolik.com.	518400	IN	A	203.153.43.65
 
 mackolik.com.	518400	IN	A	185.42.236.147
+
+www.mackolik.com.	518400	IN	A	23.198.133.78

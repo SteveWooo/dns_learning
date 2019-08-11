@@ -4,3 +4,5 @@ pole-emploi.fr.	86400	IN	NS	ns.pole-emploi.fr.
 ns.pole-emploi.fr.	518400	IN	A	205.251.199.254
 
 pole-emploi.fr.	518400	IN	A	109.26.209.209
+
+www.pole-emploi.fr.	518400	IN	A	109.26.209.209

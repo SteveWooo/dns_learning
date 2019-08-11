@@ -4,3 +4,5 @@ dailymotion.com.	86400	IN	NS	ns.dailymotion.com.
 ns.dailymotion.com.	518400	IN	A	78.40.125.184
 
 dailymotion.com.	518400	IN	A	75.126.115.192
+
+www.dailymotion.com.	518400	IN	A	69.171.234.29

@@ -4,3 +4,5 @@ gazzetta.it.	86400	IN	NS	ns.gazzetta.it.
 ns.gazzetta.it.	518400	IN	A	216.239.32.29
 
 gazzetta.it.	518400	IN	A	40.115.23.107
+
+www.gazzetta.it.	518400	IN	A	13.35.125.14

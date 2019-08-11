@@ -4,3 +4,5 @@ drtuber.com.	86400	IN	NS	ns.drtuber.com.
 ns.drtuber.com.	518400	IN	A	217.69.139.112
 
 drtuber.com.	518400	IN	A	31.13.70.1
+
+www.drtuber.com.	518400	IN	A	59.24.3.173

@@ -4,3 +4,5 @@ tutorialspoint.com.	86400	IN	NS	ns.tutorialspoint.com.
 ns.tutorialspoint.com.	518400	IN	A	217.69.139.202
 
 tutorialspoint.com.	518400	IN	A	94.130.81.180
+
+www.tutorialspoint.com.	518400	IN	A	117.18.237.42

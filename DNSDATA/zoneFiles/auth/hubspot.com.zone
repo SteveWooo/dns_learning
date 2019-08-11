@@ -4,3 +4,5 @@ hubspot.com.	86400	IN	NS	ns.hubspot.com.
 ns.hubspot.com.	518400	IN	A	125.209.248.6
 
 hubspot.com.	518400	IN	A	104.16.253.5
+
+www.hubspot.com.	518400	IN	A	104.17.134.180

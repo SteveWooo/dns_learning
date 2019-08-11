@@ -4,3 +4,5 @@ qq.com.	86400	IN	NS	ns.qq.com.
 ns.qq.com.	518400	IN	A	180.149.156.12
 
 qq.com.	518400	IN	A	111.161.64.48
+
+www.qq.com.	518400	IN	A	120.241.186.165

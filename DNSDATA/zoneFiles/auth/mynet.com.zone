@@ -4,3 +4,5 @@ mynet.com.	86400	IN	NS	ns.mynet.com.
 ns.mynet.com.	518400	IN	A	216.58.200.238
 
 mynet.com.	518400	IN	A	212.101.122.34
+
+www.mynet.com.	518400	IN	A	212.101.122.34

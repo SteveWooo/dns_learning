@@ -4,3 +4,5 @@ airbnb.com.	86400	IN	NS	ns.airbnb.com.
 ns.airbnb.com.	518400	IN	A	217.69.139.202
 
 airbnb.com.	518400	IN	A	34.200.100.113
+
+www.airbnb.com.	518400	IN	A	104.74.20.40

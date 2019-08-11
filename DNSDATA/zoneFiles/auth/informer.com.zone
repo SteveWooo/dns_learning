@@ -4,3 +4,5 @@ informer.com.	86400	IN	NS	ns.informer.com.
 ns.informer.com.	518400	IN	A	213.180.204.242
 
 informer.com.	518400	IN	A	206.54.189.110
+
+www.informer.com.	518400	IN	A	206.54.189.110

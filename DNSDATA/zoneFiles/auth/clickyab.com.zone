@@ -4,3 +4,5 @@ clickyab.com.	86400	IN	NS	ns.clickyab.com.
 ns.clickyab.com.	518400	IN	A	202.56.230.5
 
 clickyab.com.	518400	IN	A	104.25.140.37
+
+www.clickyab.com.	518400	IN	A	104.25.139.37

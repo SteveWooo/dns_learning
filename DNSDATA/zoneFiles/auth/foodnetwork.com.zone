@@ -4,3 +4,5 @@ foodnetwork.com.	86400	IN	NS	ns.foodnetwork.com.
 ns.foodnetwork.com.	518400	IN	A	200.201.161.22
 
 foodnetwork.com.	518400	IN	A	204.78.50.45
+
+www.foodnetwork.com.	518400	IN	A	104.74.20.92

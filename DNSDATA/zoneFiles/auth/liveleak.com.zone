@@ -4,3 +4,5 @@ liveleak.com.	86400	IN	NS	ns.liveleak.com.
 ns.liveleak.com.	518400	IN	A	125.209.248.6
 
 liveleak.com.	518400	IN	A	199.80.59.194
+
+www.liveleak.com.	518400	IN	A	199.80.59.186

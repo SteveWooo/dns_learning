@@ -4,3 +4,5 @@ indiatimes.com.	86400	IN	NS	ns.indiatimes.com.
 ns.indiatimes.com.	518400	IN	A	217.69.139.112
 
 indiatimes.com.	518400	IN	A	223.165.27.146
+
+www.indiatimes.com.	518400	IN	A	23.198.104.105

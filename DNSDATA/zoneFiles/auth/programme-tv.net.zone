@@ -4,3 +4,5 @@ programme-tv.net.	86400	IN	NS	ns.programme-tv.net.
 ns.programme-tv.net.	518400	IN	A	216.58.200.238
 
 programme-tv.net.	518400	IN	A	54.93.78.41
+
+www.programme-tv.net.	518400	IN	A	23.77.62.81

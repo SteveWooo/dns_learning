@@ -4,3 +4,5 @@ istockphoto.com.	86400	IN	NS	ns.istockphoto.com.
 ns.istockphoto.com.	518400	IN	A	216.239.32.29
 
 istockphoto.com.	518400	IN	A	31.13.68.1
+
+www.istockphoto.com.	518400	IN	A	31.13.75.18

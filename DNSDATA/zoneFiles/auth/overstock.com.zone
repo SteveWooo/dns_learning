@@ -4,3 +4,5 @@ overstock.com.	86400	IN	NS	ns.overstock.com.
 ns.overstock.com.	518400	IN	A	205.251.195.203
 
 overstock.com.	518400	IN	A	173.241.154.15
+
+www.overstock.com.	518400	IN	A	23.57.114.96

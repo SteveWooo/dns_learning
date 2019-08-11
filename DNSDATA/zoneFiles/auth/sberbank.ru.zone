@@ -4,3 +4,5 @@ sberbank.ru.	86400	IN	NS	ns.sberbank.ru.
 ns.sberbank.ru.	518400	IN	A	200.219.154.10
 
 sberbank.ru.	518400	IN	A	194.54.14.159
+
+www.sberbank.ru.	518400	IN	A	194.54.14.159

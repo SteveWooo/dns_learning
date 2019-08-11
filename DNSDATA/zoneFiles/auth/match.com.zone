@@ -4,3 +4,5 @@ match.com.	86400	IN	NS	ns.match.com.
 ns.match.com.	518400	IN	A	174.35.55.22
 
 match.com.	518400	IN	A	208.83.242.49
+
+hk.match.com.	518400	IN	A	208.83.242.49

@@ -4,3 +4,5 @@ taboola.com.	86400	IN	NS	ns.taboola.com.
 ns.taboola.com.	518400	IN	A	205.251.197.107
 
 taboola.com.	518400	IN	A	151.101.129.181
+
+www.taboola.com.	518400	IN	A	151.101.41.181

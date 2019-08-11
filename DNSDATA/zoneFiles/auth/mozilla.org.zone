@@ -4,3 +4,5 @@ mozilla.org.	86400	IN	NS	ns.mozilla.org.
 ns.mozilla.org.	518400	IN	A	125.209.248.6
 
 mozilla.org.	518400	IN	A	63.245.208.195
+
+www.mozilla.org.	518400	IN	A	104.16.40.2

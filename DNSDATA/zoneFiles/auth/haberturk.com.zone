@@ -4,3 +4,5 @@ haberturk.com.	86400	IN	NS	ns.haberturk.com.
 ns.haberturk.com.	518400	IN	A	193.232.142.17
 
 haberturk.com.	518400	IN	A	69.63.180.173
+
+www.haberturk.com.	518400	IN	A	69.171.237.26

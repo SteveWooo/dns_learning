@@ -4,3 +4,5 @@ wiley.com.	86400	IN	NS	ns.wiley.com.
 ns.wiley.com.	518400	IN	A	205.251.197.107
 
 wiley.com.	518400	IN	A	63.97.118.67
+
+www.wiley.com.	518400	IN	A	54.192.73.253

@@ -4,3 +4,5 @@ coursera.org.	86400	IN	NS	ns.coursera.org.
 ns.coursera.org.	518400	IN	A	216.239.32.10
 
 coursera.org.	518400	IN	A	52.85.230.110
+
+www.coursera.org.	518400	IN	A	52.6.210.116

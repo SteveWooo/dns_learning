@@ -4,3 +4,5 @@ deezer.com.	86400	IN	NS	ns.deezer.com.
 ns.deezer.com.	518400	IN	A	173.245.58.201
 
 deezer.com.	518400	IN	A	78.40.123.183
+
+www.deezer.com.	518400	IN	A	69.171.245.53

@@ -4,3 +4,5 @@ pixiv.net.	86400	IN	NS	ns.pixiv.net.
 ns.pixiv.net.	518400	IN	A	213.180.193.1
 
 pixiv.net.	518400	IN	A	31.13.79.1
+
+www.pixiv.net.	518400	IN	A	69.63.187.12

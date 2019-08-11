@@ -4,3 +4,5 @@ nasa.gov.	86400	IN	NS	ns.nasa.gov.
 ns.nasa.gov.	518400	IN	A	216.58.200.238
 
 nasa.gov.	518400	IN	A	52.0.14.116
+
+www.nasa.gov.	518400	IN	A	54.192.73.92

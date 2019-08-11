@@ -4,3 +4,5 @@ sfr.fr.	86400	IN	NS	ns.sfr.fr.
 ns.sfr.fr.	518400	IN	A	217.69.139.112
 
 sfr.fr.	518400	IN	A	80.125.163.172
+
+www.sfr.fr.	518400	IN	A	80.125.163.172

@@ -4,3 +4,5 @@ gmx.net.	86400	IN	NS	ns.gmx.net.
 ns.gmx.net.	518400	IN	A	174.35.55.22
 
 gmx.net.	518400	IN	A	82.165.229.87
+
+www.gmx.net.	518400	IN	A	82.165.230.18

@@ -4,3 +4,5 @@ pbs.org.	86400	IN	NS	ns.pbs.org.
 ns.pbs.org.	518400	IN	A	200.201.161.22
 
 pbs.org.	518400	IN	A	54.225.206.152
+
+www.pbs.org.	518400	IN	A	13.35.125.55

@@ -4,3 +4,5 @@ cracked.com.	86400	IN	NS	ns.cracked.com.
 ns.cracked.com.	518400	IN	A	205.251.194.1
 
 cracked.com.	518400	IN	A	3.215.101.59
+
+www.cracked.com.	518400	IN	A	13.35.125.88

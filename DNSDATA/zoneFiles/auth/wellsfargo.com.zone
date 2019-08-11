@@ -4,3 +4,5 @@ wellsfargo.com.	86400	IN	NS	ns.wellsfargo.com.
 ns.wellsfargo.com.	518400	IN	A	173.245.59.115
 
 wellsfargo.com.	518400	IN	A	159.45.170.143
+
+www.wellsfargo.com.	518400	IN	A	159.45.2.145

@@ -4,3 +4,5 @@ rtl.de.	86400	IN	NS	ns.rtl.de.
 ns.rtl.de.	518400	IN	A	205.251.197.107
 
 rtl.de.	518400	IN	A	80.92.65.53
+
+www.rtl.de.	518400	IN	A	23.219.172.241

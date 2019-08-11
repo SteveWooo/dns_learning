@@ -4,3 +4,5 @@ indeed.com.	86400	IN	NS	ns.indeed.com.
 ns.indeed.com.	518400	IN	A	200.201.161.22
 
 indeed.com.	518400	IN	A	18.218.22.89
+
+www.indeed.com.	518400	IN	A	169.44.162.72

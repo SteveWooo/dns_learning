@@ -4,3 +4,5 @@ zara.com.	86400	IN	NS	ns.zara.com.
 ns.zara.com.	518400	IN	A	213.180.193.1
 
 zara.com.	518400	IN	A	118.214.65.197
+
+www.zara.com.	518400	IN	A	104.75.164.232

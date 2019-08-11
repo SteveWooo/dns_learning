@@ -4,3 +4,5 @@ over-blog.com.	86400	IN	NS	ns.over-blog.com.
 ns.over-blog.com.	518400	IN	A	217.69.139.112
 
 over-blog.com.	518400	IN	A	195.20.13.122
+
+www.over-blog.com.	518400	IN	A	195.20.13.122

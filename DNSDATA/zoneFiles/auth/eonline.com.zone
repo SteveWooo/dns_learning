@@ -4,3 +4,5 @@ eonline.com.	86400	IN	NS	ns.eonline.com.
 ns.eonline.com.	518400	IN	A	217.69.139.202
 
 eonline.com.	518400	IN	A	104.71.147.69
+
+www.eonline.com.	518400	IN	A	23.66.37.78

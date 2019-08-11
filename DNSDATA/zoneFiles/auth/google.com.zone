@@ -4,3 +4,5 @@ google.com.	86400	IN	NS	ns.google.com.
 ns.google.com.	518400	IN	A	216.58.200.238
 
 google.com.	518400	IN	A	64.233.165.100
+
+www.google.com.	518400	IN	A	75.126.124.162

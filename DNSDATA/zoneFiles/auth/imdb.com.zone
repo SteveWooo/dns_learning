@@ -4,3 +4,5 @@ imdb.com.	86400	IN	NS	ns.imdb.com.
 ns.imdb.com.	518400	IN	A	216.58.200.238
 
 imdb.com.	518400	IN	A	52.94.225.248
+
+www.imdb.com.	518400	IN	A	54.192.72.124

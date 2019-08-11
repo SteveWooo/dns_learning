@@ -4,3 +4,5 @@ answers.com.	86400	IN	NS	ns.answers.com.
 ns.answers.com.	518400	IN	A	173.245.58.100
 
 answers.com.	518400	IN	A	151.101.0.203
+
+www.answers.com.	518400	IN	A	151.101.40.203

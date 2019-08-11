@@ -4,3 +4,5 @@ cnet.com.	86400	IN	NS	ns.cnet.com.
 ns.cnet.com.	518400	IN	A	217.69.139.202
 
 cnet.com.	518400	IN	A	64.30.228.118
+
+www.cnet.com.	518400	IN	A	104.74.20.223

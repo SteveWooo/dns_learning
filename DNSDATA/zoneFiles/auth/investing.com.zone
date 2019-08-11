@@ -4,3 +4,5 @@ investing.com.	86400	IN	NS	ns.investing.com.
 ns.investing.com.	518400	IN	A	157.255.246.101
 
 investing.com.	518400	IN	A	185.94.84.100
+
+www.investing.com.	518400	IN	A	106.2.12.11

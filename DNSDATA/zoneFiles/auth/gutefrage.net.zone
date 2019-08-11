@@ -4,3 +4,5 @@ gutefrage.net.	86400	IN	NS	ns.gutefrage.net.
 ns.gutefrage.net.	518400	IN	A	213.180.193.1
 
 gutefrage.net.	518400	IN	A	52.29.204.193
+
+www.gutefrage.net.	518400	IN	A	18.197.186.86

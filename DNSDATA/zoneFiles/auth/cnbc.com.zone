@@ -4,3 +4,5 @@ cnbc.com.	86400	IN	NS	ns.cnbc.com.
 ns.cnbc.com.	518400	IN	A	216.58.200.238
 
 cnbc.com.	518400	IN	A	144.121.138.33
+
+www.cnbc.com.	518400	IN	A	23.198.138.93

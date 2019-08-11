@@ -4,3 +4,5 @@ fool.com.	86400	IN	NS	ns.fool.com.
 ns.fool.com.	518400	IN	A	205.251.199.254
 
 fool.com.	518400	IN	A	151.101.129.143
+
+www.fool.com.	518400	IN	A	151.101.41.143

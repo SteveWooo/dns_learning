@@ -4,3 +4,5 @@ amazon.com.	86400	IN	NS	ns.amazon.com.
 ns.amazon.com.	518400	IN	A	202.108.22.220
 
 amazon.com.	518400	IN	A	205.251.242.103
+
+www.amazon.com.	518400	IN	A	23.198.141.148

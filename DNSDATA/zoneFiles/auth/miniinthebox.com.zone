@@ -4,3 +4,5 @@ miniinthebox.com.	86400	IN	NS	ns.miniinthebox.com.
 ns.miniinthebox.com.	518400	IN	A	216.239.32.29
 
 miniinthebox.com.	518400	IN	A	216.146.46.10
+
+www.miniinthebox.com.	518400	IN	A	23.77.1.177

@@ -4,3 +4,5 @@ digitaltrends.com.	86400	IN	NS	ns.digitaltrends.com.
 ns.digitaltrends.com.	518400	IN	A	205.251.195.203
 
 digitaltrends.com.	518400	IN	A	207.198.114.123
+
+www.digitaltrends.com.	518400	IN	A	151.101.42.49

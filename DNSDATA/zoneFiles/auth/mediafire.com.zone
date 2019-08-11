@@ -4,3 +4,5 @@ mediafire.com.	86400	IN	NS	ns.mediafire.com.
 ns.mediafire.com.	518400	IN	A	216.239.32.10
 
 mediafire.com.	518400	IN	A	104.19.194.29
+
+www.mediafire.com.	518400	IN	A	104.19.195.29

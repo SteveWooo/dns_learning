@@ -4,3 +4,5 @@ rakuten.com.	86400	IN	NS	ns.rakuten.com.
 ns.rakuten.com.	518400	IN	A	157.255.246.101
 
 rakuten.com.	518400	IN	A	203.190.58.50
+
+www.rakuten.com.	518400	IN	A	184.28.35.35

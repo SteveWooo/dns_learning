@@ -4,3 +4,5 @@ blackboard.com.	86400	IN	NS	ns.blackboard.com.
 ns.blackboard.com.	518400	IN	A	216.239.32.29
 
 blackboard.com.	518400	IN	A	69.196.244.99
+
+www.blackboard.com.	518400	IN	A	104.17.96.235

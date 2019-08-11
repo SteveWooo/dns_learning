@@ -4,3 +4,5 @@ zoho.com.	86400	IN	NS	ns.zoho.com.
 ns.zoho.com.	518400	IN	A	216.58.200.238
 
 zoho.com.	518400	IN	A	204.141.32.155
+
+www.zoho.com.	518400	IN	A	8.39.54.155

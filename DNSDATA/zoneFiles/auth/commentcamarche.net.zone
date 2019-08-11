@@ -4,3 +4,5 @@ commentcamarche.net.	86400	IN	NS	ns.commentcamarche.net.
 ns.commentcamarche.net.	518400	IN	A	205.251.192.29
 
 commentcamarche.net.	518400	IN	A	91.209.35.126
+
+www.commentcamarche.net.	518400	IN	A	23.198.126.127

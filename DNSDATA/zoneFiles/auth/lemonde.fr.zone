@@ -4,3 +4,5 @@ lemonde.fr.	86400	IN	NS	ns.lemonde.fr.
 ns.lemonde.fr.	518400	IN	A	213.180.193.1
 
 lemonde.fr.	518400	IN	A	31.13.64.49
+
+www.lemonde.fr.	518400	IN	A	67.15.129.210

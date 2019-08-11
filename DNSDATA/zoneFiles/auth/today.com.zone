@@ -4,3 +4,5 @@ today.com.	86400	IN	NS	ns.today.com.
 ns.today.com.	518400	IN	A	200.201.165.253
 
 today.com.	518400	IN	A	52.10.191.40
+
+www.today.com.	518400	IN	A	23.77.49.42

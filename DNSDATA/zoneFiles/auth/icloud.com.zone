@@ -4,3 +4,5 @@ icloud.com.	86400	IN	NS	ns.icloud.com.
 ns.icloud.com.	518400	IN	A	213.180.193.1
 
 icloud.com.	518400	IN	A	17.253.144.10
+
+www.icloud.com.	518400	IN	A	23.7.212.220

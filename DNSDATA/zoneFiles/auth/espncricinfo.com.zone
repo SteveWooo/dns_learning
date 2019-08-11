@@ -4,3 +4,5 @@ espncricinfo.com.	86400	IN	NS	ns.espncricinfo.com.
 ns.espncricinfo.com.	518400	IN	A	83.143.25.220
 
 espncricinfo.com.	518400	IN	A	18.200.208.211
+
+www.espncricinfo.com.	518400	IN	A	52.19.7.173

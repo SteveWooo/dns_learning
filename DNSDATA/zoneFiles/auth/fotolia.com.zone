@@ -4,3 +4,5 @@ fotolia.com.	86400	IN	NS	ns.fotolia.com.
 ns.fotolia.com.	518400	IN	A	125.209.248.6
 
 fotolia.com.	518400	IN	A	193.164.220.225
+
+www.fotolia.com.	518400	IN	A	193.164.220.225

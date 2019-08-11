@@ -4,3 +4,5 @@ smzdm.com.	86400	IN	NS	ns.smzdm.com.
 ns.smzdm.com.	518400	IN	A	216.239.32.29
 
 smzdm.com.	518400	IN	A	117.50.14.128
+
+www.smzdm.com.	518400	IN	A	183.222.96.194

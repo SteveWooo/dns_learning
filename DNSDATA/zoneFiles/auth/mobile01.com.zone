@@ -4,3 +4,5 @@ mobile01.com.	86400	IN	NS	ns.mobile01.com.
 ns.mobile01.com.	518400	IN	A	204.74.108.1
 
 mobile01.com.	518400	IN	A	31.13.97.245
+
+www.mobile01.com.	518400	IN	A	67.228.74.123

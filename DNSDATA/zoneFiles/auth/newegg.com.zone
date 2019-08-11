@@ -4,3 +4,5 @@ newegg.com.	86400	IN	NS	ns.newegg.com.
 ns.newegg.com.	518400	IN	A	205.251.192.29
 
 newegg.com.	518400	IN	A	104.76.30.179
+
+www.newegg.com.	518400	IN	A	104.74.20.219

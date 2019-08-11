@@ -4,3 +4,5 @@ dropbox.com.	86400	IN	NS	ns.dropbox.com.
 ns.dropbox.com.	518400	IN	A	216.239.32.10
 
 dropbox.com.	518400	IN	A	88.191.253.157
+
+www.dropbox.com.	518400	IN	A	199.59.148.14

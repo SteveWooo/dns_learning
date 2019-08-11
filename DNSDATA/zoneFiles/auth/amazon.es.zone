@@ -4,3 +4,5 @@ amazon.es.	86400	IN	NS	ns.amazon.es.
 ns.amazon.es.	518400	IN	A	208.78.70.47
 
 amazon.es.	518400	IN	A	52.95.120.38
+
+www.amazon.es.	518400	IN	A	23.198.141.151

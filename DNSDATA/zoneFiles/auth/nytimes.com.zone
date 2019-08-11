@@ -4,3 +4,5 @@ nytimes.com.	86400	IN	NS	ns.nytimes.com.
 ns.nytimes.com.	518400	IN	A	52.164.230.183
 
 nytimes.com.	518400	IN	A	204.155.149.130
+
+www.nytimes.com.	518400	IN	A	66.220.147.47

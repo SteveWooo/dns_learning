@@ -4,3 +4,5 @@ instagram.com.	86400	IN	NS	ns.instagram.com.
 ns.instagram.com.	518400	IN	A	216.58.200.238
 
 instagram.com.	518400	IN	A	8.7.198.45
+
+www.instagram.com.	518400	IN	A	59.24.3.173

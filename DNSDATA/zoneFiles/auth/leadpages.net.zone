@@ -4,3 +4,5 @@ leadpages.net.	86400	IN	NS	ns.leadpages.net.
 ns.leadpages.net.	518400	IN	A	216.239.32.29
 
 leadpages.net.	518400	IN	A	216.239.38.21
+
+www.leadpages.net.	518400	IN	A	151.139.128.10

@@ -4,3 +4,5 @@ altervista.org.	86400	IN	NS	ns.altervista.org.
 ns.altervista.org.	518400	IN	A	173.245.58.100
 
 altervista.org.	518400	IN	A	144.76.174.167
+
+it.altervista.org.	518400	IN	A	54.192.73.188

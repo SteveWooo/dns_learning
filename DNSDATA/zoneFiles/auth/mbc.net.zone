@@ -4,3 +4,5 @@ mbc.net.	86400	IN	NS	ns.mbc.net.
 ns.mbc.net.	518400	IN	A	217.69.139.202
 
 mbc.net.	518400	IN	A	50.19.210.76
+
+www.mbc.net.	518400	IN	A	203.77.190.130

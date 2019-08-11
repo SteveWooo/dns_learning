@@ -4,3 +4,5 @@ chip.de.	86400	IN	NS	ns.chip.de.
 ns.chip.de.	518400	IN	A	213.180.193.1
 
 chip.de.	518400	IN	A	23.53.226.209
+
+www.chip.de.	518400	IN	A	104.74.20.113

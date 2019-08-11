@@ -4,3 +4,5 @@ aweber.com.	86400	IN	NS	ns.aweber.com.
 ns.aweber.com.	518400	IN	A	52.164.230.183
 
 aweber.com.	518400	IN	A	204.194.222.28
+
+www.aweber.com.	518400	IN	A	204.194.222.28

@@ -4,3 +4,5 @@ outbrain.com.	86400	IN	NS	ns.outbrain.com.
 ns.outbrain.com.	518400	IN	A	213.180.193.1
 
 outbrain.com.	518400	IN	A	64.74.236.18
+
+www.outbrain.com.	518400	IN	A	94.188.209.131

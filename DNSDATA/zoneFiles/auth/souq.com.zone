@@ -4,3 +4,5 @@ souq.com.	86400	IN	NS	ns.souq.com.
 ns.souq.com.	518400	IN	A	217.69.139.202
 
 souq.com.	518400	IN	A	108.128.55.241
+
+www.souq.com.	518400	IN	A	52.49.177.39

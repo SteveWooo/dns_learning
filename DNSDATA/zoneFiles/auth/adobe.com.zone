@@ -4,3 +4,5 @@ adobe.com.	86400	IN	NS	ns.adobe.com.
 ns.adobe.com.	518400	IN	A	216.239.32.29
 
 adobe.com.	518400	IN	A	192.147.130.204
+
+www.adobe.com.	518400	IN	A	223.111.98.110

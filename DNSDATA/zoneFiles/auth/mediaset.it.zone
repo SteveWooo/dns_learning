@@ -4,3 +4,5 @@ mediaset.it.	86400	IN	NS	ns.mediaset.it.
 ns.mediaset.it.	518400	IN	A	213.180.193.1
 
 mediaset.it.	518400	IN	A	91.211.156.128
+
+www.mediaset.it.	518400	IN	A	23.32.20.34

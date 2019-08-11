@@ -4,3 +4,5 @@ fidelity.com.	86400	IN	NS	ns.fidelity.com.
 ns.fidelity.com.	518400	IN	A	213.180.193.1
 
 fidelity.com.	518400	IN	A	155.199.64.173
+
+www.fidelity.com.	518400	IN	A	223.119.133.200

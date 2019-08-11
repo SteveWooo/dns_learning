@@ -4,3 +4,5 @@ nhl.com.	86400	IN	NS	ns.nhl.com.
 ns.nhl.com.	518400	IN	A	205.251.192.29
 
 nhl.com.	518400	IN	A	8.20.73.150
+
+www.nhl.com.	518400	IN	A	23.77.5.62

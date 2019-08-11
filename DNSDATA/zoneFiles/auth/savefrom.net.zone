@@ -4,3 +4,5 @@ savefrom.net.	86400	IN	NS	ns.savefrom.net.
 ns.savefrom.net.	518400	IN	A	217.69.139.112
 
 savefrom.net.	518400	IN	A	5.63.150.180
+
+en.savefrom.net.	518400	IN	A	146.185.29.13

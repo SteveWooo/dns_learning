@@ -4,3 +4,5 @@ popads.net.	86400	IN	NS	ns.popads.net.
 ns.popads.net.	518400	IN	A	216.239.32.106
 
 popads.net.	518400	IN	A	216.21.13.12
+
+www.popads.net.	518400	IN	A	216.21.13.12

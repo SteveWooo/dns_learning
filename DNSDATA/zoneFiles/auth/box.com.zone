@@ -4,3 +4,5 @@ box.com.	86400	IN	NS	ns.box.com.
 ns.box.com.	518400	IN	A	216.239.32.106
 
 box.com.	518400	IN	A	185.235.236.196
+
+www.box.com.	518400	IN	A	103.116.4.197

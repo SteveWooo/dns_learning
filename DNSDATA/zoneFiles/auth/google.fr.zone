@@ -4,3 +4,5 @@ google.fr.	86400	IN	NS	ns.google.fr.
 ns.google.fr.	518400	IN	A	217.69.139.202
 
 google.fr.	518400	IN	A	69.63.176.143
+
+www.google.fr.	518400	IN	A	8.7.198.45

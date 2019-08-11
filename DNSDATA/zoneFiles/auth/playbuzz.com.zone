@@ -4,3 +4,5 @@ playbuzz.com.	86400	IN	NS	ns.playbuzz.com.
 ns.playbuzz.com.	518400	IN	A	217.69.139.202
 
 playbuzz.com.	518400	IN	A	35.172.145.35
+
+www.playbuzz.com.	518400	IN	A	151.101.41.209
