@@ -1,2 +1,2 @@
 # dns_learning
-深入理解DNS
+学习dns时留存的一些代码。
